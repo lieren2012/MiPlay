@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ICCOA to CarPlay</string>
+    <string name="touch_service_description">Lets the car\'s touch input drive this phone. Enable it to use the car screen as a touch surface; the bridge itself works without it.</string>
+</resources>

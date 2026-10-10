@@ -1,0 +1,2792 @@
++Pab
+!rn@{
+p$n |
+!T3C
+!rn@{
+C#3-
+Ton &
+! Tp7
+(!Tr.
+3#63
+BZrA
+ q v
+2#"3
+D#E+
+!Vp0{
+/1"/&<"
+C%n &
+! T0d
+#p @
+F#f0
+/q^M
+/q^N
+!'5s
+(!q 9
+%#U+
+7#x3
+ p01
+ p01
+ p01
+$#D3
+ p01
+ p01
+ p01
+ p01
+ p01
+ p01
+!6p0{
+ p01
+ p01
+ p01
+mmocn0
+1n &
+ p01
+(r3F
+ p01
+ p01
+En &
+$8$7
+080!
+E"G=
+Z+8GV
+RTq@Y
+^Tq@Y
+XTq@Y
+STq@Y
+#%q@Y
+/%q@Y
++%q@Y
+(>n@T
+!=!.8
+ p01
+ p01
+mmoc3S
+g5W|
+xKiK
+jukGkG
+HIMHIM
+<<-<(
+k-xZ
+xK---xy
+k)ls
+-iZZ
+02J@
+CSeq: 
+Content-Length: 
+User-Agent: AirPlay/320.17
+ CarWith key dispatched=
+ CarWith=
+ FPS
+ Hz / 
+ PCM 
+ PCM-bytes=
+ RTSP/1.0
+CSeq: 
+ accepted=true; full state=
+ action=
+ after=
+ algorithm=
+ body
+ body=
+ bridged=
+ bytes=
+ callback-observed=
+ cancelled=
+ category=
+ channels=
+h cipher=ChaCha20Poly1305 aad=timestamp+ssrc nonce=LE64; UDP send success does not confirm audible output
+ clock=local-wallclock
+ closed=
+ connection=
+ cseq=
+ cumulative-frames=
+ device=
+ digest=
+ dispatched=
+ down=
+ downs=
+ eiv-bytes=
+ elapsed-ms=
+ encoder-present=
+ encrypted-record-present=
+ encrypted-signature-bytes=
+ encrypted=
+ encryption=
+ error=
+! expected=60 iv=12 tag=16 seed=32
+ family=
+ fields=
+? flags=4 view-area=zero; view-area-semantics=pending-validation
+, format=16000/16/mono/LE CarWith-dispatched=
+ fps=
+ frames-per-packet=
+ full-state=
+ headers=
+ homekit=
+ info-version=
+ key=
+ layout=
+ length=
+ live=
+ local=
+ max-late-ms=
+ maxFPS-present=
+ maxFPS=
+ name=
+ network=
+ new=
+ next-nonce=
+ next-seq=
+ next-ts=
+ nonce=
+ nonzero=
+ ntp=
+ output=
+ packets=
+ pairing-id=
+ payload-endian=BE type=
+ pcm-drops=
+A permanentEntity included; all eight vendor mode fields preserved
+ pixel=
+ plaintext-bytes=
+ port=
+ pts-us=
+ rate=
+ raw=
+ reason=
+ receiver-id=
+ rejected status=
+ rejected=
+ remote=
+ reports=
+ response status=
+ response=
+ runtime-seed=
+ samples=
+ saved-peer=
+ selected=
+ seq=
+ sequence=
+ settings-source=
+ source-version=
+ source=
+ state=
+ status=
+5 stream-retained=true; audible confirmation=user-test
+ timestamp=
+Q transport accepted; application status absent; peer effect requires verification
+ transport=
+ type=
+ underruns=
+ video=
+ wire-bytes=
+ wrap-key-present=
+ wrapping-offset=
+CarWith 
+$$this$coroutineScope
+$action
+$aes
+$after
+$audioTest
+$block
+$carWithSource
+$channels
+$commandRuntimeFailed
+$commandRuntimeJob
+$commandRuntimeLock
+$completion
+$connectionId
+$continuation
+$count
+$counter
+$currentOptions
+$desktopSource
+$dispatched
+$endpoint
+$error
+$event
+$fps
+$height
+$home
+1$i$a$-all-PhonePairing$pair$advertised$1$1\3\85\1
+#$i$a$-also-AirCrypto$label$1\1\31\0
+#$i$a$-also-AirCrypto$nonce$1\1\30\0
+$$i$a$-also-AirCrypto$random$1\1\21\0
+$$i$a$-also-AirCrypto$shared$1\1\61\0
+-$i$a$-also-MfiAuthSetup$verify$field$3\3\42\0
+.$i$a$-also-MfiAuthSetup$verify$server$1\2\37\0
+-$i$a$-also-RtspConnection$readData$1$1\2\60\0
+#$i$a$-also-SetupProof$pad$1\1\119\0
+5$i$a$-also-TestScreenSession$run$2$encoder$2\32\554\0
+1$i$a$-also-TestScreenSession$run$2$key$2\30\393\0
+3$i$a$-also-TestScreenSession$run$2$shared$1\1\106\0
+.$i$a$-any-MicrophonePackets$supported$1\4\40\0
+)$i$a$-any-MicrophoneSession$run$4\6\102\0
+*$i$a$-any-MicrophoneSession$run$7\10\105\0
+0$i$a$-apply-MfiAuthSetup$verify$stream$1\10\58\0
+-$i$a$-apply-MfiSecurity$screenCipher$1\2\92\0
+Q$i$a$-apply-PhoneIdentity$Companion$rebuildAfterConfirmation$1$directory$1\2\91\1
+O$i$a$-apply-PhoneIdentity$Companion$rebuildAfterConfirmation$1$entries$1\4\95\1
+6$i$a$-apply-PhoneIdentity$loadIdentity$cipher$1\9\53\0
+8$i$a$-apply-PhoneIdentity$loadIdentity$keystore$1\1\29\0
+:$i$a$-apply-TestScreenSession$run$2$eventSocket$1\18\306\0
+E$i$a$-apply-TestScreenSession$run$2$tunnelJob$tunnelSocket$1\23\348\0
+4$i$a$-buildMap-PhonePairing$exchange$headers$1\1\9\0
+8$i$a$-buildString-RtspConnection$request$header$1\1\91\0
+-$i$a$-check-AudioToneSession$request$1\1\50\0
+-$i$a$-check-AudioToneSession$request$2\2\53\0
++$i$a$-check-AudioToneSession$setup$1\1\58\0
++$i$a$-check-AudioToneSession$setup$2\2\60\0
+)$i$a$-check-MfiAuthSetup$verify$4\11\66\0
+,$i$a$-check-MfiSecurity$setupFields$1\1\80\0
+*$i$a$-check-MicrophoneSession$run$2\1\29\0
+*$i$a$-check-MicrophoneSession$run$3\2\30\0
+*$i$a$-check-MicrophoneSession$run$5\7\43\0
+H$i$a$-check-PhoneIdentity$Companion$rebuildAfterConfirmation$1$2\8\102\1
+S$i$a$-check-PhoneIdentity$Companion$rebuildAfterConfirmation$1$directory$1$1\3\92\2
+/$i$a$-check-PhoneIdentity$loadIdentity$2\3\34\0
+/$i$a$-check-PhoneIdentity$loadIdentity$3\4\35\0
+0$i$a$-check-PhoneIdentity$loadIdentity$6\10\56\0
+0$i$a$-check-PhoneIdentity$loadIdentity$7\12\61\0
+,$i$a$-check-PhoneIdentity$saveAlias$1\2\76\0
+*$i$a$-check-PhonePairing$exchange$1\2\14\0
+*$i$a$-check-PhonePairing$exchange$2\3\15\0
++$i$a$-check-PhonePairing$pair$peer$1\7\35\0
+'$i$a$-check-PhonePairing$setup$1\1\47\0
+'$i$a$-check-PhonePairing$setup$2\3\56\0
+'$i$a$-check-PhonePairing$setup$3\4\58\0
+($i$a$-check-PhonePairing$verify$1\1\72\0
+($i$a$-check-PhonePairing$verify$2\2\73\0
+0$i$a$-check-TestScreenSession$run$2$15$1\1\522\0
+-$i$a$-check-TestScreenSession$run$2$1\2\115\0
+=$i$a$-check-TestScreenSession$run$2$commandResponse$1\1\131\0
+8$i$a$-check-TestScreenSession$run$2$watchdog$1$1\1\476\0
+/$i$a$-check-TestScreenSession$socket$1$1\3\61\2
+1$i$a$-check-TestScreenSession$socket$1$2$1\5\63\4
+3$i$a$-filter-AudioTonePackets$select$masks$1\5\60\0
+1$i$a$-filter-MfiAuthSetup$verify$leaves$1\8\113\0
+*$i$a$-filter-RtspConnection$read$2\4\159\0
+3$i$a$-firstOrNull-AudioTonePackets$select$1\12\69\0
+;$i$a$-firstOrNull-TestScreenSession$run$2$display$1\6\648\0
+=$i$a$-firstOrNull-TestScreenSession$run$2$response$1\28\698\0
+?$i$a$-firstOrNull-TestScreenSession$run$2$tunnelPort$1\22\685\0
+6$i$a$-fold-AudioTonePackets$select$supported$1\10\67\0
+*$i$a$-forEach-AirCrypto$sha512$1$1\3\123\1
+4$i$a$-forEach-MfiAuthSetup$verify$digest$1$1\3\115\1
+T$i$a$-forEach-PhoneIdentity$Companion$rebuildAfterConfirmation$1$entries$1$1\6\111\4
++$i$a$-forEach-RtspConnection$read$3\6\161\0
+7$i$a$-forEach-RtspConnection$request$header$1$2\4\163\1
+1$i$a$-forEach-TestScreenSession$close$1$1\3\637\1
+0$i$a$-forEach-TestScreenSession$run$2$5\13\672\0
+&$i$a$-forEach-Tlv$encode$1$1$1\5\123\3
+$$i$a$-forEach-Tlv$encode$1$1\3\122\1
+-$i$a$-let-PhoneIdentity$loadIdentity$1\2\33\0
+'$i$a$-let-PhoneIdentity$paired$1\1\71\0
+$$i$a$-let-PhonePairing$pair$1\8\39\0
+$$i$a$-let-PhonePairing$pair$2\9\40\0
+/$i$a$-let-PhonePairing$pair$advertised$1\1\26\0
+*$i$a$-let-PhonePairing$pair$known$1\6\32\0
+,$i$a$-let-PhonePairing$pair$knownId$1\5\31\0
+,$i$a$-let-RtspConnection$request$1$2\8\120\6
+2$i$a$-let-RtspConnection$request$header$1$1\2\93\1
+'$i$a$-let-SetupProof$unsigned$1\1\118\0
+$$i$a$-let-TestScreenSession$2\1\44\0
+-$i$a$-let-TestScreenSession$run$2$19\31\548\0
+/$i$a$-let-TestScreenSession$run$2$5$1\14\291\13
+,$i$a$-let-TestScreenSession$run$2$9\24\383\0
+0$i$a$-let-TestScreenSession$run$2$key$1\29\393\0
+-$i$a$-let-TestScreenSession$socket$1$2\4\62\2
+0$i$a$-map-AudioTonePackets$select$masks$2\8\64\0
+.$i$a$-map-SessionModes$change$changes$1\3\54\0
+0$i$a$-onFailure-MicrophoneSession$run$11\14\77\0
+0$i$a$-onFailure-MicrophoneSession$run$11\28\77\0
+0$i$a$-onFailure-MicrophoneSession$run$11\35\77\0
+0$i$a$-onFailure-MicrophoneSession$run$13\17\81\0
+0$i$a$-onFailure-MicrophoneSession$run$13\31\81\0
+0$i$a$-onFailure-MicrophoneSession$run$13\38\81\0
+5$i$a$-onFailure-TestScreenSession$close$1$1$2\5\609\3
+5$i$a$-onFailure-TestScreenSession$run$2$5$4\17\297\13
+5$i$a$-onSuccess-TestScreenSession$run$2$5$3\16\295\13
+,$i$a$-repeat-AudioTonePackets$pcm$1$1\3\35\2
+*$i$a$-repeat-AudioTonePackets$pcm$1\2\26\0
++$i$a$-repeat-AudioToneSession$run$5\3\124\0
+)$i$a$-repeat-LivePcmBuffer$offer$1\2\21\0
+)$i$a$-repeat-LivePcmBuffer$offer$2\3\30\0
+($i$a$-repeat-LivePcmBuffer$take$1\1\35\0
+-$i$a$-repeat-RtspConnection$request$1\6\107\0
+-$i$a$-require-AudioToneSession$setup$3\8\78\0
+/$i$a$-require-ControlCommands$accepted$1\1\46\0
+*$i$a$-require-MfiAuthSetup$verify$1\1\35\0
+*$i$a$-require-MfiAuthSetup$verify$2\3\46\0
+*$i$a$-require-MfiAuthSetup$verify$3\9\49\0
+0$i$a$-require-MfiAuthSetup$verify$field$1\1\39\0
+0$i$a$-require-MfiAuthSetup$verify$field$2\2\41\0
+/$i$a$-require-MicrophonePackets$decode$1\1\14\0
+/$i$a$-require-MicrophonePackets$decode$2\3\20\0
+1$i$a$-require-PhoneIdentity$loadIdentity$4\6\45\0
+-$i$a$-require-PhoneIdentity$savePeer$1\2\82\0
+5$i$a$-require-PhonePairing$pair$advertised$1$2\4\27\1
+*$i$a$-require-RtspConnection$byte$1\1\50\0
+*$i$a$-require-RtspConnection$read$1\1\70\0
+,$i$a$-require-RtspConnection$read$3$1\7\76\6
+*$i$a$-require-RtspConnection$read$4\8\79\0
+*$i$a$-require-RtspConnection$read$5\9\81\0
+2$i$a$-require-RtspConnection$readData$1$1$1\3\60\2
+0$i$a$-require-RtspConnection$request$1$1\7\117\6
+8$i$a$-require-RtspConnection$request$header$1$2$1\5\95\4
+/$i$a$-require-TestScreenSession$run$2$4\9\283\0
+=$i$a$-require-TestScreenSession$run$2$feedRuntime$1$1\2\142\1
+@$i$a$-require-TestScreenSessionKt$runtimePayloadLength$1\1\628\0
+@$i$a$-require-TestScreenSessionKt$runtimePayloadLength$2\2\631\0
+@$i$a$-require-TestScreenSessionKt$runtimePayloadLength$3\3\632\0
+%$i$a$-run-AirCrypto$hkdf$mac$1\1\24\0
+#$i$a$-run-AirCrypto$sha512$1\1\22\0
+!$i$a$-run-AirCrypto$sign$1\1\53\0
+#$i$a$-run-AirCrypto$verify$1\1\56\0
+-$i$a$-run-MfiAuthSetup$verify$digest$1\1\52\0
+-$i$a$-run-PhoneIdentity$loadIdentity$5\7\46\0
+1$i$a$-run-PhoneIdentity$loadIdentity$key$1\5\36\0
+7$i$a$-run-PhoneIdentity$loadIdentity$verified$1\11\57\0
+$i$a$-run-Tlv$encode$1\1\68\0
+2$i$a$-runCatching-MicrophoneSession$run$10\12\77\0
+2$i$a$-runCatching-MicrophoneSession$run$10\26\77\0
+2$i$a$-runCatching-MicrophoneSession$run$10\33\77\0
+2$i$a$-runCatching-MicrophoneSession$run$12\15\78\0
+2$i$a$-runCatching-MicrophoneSession$run$12\29\78\0
+2$i$a$-runCatching-MicrophoneSession$run$12\36\78\0
+7$i$a$-runCatching-TestScreenSession$close$1$1$1\4\609\3
+7$i$a$-runCatching-TestScreenSession$run$2$5$2\15\295\13
+R$i$a$-runCatching-TestScreenSession$run$2$tunnelJob$tunnelOutput$1$close$1\1\370\0
+:$i$a$-singleOrNull-AudioToneSession$setup$stream$1\6\172\0
+3$i$a$-synchronized-AudioToneSession$close$1\1\154\0
+1$i$a$-synchronized-AudioToneSession$feed$1\1\32\0
+1$i$a$-synchronized-AudioToneSession$live$1\1\29\0
+9$i$a$-synchronized-AudioToneSession$run$samples$1\2\104\0
+L$i$a$-synchronized-PhoneIdentity$Companion$rebuildAfterConfirmation$1\1\89\0
+0$i$a$-synchronized-PhoneIdentity$loaded$1\1\22\0
+4$i$a$-synchronized-TestScreenSession$close$1\1\602\0
+1$i$a$-synchronized-TestScreenSession$own$1\1\54\0
+7$i$a$-synchronized-TestScreenSession$run$2$10$1\1\398\0
+@$i$a$-synchronized-TestScreenSession$run$2$feedRuntime$1\1\141\0
+4$i$a$-synchronized-TestScreenSession$socket$1\2\60\0
+E$i$a$-use-PhoneIdentity$Companion$rebuildAfterConfirmation$1$1\7\98\1
+$i$f$all\2\27
+$i$f$any\3\8
+$i$f$any\5\43
+$i$f$any\9\61
+#$i$f$currentCoroutineContext\10\143
+#$i$f$currentCoroutineContext\11\148
+"$i$f$currentCoroutineContext\11\76
+"$i$f$currentCoroutineContext\1\103
+"$i$f$currentCoroutineContext\25\76
+"$i$f$currentCoroutineContext\32\76
+"$i$f$currentCoroutineContext\4\143
+"$i$f$currentCoroutineContext\5\148
+"$i$f$currentCoroutineContext\8\143
+!$i$f$currentCoroutineContext\8\48
+"$i$f$currentCoroutineContext\9\148
+$i$f$filterIsInstanceTo\11\661
+$i$f$filterIsInstanceTo\20\674
+$i$f$filterIsInstanceTo\26\687
+$i$f$filterIsInstanceTo\2\28
+$i$f$filterIsInstanceTo\2\48
+$i$f$filterIsInstanceTo\4\158
+$i$f$filterIsInstanceTo\4\637
+$i$f$filterIsInstanceTo\4\90
+$i$f$filterIsInstanceTo\5\101
+$i$f$filterIsInstanceTo\8\650
+$i$f$filterIsInstance\10\287
+$i$f$filterIsInstance\19\345
+$i$f$filterIsInstance\1\14
+$i$f$filterIsInstance\1\8
+$i$f$filterIsInstance\25\386
+$i$f$filterIsInstance\3\275
+$i$f$filterIsInstance\3\43
+$i$f$filterIsInstance\3\73
+$i$f$filterIsInstance\4\48
+$i$f$filterIsInstance\7\276
+$i$f$filterTo\3\158
+$i$f$filterTo\4\59
+$i$f$filterTo\7\112
+$i$f$filter\2\73
+$i$f$filter\3\14
+$i$f$filter\6\48
+$i$f$firstOrNull\11\20
+$i$f$firstOrNull\21\345
+$i$f$firstOrNull\27\386
+$i$f$firstOrNull\5\275
+$i$f$fold\9\17
+$i$f$forEach\12\287
+$i$f$forEach\2\22
+$i$f$forEach\2\53
+$i$f$forEach\2\608
+$i$f$forEach\2\69
+$i$f$forEach\3\94
+$i$f$forEach\4\72
+$i$f$forEach\5\73
+$i$f$forEach\5\96
+$i$f$mapTo\2\52
+$i$f$mapTo\7\62
+$i$f$map\1\28
+$i$f$map\6\16
+$i$f$singleOrNull\5\73
+$info
+$key
+$keyDevices
+$microphone
+$modesState
+$name
+$nativeHeight
+$nativeWidth
+$navigationAudio
+$nonzero
+$outgoing
+$output
+$pcm
+$pendingSource
+$pendingVideo
+$point
+$providerRelay
+$ready
+$receiver
+$receiverFps
+$result
+$revisionBefore
+$runtime
+$runtimeReady
+$screenChangeRevision
+$stable
+$startCommandRuntime
+$this
+$this$all\2
+$this$any\3
+$this$any\5
+$this$any\9
+$this$close_u24lambda_u240\1
+;$this$close_u24lambda_u2410_u24lambda_u249_u24lambda_u247\4
+$this$coroutineScope
+$this$encode_u24lambda_u242\1
+$this$exchange_u24lambda_u240\1
+$this$filterIsInstanceTo\11
+$this$filterIsInstanceTo\2
+$this$filterIsInstanceTo\20
+$this$filterIsInstanceTo\26
+$this$filterIsInstanceTo\4
+$this$filterIsInstanceTo\5
+$this$filterIsInstanceTo\8
+$this$filterIsInstance\1
+$this$filterIsInstance\10
+$this$filterIsInstance\19
+$this$filterIsInstance\25
+$this$filterIsInstance\3
+$this$filterIsInstance\4
+$this$filterIsInstance\7
+$this$filterTo\3
+$this$filterTo\4
+$this$filterTo\7
+$this$filter\2
+$this$filter\3
+$this$filter\6
+$this$firstOrNull\11
+$this$firstOrNull\21
+$this$firstOrNull\27
+$this$firstOrNull\5
+$this$fold\9
+$this$forEach\12
+$this$forEach\2
+$this$forEach\3
+$this$forEach\4
+$this$forEach\5
+$this$guarded
+"$this$hkdf_u24mac_u24lambda_u242\1
+5$this$invokeSuspend_u24lambda_u2412_u24lambda_u249\15
+&$this$invokeSuspend_u24lambda_u2414\18
+&$this$invokeSuspend_u24lambda_u2416\23
+$this$launch
+#$this$loadIdentity_u24lambda_u241\1
+#$this$loadIdentity_u24lambda_u244\5
+#$this$loadIdentity_u24lambda_u246\7
+#$this$loadIdentity_u24lambda_u247\9
+$$this$loadIdentity_u24lambda_u249\11
+$this$mapTo\2
+$this$mapTo\7
+$this$map\1
+$this$map\6
+$this$readNBytesExact
+>$this$rebuildAfterConfirmation_u24lambda_u246_u24lambda_u241\2
+>$this$rebuildAfterConfirmation_u24lambda_u246_u24lambda_u243\4
+$this$request_u24lambda_u2413\1
+$this$run_u24lambda_u247\12
+$this$run_u24lambda_u247\26
+$this$run_u24lambda_u247\33
+$this$run_u24lambda_u249\15
+$this$run_u24lambda_u249\29
+$this$run_u24lambda_u249\36
+#$this$screenCipher_u24lambda_u241\2
+$this$sha512_u24lambda_u241\1
+$this$sign_u24lambda_u245\1
+$this$singleOrNull\5
+'$this$verify_u24digest_u24lambda_u247\1
+$this$verify_u24lambda_u246\1
+$this$verify_u24lambda_u248\10
+$timing
+$touch
+$touchDevices
+$touchDowns
+$touchReports
+$touchSize
+$tunnelFeed
+$tunnelInput
+$tunnelOutput
+$tunnelSocket
+$tunnelWire
+$uiAcknowledgementWatch
+$uiRequests
+$vendorProfile
+$videoStartMillis
+$width
+$wire
+()Ljava/lang/String;
+()Ljava/util/Map;
+()Lkotlin/Unit;
+"()Lkotlin/jvm/functions/Function1;
+()[B
+s(IIIIIILkotlin/jvm/internal/Ref$ObjectRef;Lio/github/iamr0s/carplay/TestState;)Lio/github/iamr0s/carplay/TestState;
+(IIILjava/util/concurrent/ConcurrentHashMap;Ljava/util/concurrent/ConcurrentHashMap;Ljava/util/Map;Lio/github/iamr0s/carplay/TestState;)Lio/github/iamr0s/carplay/TestState;
+(IIILkotlin/jvm/internal/Ref$BooleanRef;Lkotlin/jvm/internal/Ref$BooleanRef;Ljava/util/concurrent/atomic/AtomicReference;Lio/github/iamr0s/carplay/video/VideoTestOptions;)Lkotlin/Unit;
+](IILjava/io/OutputStream;Lio/github/iamr0s/carplay/airplay/TestScreenSession;[B)Lkotlin/Unit;
+(IJJ[B)V
+((ILjava/lang/String;Ljava/lang/String;)V
+(JII)V
+L(JJLio/github/iamr0s/carplay/TestState;)Lio/github/iamr0s/carplay/TestState;
+(JLjavax/crypto/Cipher;[BLkotlin/jvm/internal/Ref$LongRef;Ljava/io/OutputStream;Lio/github/iamr0s/carplay/airplay/TestScreenSession;[BJZ)Lkotlin/Unit;
+(Landroid/content/Context;)V
+(Landroid/net/Network;Ljava/net/InetAddress;Lio/github/iamr0s/carplay/airplay/PhoneIdentity;Ljava/lang/String;Lio/github/iamr0s/carplay/video/VideoTestOptions;Ljava/net/Socket;Lkotlin/jvm/functions/Function0;)V
+(Landroid/net/Network;Ljava/net/InetAddress;Ljava/net/InetAddress;Lio/github/iamr0s/carplay/airplay/RtspConnection;[BLjava/lang/Object;Lio/github/iamr0s/carplay/airplay/SessionModes;ILjava/lang/String;)V
+(Landroid/net/Network;Ljava/net/InetAddress;Ljava/net/InetAddress;Lio/github/iamr0s/carplay/airplay/RtspConnection;[BLjava/lang/Object;Lio/github/iamr0s/carplay/airplay/SessionModes;Lkotlin/jvm/functions/Function0;)V
+J(Lio/github/iamr0s/carplay/TestState;)Lio/github/iamr0s/carplay/TestState;
+}(Lio/github/iamr0s/carplay/airplay/AudioToneSession;Lio/github/iamr0s/carplay/TestState;)Lio/github/iamr0s/carplay/TestState;
+v(Lio/github/iamr0s/carplay/airplay/AudioToneSession;Lio/github/iamr0s/carplay/airplay/AudioToneSession;Z)Lkotlin/Unit;
+z(Lio/github/iamr0s/carplay/airplay/AudioToneSession;Lio/github/iamr0s/carplay/airplay/AudioToneSession;[BIII)Lkotlin/Unit;
+(Lio/github/iamr0s/carplay/airplay/AudioToneSession;Lkotlin/jvm/internal/Ref$LongRef;Lio/github/iamr0s/carplay/airplay/PcmAudioFormat;Lio/github/iamr0s/carplay/TestState;)Lio/github/iamr0s/carplay/TestState;
+4(Lio/github/iamr0s/carplay/airplay/PcmAudioFormat;)V
+d(Lio/github/iamr0s/carplay/airplay/PhoneIdentity;Lio/github/iamr0s/carplay/airplay/RtspConnection;)V
+y(Lio/github/iamr0s/carplay/airplay/RtspRejected;Lio/github/iamr0s/carplay/TestState;)Lio/github/iamr0s/carplay/TestState;
+7(Lio/github/iamr0s/carplay/airplay/TestScreenSession;)J
+g(Lio/github/iamr0s/carplay/network/ReceiverEndpoint;Lkotlin/coroutines/Continuation;)Ljava/lang/Object;
+A(Lio/github/iamr0s/carplay/protocol/WirelessConfig;)Lkotlin/Unit;
+((Ljava/io/Closeable;)Ljava/io/Closeable;
+_(Ljava/lang/Exception;Lio/github/iamr0s/carplay/TestState;)Lio/github/iamr0s/carplay/TestState;
+n(Ljava/lang/IllegalArgumentException;Lio/github/iamr0s/carplay/TestState;)Lio/github/iamr0s/carplay/TestState;
+(Ljava/lang/Long;)J
+(Ljava/lang/Object;Lkotlin/jvm/internal/Ref$ObjectRef;Lio/github/iamr0s/carplay/airplay/TestScreenSession;Lkotlinx/coroutines/CoroutineScope;Lkotlinx/coroutines/CompletableDeferred;Lkotlin/jvm/internal/Ref$ObjectRef;ZLjava/io/PipedInputStream;Ljava/util/concurrent/atomic/AtomicBoolean;)Lkotlin/Unit;
+!(Ljava/lang/String;)Lkotlin/Unit;
+(Ljava/lang/String;)V
+2(Ljava/lang/String;I[Lkotlin/Pair;)Ljava/util/Map;
+(Ljava/lang/String;Lio/github/iamr0s/carplay/video/TouchPoint;Lkotlin/jvm/internal/Ref$LongRef;Lkotlin/jvm/internal/Ref$LongRef;Lio/github/iamr0s/carplay/TestState;)Lio/github/iamr0s/carplay/TestState;
+&(Ljava/lang/String;Ljava/util/Map;[B)V
+(Ljava/net/Socket;)V
+$(Ljava/util/Map;)Ljava/lang/Boolean;
+'(Ljava/util/Map;ILjava/lang/Integer;)[B
+Z(Ljava/util/concurrent/atomic/AtomicReference;)Lio/github/iamr0s/carplay/video/TouchPoint;
+(Ljava/util/concurrent/atomic/AtomicReference;Ljava/util/concurrent/atomic/AtomicReference;Lio/github/iamr0s/carplay/bridge/CarLifeIntegration$VideoRelay;II)Z
+=(Ljava/util/concurrent/atomic/AtomicReference;Z)Lkotlin/Unit;
+(Ljavax/crypto/Cipher;I)V
+4(Lkotlin/coroutines/Continuation;)Ljava/lang/Object;
+#(Lkotlin/jvm/functions/Function1;)V
+k(Lkotlin/jvm/internal/Ref$LongRef;Lio/github/iamr0s/carplay/TestState;)Lio/github/iamr0s/carplay/TestState;
+(Lkotlin/jvm/internal/Ref$LongRef;Lkotlin/jvm/internal/Ref$LongRef;ZLio/github/iamr0s/carplay/TestState;)Lio/github/iamr0s/carplay/TestState;
+7(Lkotlinx/coroutines/CompletableDeferred;)Lkotlin/Unit;
+o(Lkotlinx/coroutines/CoroutineScope;Ljava/lang/String;Lkotlin/jvm/functions/Function2;)Lkotlinx/coroutines/Job;
+R(Lkotlinx/coroutines/Deferred;JLkotlin/coroutines/Continuation;)Ljava/lang/Object;
+5(Lkotlinx/coroutines/channels/Channel;Z)Lkotlin/Unit;
+K(ZLio/github/iamr0s/carplay/TestState;)Lio/github/iamr0s/carplay/TestState;
+([B)
+([B)Z
+([B[B)V
+([Lkotlin/Pair;)[B
+([[B)[B
+*>;)
+, channels=
+, nonce=
+, pcm=
+, rate=
+, timestamp=
+-[B[B>;
+-[B[B>;)V
+.properties
+/16/
+/auth-setup
+/command
+/feedback
+/info
+/pair-setup
+/pair-verify
+/setup
+17.0
+200 OK
+21A329
+320.17
+450.14
+501 Not Implemented
+@7bbc1d7254613ffaa026de47d975f73968361ef3e5d7b818ce0a83a33039c6b8
+; CTR-continuation=true
+; MFi-chain=unverified
+; UI/video retained
+J; actual native desktop visibility=user-confirmation; no fallback/TEARDOWN
+%; assistant consumption requires test
+>; continuing authenticated pairing; MFi trust-chain unverified
+*; continuing screen110; Bluetooth retained
+f; current TCP/cipher retained; input/audio readiness logged independently; no phone microphone capture
+; display confirmation=pending
+@; display confirmation=user-test; media/events/feedback retained
+Z; fallback=retain-bootstrap-Bluetooth; video/events/feedback retained; runtime-ready=false
+#; held duplicate reports suppressed
+1; legacy-event-policy=pending-real-car-validation
+; mode-state=
+5; no TEARDOWN/socket-close; audio ownership unchanged
+; no automatic key rotation
+0; no matching touch/key descriptor; response=501
+; no separate probe socket
+1; notifying ownership without repeating requestUI
+; old peer records cleared
+s; osBuildVersion=protocol-compatibility-version (not actual Android build); >=13A1 selects audio AAD timestamp+SSRC
+; other streams retained
+/; output-only no microphone dataPort advertised
+; path=
+; policy=hangsheng-cert-length
+M; prewarm ignored; assistant response and vehicle microphone not yet verified
+; private material not logged
+E; querying /info only after session creation (Hangsheng info @0xeb50)
+; raw descriptor retained
+A; reconnecting for MFiSAP/AES; no authentication-failure fallback
++; reduced-size-support=requires-render-test
+"; rendering confirmation=user-test
+; response=501
+; response=501; fields=
+; response=501; video retained
+*; restore=test-screen; connection retained
+2; restoring test source; media connection retained
+1; root=false Hook=false; media transport retained
+H; same-TCP/cipher/counter; experimental receiver decoder reconfiguration
+; stable identity saved
+; target=
+/; timestamp/cipher preserved; next=new-AVCC/IDR
+; top-level-keys=
++; type130=optional unconfirmed-on-hangsheng
+; unknown-policy=try-pairing
+.; vehicle-only PCM16k/mono; no phone recording
+; video retained
+K; video-only policy=phone-screen/vehicle-audio; dynamic arbitration=pending
+<T::
+<anonymous>
+<clinit>
+<init>
+<set-?>
+<this>
+<unused var>
+>(TT;)TT;
+>;)V
+>;)[B
+>;>;
+>;[B)V
+>;[B)[B
+AES-CTR
+AES-CTR-continuous
+AES-IV
+AES-KEY
+AES/CTR/NoPadding
+AES/GCM/NoPadding
+AUDIO SETUP begin fields=
+AUDIO SETUP response=
+AUDIO TX type=
+AUDIO begin live=
+ AUDIO first encrypted RTP packet
+AUDIO live source=
+AUDIO ownership release failed
+AUDIO ready format=PCM/
+1AUDIO stop requested; next packet becomes silence
+3AUDIO test failed; video retained; setup-completed=
+AUDIO tone ended packets=
+XAUDIO tone request ignored while CarWith PCM is active; restore test screen to test tone
+Accessory changeModes request received; dynamic resource arbitration not implemented; response=501; no ownership change acknowledged
+ Accessory initial mode requests=
+#Accessory requests phone UI queued=
+'Accessory screen changeModes RX fields=
+5Accessory screen changeModes response status=0 state=
+Advertised receiver key changed
+AirCrypto.kt
+ AirPlay SRP server proof invalid
+#AirPlay accessory signature invalid
+*AirPlay auth-setup endpoint absent status=
+ZAirPlay auth-setup signature valid; MFi trust-chain-verified=false; development-trust=true
+2AirPlay authentication complete screen-encryption=
+*AirPlay authentication selection features=
+AirPlay close resources=
+!AirPlay command unsupported type=
+AirPlay incoming command type=
+AirPlay info displays=
+AirPlay info fields=
+6AirPlay pairing key mismatches bootstrap/discovery key
+AirPlay pairing rejected state=
+ AirPlay pairing unexpected state
+]AirPlay selecting MFiSAP/AES path; advertised HomeKit bit absent; trust-chain=not-provisioned
+AirPlay session failed closed=
+ AirPlay verify identity mismatch
+ AirPlay verify signature invalid
+$AirPlay video session ending frames=
+AirPlayStreamIV
+AirPlayStreamKey
+Android
+Android17,1
+AndroidKeyStore
+AudioTonePackets.kt
+AudioToneSession.kt
+BIG_ENDIAN
+yBluetooth handoff command accepted; closing bootstrap RFCOMM; other profile disconnection requires head-unit verification
+CARWITH PCM rejected category=
+CarPlay Android
+CarWith
+CarWith 
+ChaCha
+Channel$default
+Check failed.
+Chunked RTSP unsupported
+Command 
+Companion
+CompletableDeferred$default
+Compose-desktop
+Content-Length: 
+Content-Type: 
+0Content-Type: application/x-apple-binary-plist
+Control-Read-Encryption-Key
+Control-Salt
+Control-Write-Encryption-Key
+ControlCommands.kt
+D8$$SyntheticClass
+!DESKTOP source requested enabled=
+Data stream truncated/EOF
+DataStream-Input-Encryption-Key
+ DataStream-Output-Encryption-Key
+DataStream-Salt
+Duplicate RTSP header
+$E9459FD0-BCAD-4C45-820F-1E72447EF2F2
+NEncrypted identity recovery snapshot; wrapping key remains in Android Keystore
+!Encrypted record header truncated
+4Event channel established; peer timing-port-present=
+Event encryption=
+Events-Read-Encryption-Key
+Events-Salt
+Events-Write-Encryption-Key
+(Expected one auth-setup leaf certificate
+Expected plist dictionary
+Failed requirement.
+HANGSHENG_RESPONDER
+HID RX device=
+$HID command missing binary hidReport
+HID command missing uuid
+"HID descriptor unsupported device=
+HID device fields=
+#HID key selector registered device=
+HID key selector=
+HID touch decode failed device=
+HID touch registered device=
+HID unsupported device=
+HTTP/
+HmacSHA512
+HomeKit-records
+I$10
+I$11
+IIII
+IILII
+ILCIZIL
+ILII
+ILIILI
+ILLLLILII
+INSTANCE
+IPv4
+IPv6
+Initial SETUP accepted session=
+Initial SETUP fields=
+Invalid RTSP extra header
+Invalid RTSP response
+Invalid auth-setup field length
+"Invalid auth-setup response length
+'Invalid encrypted control record length
+JLLIL
+L$10
+L$11
+L$12
+L$13
+L$14
+L$15
+L$16
+L$17
+L$18
+L$19
+L$20
+L$21
+L$22
+L$23
+L$24
+L$25
+L$26
+L$27
+L$28
+L$29
+L$30
+L$31
+L$32
+L$33
+L$34
+L$35
+L$36
+L$37
+L$38
+L$39
+L$40
+L$41
+L$42
+L$43
+L$44
+L$45
+L$46
+L$47
+L$48
+L$49
+L$50
+L$51
+L$52
+L$53
+L$54
+L$55
+L$56
+L$57
+L$58
+L$59
+L$60
+L$61
+L$62
+L$63
+L$64
+L$65
+L$66
+LIII
+LIIIIIILL
+LIIIL
+LIIILLLL
+LIILLL
+LIJJL
+LILLIL
+LITTLE_ENDIAN
+LJII
+LJJL
+LJLL
+LJLLLLLLJZ
+LLCLIL
+LLII
+LLIJJLIL
+LLIL
+LLJIIIL
+LLJIZD
+LLJL
+LLJLIL
+LLLI
+LLLIII
+LLLIIIIL
+LLLIJJI
+LLLILIL
+LLLJ
+LLLJIZDIL
+LLLJJ
+LLLL
+LLLLIII
+LLLLIJJIIL
+LLLLJL
+LLLLL
+LLLLLIL
+LLLLLL
+LLLLLLIL
+LLLLLLLIL
+LLLLLLLZLL
+LLLZ
+LLLZIIL
+LLLZIL
+LLLZL
+LLZIIIDLLLLLLLLZLZZZIIILIL
+LZLLLL
+Landroid/content/Context;
+*Landroid/content/SharedPreferences$Editor;
+#Landroid/content/SharedPreferences;
+Landroid/net/Network;
+7Landroid/security/keystore/KeyGenParameterSpec$Builder;
+/Landroid/security/keystore/KeyGenParameterSpec;
+Landroid/util/Base64;
+/Lcom/android/tools/r8/annotations/LambdaMethod;
+5Lcom/android/tools/r8/annotations/SynthesizedClassV2;
+'Lcom/dd/plist/BinaryPropertyListWriter;
+Lcom/dd/plist/NSObject;
+!Lcom/dd/plist/PropertyListParser;
+"Ldalvik/annotation/EnclosingClass;
+#Ldalvik/annotation/EnclosingMethod;
+Ldalvik/annotation/InnerClass;
+!Ldalvik/annotation/MemberClasses;
+Ldalvik/annotation/Signature;
+(Ldalvik/annotation/SourceDebugExtension;
+/Legacy AES requires a validated MFiSAP exchange
+&Lio/github/iamr0s/carplay/Diagnostics;
+$Lio/github/iamr0s/carplay/TestState;
+"Lio/github/iamr0s/carplay/Testing;
+,Lio/github/iamr0s/carplay/airplay/AirCrypto;
+3Lio/github/iamr0s/carplay/airplay/AudioTonePackets;
+MLio/github/iamr0s/carplay/airplay/AudioToneSession$$ExternalSyntheticLambda0;
+MLio/github/iamr0s/carplay/airplay/AudioToneSession$$ExternalSyntheticLambda1;
+MLio/github/iamr0s/carplay/airplay/AudioToneSession$$ExternalSyntheticLambda2;
+MLio/github/iamr0s/carplay/airplay/AudioToneSession$$ExternalSyntheticLambda3;
+MLio/github/iamr0s/carplay/airplay/AudioToneSession$$ExternalSyntheticLambda4;
+MLio/github/iamr0s/carplay/airplay/AudioToneSession$$ExternalSyntheticLambda5;
+9Lio/github/iamr0s/carplay/airplay/AudioToneSession$run$1;
+3Lio/github/iamr0s/carplay/airplay/AudioToneSession;
+2Lio/github/iamr0s/carplay/airplay/ControlCommands;
+0Lio/github/iamr0s/carplay/airplay/LivePcmBuffer;
+/Lio/github/iamr0s/carplay/airplay/MfiAuthSetup;
+.Lio/github/iamr0s/carplay/airplay/MfiSecurity;
+3Lio/github/iamr0s/carplay/airplay/MicrophonePacket;
+4Lio/github/iamr0s/carplay/airplay/MicrophonePackets;
+NLio/github/iamr0s/carplay/airplay/MicrophoneSession$$ExternalSyntheticLambda0;
+NLio/github/iamr0s/carplay/airplay/MicrophoneSession$$ExternalSyntheticLambda1;
+:Lio/github/iamr0s/carplay/airplay/MicrophoneSession$run$1;
+4Lio/github/iamr0s/carplay/airplay/MicrophoneSession;
+1Lio/github/iamr0s/carplay/airplay/PcmAudioFormat;
+:Lio/github/iamr0s/carplay/airplay/PhoneIdentity$Companion;
+0Lio/github/iamr0s/carplay/airplay/PhoneIdentity;
+/Lio/github/iamr0s/carplay/airplay/PhonePairing;
+)Lio/github/iamr0s/carplay/airplay/Plists;
+KLio/github/iamr0s/carplay/airplay/RtspConnection$$ExternalSyntheticLambda0;
+1Lio/github/iamr0s/carplay/airplay/RtspConnection;
+3Lio/github/iamr0s/carplay/airplay/RtspConnectionKt;
+/Lio/github/iamr0s/carplay/airplay/RtspRejected;
+/Lio/github/iamr0s/carplay/airplay/SessionModes;
+-Lio/github/iamr0s/carplay/airplay/SetupProof;
+NLio/github/iamr0s/carplay/airplay/TestScreenSession$$ExternalSyntheticLambda0;
+>Lio/github/iamr0s/carplay/airplay/TestScreenSession$guarded$1;
+TLio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda0;
+ULio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda10;
+ULio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda11;
+ULio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda12;
+ULio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda13;
+ULio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda14;
+ULio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda15;
+ULio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda16;
+ULio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda17;
+ULio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda18;
+ULio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda19;
+TLio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda1;
+ULio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda20;
+ULio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda21;
+ULio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda22;
+ULio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda23;
+TLio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda2;
+TLio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda3;
+TLio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda4;
+TLio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda5;
+TLio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda6;
+TLio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda7;
+TLio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda8;
+TLio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda9;
+[Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$10$1$1$$ExternalSyntheticLambda0;
+[Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$10$1$1$$ExternalSyntheticLambda1;
+ALio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$10$1$1;
+ALio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$10$1$2;
+JLio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$10$1$outgoing$1;
+=Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$11;
+=Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$14;
+<Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$2;
+<Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$3;
+<Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$7;
+<Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$8;
+ELio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$audioJob$1;
+CLio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$events$1;
+ELio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$feedback$1;
+DLio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$handoff$1;
+JLio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$microphoneJob$1;
+OLio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$navigationAudioJob$1;
+FLio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$timingJob$1;
+FLio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$tunnelJob$1;
+`Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$tunnelJob$2$$ExternalSyntheticLambda0;
+`Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$tunnelJob$2$$ExternalSyntheticLambda1;
+FLio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$tunnelJob$2;
+SLio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$tunnelJob$tunnelOutput$1;
+`Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$uiControl$1$$ExternalSyntheticLambda0;
+`Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$uiControl$1$$ExternalSyntheticLambda1;
+`Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$uiControl$1$$ExternalSyntheticLambda2;
+`Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$uiControl$1$$ExternalSyntheticLambda3;
+bLio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$uiControl$1$2$$ExternalSyntheticLambda0;
+HLio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$uiControl$1$2;
+FLio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$uiControl$1;
+ELio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$watchdog$1;
+:Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2;
+4Lio/github/iamr0s/carplay/airplay/TestScreenSession;
+JLio/github/iamr0s/carplay/airplay/TestScreenSessionKt$awaitRuntimeReady$1;
+JLio/github/iamr0s/carplay/airplay/TestScreenSessionKt$awaitRuntimeReady$2;
+6Lio/github/iamr0s/carplay/airplay/TestScreenSessionKt;
+&Lio/github/iamr0s/carplay/airplay/Tlv;
+.Lio/github/iamr0s/carplay/airplay/WireMessage;
+?Lio/github/iamr0s/carplay/bridge/CarLifeIntegration$VideoRelay;
+4Lio/github/iamr0s/carplay/bridge/CarLifeIntegration;
+7Lio/github/iamr0s/carplay/bridge/CarWithBridge$Session;
+9Lio/github/iamr0s/carplay/bridge/CarWithBridge$Transport;
+/Lio/github/iamr0s/carplay/bridge/CarWithBridge;
+/Lio/github/iamr0s/carplay/desktop/DesktopModel;
+>Lio/github/iamr0s/carplay/desktop/DesktopProjection$Companion;
+4Lio/github/iamr0s/carplay/desktop/DesktopProjection;
+2Lio/github/iamr0s/carplay/desktop/DesktopSettings;
+/Lio/github/iamr0s/carplay/desktop/DesktopState;
+1Lio/github/iamr0s/carplay/network/CarDiscoveryKt;
+3Lio/github/iamr0s/carplay/network/ReceiverEndpoint;
+;Lio/github/iamr0s/carplay/protocol/BluetoothSyncExperiment;
+-Lio/github/iamr0s/carplay/protocol/Iap2Probe;
+>Lio/github/iamr0s/carplay/protocol/Iap2SynchronizationSilence;
+?Lio/github/iamr0s/carplay/protocol/WirelessBootstrap$Companion;
+5Lio/github/iamr0s/carplay/protocol/WirelessBootstrap;
+2Lio/github/iamr0s/carplay/protocol/WirelessConfig;
+5Lio/github/iamr0s/carplay/video/KeyReports$Companion;
++Lio/github/iamr0s/carplay/video/KeyReports;
+4Lio/github/iamr0s/carplay/video/TestVideo$Companion;
+*Lio/github/iamr0s/carplay/video/TestVideo;
++Lio/github/iamr0s/carplay/video/TouchPoint;
+7Lio/github/iamr0s/carplay/video/TouchReports$Companion;
+-Lio/github/iamr0s/carplay/video/TouchReports;
+-Lio/github/iamr0s/carplay/video/VideoPackets;
+1Lio/github/iamr0s/carplay/video/VideoTestOptions;
+LivePcmBuffer.kt
+Ljava/io/ByteArrayInputStream;
+Ljava/io/ByteArrayOutputStream;
+Ljava/io/Closeable;
+Ljava/io/EOFException;
+Ljava/io/File;
+Ljava/io/FileDescriptor;
+Ljava/io/FileOutputStream;
+Ljava/io/IOException;
+Ljava/io/InputStream;
+Ljava/io/OutputStream;
+Ljava/io/PipedInputStream;
+Ljava/io/PipedOutputStream;
+Ljava/lang/Boolean;
+Ljava/lang/Byte;
+Ljava/lang/CharSequence;
+Ljava/lang/Class;
+Ljava/lang/Exception;
+$Ljava/lang/IllegalArgumentException;
+!Ljava/lang/IllegalStateException;
+Ljava/lang/Integer;
+Ljava/lang/Iterable;
+Ljava/lang/Long;
+Ljava/lang/Math;
+Ljava/lang/Number;
+Ljava/lang/Object;
+Ljava/lang/String;
+Ljava/lang/StringBuilder;
+Ljava/lang/System;
+Ljava/lang/Throwable;
+Ljava/math/BigInteger;
+Ljava/net/DatagramPacket;
+Ljava/net/DatagramSocket;
+Ljava/net/Inet4Address;
+Ljava/net/InetAddress;
+Ljava/net/InetSocketAddress;
+Ljava/net/Socket;
+Ljava/net/SocketAddress;
+!Ljava/net/SocketTimeoutException;
+Ljava/nio/ByteBuffer;
+Ljava/nio/ByteOrder;
+Ljava/nio/charset/Charset;
+Ljava/security/Key;
++Ljava/security/KeyStore$LoadStoreParameter;
+Ljava/security/KeyStore;
+Ljava/security/MessageDigest;
+Ljava/security/PublicKey;
+Ljava/security/SecureRandom;
+'Ljava/security/cert/CertificateFactory;
+$Ljava/security/cert/X509Certificate;
++Ljava/security/spec/AlgorithmParameterSpec;
+Ljava/util/ArrayDeque;
+Ljava/util/ArrayDeque<
+Ljava/util/ArrayList;
+Ljava/util/Arrays;
+Ljava/util/Collection;
+Ljava/util/Iterator;
+Ljava/util/LinkedHashMap;
+Ljava/util/List;
+Ljava/util/List<
+Ljava/util/Locale;
+Ljava/util/Map$Entry;
+Ljava/util/Map;
+Ljava/util/Map<
+Ljava/util/Properties;
+Ljava/util/Set;
+Ljava/util/UUID;
+,Ljava/util/concurrent/CancellationException;
+(Ljava/util/concurrent/ConcurrentHashMap;
+(Ljava/util/concurrent/ConcurrentHashMap<
++Ljava/util/concurrent/CopyOnWriteArrayList;
++Ljava/util/concurrent/CopyOnWriteArrayList<
++Ljava/util/concurrent/atomic/AtomicBoolean;
+(Ljava/util/concurrent/atomic/AtomicLong;
+-Ljava/util/concurrent/atomic/AtomicReference;
+-Ljava/util/concurrent/atomic/AtomicReference<
+Ljavax/crypto/Cipher;
+Ljavax/crypto/KeyGenerator;
+Ljavax/crypto/Mac;
+Ljavax/crypto/SecretKey;
+$Ljavax/crypto/spec/GCMParameterSpec;
+#Ljavax/crypto/spec/IvParameterSpec;
+!Ljavax/crypto/spec/SecretKeySpec;
+Lkotlin/ExtensionFunctionType;
+Lkotlin/Function0;
+Lkotlin/Function1;
+Lkotlin/Function2;
+Lkotlin/Metadata;
+Lkotlin/Pair;
+Lkotlin/Pair<
+Lkotlin/Result$Companion;
+Lkotlin/Result;
+Lkotlin/ResultKt;
+Lkotlin/Triple;
+Lkotlin/TuplesKt;
+Lkotlin/Unit;
+Lkotlin/collections/ArraysKt;
+"Lkotlin/collections/CollectionsKt;
+Lkotlin/collections/MapsKt;
+Lkotlin/collections/SetsKt;
+ Lkotlin/coroutines/Continuation;
+ Lkotlin/coroutines/Continuation<
+$Lkotlin/coroutines/CoroutineContext;
++Lkotlin/coroutines/intrinsics/IntrinsicsKt;
+'Lkotlin/coroutines/jvm/internal/Boxing;
+1Lkotlin/coroutines/jvm/internal/ContinuationImpl;
+.Lkotlin/coroutines/jvm/internal/DebugMetadata;
++Lkotlin/coroutines/jvm/internal/SpillingKt;
+.Lkotlin/coroutines/jvm/internal/SuspendLambda;
+#Lkotlin/internal/ProgressionUtilKt;
+Lkotlin/io/CloseableKt;
+ Lkotlin/jvm/functions/Function0;
+ Lkotlin/jvm/functions/Function0<
+ Lkotlin/jvm/functions/Function1;
+ Lkotlin/jvm/functions/Function1<
+ Lkotlin/jvm/functions/Function2;
+ Lkotlin/jvm/functions/Function2<
+ Lkotlin/jvm/functions/Function3;
+ Lkotlin/jvm/functions/Function4;
+.Lkotlin/jvm/internal/DefaultConstructorMarker;
++Lkotlin/jvm/internal/FunctionReferenceImpl;
+'Lkotlin/jvm/internal/Intrinsics$Kotlin;
+ Lkotlin/jvm/internal/Intrinsics;
+$Lkotlin/jvm/internal/Ref$BooleanRef;
+!Lkotlin/jvm/internal/Ref$LongRef;
+#Lkotlin/jvm/internal/Ref$ObjectRef;
+#Lkotlin/jvm/internal/Ref$ObjectRef<
+#Lkotlin/jvm/internal/SpreadBuilder;
+Lkotlin/text/CharsKt;
+Lkotlin/text/Charsets;
+Lkotlin/text/Regex;
+Lkotlin/text/StringsKt;
+Lkotlinx/coroutines/BuildersKt;
+(Lkotlinx/coroutines/CompletableDeferred;
+(Lkotlinx/coroutines/CompletableDeferred<
+*Lkotlinx/coroutines/CompletableDeferredKt;
+(Lkotlinx/coroutines/CoroutineDispatcher;
+#Lkotlinx/coroutines/CoroutineScope;
+%Lkotlinx/coroutines/CoroutineScopeKt;
+#Lkotlinx/coroutines/CoroutineStart;
+Lkotlinx/coroutines/Deferred;
+Lkotlinx/coroutines/Deferred<
+Lkotlinx/coroutines/DelayKt;
+ Lkotlinx/coroutines/Dispatchers;
+%Lkotlinx/coroutines/Job$DefaultImpls;
+Lkotlinx/coroutines/Job;
+Lkotlinx/coroutines/JobKt;
+Lkotlinx/coroutines/TimeoutKt;
+,Lkotlinx/coroutines/channels/BufferOverflow;
+%Lkotlinx/coroutines/channels/Channel;
+%Lkotlinx/coroutines/channels/Channel<
+-Lkotlinx/coroutines/channels/ChannelIterator;
+'Lkotlinx/coroutines/channels/ChannelKt;
++Lkotlinx/coroutines/channels/ChannelResult;
+6Lkotlinx/coroutines/channels/SendChannel$DefaultImpls;
+)Lkotlinx/coroutines/channels/SendChannel;
+#Lkotlinx/coroutines/flow/StateFlow;
+*Lorg/bouncycastle/crypto/CipherParameters;
+:Lorg/bouncycastle/crypto/agreement/srp/SRP6StandardGroups;
+0Lorg/bouncycastle/crypto/modes/ChaCha20Poly1305;
+/Lorg/bouncycastle/crypto/params/AEADParameters;
+<Lorg/bouncycastle/crypto/params/Ed25519PrivateKeyParameters;
+;Lorg/bouncycastle/crypto/params/Ed25519PublicKeyParameters;
+-Lorg/bouncycastle/crypto/params/KeyParameter;
+4Lorg/bouncycastle/crypto/params/SRP6GroupParameters;
+;Lorg/bouncycastle/crypto/params/X25519PrivateKeyParameters;
+:Lorg/bouncycastle/crypto/params/X25519PublicKeyParameters;
+/Lorg/bouncycastle/crypto/signers/Ed25519Signer;
+MFiSAP SETUP et=16 ekey-bytes=
+ MFiSAP SETUP key already wrapped
+#MFiSAP signature certificate-bytes=
+MIC RX packets=
+MIC SETUP fields=
+MIC SETUP response=
+MIC first authenticated RTP
+MIC missing streams
+(MIC optional test failed; video retained
+MIC rejected RTP
+*MIC selective TEARDOWN type107 connection=
+MIC test ended packets=
+MIC type107 absent in response
+/MIC waiting no UDP packet received; elapsed-ms=
+%Malformed receiver pairing public key
+MfiAuthSetup.kt
+$Microphone PCM frame length invalid=
+MicrophonePacket(sequence=
+MicrophonePackets.kt
+MicrophoneSession.kt
+Missing display height
+Missing display width
+Missing runtime iAP data
+Missing screen data port
+)New identity failed encryption round-trip
+NoPadding
+)Optional runtime type130 rejected status=
+POST
+PS-Msg05
+PS-Msg06
+PV-Msg02
+PV-Msg03
+FPair setup complete; peer-signature-valid=true advertised-key-matched=
+JPair verify complete; peer-signature-valid=true; encrypted control enabled
+Pair-Setup
+Pair-Setup-Accessory-Sign-Info
+Pair-Setup-Accessory-Sign-Salt
+Pair-Setup-Controller-Sign-Info
+Pair-Setup-Controller-Sign-Salt
+Pair-Setup-Encrypt-Info
+Pair-Setup-Encrypt-Salt
+Pair-Setup:3939
+Pair-Verify-Encrypt-Info
+Pair-Verify-Encrypt-Salt
+Pairing 
+'Pairing decision advertised-crypto-key=
+$Pairing endpoint unsupported status=
+Pairing field missing id=
+PcmAudioFormat(bit=
+&Phone identity encrypted-record bytes=
+Phone identity load stored-id=
+?Phone identity new encrypted record verified before persistence
+Phone identity ready id=
+>Phone identity rebuild explicitly confirmed; encrypted backup=
+?Phone modesChanged TX direction=controller-to-accessory fields=
+ZPhone modesChanged accepted; next=screen110 SETUP then RECORD; rendering not yet confirmed
+(Phone requestUI URL not implemented url=
+PhoneIdentity.kt
+PhonePairing.kt
+$Preconnected receiver route mismatch
+RECORD
+ROOT
+RTSP 
+RTSP RX body
+RTSP RX line=
+RTSP RX status=
+RTSP TX 
+RTSP TX headers=
+RTSP body exceeds bound
+RTSP body truncated
+RTSP header exceeded limit
+RTSP peer EOF
+RTSP peer request body
+RTSP peer request flood
+RTSP peer request handled=
+RTSP peer request line=
+RTSP peer request method=
+#RTSP peer response application body
+RTSP response sequence mismatch
+RTSP/
+RTSP/1.0 
+?Receiver identity changed; refusing automatic alias replacement
+<Receiver pairing key changed; refusing automatic replacement
+Resource close failed class=
+RtspConnection.kt
+CRuntime command authentication complete; Bluetooth handoff accepted
+{Runtime command handoff deadline=60000ms ready=false; disableBluetooth not sent; Bluetooth/video retained; no session close
+7Runtime command network update received; Wi-Fi retained
+Runtime command status: 
+3Runtime command synchronization unavailable reason=
+aRuntime command transport armed; waiting for peer iAPSendMessage after RECORD; Bluetooth retained
+Runtime header must be 32 bytes
+Runtime iAP RX source=
+Runtime iAP TX AirPlay-command
+Runtime iAP TX type130
+GRuntime iAP authentication updates flushed; scheduling protocol handoff
+HRuntime iAP command input closed; response=501; Bluetooth/video retained
+bRuntime iAP command rejected after synchronization failure; response=501; Bluetooth/video retained
+1Runtime iAP receive buffer exceeded bound source=
+@Runtime iAP type130 not accepted; keeping Bluetooth control link
+DRuntime network/start notification received; existing Wi-Fi retained
+Runtime packet length invalid: 
+Runtime status: 
+Runtime transport selected=AirPlay-command; first peer iAPSendMessage received; firmware evidence=libAirPlay:0x1d3b4 AppleCarPlay:0x407520
+zRuntime tunnel handoff deadline=60000ms ready=false; disableBluetooth not sent; Bluetooth/video retained; no session close
+Runtime type130 header
+VRuntime type130 skipped on legacy AES; no DataStream shared secret; Bluetooth retained
+Runtime type130 skipped: vendor compatibility profile; SETUP rejects types outside100..111 and may tear down session; runtime=AirPlay-command; profile-evidence bootstrap-UUID=
+SETUP
+SHA-1
+SHA-256
+SHA-512
+SMAP
+AirCrypto.kt
+Kotlin
+*S Kotlin
++ 1 AirCrypto.kt
+io/github/iamr0s/carplay/airplay/AirCrypto
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
++ 3 _Arrays.kt
+kotlin/collections/ArraysKt___ArraysKt
+1#1,121:1
+1#2:122
+13472#3,2:123
+*S KotlinDebug
++ 1 AirCrypto.kt
+io/github/iamr0s/carplay/airplay/AirCrypto
+22#1:123,2
+SMAP
+AirCrypto.kt
+Kotlin
+*S Kotlin
++ 1 AirCrypto.kt
+io/github/iamr0s/carplay/airplay/SetupProof
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,121:1
+1#2:122
+SMAP
+AirCrypto.kt
+Kotlin
+*S Kotlin
++ 1 AirCrypto.kt
+io/github/iamr0s/carplay/airplay/Tlv
++ 2 _Arrays.kt
+kotlin/collections/ArraysKt___ArraysKt
++ 3 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
+1#1,121:1
+13472#2:122
+13473#2:125
+1869#3,2:123
+*S KotlinDebug
++ 1 AirCrypto.kt
+io/github/iamr0s/carplay/airplay/Tlv
+69#1:122
+69#1:125
+72#1:123,2
+SMAP
+AudioTonePackets.kt
+Kotlin
+*S Kotlin
++ 1 AudioTonePackets.kt
+io/github/iamr0s/carplay/airplay/AudioTonePackets
++ 2 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
++ 3 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,47:1
+808#2,11:48
+774#2:59
+865#2,2:60
+1563#2:62
+1634#2,3:63
+1803#2,3:66
+295#2,2:69
+1#3:71
+*S KotlinDebug
++ 1 AudioTonePackets.kt
+io/github/iamr0s/carplay/airplay/AudioTonePackets
+14#1:48,11
+14#1:59
+14#1:60,2
+16#1:62
+16#1:63,3
+17#1:66,3
+20#1:69,2
+SMAP
+AudioToneSession.kt
+Kotlin
+*S Kotlin
++ 1 AudioToneSession.kt
+io/github/iamr0s/carplay/airplay/AudioToneSession
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
++ 3 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
++ 4 CoroutineScope.kt
+kotlinx/coroutines/CoroutineScopeKt
+1#1,156:1
+1#2:157
+808#3,11:158
+669#3,11:169
+375#4:180
+375#4:181
+375#4:182
+375#4:183
+375#4:184
+375#4:185
+375#4:186
+*S KotlinDebug
++ 1 AudioToneSession.kt
+io/github/iamr0s/carplay/airplay/AudioToneSession
+73#1:158,11
+73#1:169,11
+103#1:180
+143#1:181
+148#1:182
+143#1:183
+148#1:184
+143#1:185
+148#1:186
+SMAP
+ControlCommands.kt
+Kotlin
+*S Kotlin
++ 1 ControlCommands.kt
+io/github/iamr0s/carplay/airplay/ControlCommands
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,50:1
+1#2:51
+SMAP
+LivePcmBuffer.kt
+Kotlin
+*S Kotlin
++ 1 LivePcmBuffer.kt
+io/github/iamr0s/carplay/airplay/LivePcmBuffer
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,41:1
+1#2:42
+SMAP
+MfiAuthSetup.kt
+Kotlin
+*S Kotlin
++ 1 MfiAuthSetup.kt
+io/github/iamr0s/carplay/airplay/MfiAuthSetup
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
++ 3 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
++ 4 _Arrays.kt
+kotlin/collections/ArraysKt___ArraysKt
+1#1,99:1
+1#2:100
+808#3,11:101
+774#3:112
+865#3,2:113
+13472#4,2:115
+*S KotlinDebug
++ 1 MfiAuthSetup.kt
+io/github/iamr0s/carplay/airplay/MfiAuthSetup
+48#1:101,11
+48#1:112
+48#1:113,2
+53#1:115,2
+SMAP
+MfiAuthSetup.kt
+Kotlin
+*S Kotlin
++ 1 MfiAuthSetup.kt
+io/github/iamr0s/carplay/airplay/MfiSecurity
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,99:1
+1#2:100
+SMAP
+MicrophonePackets.kt
+Kotlin
+*S Kotlin
++ 1 MicrophonePackets.kt
+io/github/iamr0s/carplay/airplay/MicrophonePackets
++ 2 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
++ 3 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,27:1
+808#2,11:28
+1761#2,3:39
+1#3:42
+*S KotlinDebug
++ 1 MicrophonePackets.kt
+io/github/iamr0s/carplay/airplay/MicrophonePackets
+8#1:28,11
+8#1:39,3
+SMAP
+MicrophoneSession.kt
+Kotlin
+*S Kotlin
++ 1 MicrophoneSession.kt
+io/github/iamr0s/carplay/airplay/MicrophoneSession
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
++ 3 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
++ 4 CoroutineScope.kt
+kotlinx/coroutines/CoroutineScopeKt
++ 5 _Arrays.kt
+kotlin/collections/ArraysKt___ArraysKt
+1#1,88:1
+1#2:89
+808#3,11:90
+1761#3,3:101
+375#4:104
+375#4:107
+12647#5,2:105
+*S KotlinDebug
++ 1 MicrophoneSession.kt
+io/github/iamr0s/carplay/airplay/MicrophoneSession
+43#1:90,11
+43#1:101,3
+48#1:104
+76#1:107
+61#1:105,2
+SMAP
+PhoneIdentity.kt
+Kotlin
+*S Kotlin
++ 1 PhoneIdentity.kt
+io/github/iamr0s/carplay/airplay/PhoneIdentity
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,109:1
+1#2:110
+SMAP
+PhoneIdentity.kt
+Kotlin
+*S Kotlin
++ 1 PhoneIdentity.kt
+io/github/iamr0s/carplay/airplay/PhoneIdentity$Companion
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
++ 3 _Maps.kt
+kotlin/collections/MapsKt___MapsKt
+1#1,109:1
+1#2:110
+216#3,2:111
+*S KotlinDebug
++ 1 PhoneIdentity.kt
+io/github/iamr0s/carplay/airplay/PhoneIdentity$Companion
+96#1:111,2
+SMAP
+PhonePairing.kt
+Kotlin
+*S Kotlin
++ 1 PhonePairing.kt
+io/github/iamr0s/carplay/airplay/PhonePairing
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
++ 3 _Strings.kt
+kotlin/text/StringsKt___StringsKt
+1#1,83:1
+1#2:84
+1069#3,2:85
+*S KotlinDebug
++ 1 PhonePairing.kt
+io/github/iamr0s/carplay/airplay/PhonePairing
+27#1:85,2
+SMAP
+RtspConnection.kt
+Kotlin
+*S Kotlin
++ 1 RtspConnection.kt
+io/github/iamr0s/carplay/airplay/RtspConnection
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
++ 3 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
++ 4 _Maps.kt
+kotlin/collections/MapsKt___MapsKt
+1#1,156:1
+1#2:157
+774#3:158
+865#3,2:159
+1869#3,2:161
+216#4,2:163
+*S KotlinDebug
++ 1 RtspConnection.kt
+io/github/iamr0s/carplay/airplay/RtspConnection
+73#1:158
+73#1:159,2
+73#1:161,2
+94#1:163,2
+SMAP
+SessionModes.kt
+Kotlin
+*S Kotlin
++ 1 SessionModes.kt
+io/github/iamr0s/carplay/airplay/SessionModes
++ 2 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
+1#1,51:1
+1563#2:52
+1634#2,3:53
+*S KotlinDebug
++ 1 SessionModes.kt
+io/github/iamr0s/carplay/airplay/SessionModes
+28#1:52
+28#1:53,3
+SMAP
+TestScreenSession.kt
+Kotlin
+*S Kotlin
++ 1 TestScreenSession.kt
+io/github/iamr0s/carplay/airplay/TestScreenSession
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
++ 3 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
+1#1,635:1
+1#2:636
+1869#3,2:637
+*S KotlinDebug
++ 1 TestScreenSession.kt
+io/github/iamr0s/carplay/airplay/TestScreenSession
+608#1:637,2
+SMAP
+TestScreenSession.kt
+Kotlin
+*S Kotlin
++ 1 TestScreenSession.kt
+io/github/iamr0s/carplay/airplay/TestScreenSession$run$2
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
++ 3 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
+1#1,635:1
+1#2:636
+808#3,11:637
+295#3,2:648
+808#3,11:650
+808#3,11:661
+1869#3,2:672
+808#3,11:674
+295#3,2:685
+808#3,11:687
+295#3,2:698
+*S KotlinDebug
++ 1 TestScreenSession.kt
+io/github/iamr0s/carplay/airplay/TestScreenSession$run$2
+275#1:637,11
+275#1:648,2
+276#1:650,11
+287#1:661,11
+287#1:672,2
+345#1:674,11
+345#1:685,2
+386#1:687,11
+386#1:698,2
+SMAP
+TestScreenSession.kt
+Kotlin
+*S Kotlin
++ 1 TestScreenSession.kt
+io/github/iamr0s/carplay/airplay/TestScreenSession$run$2$tunnelJob$tunnelOutput$1
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,635:1
+1#2:636
+SMAP
+TestScreenSession.kt
+Kotlin
+*S Kotlin
++ 1 TestScreenSession.kt
+io/github/iamr0s/carplay/airplay/TestScreenSession$run$2$watchdog$1
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,635:1
+1#2:636
+SMAP
+TestScreenSession.kt
+Kotlin
+*S Kotlin
++ 1 TestScreenSession.kt
+io/github/iamr0s/carplay/airplay/TestScreenSessionKt
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,635:1
+1#2:636
+-Screen SETUP accepted type=110 connection-id=
+"Screen cipher ready connection-id=
+Screen connection-id=
+Session closed
+Session: 
+SessionModes.kt
+Siri action=
+TASK begin name=
+TASK end name=
+TASK ended name=
+TCP connect begin remote=
+!TCP connect completed elapsed-ms=
+TCP connect failed remote=
+TCP connected local=
+TCP reuse selected route local=
+TEARDOWN
+TOUCH device=
+TestScreenSession.kt
+Timing RX ignored remote=
+Timing first request
+Timing replies=
+Truncated auth-setup length
+Truncated payload
+UI control channel full/closed
+!UI full mode notification fields=
+;UI requestUI observation after3000ms screen-changes-before=
+UI requestUI response received; awaiting accessory changeModes; no speculative ownership notification; observed-screen-changes-before=
+UI switch begin action=
+#UI switch commands accepted action=
+US-ASCII
+US_ASCII
+UTF_8
+%Unexpected identity encryption layout
+,Unsupported BAA/extended auth-setup response
+(Unsupported microphone RTP header/length
+Unsupported runtime packet tag
+VIDEO codec configuration
+VIDEO config dimensions=
+VIDEO config header
+VIDEO frame header
+'VIDEO live switch encoder released old=
+$VIDEO live switch requested options=
+VIDEO selection receiver=
+VIDEO send frame=
+VIDEO source failed desktop=
+&VIDEO source switch requested CarWith=
+VIIIIIIL
+VIIIL
+VIIILLL
+VIIIZ
+VIIIZZZLIL
+VIILL
+VIJJL
+VILL
+VILLLI
+VILLLLI
+VJII
+VJLLLLL
+VLBIIIL
+VLII
+VLIL
+VLILI
+VLILL
+VLJLL
+VLLI
+VLLIL
+VLLL
+VLLLII
+VLLLL
+VLLLLLIL
+VLLLLLLL
+VLLLLLLLIL
+VLLLLLLLILIL
+VLLLLLLLL
+VLLLLLLLLLLLL
+VLLLLLLZLL
+VLLZ
+VLLZLLLL
+VLLZLZL
+VLLZLZLIL
+VLZLLLL
+X-Apple-HKP
+X-Apple-PD
+X.509
+ZLCZIL
+ZLLIL
+ZLLL
+ZLLLII
+ZLLLLLLLLLLLLL
+ZLLZIL
+ZZIIII
+[A-Za-z0-9-]+
+[B)Z
+[B>;
+[B>;)
+[B>;)[B
+[B>;I
+[B[B>;
+2[Lio/github/iamr0s/carplay/airplay/PcmAudioFormat;
+[Ljava/lang/Integer;
+[Ljava/lang/Object;
+[Ljava/lang/String;
+[Ljava/util/LinkedHashMap;
+[Ljava/util/Map;
+[Lkotlin/Pair;
+_init_$lambda$0
+a\10
+aadOffset
+aadSize
+absent
+accepted
+access$getBaseMillis$p
+access$getBaseNano$p
+access$getClosed$p
+access$getIdentity$p
+access$getIdentityLock$cp
+access$getLocal$p
+access$getNetwork$p
+access$getOnRuntimeReady$p
+access$getSentAt$p
+access$getTestOptions$p
+access$getTransportId$p
+access$getVideo$p
+access$guarded
+access$invokeSuspend$command
+$access$invokeSuspend$commandResponse
+ access$invokeSuspend$feedRuntime
+access$own
+access$setVideo$p
+access$socket
+accessFlags
+accessory-desktop
+accessoryScreenChange
+accumulator\9
+action
+active
+add(...)
+addLast
+addSpread
+advertised
+aead
+aesFrame
+after
+airplay-auth
+airplay-connect
+airplay-events
+airplay-info
+airplay-modes
+airplay-pairing
+airplay-record
+airplay-screen-setup
+airplay-setup
+algorithm
+alias
+alias:
+allocate
+apiLevel
+appStateID
+appStates
+append
+application/octet-stream
+application/pairing+tlv8
+ application/x-apple-binary-plist
+applicationResponse
+apps
+areEqual
+array
+array(...)
+asList
+audible\2
+audio
+audioEpoch
+audioFormat
+audioFormats
+audioInputFormats
+audioJob
+audioLatencyMs
+audioOutputFormats
+audioTest
+audioType
+authenticate
+authenticate$default
+available
+await
+awaitRuntimeReady
+awaitRuntimeReady$default
+b\10
+backup\1
+baseIv
+baseKey
+baseMillis
+baseNano
+began
+bind
+bindAudio
+bindDesktopSource
+bindMicrophone
+bindSocket
+bindSource
+bindUi
+block
+bluetooth-handoff
+body
+booleanValue
+boxBoolean
+boxInt
+boxLong
+bridged
+buffer
+build
+byte
+byteValue
+bytes
+bytes\1
+/call to 'resume' before 'invoke' with coroutine
+cancel$default
+carWithSource
+carplay-identity-wrap
+carplay-xiaomi-carlife
+category
+certificate
+certificateBytes
+change
+changeModes
+changes
+channel
+channel\2
+channels
+charAt
+checkNotNull
+checkNotNullExpressionValue
+checkNotNullParameter
+checkRadix
+chunk\5
+chunked
+cipher
+ciphertext
+clear
+client
+clock
+close
+close$default
+closeFinally
+closed
+code
+code\6
+collectionSizeOrDefault
+command
+commandResponse
+commandRuntimeFailed
+commandRuntimeJob
+commandRuntimeLock
+commit
+complete
+component1
+component2
+component3
+component4
+config
+connect
+connected\4
+connectionId
+constructor-impl
+consumed
+contains
+contains$default
+containsKey
+content-length
+contentType
+context
+control
+copy
+copy$default
+copyInto
+copyInto$default
+copyOf
+copyOf(...)
+copyOfRange
+coroutineScope
+count
+counter
+create
+createFailure
+createMapBuilder
+created
+cseq
+currentOptions
+currentTimeMillis
+data
+dataPort
+datagram
+decode
+decoded
+decodedKey
+default
+delay
+delivered
+description
+descriptor\13
+desktopSource
+destination\11
+destination\2
+destination\20
+destination\26
+destination\3
+destination\4
+destination\5
+destination\7
+destination\8
+device=
+deviceID
+deviceId
+device\13
+digest
+digest(...)
+digitToIntOrNull
+directory\1
+disableBluetooth
+disconnect
+dispatched
+display
+displayUUID
+displays
+doFinal
+down
+drop
+drops
+edit
+ekey
+elapsed
+element
+element\11
+element\12
+element\2
+element\20
+element\21
+element\26
+element\27
+element\3
+element\4
+element\5
+element\7
+element\8
+element\9
+emptyList
+emptyMap
+enable
+enabled
+encode
+encodeToString
+encoder
+encrypt
+encrypt$default
+encrypted
+encryptedSignature
+encryption
+endpoint
+entity
+entries
+entries\1
+entrySet
+equals
+error
+established
+event
+event-command
+eventPort
+eventSocket
+events
+exceptionOrNull-impl
+exchange
+existingKey
+extraHeaders
+failed
+failure
+features
+feed
+feedback
+feedbackRequests
+fields
+fill$default
+final
+first
+firstLine
+firstOrNull
+flush
+forceKeyFrame
+forceKeyFrame encoder-ready=
+format
+formats
+found\5
+frame
+frame\2
+frames
+frequency\2
+fromJavaObject
+gain\2
+generateCertificates
+generateCertificates(...)
+generateKey
+generatePublicKey
+generateSecret
+generateSignature
+getActive
+getAddress
+getAlgorithm
+getAll
+getAll(...)
+getAndSet
+getBasicConstraints
+getBit
+getBody
+getBootstrapKeyIsUuid
+getBytes
+getBytes(...)
+getCOROUTINE_SUSPENDED
+getChannels
+getClass
+getCode
+getContext
+getDrops
+getEncoded
+getFD
+getFeatures
+getFirst
+getFirstLine
+getG
+getHeaders
+getHost
+getHostAddress
+getIO
+getIV
+getIV(...)
+getId
+getInetAddress
+getInputStream
+getInstance
+getInt
+getKey
+getLength
+getLocalAddress
+getLocalPort
+getLocalSocketAddress
+getLong
+getMessage
+getN
+getName
+getNetworkHandle
+getNoBackupFilesDir
+getNonce
+getOnCommand
+getOnCommandResponse
+getOrNull
+getOutputSize
+getOutputStream
+getPairingId
+getPcm
+getPort
+getPressed
+getProgressionLastElement
+getProof
+getPublic
+getPublicBytes
+getPublicKey
+getRate
+getRawX
+getRawY
+getRelay
+getRemoteSocketAddress
+getSecond
+getSeed
+getSequence
+getSession
+getSettings
+getSharedPreferences
+getShort
+getSocketAddress
+getSourceVersion
+getState
+getString
+getTestVolume
+getThird
+getTimestamp
+getTransport
+getUnderruns
+getValue
+getX
+getY
+group
+guarded
+handled
+handoff
+hasNext
+hasRemaining
+hashCode
+header
+headers
+height
+heightPixels
+hex\1
+hidDescriptor
+hidDevices
+hidReport
+hidSendReport
+hkdf
+hkdf$mac
+hkdf$mac(...)
+holder
+home
+homekit
+homekitFeature
+host
+iAPSendMessage
+id\13
+id\3
+identity
+identity-
+identity-recovery
+identityId
+identityLock
+identitySeed
+identity\1
+ignored
+incrementAndGet
+indexOf$default
+info
+init
+initial
+initialControlSocket
+initial\9
+input
+intValue
+invoke
+invokeSuspend
+invokeSuspend$command
+invokeSuspend$command$lambda$5
+invokeSuspend$command(Lkotlinx/coroutines/channels/Channel;Ljava/util/concurrent/ConcurrentHashMap;Ljava/util/concurrent/ConcurrentHashMap;Ljava/util/concurrent/atomic/AtomicReference;Ljava/util/concurrent/atomic/AtomicReference;Lkotlin/jvm/internal/Ref$LongRef;Lkotlin/jvm/internal/Ref$LongRef;Lio/github/iamr0s/carplay/airplay/TestScreenSession;Ljava/util/concurrent/atomic/AtomicBoolean;Ljava/util/concurrent/atomic/AtomicReference;Ljava/io/PipedOutputStream;Ljava/io/PipedInputStream;[B)Z
+invokeSuspend$commandResponse
+invokeSuspend$commandResponse(Lio/github/iamr0s/carplay/airplay/SessionModes;Ljava/util/concurrent/atomic/AtomicLong;Lkotlinx/coroutines/channels/Channel;[B)[B
+invokeSuspend$feedRuntime
+invokeSuspend$lambda$0
+invokeSuspend$lambda$1
+invokeSuspend$lambda$13
+invokeSuspend$lambda$17
+invokeSuspend$lambda$18
+invokeSuspend$lambda$19
+invokeSuspend$lambda$2
+invokeSuspend$lambda$20
+invokeSuspend$lambda$3
+invokeSuspend$lambda$30
++invokeSuspend$lambda$30$lambda$29$lambda$25
++invokeSuspend$lambda$30$lambda$29$lambda$26
++invokeSuspend$lambda$30$lambda$29$lambda$27
++invokeSuspend$lambda$30$lambda$29$lambda$28
+invokeSuspend$lambda$31
+invokeSuspend$lambda$32
+invokeSuspend$lambda$33
+invokeSuspend$lambda$35
+invokeSuspend$lambda$36
+invokeSuspend$lambda$37
+invokeSuspend$lambda$38
+invokeSuspend$lambda$40
+invokeSuspend$lambda$41
+invokeSuspend$lambda$43
+invokeSuspend$lambda$44
+invokeSuspend$lambda$45
+invokeSuspend$lambda$46
+1io.github.iamr0s.carplay.airplay.AudioToneSession
+2io.github.iamr0s.carplay.airplay.MicrophoneSession
+<io.github.iamr0s.carplay.airplay.TestScreenSession$guarded$1
+8io.github.iamr0s.carplay.airplay.TestScreenSession$run$2
+?io.github.iamr0s.carplay.airplay.TestScreenSession$run$2$10$1$1
+?io.github.iamr0s.carplay.airplay.TestScreenSession$run$2$10$1$2
+Cio.github.iamr0s.carplay.airplay.TestScreenSession$run$2$audioJob$1
+Aio.github.iamr0s.carplay.airplay.TestScreenSession$run$2$events$1
+Cio.github.iamr0s.carplay.airplay.TestScreenSession$run$2$feedback$1
+Bio.github.iamr0s.carplay.airplay.TestScreenSession$run$2$handoff$1
+Hio.github.iamr0s.carplay.airplay.TestScreenSession$run$2$microphoneJob$1
+Mio.github.iamr0s.carplay.airplay.TestScreenSession$run$2$navigationAudioJob$1
+Dio.github.iamr0s.carplay.airplay.TestScreenSession$run$2$timingJob$1
+Dio.github.iamr0s.carplay.airplay.TestScreenSession$run$2$tunnelJob$1
+Dio.github.iamr0s.carplay.airplay.TestScreenSession$run$2$tunnelJob$2
+Dio.github.iamr0s.carplay.airplay.TestScreenSession$run$2$uiControl$1
+Fio.github.iamr0s.carplay.airplay.TestScreenSession$run$2$uiControl$1$2
+Cio.github.iamr0s.carplay.airplay.TestScreenSession$run$2$watchdog$1
+4io.github.iamr0s.carplay.airplay.TestScreenSessionKt
+Hio.github.iamr0s.carplay.airplay.TestScreenSessionKt$awaitRuntimeReady$2
+Hio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$10$1$outgoing$1
+Qio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$tunnelJob$tunnelOutput$1
+isActive
+isDirectory
+isEmpty
+isEqual
+isScreenMirroringSession
+isSuccess-impl
+it\1
+it\10
+it\12
+it\14
+it\16
+it\17
+it\2
+it\22
+it\24
+it\28
+it\29
+it\3
+it\30
+it\31
+it\32
+it\35
+it\38
+it\4
+it\5
+it\6
+it\8
+it\9
+item\2
+item\7
+iterator
+key$default
+keyDevices
+keySet
+key\6
+keys
+keystore
+kind
+known
+knownId
+kotlin.jvm.PlatformType
+label
+lastLog
+lastNonce
+latencyMs
+launch$default
+leaves
+length
+limit
+lines
+linkedMapOf
+listOf
+live
+load
+loadIdentity
+loaded
+local
+longValue
+macAddress
+mapOf
+masks
+matches
+maxFPS
+maxLateMs
+media
+method
+mfiSecurity
+microphone
+microphoneJob
+micros
+millis
+mkdirs
+modPow
+model
+modes
+modesChanged
+modesChanged-audio-release
+modesChanged-audio-take
+modesChanged-screen
+modesChanged-speech-end
+modesChanged-speech-recognizing
+modesState
+move
+multiply
+multiply(...)
+name
+name\4
+nanoTime
+nativeHeight
+nativeWidth
+navigationAudio
+navigationAudioJob
+network
+next
+nextBytes
+nextLong
+nonce
+nonceBytes
+none-MFiSAP-path
+nonzero
+nonzeroStreamId
+notification
+ntp$default
+nullOutSpilledVariable
+number
+offer
+offer$sample
+offset
+onCommand
+onCommand$lambda$0
+onCommandResponse
+onRuntimeReady
+open
+open$default
+optionalTunnelUnsupported
+options
+order
+osBuildVersion
+osName
+osVersion
+other
+outgoing\1
+output
+output\7
+ownDesktop
+owner
+p0\1
+p0\2
+p0\3
+p0\5
+p0\6
+packet
+packet$default
+packet\3
+pair
+pair-setup-then-verify
+pair-verify
+paired
+pairingAuthenticated
+params
+parse
+parseInt
+parser
+parts
+path
+payload
+pcm$default
+pcmLock
+peer
+peer:
+peerId
+peerKey
+peerPublic
+peerSignKey
+pending
+pendingOffset
+pendingSource
+pendingVideo
+permanentAudio
+permanentEntity
+permanentScreen
+phase
+phase\2
+phone
+phone-identity
+phone-test-screen
+play
+plus
+point
+port
+preferences
+prefs\1
+previous
+processAADBytes
+processBytes
+proof
+proto
+providerRelay
+providerSelection
+ptsBase
+public
+publicBytes
+publicKey
+publicKey(...)
+putAll
+putInt
+putLong
+putShort
+putString
+queued
+quoted
+random
+randomUUID
+rate
+rawInput
+rawOutput
+read
+readCounter
+readData
+readInfo
+readKey
+readNBytesExact
+ready
+reasonStr
+rebuildAfterConfirmation
+receive
+receiver
+receiverFps
+record
+records
+rejected
+remaining
+remoteId
+removeFirst
+removeFirst(...)
+replies
+reply
+report
+request
+request$default
+request(Z)V
+requestAccessoryUi
+requestKeyFrame
+requestSiri
+requestUI
+requests
+resource
+resourceID
+resourceLock
+resource\3
+resources
+response
+responseBody
+responseHeader
+response\6
+result
+return to accessory UI
+return to test screen
+returnedId
+reversed
+revisionBefore
+rfc5054_3072
+run$lambda$11
+run$lambda$13
+run$lambda$14
+run$lambda$15
+run$lambda$5
+run$lambda$6
+run$lambda$8
+run$lambda$9
+run(...)
+runtime
+runtime 
+runtime-command 
+runtime-command-handoff
+runtime-command-iap2
+runtime-data-read
+runtime-iap2
+runtimePayloadLength
+runtimeReady
+runtime\1
+salt
+sampleValue\2
+sample\2
+samples
+saveAlias
+savePeer
+screen
+screenChangeRevision
+screenCipher
+screenCipher$derive
+screenOwner
+seal
+seal$default
+sealInto
+sealed
+second
+seconds
+seconds\2
+secret
+security
+seed
+select
+select$default
+selectVideo
+selected
+selectedFps
+send
+sentAt
+separator\6
+sequence
+server
+serverProof
+serverPublic
+session
+sessionKey
+sessionShared
+sessionUUID
+setBlockModes
+setEncryptionPaddings
+setOf
+setOnAudioSource
+setOnCommand
+setOnCommandResponse
+setOnPcm
+setProperty
+setSession
+setSoTimeout
+setTcpNoDelay
+setup
+setupFields
+sha512
+shared
+sign
+signKey
+signature
+signum
+single
+singleOrNull
+single\5
+siriAction
+size
+snapshot
+socket
+sorted
+sounding
+source
+sourceRate
+sourceVersion
+speech
+speechMode
+speechRecognition
+split$default
+startCommandRuntime
+startSample
+started
+startsWith$default
+state
+statsCollectionEnabled
+status
+store
+stored
+stream
+streamConnectionID
+streamResponses
+streamStartTimestamp
+streamType
+streams
+substring
+substring(...)
+substringBefore$default
+subtract
+supported
+sync
+tail
+take
+test-options
+test-overlay
+testOptions
+testScreenModes
+text
+this
+this$0
+throwOnFailure
+timeoutMillis
+timestamp
+timestampMillis
+timing
+timingJob
+timingPort
+timingProtocol
+toArray
+toByteArray
+toIntOrNull
+toJavaObject
+toList
+toLowerCase
+toLowerCase(...)
+toString
+toString(...)
+toUpperCase
+toUpperCase(...)
+tookAudio
+tookSpeech
+touch
+touchDevices
+touchDowns
+touchHeight
+touchReports
+touchSize
+touchWidth
+transfer-encoding
+transferType
+transfer\3
+transitions
+transportId
+trim
+trySend-JP2dKIU
+tunnelDescription
+tunnelFeed
+tunnelInput
+tunnelJob
+tunnelOutput
+tunnelPort
+tunnelReply
+tunnelSeed
+tunnelSocket
+tunnelStreams
+tunnelWire
+type
+type130-data
+ui-control
+uiAcknowledgementWatch
+uiControl
+uiRequests
+underruns
+unsigned
+unsigned(...)
+update
+used
+uuid
+validate
+value
+valueOf
+value\2
+value\3
+value\4
+value\6
+values
+vendorProfile
+verbose
+verified
+verify
+verify$digest
+verify$digest(...)
+verify$field
+verifyChallenge
+verifySignature
+versionHash
+video
+video-only test screen
+video-watchdog
+videoEpochNano
+videoPort
+videoSocket
+videoStartMillis
+view
+volume
+watchdog
+width
+widthPixels
+wire
+withTimeoutOrNull
+wrap
+wrapped
+wrapping
+write
+writeCounter
+writeInfo
+writeKey
+writeToArray
+writeToArray(...)
+xPublic
+e~~D8{"backend":"dex","compilation-mode":"debug","has-checksums":true,"min-api":29,"version":"9.1.31"}
+?~~~{"Lio/github/iamr0s/carplay/airplay/AirCrypto;":"c263eb5d","Lio/github/iamr0s/carplay/airplay/AudioTonePackets;":"5ed34ba2","Lio/github/iamr0s/carplay/airplay/AudioToneSession$$ExternalSyntheticLambda0;":"3554ef61","Lio/github/iamr0s/carplay/airplay/AudioToneSession$$ExternalSyntheticLambda1;":"-66330f46f","Lio/github/iamr0s/carplay/airplay/AudioToneSession$$ExternalSyntheticLambda2;":"4048aa904","Lio/github/iamr0s/carplay/airplay/AudioToneSession$$ExternalSyntheticLambda3;":"2bef49db9","Lio/github/iamr0s/carplay/airplay/AudioToneSession$$ExternalSyntheticLambda4;":"25e81fb94","Lio/github/iamr0s/carplay/airplay/AudioToneSession$$ExternalSyntheticLambda5;":"-71df6eac4","Lio/github/iamr0s/carplay/airplay/AudioToneSession$run$1;":"9da9f651","Lio/github/iamr0s/carplay/airplay/AudioToneSession;":"4537daf1","Lio/github/iamr0s/carplay/airplay/ControlCommands;":"bedfdaa4","Lio/github/iamr0s/carplay/airplay/LivePcmBuffer;":"5ec02c21","Lio/github/iamr0s/carplay/airplay/MfiAuthSetup;":"1eaea920","Lio/github/iamr0s/carplay/airplay/MfiSecurity;":"5a0327e8","Lio/github/iamr0s/carplay/airplay/MicrophonePacket;":"43faf939","Lio/github/iamr0s/carplay/airplay/MicrophonePackets;":"39c58064","Lio/github/iamr0s/carplay/airplay/MicrophoneSession$$ExternalSyntheticLambda0;":"3da778b59","Lio/github/iamr0s/carplay/airplay/MicrophoneSession$$ExternalSyntheticLambda1;":"8c11febaf","Lio/github/iamr0s/carplay/airplay/MicrophoneSession$run$1;":"d00845ea","Lio/github/iamr0s/carplay/airplay/MicrophoneSession;":"6f43c202","Lio/github/iamr0s/carplay/airplay/PcmAudioFormat;":"246c8c0b","Lio/github/iamr0s/carplay/airplay/PhoneIdentity$Companion;":"613f032b","Lio/github/iamr0s/carplay/airplay/PhoneIdentity;":"b27ada90","Lio/github/iamr0s/carplay/airplay/PhonePairing;":"c5ccb530","Lio/github/iamr0s/carplay/airplay/Plists;":"d8a2d6b3","Lio/github/iamr0s/carplay/airplay/RtspConnection$$ExternalSyntheticLambda0;":"1faa1730e","Lio/github/iamr0s/carplay/airplay/RtspConnection;":"2d353525","Lio/github/iamr0s/carplay/airplay/RtspConnectionKt;":"33e3899f","Lio/github/iamr0s/carplay/airplay/RtspRejected;":"9d47ae79","Lio/github/iamr0s/carplay/airplay/SessionModes;":"f0dbfa0b","Lio/github/iamr0s/carplay/airplay/SetupProof;":"8c285844","Lio/github/iamr0s/carplay/airplay/TestScreenSession$$ExternalSyntheticLambda0;":"cfdea3f4","Lio/github/iamr0s/carplay/airplay/TestScreenSession$guarded$1;":"82d1a5d1","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda0;":"-5e8af1eb9","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda10;":"3a8d8253c","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda11;":"-300d0c055","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda12;":"-68d7d864","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda13;":"-20a74d7c","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda14;":"-1e097043b","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda15;":"-5e2542d0","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda16;":"2d33f1875","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda17;":"6248e7529","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda18;":"-54241f71f","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda19;":"-51824c38b","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda1;":"-33fea846","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda20;":"-b353a22b","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda21;":"-2c6a3f061","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda22;":"-1dea908f4","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda23;":"6c51cb0d6","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda2;":"3f79bd571","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda3;":"61566ffa7","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda4;":"365b6e8ff","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda5;":"3bddbec91","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda6;":"70b7c0421","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda7;":"35c7a4e5b","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda8;":"42ba61729","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$$ExternalSyntheticLambda9;":"aa74af68","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$10$1$1$$ExternalSyntheticLambda0;":"-138eac817","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$10$1$1$$ExternalSyntheticLambda1;":"-1bbf72d7a","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$10$1$1;":"7db2c65d","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$10$1$2;":"3567291f","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$10$1$outgoing$1;":"375bfb8b","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$11;":"34fceaf0","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$14;":"62cb9c0b","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$2;":"a1f18149","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$3;":"1e274bb8","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$7;":"8b403c5a","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$8;":"4effa20b","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$audioJob$1;":"218d59e4","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$events$1;":"a30b32af","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$feedback$1;":"7f756c20","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$handoff$1;":"bdb314b","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$microphoneJob$1;":"aada7427","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$navigationAudioJob$1;":"8336d475","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$timingJob$1;":"20ce163d","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$tunnelJob$1;":"7f096a68","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$tunnelJob$2$$ExternalSyntheticLambda0;":"3513c59e5","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$tunnelJob$2$$ExternalSyntheticLambda1;":"6af275d1","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$tunnelJob$2;":"fdde9619","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$tunnelJob$tunnelOutput$1;":"c2608c9d","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$uiControl$1$$ExternalSyntheticLambda0;":"-26c6c2844","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$uiControl$1$$ExternalSyntheticLambda1;":"-670086ab6","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$uiControl$1$$ExternalSyntheticLambda2;":"-4050ee602","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$uiControl$1$$ExternalSyntheticLambda3;":"-32feec1ce","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$uiControl$1$2$$ExternalSyntheticLambda0;":"-4a7baf03e","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$uiControl$1$2;":"5d5697d5","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$uiControl$1;":"5c4cfcf4","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2$watchdog$1;":"81f03a7b","Lio/github/iamr0s/carplay/airplay/TestScreenSession$run$2;":"cd26c52a","Lio/github/iamr0s/carplay/airplay/TestScreenSession;":"2a586628","Lio/github/iamr0s/carplay/airplay/TestScreenSessionKt$awaitRuntimeReady$1;":"bc3ef329","Lio/github/iamr0s/carplay/airplay/TestScreenSessionKt$awaitRuntimeReady$2;":"a79d3ec","Lio/github/iamr0s/carplay/airplay/TestScreenSessionKt;":"b6e9668f","Lio/github/iamr0s/carplay/airplay/Tlv;":"33b17cd1","Lio/github/iamr0s/carplay/airplay/WireMessage;":"eb8e2019"}
+ bytes=
+ Keystore 
+ CarWith 
+ AirPlay 
+ HomeKit 
+ 20 
+ requestSiri action=
+ type107/speechRecognition PCM16k 
+ type
+ streamConnectionID 
+ SETUP 
+ dataPort
+ SETUP 
+ streams
+ SETUP 
+ type
+100ms
+ legacy AES 

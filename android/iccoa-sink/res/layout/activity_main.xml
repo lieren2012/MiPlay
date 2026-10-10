@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical" android:padding="8dp">
+
+    <TextView android:id="@+id/status" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:textSize="14sp"
+        android:textStyle="bold" android:text="@string/app_name" />
+
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button android:id="@+id/start" android:layout_width="0dp"
+            android:layout_height="wrap_content" android:layout_weight="1" android:text="Start" />
+        <Button android:id="@+id/stop" android:layout_width="0dp"
+            android:layout_height="wrap_content" android:layout_weight="1" android:text="Stop" />
+        <Button android:id="@+id/clear" android:layout_width="0dp"
+            android:layout_height="wrap_content" android:layout_weight="1" android:text="Clear log" />
+        <Button android:id="@+id/touch" android:layout_width="0dp"
+            android:layout_height="wrap_content" android:layout_weight="1" android:text="Input" />
+    </LinearLayout>
+
+    <SurfaceView android:id="@+id/surface" android:layout_width="match_parent"
+        android:layout_height="0dp" android:layout_weight="3" />
+
+    <ScrollView android:id="@+id/scroll" android:layout_width="match_parent"
+        android:layout_height="0dp" android:layout_weight="2">
+        <TextView android:id="@+id/log" android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:textSize="10sp"
+            android:typeface="monospace" />
+    </ScrollView>
+</LinearLayout>

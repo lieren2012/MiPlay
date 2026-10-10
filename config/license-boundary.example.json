@@ -1,0 +1,9 @@
+{
+  "clean_room": true,
+  "black_box_reference_allowed": true,
+  "unlicensed_source_reuse": false,
+  "firmware_redistribution": false,
+  "authentication_bypass": false,
+  "third_party_components": [],
+  "notes": []
+}

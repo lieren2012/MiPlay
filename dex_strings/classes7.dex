@@ -1,0 +1,1051 @@
+!q b
+Bq@]
+`@5Z
+(5h'
+!4q "
+[q@$
+ p0R
+ p0R
+(n0%
+"Y2E
+(8("
+0Y`E
+#:T2V
+:F::
+>R2R
+"8"k
+"8"e
+*1nXG
+AYaE
+*5:y
+Z5:"
+v(.r
+KvZI
+iiiK
+j+jZ
+7LI+
+7LI+
+ actual-send-fps=
+ awaiting-idr=
+ bitrate=
+ bits=
+ configurations=
+ copy-ms=
+& delivery=primary-contact-only fields=
+ dimensions=
+ elapsed=
+ expected=
+ fps=
+ input=
+ packet-encrypt-write-ms=
+ pps-bytes=
+ rates=
+ requested-fps=
+ selected=
+ sent=
+ size=
+ skipped-input-slots=
+ supported=
+$actualFps
+$bytes
+$completion
+$continuation
+1$i$a$-all-TouchReports$Companion$parse$11\24\99\0
+2$i$a$-all-TouchReports$Companion$parse$13\27\102\0
+0$i$a$-all-TouchReports$Companion$parse$8\20\96\0
+&$i$a$-also-TestVideo$run$8$1\11\124\10
+)$i$a$-also-TestVideo$run$bytes$1\12\137\0
+)$i$a$-also-TestVideo$run$encoder$1\3\48\0
+/$i$a$-also-VideoPackets$lengthPrefixed$2\2\97\0
+1$i$a$-any-VideoPackets$encodedFrame$key$1\5\128\0
+9$i$a$-apply-TestVideo$Companion$validate$format$1\1\188\0
+"$i$a$-apply-TestVideo$run$7\8\94\0
+)$i$a$-apply-TestVideo$run$format$1\2\35\0
++$i$a$-check-VideoPackets$aesFrame$1\1\112\0
+8$i$a$-filter-TouchReports$Companion$parse$tips$1\12\87\0
+6$i$a$-filter-TouchReports$Companion$parse$xs$1\15\90\0
+6$i$a$-filter-TouchReports$Companion$parse$ys$1\18\93\0
+'$i$a$-filter-TouchReports$tips$1\3\86\0
+%$i$a$-filter-TouchReports$xs$1\6\89\0
+%$i$a$-filter-TouchReports$ys$1\9\92\0
+.$i$a$-fold-TouchReports$decode$value$1\2\103\0
+2$i$a$-forEach-TestVideo$run$ingestConfig$1\2\204\0
+6$i$a$-forEach-TouchReports$Companion$parse$15\30\104\0
+5$i$a$-forEach-VideoPackets$lengthPrefixed$2$1\4\131\2
+4$i$a$-indexOfFirst-TouchReports$decode$slot$1\3\97\0
+#$i$a$-let-TestVideo$run$13\13\177\0
+#$i$a$-let-TestVideo$run$13\14\177\0
+#$i$a$-let-TestVideo$run$13\17\177\0
+#$i$a$-let-TestVideo$run$13\18\177\0
+ $i$a$-let-TestVideo$run$3\1\29\0
+ $i$a$-let-TestVideo$run$5\6\70\0
+"$i$a$-let-TestVideo$run$8\10\123\0
++$i$a$-map-KeyReports$Companion$hex$1\3\35\0
+*$i$a$-onFailure-TestVideo$run$12$2\3\174\0
+2$i$a$-repeat-TouchReports$Companion$parse$3\4\43\0
+2$i$a$-repeat-TouchReports$Companion$parse$7\9\60\0
+'$i$a$-require-KeyReports$decode$1\1\7\0
+4$i$a$-require-TestVideo$Companion$validate$1\4\196\0
+$$i$a$-require-TestVideo$run$4\5\66\0
+5$i$a$-require-TouchReports$Companion$parse$10\22\72\0
+5$i$a$-require-TouchReports$Companion$parse$12\25\73\0
+5$i$a$-require-TouchReports$Companion$parse$14\28\74\0
+8$i$a$-require-TouchReports$Companion$parse$15$1\31\77\30
+3$i$a$-require-TouchReports$Companion$parse$1\2\39\0
+3$i$a$-require-TouchReports$Companion$parse$2\3\41\0
+3$i$a$-require-TouchReports$Companion$parse$4\5\48\0
+3$i$a$-require-TouchReports$Companion$parse$5\6\54\0
+3$i$a$-require-TouchReports$Companion$parse$6\8\59\0
+4$i$a$-require-TouchReports$Companion$parse$9\21\71\0
+*$i$a$-require-TouchReports$decode$1\1\15\0
+8$i$a$-requireNotNull-TestVideo$run$capabilities$1\4\63\0
+$$i$a$-run-VideoPackets$avcc$1\2\91\0
+,$i$a$-runCatching-TestVideo$run$12$1\1\174\0
++$i$a$-runCatching-TestVideo$run$14\15\183\0
++$i$a$-runCatching-TestVideo$run$14\19\183\0
++$i$a$-runCatching-TestVideo$run$15\16\183\0
++$i$a$-runCatching-TestVideo$run$15\20\183\0
+>$i$a$-single-TestVideo$Companion$validate$capability$1\3\205\0
+8$i$a$-sumOfInt-VideoPackets$encodedFrame$output$1\6\50\0
+3$i$a$-sumOfInt-VideoPackets$lengthPrefixed$1\1\97\0
+)$i$a$-takeIf-TouchReports$decode$2\6\28\0
+.$i$a$-takeIf-TouchReports$decode$slot$2\4\21\0
+5$i$a$-takeIf-VideoTestOptions$Companion$load$1\1\19\0
+5$i$a$-takeIf-VideoTestOptions$Companion$load$2\2\20\0
+$i$f$all\19\71
+$i$f$all\23\73
+$i$f$all\26\74
+$i$f$any\4\44
+!$i$f$currentCoroutineContext\7\78
+$i$f$filterTo\11\86
+$i$f$filterTo\14\89
+$i$f$filterTo\17\92
+$i$f$filterTo\2\85
+$i$f$filterTo\5\88
+$i$f$filterTo\8\91
+$i$f$filter\10\68
+$i$f$filter\13\69
+$i$f$filter\16\70
+$i$f$filter\1\8
+$i$f$filter\4\9
+$i$f$filter\7\10
+$i$f$fold\1\16
+$i$f$forEach\1\58
+$i$f$forEach\29\76
+$i$f$forEach\3\99
+$i$f$indexOfFirst\2\21
+$i$f$mapTo\2\33
+$i$f$map\1\22
+$i$f$single\2\195
+$projection
+$reason
+$report
+$result
+$stable
+$this
+$this$all\19
+$this$all\23
+$this$all\26
+$this$any\4
+$this$avcc_u24lambda_u243\2
+$this$filterTo\11
+$this$filterTo\14
+$this$filterTo\17
+$this$filterTo\2
+$this$filterTo\5
+$this$filterTo\8
+$this$filter\1
+$this$filter\10
+$this$filter\13
+$this$filter\16
+$this$filter\4
+$this$filter\7
+$this$fold\1
+$this$forEach\1
+$this$forEach\29
+$this$forEach\3
+$this$indexOfFirst\2
+$$this$invokeSuspend_u24lambda_u240\1
+$this$mapTo\2
+$this$map\1
+$this$run_u24lambda_u2416\15
+$this$run_u24lambda_u2416\19
+$this$run_u24lambda_u2417\16
+$this$run_u24lambda_u2417\20
+$this$run_u24lambda_u242\2
+$this$run_u24lambda_u249\8
+$this$single\2
+$this$validate_u24lambda_u240\1
+$this$withContext
+()[B
+K(DLio/github/iamr0s/carplay/TestState;)Lio/github/iamr0s/carplay/TestState;
+(II)V
+(III)
+(IIIIII)V
+(IIIZZZ
+)(IIIZZZLkotlin/jvm/functions/Function0;)V
+(J)V
+1(JLio/github/iamr0s/carplay/video/TouchPoint;)[[B
+J(Lio/github/iamr0s/carplay/TestState;)Lio/github/iamr0s/carplay/TestState;
+\(Ljava/lang/String;Lio/github/iamr0s/carplay/TestState;)Lio/github/iamr0s/carplay/TestState;
+(Ljava/util/List;)V
+(Ljava/util/List;I)V
+(Lkotlin/jvm/functions/Function1;Lkotlin/jvm/functions/Function3;Lkotlin/jvm/functions/Function0;JLkotlin/coroutines/Continuation;)Ljava/lang/Object;
+(ZIIII)V
+([B)
+([BZ)V
+*>;)
+, key=
+, luma=
+, max=
+, min=
+, offset=
+, rawX=
+, rawY=
+, scale=
+, size=
+, u=
+, usage=
+, v=
+, x=
+, y=
+-[B-
+6050B0907A10115002503050B0900092009210926750895018100C0
+P050C0901A10115002506050C0A00000AB0000AB1000AB5000AB6000AB9000ABC00750895018100C0
+@7bbc1d7254613ffaa026de47d975f73968361ef3e5d7b818ce0a83a33039c6b8
+ ; generator=cached-YUV; encoder=
+%; queue=direct no unbounded buffering
+X; restoring test source; service binding/prepare callback does not prove launcher output
+<anonymous>
+<clinit>
+<init>
+>;)V
+>;>;
+>;>;)
+>;I)V
+.Array contains more than one matching element.
+1Array contains no element matching the predicate.
+BIG_ENDIAN
+.CARWITH first-frame timeout=12000ms transport=
+CarWith 
+CarWith-Surface
+Check failed.
+Companion
+Compose-Surface
+!Contact coordinate count mismatch
+D8$$SyntheticClass
+CDESKTOP first encoded frame sent; confirm receiver rendering by eye
+:DESKTOP first-frame timeout=12000ms; restoring test source
+EncodedFrame
+EncodedFrame(bytes=
+0Encoder does not expose flexible YUV input image
+"Encoder missing video capabilities
+Expected one byte key selector
+Failed requirement.
+Field
+Field(page=
+IIII
+IILI
+ILIILI
+ILLLLILII
+INSTANCE
+!Invalid absolute coordinate range
+J$10
+J$11
+J$12
+JJJJ
+KeyReports.kt
+L$10
+L$11
+L$12
+L$13
+L$14
+LIII
+LIIIIII
+LIIILLLJL
+LITTLE_ENDIAN
+LLII
+LLIII
+LLIIIIIIIL
+LLIIIL
+LLLIIIIL
+LLLJ
+LLLJJ
+LLLL
+LLLLJL
+LLLLLJLIL
+LLLZIL
+LLZIIIDLLLLLLLLZLZZZIIILIL
+LLZIIIIIL
+LZIIII
+Landroid/content/Context;
+*Landroid/content/SharedPreferences$Editor;
+#Landroid/content/SharedPreferences;
+Landroid/media/Image$Plane;
+Landroid/media/Image;
+%Landroid/media/MediaCodec$BufferInfo;
+Landroid/media/MediaCodec;
+0Landroid/media/MediaCodecInfo$CodecCapabilities;
+0Landroid/media/MediaCodecInfo$VideoCapabilities;
+Landroid/media/MediaCodecInfo;
+Landroid/media/MediaCodecList;
+Landroid/media/MediaCrypto;
+Landroid/media/MediaFormat;
+Landroid/os/Bundle;
+Landroid/util/Range;
+Landroid/view/Surface;
+/Lcom/android/tools/r8/annotations/LambdaMethod;
+5Lcom/android/tools/r8/annotations/SynthesizedClassV2;
+"Ldalvik/annotation/EnclosingClass;
+#Ldalvik/annotation/EnclosingMethod;
+Ldalvik/annotation/InnerClass;
+!Ldalvik/annotation/MemberClasses;
+Ldalvik/annotation/Signature;
+(Ldalvik/annotation/SourceDebugExtension;
+&Lio/github/iamr0s/carplay/Diagnostics;
+$Lio/github/iamr0s/carplay/TestState;
+"Lio/github/iamr0s/carplay/Testing;
+,Lio/github/iamr0s/carplay/airplay/AirCrypto;
+?Lio/github/iamr0s/carplay/bridge/CarLifeIntegration$VideoRelay;
+4Lio/github/iamr0s/carplay/bridge/CarLifeIntegration;
+9Lio/github/iamr0s/carplay/bridge/CarWithBridge$Transport;
+/Lio/github/iamr0s/carplay/bridge/CarWithBridge;
+>Lio/github/iamr0s/carplay/desktop/DesktopProjection$Companion;
+4Lio/github/iamr0s/carplay/desktop/DesktopProjection;
+5Lio/github/iamr0s/carplay/video/KeyReports$Companion;
++Lio/github/iamr0s/carplay/video/KeyReports;
+5Lio/github/iamr0s/carplay/video/SurfaceFrameTimeline;
+3Lio/github/iamr0s/carplay/video/TestPattern$Square;
+,Lio/github/iamr0s/carplay/video/TestPattern;
+DLio/github/iamr0s/carplay/video/TestVideo$$ExternalSyntheticLambda0;
+DLio/github/iamr0s/carplay/video/TestVideo$$ExternalSyntheticLambda1;
+DLio/github/iamr0s/carplay/video/TestVideo$$ExternalSyntheticLambda2;
+DLio/github/iamr0s/carplay/video/TestVideo$$ExternalSyntheticLambda3;
+DLio/github/iamr0s/carplay/video/TestVideo$$ExternalSyntheticLambda4;
+,Lio/github/iamr0s/carplay/video/TestVideo$1;
+4Lio/github/iamr0s/carplay/video/TestVideo$Companion;
+1Lio/github/iamr0s/carplay/video/TestVideo$run$12;
+0Lio/github/iamr0s/carplay/video/TestVideo$run$1;
+2Lio/github/iamr0s/carplay/video/TestVideo$run$5$1;
+*Lio/github/iamr0s/carplay/video/TestVideo;
++Lio/github/iamr0s/carplay/video/TouchPoint;
+7Lio/github/iamr0s/carplay/video/TouchReports$Companion;
+3Lio/github/iamr0s/carplay/video/TouchReports$Field;
+-Lio/github/iamr0s/carplay/video/TouchReports;
+:Lio/github/iamr0s/carplay/video/VideoPackets$EncodedFrame;
+-Lio/github/iamr0s/carplay/video/VideoPackets;
+;Lio/github/iamr0s/carplay/video/VideoTestOptions$Companion;
+1Lio/github/iamr0s/carplay/video/VideoTestOptions;
+-Lio/github/iamr0s/carplay/video/YuvPlaneCopy;
+Ljava/io/ByteArrayOutputStream;
+Ljava/io/Closeable;
+Ljava/lang/Boolean;
+Ljava/lang/Byte;
+Ljava/lang/CharSequence;
+Ljava/lang/Exception;
+$Ljava/lang/IllegalArgumentException;
+!Ljava/lang/IllegalStateException;
+Ljava/lang/Integer;
+Ljava/lang/Iterable;
+Ljava/lang/Long;
+Ljava/lang/Math;
+Ljava/lang/Number;
+Ljava/lang/Object;
+Ljava/lang/String;
+Ljava/lang/StringBuilder;
+Ljava/lang/System;
+Ljava/lang/Throwable;
+Ljava/lang/Void;
+Ljava/nio/Buffer;
+Ljava/nio/ByteBuffer;
+Ljava/nio/ByteOrder;
+Ljava/util/ArrayList;
+Ljava/util/Arrays;
+Ljava/util/Collection;
+Ljava/util/Iterator;
+Ljava/util/List;
+Ljava/util/List<
+"Ljava/util/NoSuchElementException;
++Ljava/util/concurrent/atomic/AtomicBoolean;
+Ljavax/crypto/Cipher;
+Lkotlin/Function0;
+Lkotlin/Function1;
+Lkotlin/Function3;
+Lkotlin/Metadata;
+Lkotlin/Pair;
+Lkotlin/Pair<
+Lkotlin/Result$Companion;
+Lkotlin/Result;
+Lkotlin/Result<
+Lkotlin/ResultKt;
+Lkotlin/Triple;
+Lkotlin/Triple<
+Lkotlin/TuplesKt;
+Lkotlin/Unit;
+Lkotlin/collections/ArraysKt;
+"Lkotlin/collections/CollectionsKt;
+ Lkotlin/collections/IntIterator;
+ Lkotlin/coroutines/Continuation;
+ Lkotlin/coroutines/Continuation<
+$Lkotlin/coroutines/CoroutineContext;
++Lkotlin/coroutines/intrinsics/IntrinsicsKt;
+'Lkotlin/coroutines/jvm/internal/Boxing;
+1Lkotlin/coroutines/jvm/internal/ContinuationImpl;
+.Lkotlin/coroutines/jvm/internal/DebugMetadata;
++Lkotlin/coroutines/jvm/internal/SpillingKt;
+.Lkotlin/coroutines/jvm/internal/SuspendLambda;
+ Lkotlin/jvm/functions/Function0;
+ Lkotlin/jvm/functions/Function0<
+ Lkotlin/jvm/functions/Function1;
+ Lkotlin/jvm/functions/Function1<
+ Lkotlin/jvm/functions/Function2;
+ Lkotlin/jvm/functions/Function2<
+ Lkotlin/jvm/functions/Function3;
+ Lkotlin/jvm/functions/Function3<
+.Lkotlin/jvm/internal/DefaultConstructorMarker;
+ Lkotlin/jvm/internal/Intrinsics;
+#Lkotlin/jvm/internal/Ref$ObjectRef;
+#Lkotlin/jvm/internal/Ref$ObjectRef<
+Lkotlin/math/MathKt;
+Lkotlin/ranges/IntRange;
+Lkotlin/ranges/RangesKt;
+Lkotlin/text/CharsKt;
+Lkotlin/text/StringsKt;
+Lkotlinx/coroutines/BuildersKt;
+#Lkotlinx/coroutines/CoroutineScope;
+Lkotlinx/coroutines/DelayKt;
+ Lkotlinx/coroutines/Dispatchers;
+Lkotlinx/coroutines/JobKt;
+,Lkotlinx/coroutines/MainCoroutineDispatcher;
+#Lkotlinx/coroutines/NonCancellable;
+Long HID items unsupported
+Missing encoded output
+!No supported contact state fields
+'Only absolute variable fields supported
+#Report IDs/global stack unsupported
+Required value was null.
+SMAP
+KeyReports.kt
+Kotlin
+*S Kotlin
++ 1 KeyReports.kt
+io/github/iamr0s/carplay/video/KeyReports
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,32:1
+1#2:33
+SMAP
+KeyReports.kt
+Kotlin
+*S Kotlin
++ 1 KeyReports.kt
+io/github/iamr0s/carplay/video/KeyReports$Companion
++ 2 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
+1#1,32:1
+1563#2:33
+1634#2,3:34
+*S KotlinDebug
++ 1 KeyReports.kt
+io/github/iamr0s/carplay/video/KeyReports$Companion
+22#1:33
+22#1:34,3
+SMAP
+TestVideo.kt
+Kotlin
+*S Kotlin
++ 1 TestVideo.kt
+io/github/iamr0s/carplay/video/TestVideo
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
++ 3 CoroutineScope.kt
+kotlinx/coroutines/CoroutineScopeKt
++ 4 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
+1#1,201:1
+1#2:202
+375#3:203
+1869#4,2:204
+*S KotlinDebug
++ 1 TestVideo.kt
+io/github/iamr0s/carplay/video/TestVideo
+78#1:203
+58#1:204,2
+SMAP
+TestVideo.kt
+Kotlin
+*S Kotlin
++ 1 TestVideo.kt
+io/github/iamr0s/carplay/video/TestVideo$Companion
++ 2 _Arrays.kt
+kotlin/collections/ArraysKt___ArraysKt
++ 3 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,201:1
+2945#2,12:202
+1#3:214
+*S KotlinDebug
++ 1 TestVideo.kt
+io/github/iamr0s/carplay/video/TestVideo$Companion
+195#1:202,12
+SMAP
+TestVideo.kt
+Kotlin
+*S Kotlin
++ 1 TestVideo.kt
+io/github/iamr0s/carplay/video/TestVideo$run$12
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,201:1
+1#2:202
+SMAP
+TouchReports.kt
+Kotlin
+*S Kotlin
++ 1 TouchReports.kt
+io/github/iamr0s/carplay/video/TouchReports
++ 2 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
++ 3 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,84:1
+774#2:85
+865#2,2:86
+774#2:88
+865#2,2:89
+774#2:91
+865#2,2:92
+360#2,7:95
+1803#2,3:102
+1#3:94
+*S KotlinDebug
++ 1 TouchReports.kt
+io/github/iamr0s/carplay/video/TouchReports
+8#1:85
+8#1:86,2
+9#1:88
+9#1:89,2
+10#1:91
+10#1:92,2
+21#1:95,7
+16#1:102,3
+SMAP
+TouchReports.kt
+Kotlin
+*S Kotlin
++ 1 TouchReports.kt
+io/github/iamr0s/carplay/video/TouchReports$Companion
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
++ 3 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
+1#1,84:1
+1#2:85
+774#3:86
+865#3,2:87
+774#3:89
+865#3,2:90
+774#3:92
+865#3,2:93
+1740#3,3:95
+1740#3,3:98
+1740#3,3:101
+1869#3,2:104
+*S KotlinDebug
++ 1 TouchReports.kt
+io/github/iamr0s/carplay/video/TouchReports$Companion
+68#1:86
+68#1:87,2
+69#1:89
+69#1:90,2
+70#1:92
+70#1:93,2
+71#1:95,3
+73#1:98,3
+74#1:101,3
+76#1:104,2
+SMAP
+VideoPackets.kt
+Kotlin
+*S Kotlin
++ 1 VideoPackets.kt
+io/github/iamr0s/carplay/video/VideoPackets
++ 2 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
++ 3 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,126:1
+1761#2,3:127
+1869#2,2:131
+1#3:130
+*S KotlinDebug
++ 1 VideoPackets.kt
+io/github/iamr0s/carplay/video/VideoPackets
+44#1:127,3
+99#1:131,2
+SMAP
+VideoTestOptions.kt
+Kotlin
+*S Kotlin
++ 1 VideoTestOptions.kt
+io/github/iamr0s/carplay/video/VideoTestOptions$Companion
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,24:1
+1#2:25
+Signed coordinates unsupported
+Square
+Square(x=
+SurfaceFrameTimeline.kt
+TestPattern.kt
+TestVideo.kt
+Touch report length=
+TouchPoint(pressed=
+TouchReports.kt
+Truncated HID descriptor
+ Unexpected AES-CTR output length
+Unknown key selector=
+Unsupported contact field
+"Unsupported contact field ordering
+Usage ranges unsupported
+VIIIIII
+VIIIJI
+VIIIL
+VIIIZ
+VIIIZZZL
+VIIIZZZLIL
+VLIIB
+VLIII
+VLIIIIIII
+VLIIIIIIIIL
+VLIIIZIL
+VLIL
+VLLIIII
+VLLL
+VLLLI
+VLLLL
+VZIIII
+)Video codec configuration sent sps-bytes=
+Video costs averages render-ms=
+Video encoder capability name=
+Video encoder=
+>Video first encoded IDR sent; peer rendering not yet confirmed
+ Video keyframe requested by peer
+Video stats timeline-slots=
+Video stopped generated=
+VideoPackets.kt
+VideoTestOptions(fps=
+VideoTestOptions.kt
+YUV420Flexible
+YuvPlaneCopy.kt
+ZIID
+[B>;
+[B>;)[B
+[B>;[B)V
+[Landroid/media/Image$Plane;
+[Landroid/media/MediaCodecInfo;
+[Ljava/lang/Integer;
+[Ljava/lang/Object;
+[Ljava/lang/String;
+absolute-contact slots=
+access$getFps$p
+access$getHeight$p
+access$getWidth$p
+accessFlags
+accumulator\1
+active
+actualFps
+aesFrame
+also(...)
+apiLevel
+append
+apply
+apply(...)
+areEqual
+areSizeAndRateSupported
+arrivalUs
+avcc
+awaitingIdr
+background
+baseUs
+began
+begin
+bit\2
+bitrate
+bits
+body
+booleanValue
+bottom
+box-impl
+boxBoolean
+boxLong
+buffer
+bytes
+bytes\10
+bytes\2
+/call to 'resume' before 'invoke' with coroutine
+capabilities
+capability
+carWith
+carplay-xiaomi-carlife
+checkNotNull
+checkNotNullExpressionValue
+checkNotNullParameter
+checkRadix
+chunked
+cipher
+clear
+close
+codec
+codecs
+coerceAtLeast
+coerceIn
+collectionSizeOrDefault
+color
+color-format
+component1
+component2
+component3
+component4
+component5
+component6
+composeDesktop
+config
+configs
+configure
+constructor-impl
+contactSlots
+contains
+context
+copy
+copy$default
+copyInto$default
+copyNanos
+copyOf
+copyOf(...)
+copyOfRange
+copyStart
+count
+counter
+create
+createByCodecName
+createFailure
+createInputSurface
+createVideoFormat
+csd-0
+csd-1
+cursor
+decode
+decode$pixel
+decode$value
+delay
+dequeueInputBuffer
+dequeueOutputBuffer
+descriptor
+desktop
+destination\11
+destination\14
+destination\17
+destination\2
+destination\5
+destination\8
+distance
+down
+duplicate
+edit
+elapsedSlot
+element
+element\1
+element\11
+element\14
+element\17
+element\19
+element\2
+element\23
+element\26
+element\29
+element\3
+element\4
+element\5
+element\8
+emptyList
+encoded
+encodedFrame
+encodedFrame$start
+encoder
+equals
+error\13
+error\14
+error\17
+error\18
+exceptionOrNull-impl
+extent
+failure
+field
+fields
+fill
+findEncoderForFormat
+first-frame-timeout
+firstArrivalUs
+firstFrameTimeoutReason
+firstRawUs
+flags
+format
+found\2
+frame
+frame-rate
+frameNumber
+getAndSet
+getBuffer
+getBuffer(...)
+getByteBuffer
+getBytes
+getCOROUTINE_SUSPENDED
+getCapabilitiesForType
+getCodecInfo
+getCodecInfos
+getCodecInfos(...)
+getContactSlots
+getContext
+getFirst
+getFps
+getIndices
+getInputImage
+getInt
+getKey
+getLastIndex
+getLuma
+getMain
+getMax
+getMin
+getName
+getOffset
+getOrNull
+getOutputBuffer
+getOutputFormat
+getOutputFormat(...)
+getPage
+getPixelStride
+getPlanes
+getPressed
+getRawX
+getRawY
+getRelay
+getRowStride
+getScale
+getSecond
+getSharedPreferences
+getSize
+getSupportedFrameRatesFor
+getTransport
+getU
+getUsage
+getV
+getVideoCapabilities
+getX
+getY
+hasNext
+hashCode
+header
+height
+holder
+i-frame-interval
+i\30
+image
+index
+index\2
+info
+initial\1
+input
+inputIndex
+inputSurface
+intValue
+invoke
+invokeSuspend
+(io.github.iamr0s.carplay.video.TestVideo
+/io.github.iamr0s.carplay.video.TestVideo$run$12
+0io.github.iamr0s.carplay.video.TestVideo$run$5$1
+isActive
+isEmpty
+it\1
+it\12
+it\13
+it\14
+it\15
+it\17
+it\18
+it\2
+it\20
+it\24
+it\27
+it\3
+it\4
+it\5
+it\6
+it\9
+item\2
+iterator
+iterator(...)
+keyFrame
+kind
+label
+lastLog
+lastSent
+left
+length
+lengthPrefixed
+limit
+listOf
+load
+longValue
+luma
+max-bframes
+max-fps-to-encoder
+maximum
+measured
+method
+ ms; receiver-display-fps=unknown
+nalBegin
+nals
+nals$start$2
+name
+names
+nanoTime
+next
+next(...)
+nextInt
+nonce
+nullOutSpilledVariable
+offset
+open
+order
+origin
+other
+output
+outputFormat
+p0\11
+p0\12
+packed
+packet
+page
+parse
+parseInt
+pattern
+phase
+pixelStride
+plane
+planeIndex
+planes
+plus
+point
+position
+prefix
+prefs
+presentationTimeUs
+pressed
+previousUs
+primarySlot
+profile
+projection
+proto
+providerEncoder
+ptsBaseUs
+putFloat
+putInt
+putLong
+queueInputBuffer
+ranges
+rates
+rawUs
+rawX
+rawY
+reason
+receiverFps
+reconfigure
+release
+releaseOutputBuffer
+remaining
+render
+render$rect
+render$rect$default
+renderNanos
+renderStart
+repeat-previous-frame-after
+report
+reportReadiness
+request-sync
+requestKeyFrame
+result
+right
+roundToInt
+rowStride
+run$default
+run$ingestConfig
+run$lambda$0
+run$lambda$12
+run$lambda$13
+run$lambda$14
+run$lambda$8
+run(...)
+save
+scale
+sealInto
+seconds
+select
+sendNanos
+sendStart
+sent
+setFloat
+setInteger
+setLong
+setParameters
+single\2
+size
+skipped
+slot
+source
+span
+square
+square$bounce
+start
+stop
+stream
+surfaceInput
+surfaceTimeline
+target
+target\2
+this
+this$0
+throwOnFailure
+timeUs
+tips
+toByteArray
+toString
+touch
+transitions
+type
+unbox-impl
+until
+update
+usage
+usages
+validate
+validate$default
+value
+valueOf
+versionHash
+video-test
+video/avc
+width
+withContext
+wrap
+wrapped
+write
+e~~D8{"backend":"dex","compilation-mode":"debug","has-checksums":true,"min-api":29,"version":"9.1.31"}
+~~~{"Lio/github/iamr0s/carplay/video/KeyReports$Companion;":"41d6327a","Lio/github/iamr0s/carplay/video/KeyReports;":"6c098a53","Lio/github/iamr0s/carplay/video/SurfaceFrameTimeline;":"5f22e548","Lio/github/iamr0s/carplay/video/TestPattern$Square;":"4936fd82","Lio/github/iamr0s/carplay/video/TestPattern;":"b08e3135","Lio/github/iamr0s/carplay/video/TestVideo$$ExternalSyntheticLambda0;":"-35a8a76d6","Lio/github/iamr0s/carplay/video/TestVideo$$ExternalSyntheticLambda1;":"690045eab","Lio/github/iamr0s/carplay/video/TestVideo$$ExternalSyntheticLambda2;":"-b4420011","Lio/github/iamr0s/carplay/video/TestVideo$$ExternalSyntheticLambda3;":"-111caf1a5","Lio/github/iamr0s/carplay/video/TestVideo$$ExternalSyntheticLambda4;":"-103c080fb","Lio/github/iamr0s/carplay/video/TestVideo$1;":"79c746b4","Lio/github/iamr0s/carplay/video/TestVideo$Companion;":"49fbf01","Lio/github/iamr0s/carplay/video/TestVideo$run$12;":"386f2d83","Lio/github/iamr0s/carplay/video/TestVideo$run$1;":"2fd5fd80","Lio/github/iamr0s/carplay/video/TestVideo$run$5$1;":"57748835","Lio/github/iamr0s/carplay/video/TestVideo;":"ec61af41","Lio/github/iamr0s/carplay/video/TouchPoint;":"8747d3fa","Lio/github/iamr0s/carplay/video/TouchReports$Companion;":"33763392","Lio/github/iamr0s/carplay/video/TouchReports$Field;":"dc94202e","Lio/github/iamr0s/carplay/video/TouchReports;":"86baecf8","Lio/github/iamr0s/carplay/video/VideoPackets$EncodedFrame;":"4de65bf2","Lio/github/iamr0s/carplay/video/VideoPackets;":"ee5ddfc0","Lio/github/iamr0s/carplay/video/VideoTestOptions$Companion;":"602324e9","Lio/github/iamr0s/carplay/video/VideoTestOptions;":"d8bb422f","Lio/github/iamr0s/carplay/video/YuvPlaneCopy;":"2210b7a4"}
+ CarWith 
+ Compose 
+ H.264 
+ Drop
+ Flash
+ Hook Switch

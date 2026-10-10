@@ -1,0 +1,14 @@
+{
+  "manufacturer": "OPPO",
+  "model": "Find N6",
+  "android_version": "16",
+  "security_patch": "",
+  "carlife_version": "",
+  "wireless_carlife": null,
+  "connection_method": "",
+  "background_restrictions": "",
+  "root_or_os_modification_required": false,
+  "notes": [
+    "Wireless CarLife support and exact CarLife version still need verification on the phone."
+  ]
+}

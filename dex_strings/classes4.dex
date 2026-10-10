@@ -1,0 +1,1974 @@
+d4A`
+@@3Q
+&n0h
+!Uq0
+ n0h
+!qq 
+ n0h
+F5TL
+gTp 
+En0h
+2W"%\
+-8-&
+(n0h
+""(T
+PT't
+$n0h
+En0h
+fn0h
+!eq0
+)n0h
+!wq0
+Pn j
+!46I
+#n [
+1n [
+An [
+z?q 
+(+Ts
+(%T0
+(.T0
+-x9+
+`KZ9
+xK-)
++=f 
+xKK-ki
+igx+j*j*
+8F@BX
+0,2*
+ (WEP is not supported)
+ accessory-receives=
+ ack-timeout-ms=
+ addresses=
+ advertised-max-retries=
+ app=
+ artist=
+ axis=
+ buffered=
+. bytes; waiting for marker or valid SYN header
+ bytes=
+ chain-count=
+ channel=
+ chunk-offset=
+ declared-length=
+ detection-buffered=
+ detection-ready=
+ detection-reply=
+ discarded=
+ elapsed-since-first-send=
+ elapsed=
+ expected-ack=
+ expected-seq=
+ frames=
+ header=
+ hex=
+ incoming-security=
+ limit-px=
+ local-syn=
+ marker=
+ max-cumulative-acks=
+ max-receive-packet=
+ negotiated=
+ next-security=
+ normalized=
+ outstanding=
+ parse-rejected=
+ password=
+ payload=
+ peak-px=
+ peer-max-cumulative-acks=
+ peer-max-length=
+ peer-receive-window=
+ peer-syn=
+ phase=
+ playback=
+ port=
+ position=
+ public-key=
+ queued-fragments=
+ queued=
+ reason=
+ receive-window=
+ receive4300=
+ received-ack=
+ receiver-id=
+ receiver-public-key=
+ rejected=
+ retransmission-ms=
+ retries=
+ rx-bytes=
+ rx-frames=
+ rx=
+ security=
+ seq=
+ session=
+ sessions=
+ state=
+ stream-offset=
+ title=
+ total=
+ trailing-bytes=
+ transport raw phase=
+ tx-bytes=
+ velocity=
+ zero-acks=
+$ENTRIES
+$VALUES
+$bytes
+$changed
+$changed\1
+$changed\6
+$changed\7
+$child
+$chunks
+$completion
+$composer
+$composer\1
+$composer\6
+$composer\7
+$continuation
+$currentEnabled
+$enabled
+$enum$name
+$enum$ordinal
+$fields
++$i$a$-all-Iap2Probe$run$2$index$1$1\7\372\5
++$i$a$-all-WirelessMessages$start$2\14\246\0
++$i$a$-all-WirelessMessages$string$2\4\233\0
+/$i$a$-also-WirelessBootstrap$receive$6\14\157\0
+?$i$a$-any-RubberBandScrollKt$rubberBandScroll$1$3$1$1$1\2\195\0
+0$i$a$-apply-Iap2Probe$run$2$syncPayload$1\1\63\0
+0$i$a$-buildList-NowPlayingBridge$encode$1\7\25\0
+6$i$a$-cache-EffectsKt$rememberCoroutineScope$2\4\212\1
+<$i$a$-cache-RubberBandScrollKt$rubberBandScroll$1$1\20\236\0
+<$i$a$-cache-RubberBandScrollKt$rubberBandScroll$1$2\23\242\0
+<$i$a$-cache-RubberBandScrollKt$rubberBandScroll$1$3\26\248\0
+<$i$a$-cache-RubberBandScrollKt$rubberBandScroll$1$4\29\254\0
+<$i$a$-cache-RubberBandScrollKt$rubberBandScroll$1$5\32\260\0
+G$i$a$-cache-RubberBandScrollKt$rubberBandScroll$1$connection$1\17\230\0
+B$i$a$-cache-RubberBandScrollKt$rubberBandScroll$1$state$1\14\224\0
++$i$a$-check-ControlDecoder$append$1\1\120\0
+%$i$a$-check-Iap2Probe$run$2$1\3\166\0
+)$i$a$-check-Iap2Probe$run$2$2$1\12\261\11
+&$i$a$-check-Iap2Probe$run$2$6\19\292\0
+-$i$a$-check-Iap2Probe$run$2$enqueue$1\2\100\0
+'$i$a$-check-LinkDecoder$append$1\2\74\0
+0$i$a$-check-WirelessBootstrap$receive$5\12\151\0
+0$i$a$-check-WirelessBootstrap$receive$7\17\174\0
+)$i$a$-check-WirelessConfig$merge$1\1\19\0
+8$i$a$-filter-NowPlayingBridge$encode$attributes$1\3\34\0
+4$i$a$-filter-NowPlayingBridge$encode$states$1\6\37\0
+<$i$a$-filter-WirelessBootstrap$receive$candidates$1\10\240\0
+7$i$a$-filter-WirelessMessages$start$addresses$1\9\239\0
+4$i$a$-firstOrNull-ControlMessage$parameter$1\2\134\0
+1$i$a$-firstOrNull-Iap2Probe$run$2$index$1\5\370\0
+4$i$a$-firstOrNull-Iap2Probe$run$2$synIndex$1\9\375\0
+9$i$a$-firstOrNull-WirelessMessages$config$field$1\2\248\0
+0$i$a$-fold-WirelessMessages$start$port$1\5\236\0
+)$i$a$-forEach-Iap2Codec$control$1\2\135\0
+($i$a$-forEach-Iap2Probe$run$2$4\16\377\0
+/$i$a$-forEach-Iap2Probe$run$2$enqueue$4\9\390\0
+2$i$a$-forEachIndexed-Iap2Probe$run$2$4$1\18\379\16
+6$i$a$-forEachIndexed-Iap2Probe$run$2$enqueue$2\4\384\0
+9$i$a$-forEachIndexed-Iap2Probe$run$2$enqueue$4$1\11\392\9
++$i$a$-ifEmpty-WirelessConfig$merge$3\3\23\0
+&$i$a$-let-ComposerKt$cache$1\13\222\12
+&$i$a$-let-ComposerKt$cache$1\16\228\15
+&$i$a$-let-ComposerKt$cache$1\19\234\18
+&$i$a$-let-ComposerKt$cache$1\22\240\21
+&$i$a$-let-ComposerKt$cache$1\25\246\24
+&$i$a$-let-ComposerKt$cache$1\28\252\27
+&$i$a$-let-ComposerKt$cache$1\31\258\30
+$$i$a$-let-ComposerKt$cache$1\3\210\2
+$$i$a$-let-Iap2Probe$run$2$2\11\260\0
+-$i$a$-let-Iap2Probe$run$2$expected$1\14\268\0
+0$i$a$-let-NowPlayingBridge$encode$group$1\1\21\0
+9$i$a$-let-WirelessBootstrap$receive$messageList$1\1\125\0
+/$i$a$-let-WirelessMessages$config$byte$1\1\60\0
+3$i$a$-let-WirelessMessages$config$password$1\1\64\0
+*$i$a$-let-WirelessMessages$start$3\16\56\0
+*$i$a$-let-WirelessMessages$start$4\17\56\0
+.$i$a$-let-WirelessMessages$string$end$1\2\33\0
++$i$a$-map-Iap2Probe$run$2$enqueue$3\7\388\0
+-$i$a$-map-NowPlayingBridge$requested$1\3\31\0
+-$i$a$-map-WirelessBootstrap$receive$2\3\233\0
+-$i$a$-map-WirelessBootstrap$receive$3\7\237\0
+.$i$a$-map-WirelessBootstrap$receive$8\20\257\0
+;$i$a$-map-WirelessBootstrap$receive$messageList$1$2\5\261\1
+5$i$a$-map-WirelessMessages$start$addresses$2\12\243\0
+B$i$a$-onDispose-RubberBandScrollKt$rubberBandScroll$1$1$1$1\1\68\0
+G$i$a$-rememberCoroutineScope-EffectsKt$rememberCoroutineScope$1\5\209\0
+-$i$a$-require-ControlDecoder$append$2\2\123\0
+/$i$a$-require-Iap2Codec$controlSession$1\1\35\0
+($i$a$-require-Iap2Probe$run$2$8\21\317\0
+C$i$a$-require-WirelessBootstrap$Companion$verifyChallenge$2\2\221\0
+2$i$a$-require-WirelessBootstrap$receive$4\11\148\0
+?$i$a$-require-WirelessBootstrap$receive$messageList$1$1\2\126\1
+.$i$a$-require-WirelessMessages$config$1\2\65\0
+.$i$a$-require-WirelessMessages$config$2\3\66\0
+.$i$a$-require-WirelessMessages$config$3\4\68\0
+.$i$a$-require-WirelessMessages$config$4\5\69\0
+5$i$a$-require-WirelessMessages$config$byte$1$1\2\61\1
+-$i$a$-require-WirelessMessages$start$1\2\46\0
+.$i$a$-require-WirelessMessages$string$1\1\32\0
+.$i$a$-require-WirelessMessages$string$3\5\34\0
+?$i$a$-run-WirelessBootstrap$Companion$verifyChallenge$1\1\217\0
+?$i$a$-run-WirelessBootstrap$Companion$verifyChallenge$3\3\223\0
+,$i$a$-runCatching-Iap2Probe$run$2$9\10\360\0
+,$i$a$-runCatching-Iap2Probe$run$2$9\13\360\0
+,$i$a$-runCatching-Iap2Probe$run$2$9\20\360\0
+,$i$a$-runCatching-Iap2Probe$run$2$9\24\360\0
+6$i$a$-single-WirelessBootstrap$receive$leaf$1\16\246\0
+*$i$a$-sumOfInt-Iap2Codec$checksum$1\1\21\0
+/$i$a$-sumOfInt-Iap2Codec$validChecksum$1\1\22\0
+:$i$a$-takeIf-Iap2Probe$run$2$retransmissionMillis$1\2\66\0
+*$i$a$-takeIf-WirelessConfig$merge$2\2\23\0
+E$i$a$-with-RubberBandScrollKt$rubberBandScroll$1$maxDistance$1\8\56\0
+G$i$a$-with-RubberBandScrollKt$rubberBandScroll$1$minimumLimit$1\10\57\0
+$i$f$Offset\1\134
+$i$f$Offset\3\134
+$i$f$all\13\54
+$i$f$all\3\34
+$i$f$all\6\169
+$i$f$any\1\97
+$i$f$cache\12\58
+$i$f$cache\15\59
+$i$f$cache\18\89
+$i$f$cache\21\90
+$i$f$cache\24\91
+$i$f$cache\27\107
+$i$f$cache\2\209
+$i$f$cache\30\110
+#$i$f$currentCoroutineContext\22\355
+$i$f$filterTo\2\33
+$i$f$filterTo\5\36
+$i$f$filterTo\8\238
+$i$f$filterTo\9\239
+$i$f$filter\1\22
+$i$f$filter\4\24
+$i$f$filter\7\53
+$i$f$filter\8\147
+$i$f$firstOrNull\1\59
+$i$f$firstOrNull\1\7
+$i$f$firstOrNull\4\168
+$i$f$firstOrNull\8\171
+$i$f$floatFromBits\3\198
+$i$f$floatFromBits\6\201
+$i$f$fold\4\51
+$i$f$forEachIndexed\10\110
+$i$f$forEachIndexed\17\283
+$i$f$forEachIndexed\3\102
+$i$f$forEach\15\282
+$i$f$forEach\1\44
+$i$f$forEach\8\108
+$i$f$getCurrent\6\53
+$i$f$getCurrent\7\54
+$i$f$getDp\11\57
+$i$f$getDp\9\56
+$i$f$getHeight-impl\1\108
+$i$f$getValue\1\122
+$i$f$getWidth-impl\3\108
+$i$f$getX-impl\4\132
+$i$f$getY-impl\1\132
+$i$f$mapTo\11\241
+$i$f$mapTo\19\255
+$i$f$mapTo\2\231
+$i$f$mapTo\2\29
+$i$f$mapTo\4\259
+$i$f$mapTo\6\235
+$i$f$mapTo\6\386
+$i$f$map\10\53
+$i$f$map\18\190
+$i$f$map\1\137
+$i$f$map\1\17
+$i$f$map\3\127
+$i$f$map\5\107
+$i$f$map\5\146
+$i$f$onDispose\1\89
+$i$f$packFloats\2\202
+$i$f$packFloats\4\202
+ $i$f$rememberCoroutineScope\1\52
+$i$f$setValue\1\122
+$i$f$single\15\164
+$i$f$unpackFloat1\5\200
+$i$f$unpackFloat2\2\197
+$i$f$unpackInt1\4\201
+$i$f$unpackInt2\2\199
+$initialVelocity
+$input
+$label
+$maxDistance
+$message
+$minimumLimit
+$orientation
+$output
+$peerMaxLength
+$queue
+$queueDescriptions
+$reason
+$received
+$result
+$scope
+$sent
+$stable
+$start
+$state
+$state$inlined
+$this
+$this$DisposableEffect
+$this$all\13
+$this$all\3
+$this$all\6
+$this$any\1
+$this$awaitEachGesture
+$this$cache\12
+$this$cache\15
+$this$cache\18
+$this$cache\2
+$this$cache\21
+$this$cache\24
+$this$cache\27
+$this$cache\30
+$this$composed
+$this$coroutineScope
+$this$dp\11
+$this$dp\9
+$this$encode_u24lambda_u244\7
+$this$filterTo\2
+$this$filterTo\5
+$this$filterTo\8
+$this$filterTo\9
+$this$filter\1
+$this$filter\4
+$this$filter\7
+$this$filter\8
+$this$firstOrNull\1
+$this$firstOrNull\4
+$this$firstOrNull\8
+$this$fold\4
+$this$forEachIndexed\10
+$this$forEachIndexed\17
+$this$forEachIndexed\3
+$this$forEach\1
+$this$forEach\15
+$this$forEach\8
+$this$getValue\1
+$$this$invokeSuspend_u24lambda_u241\1
+&$this$invokeSuspend_u24lambda_u2424\10
+&$this$invokeSuspend_u24lambda_u2424\13
+&$this$invokeSuspend_u24lambda_u2424\20
+&$this$invokeSuspend_u24lambda_u2424\24
+$this$launch
+$this$layout
+$this$mapTo\11
+$this$mapTo\19
+$this$mapTo\2
+$this$mapTo\4
+$this$mapTo\6
+$this$map\1
+$this$map\10
+$this$map\18
+$this$map\3
+$this$map\5
+$this$pointerInput
+$this$rubberBandScroll
+7$this$rubberBandScroll_u24lambda_u2415_u24lambda_u241\8
+8$this$rubberBandScroll_u24lambda_u2415_u24lambda_u242\10
+$this$setValue\1
+$this$single\15
+&$this$verifyChallenge_u24lambda_u240\1
+&$this$verifyChallenge_u24lambda_u242\3
+$token
+2$v$c$androidx-compose-ui-geometry-Offset$-this$0\1
+2$v$c$androidx-compose-ui-geometry-Offset$-this$0\4
+/$v$c$androidx-compose-ui-unit-IntSize$-this$0\1
+/$v$c$androidx-compose-ui-unit-IntSize$-this$0\3
+$values
+%02X
+7()Landroidx/compose/runtime/ProvidableCompositionLocal;
+8()Lio/github/iamr0s/carplay/protocol/NowPlayingSnapshot;
+()Ljava/lang/Integer;
+()Ljava/lang/String;
+()Ljava/util/List;
+()Lkotlin/Unit;
+()[B
+(B)Ljava/lang/CharSequence;
+(F)J
+(F)V
+(I)Ljava/lang/CharSequence;
+(IIII[B)V
+(ILjava/util/List;)V
+(J)F
+(J)Lkotlin/Unit;
+(JI)J
+(JJI)J
+6(JJLkotlin/coroutines/Continuation;)Ljava/lang/Object;
+5(JLkotlin/coroutines/Continuation;)Ljava/lang/Object;
+(Landroidx/compose/foundation/gestures/Orientation;Lio/github/iamr0s/carplay/ui/RubberBandState;FFLandroidx/compose/ui/unit/IntSize;)Lkotlin/Unit;
+G(Landroidx/compose/foundation/gestures/Orientation;Ljava/lang/String;)V
+(Landroidx/compose/foundation/gestures/Orientation;Ljava/lang/String;Landroidx/compose/ui/Modifier;Landroidx/compose/runtime/Composer;I)Landroidx/compose/ui/Modifier;
+O(Lio/github/iamr0s/carplay/protocol/Iap2Probe;JLjava/lang/String;)Lkotlin/Unit;
+?(Lio/github/iamr0s/carplay/ui/RubberBandState;JFF)Lkotlin/Unit;
+(Lio/github/iamr0s/carplay/ui/RubberBandState;Landroidx/compose/foundation/gestures/Orientation;Landroidx/compose/ui/layout/MeasureScope;Landroidx/compose/ui/layout/Measurable;Landroidx/compose/ui/unit/Constraints;)Landroidx/compose/ui/layout/MeasureResult;
+(Lio/github/iamr0s/carplay/ui/RubberBandState;Landroidx/compose/runtime/DisposableEffectScope;)Landroidx/compose/runtime/DisposableEffectResult;
+(Lio/github/iamr0s/carplay/ui/RubberBandState;Landroidx/compose/ui/layout/Placeable;Landroidx/compose/foundation/gestures/Orientation;Landroidx/compose/ui/layout/Placeable$PlacementScope;)Lkotlin/Unit;
+_(Ljava/io/InputStream;Ljava/io/OutputStream;Lkotlin/coroutines/Continuation;)Ljava/lang/Object;
+!(Ljava/lang/String;)Lkotlin/Unit;
+(Ljava/lang/String;)V
+*(Ljava/lang/String;ILjava/lang/String;JZ)V
+p(Ljava/lang/String;Ljava/lang/String;IILjava/util/List;Ljava/lang/Integer;Ljava/lang/String;Ljava/lang/String;)V
+N(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;JJI)V
+(Ljava/lang/String;Ljava/lang/String;ZLkotlin/jvm/functions/Function1;Lkotlin/jvm/functions/Function1;Lkotlin/jvm/functions/Function1;Lkotlin/jvm/functions/Function0;)V
+j(Ljava/util/List;Ljava/util/List;Lio/github/iamr0s/carplay/TestState;)Lio/github/iamr0s/carplay/TestState;
+'(Lkotlin/Pair;)Ljava/lang/CharSequence;
+#(Lkotlin/jvm/functions/Function1;)V
+(Lkotlin/jvm/functions/Function1;Lkotlin/jvm/functions/Function1;ZLio/github/iamr0s/carplay/protocol/WirelessBootstrap;ZLio/github/iamr0s/carplay/protocol/BluetoothSyncExperiment;)V
+([B)
+([BI)Ljava/lang/CharSequence;
+*>;)
++[B>;>;
+, acknowledgement=
+, album=
+, app=
+, artist=
+, duration=
+, parameters=
+, payload=
+, position=
+, sequence=
+, session=
+, state=
+,type=
+,version=
+0x%04X
+0x%04X:%dB
+@7bbc1d7254613ffaa026de47d975f73968361ef3e5d7b818ce0a83a33039c6b8
+; buffered=
+E; close-reason=control-ack-timeout; no application rejection received
+3; confirmation=link-ACK, not application acceptance
+,; contents recorded in RX CSM parameter dump
+; metadata-changed=
+; modern4300=
+; parameter-ids=
+>; peer subscription honored; cluster display/lyrics unverified
+; peer-SYN-wait=
+; reader-error=
+!; sending available metadata only
+; skipped=
+; start4301=
+5; stop-and-wait TX; ordered RX acknowledged per frame
+/; trust-chain-verified=false; development-mode=
+; trust-chain=not-provisioned
+<anonymous>
+<clinit>
+<init>
+<set-?>
+<this>
+>;)V
+%Accessory certificate received bytes=
+BIG_ENDIAN
+BluetoothSyncExperiment.kt
+C51@2367L24,52@2421L7,53@2471L7,54@2502L29,57@2648L66,58@2734L1619,88@4382L41,88@4358L65,89@4452L51,89@4428L75,90@4568L703,106@5286L167,109@5461L462:RubberBandScroll.kt#9k8kb
+CAPTURE_IMMEDIATE
+CAPTURE_WAIT
+,CC(<get-current>):CompositionLocal.kt#9igjgp
+CC(remember):Effects.kt#9igjgp
+'CC(remember):RubberBandScroll.kt#9igjgp
+ECC(rememberCoroutineScope)N(getContext)600@27430L68:Effects.kt#9igjgp
+CSM string exceeds bound
+CSM=0x%04X fragment=%d/%d
+CarPlay Android
+PCertificate-only probe completed; wireless experiment disabled for this attempt.
+Channel$default
+3Collection contains more than one matching element.
+6Collection contains no element matching the predicate.
+Companion
+Control ACK timeout 
+#Control input exceeded buffer limit
+(Control message exceeds peer packet size
+Control queue exceeded bound
+ControlMessage(id=
+D8$$SyntheticClass
+Detection pending=
+%Detection response received; waiting 
+DisposableEffect
+Effects.kt
+Embedded NUL in CSM string
+/Expected exactly one accessory leaf certificate
+FFFF
+Failed requirement.
+HANGSHENG_RESPONDER
+'Handshake ACK not sufficient: peer-syn=
+Hangsheng responder: await accessory detection; reply once; await accessory SYN; no bare phone SYN fallback. Bluetooth path uses raw iAP2, not USB fragment prefixes. Local control session=10 (vendor fixed dispatch).
+Horizontal
+IIII
+ILII
+INSTANCE
+Iap2Codec.kt
+Iap2Probe.kt
+Initial
+Invalid SSID length
+Invalid Wi-Fi password length
+Invalid Wi-Fi scalar
+Invalid control message marker
+JJJI
+JJJJ
+JZ)V
+L$10
+L$11
+L$12
+L$13
+L$14
+L$15
+L$16
+L$17
+L$18
+L$19
+L$20
+L$21
+LFFFLLL
+LFFL
+LIIIIL
+LILLIL
+LJJL
+LJLL
+LLFL
+LLII
+LLIIII
+LLIIIILIL
+LLIILLIL
+LLILIL
+LLJFF
+LLJL
+LLLFFL
+LLLI
+LLLL
+LLLLIL
+LLLLL
+LLLLLI
+LLLLLIL
+LLLLLILLIL
+LLLLLJJI
+LLLLLL
+LLLLLLJJIIL
+LLZIIIDLLLLLLLLZLZZZIIILIL
+LLZLL
+/Landroidx/compose/animation/core/AnimationSpec;
+1Landroidx/compose/animation/core/AnimationSpecKt;
+,Landroidx/compose/animation/core/SpringSpec;
+4Landroidx/compose/animation/core/SuspendAnimationKt;
+7Landroidx/compose/foundation/gestures/ForEachGestureKt;
+2Landroidx/compose/foundation/gestures/Orientation;
+;Landroidx/compose/foundation/gestures/TapGestureDetectorKt;
+-Landroidx/compose/runtime/Composer$Companion;
+#Landroidx/compose/runtime/Composer;
+%Landroidx/compose/runtime/ComposerKt;
++Landroidx/compose/runtime/CompositionLocal;
+-Landroidx/compose/runtime/CompositionLocalKt;
+1Landroidx/compose/runtime/DisposableEffectResult;
+0Landroidx/compose/runtime/DisposableEffectScope;
+$Landroidx/compose/runtime/EffectsKt;
+%Landroidx/compose/runtime/FloatState;
+0Landroidx/compose/runtime/MonotonicFrameClockKt;
+,Landroidx/compose/runtime/MutableFloatState;
+3Landroidx/compose/runtime/PrimitiveSnapshotStateKt;
+5Landroidx/compose/runtime/ProvidableCompositionLocal;
+5Landroidx/compose/runtime/ProvidableCompositionLocal<
+*Landroidx/compose/runtime/SnapshotStateKt;
+ Landroidx/compose/runtime/State;
+ Landroidx/compose/runtime/State<
+(Landroidx/compose/ui/ComposedModifierKt;
+Landroidx/compose/ui/Modifier;
+!Landroidx/compose/ui/draw/ClipKt;
+/Landroidx/compose/ui/geometry/Offset$Companion;
+%Landroidx/compose/ui/geometry/Offset;
+?Landroidx/compose/ui/input/nestedscroll/NestedScrollConnection;
+?Landroidx/compose/ui/input/nestedscroll/NestedScrollDispatcher;
+?Landroidx/compose/ui/input/nestedscroll/NestedScrollModifierKt;
+ELandroidx/compose/ui/input/nestedscroll/NestedScrollSource$Companion;
+;Landroidx/compose/ui/input/nestedscroll/NestedScrollSource;
+:Landroidx/compose/ui/input/pointer/AwaitPointerEventScope;
+0Landroidx/compose/ui/input/pointer/PointerEvent;
+4Landroidx/compose/ui/input/pointer/PointerEventPass;
+6Landroidx/compose/ui/input/pointer/PointerInputChange;
+<Landroidx/compose/ui/input/pointer/PointerInputEventHandler;
+5Landroidx/compose/ui/input/pointer/PointerInputScope;
+BLandroidx/compose/ui/input/pointer/SuspendingPointerInputFilterKt;
+-Landroidx/compose/ui/layout/LayoutModifierKt;
+'Landroidx/compose/ui/layout/Measurable;
+*Landroidx/compose/ui/layout/MeasureResult;
+)Landroidx/compose/ui/layout/MeasureScope;
+3Landroidx/compose/ui/layout/OnRemeasuredModifierKt;
+5Landroidx/compose/ui/layout/Placeable$PlacementScope;
+&Landroidx/compose/ui/layout/Placeable;
+2Landroidx/compose/ui/platform/CompositionLocalsKt;
+&Landroidx/compose/ui/unit/Constraints;
+"Landroidx/compose/ui/unit/Density;
+Landroidx/compose/ui/unit/Dp;
+"Landroidx/compose/ui/unit/IntSize;
+-Landroidx/compose/ui/unit/Velocity$Companion;
+#Landroidx/compose/ui/unit/Velocity;
+%Landroidx/compose/ui/unit/VelocityKt;
+LaunchedEffect
+/Lcom/android/tools/r8/annotations/LambdaMethod;
+5Lcom/android/tools/r8/annotations/SynthesizedClassV2;
+"Ldalvik/annotation/EnclosingClass;
+#Ldalvik/annotation/EnclosingMethod;
+Ldalvik/annotation/InnerClass;
+!Ldalvik/annotation/MemberClasses;
+Ldalvik/annotation/Signature;
+(Ldalvik/annotation/SourceDebugExtension;
+ Link input exceeded buffer limit
+LinkFrame(flags=
+&Lio/github/iamr0s/carplay/Diagnostics;
+$Lio/github/iamr0s/carplay/TestState;
+"Lio/github/iamr0s/carplay/Testing;
+ELio/github/iamr0s/carplay/protocol/BluetoothSyncExperiment$Companion;
+;Lio/github/iamr0s/carplay/protocol/BluetoothSyncExperiment;
+2Lio/github/iamr0s/carplay/protocol/ControlDecoder;
+2Lio/github/iamr0s/carplay/protocol/ControlMessage;
+-Lio/github/iamr0s/carplay/protocol/Iap2Codec;
+MLio/github/iamr0s/carplay/protocol/Iap2Probe$run$2$$ExternalSyntheticLambda0;
+MLio/github/iamr0s/carplay/protocol/Iap2Probe$run$2$$ExternalSyntheticLambda1;
+MLio/github/iamr0s/carplay/protocol/Iap2Probe$run$2$$ExternalSyntheticLambda2;
+MLio/github/iamr0s/carplay/protocol/Iap2Probe$run$2$$ExternalSyntheticLambda3;
+MLio/github/iamr0s/carplay/protocol/Iap2Probe$run$2$$ExternalSyntheticLambda4;
+MLio/github/iamr0s/carplay/protocol/Iap2Probe$run$2$$ExternalSyntheticLambda5;
+5Lio/github/iamr0s/carplay/protocol/Iap2Probe$run$2$5;
+5Lio/github/iamr0s/carplay/protocol/Iap2Probe$run$2$7;
+<Lio/github/iamr0s/carplay/protocol/Iap2Probe$run$2$reader$1;
+<Lio/github/iamr0s/carplay/protocol/Iap2Probe$run$2$result$1;
+BLio/github/iamr0s/carplay/protocol/Iap2Probe$run$2$startControl$1;
+3Lio/github/iamr0s/carplay/protocol/Iap2Probe$run$2;
+-Lio/github/iamr0s/carplay/protocol/Iap2Probe;
+>Lio/github/iamr0s/carplay/protocol/Iap2SynchronizationSilence;
+ILio/github/iamr0s/carplay/protocol/LinkDecoder$$ExternalSyntheticLambda0;
+ILio/github/iamr0s/carplay/protocol/LinkDecoder$$ExternalSyntheticLambda1;
+/Lio/github/iamr0s/carplay/protocol/LinkDecoder;
+-Lio/github/iamr0s/carplay/protocol/LinkFrame;
+4Lio/github/iamr0s/carplay/protocol/NowPlayingBridge;
+6Lio/github/iamr0s/carplay/protocol/NowPlayingSnapshot;
+OLio/github/iamr0s/carplay/protocol/WirelessBootstrap$$ExternalSyntheticLambda0;
+OLio/github/iamr0s/carplay/protocol/WirelessBootstrap$$ExternalSyntheticLambda1;
+OLio/github/iamr0s/carplay/protocol/WirelessBootstrap$$ExternalSyntheticLambda2;
+?Lio/github/iamr0s/carplay/protocol/WirelessBootstrap$Companion;
+5Lio/github/iamr0s/carplay/protocol/WirelessBootstrap;
+2Lio/github/iamr0s/carplay/protocol/WirelessConfig;
+4Lio/github/iamr0s/carplay/protocol/WirelessMessages;
+/Lio/github/iamr0s/carplay/ui/RubberBandPhysics;
+JLio/github/iamr0s/carplay/ui/RubberBandScrollKt$$ExternalSyntheticLambda0;
+JLio/github/iamr0s/carplay/ui/RubberBandScrollKt$$ExternalSyntheticLambda1;
+JLio/github/iamr0s/carplay/ui/RubberBandScrollKt$$ExternalSyntheticLambda2;
+JLio/github/iamr0s/carplay/ui/RubberBandScrollKt$$ExternalSyntheticLambda3;
+JLio/github/iamr0s/carplay/ui/RubberBandScrollKt$$ExternalSyntheticLambda4;
+JLio/github/iamr0s/carplay/ui/RubberBandScrollKt$$ExternalSyntheticLambda5;
+GLio/github/iamr0s/carplay/ui/RubberBandScrollKt$rubberBandScroll$1$2$1;
+eLio/github/iamr0s/carplay/ui/RubberBandScrollKt$rubberBandScroll$1$3$1$1$2$$ExternalSyntheticLambda0;
+KLio/github/iamr0s/carplay/ui/RubberBandScrollKt$rubberBandScroll$1$3$1$1$2;
+ILio/github/iamr0s/carplay/ui/RubberBandScrollKt$rubberBandScroll$1$3$1$1;
+GLio/github/iamr0s/carplay/ui/RubberBandScrollKt$rubberBandScroll$1$3$1;
+`Lio/github/iamr0s/carplay/ui/RubberBandScrollKt$rubberBandScroll$1$connection$1$1$onPostFling$1;
+_Lio/github/iamr0s/carplay/ui/RubberBandScrollKt$rubberBandScroll$1$connection$1$1$onPreFling$1;
+RLio/github/iamr0s/carplay/ui/RubberBandScrollKt$rubberBandScroll$1$connection$1$1;
+rLio/github/iamr0s/carplay/ui/RubberBandScrollKt$rubberBandScroll$lambda$15$lambda$7$lambda$6$$inlined$onDispose$1;
+0Lio/github/iamr0s/carplay/ui/RubberBandScrollKt;
+QLio/github/iamr0s/carplay/ui/RubberBandState$rebound$1$$ExternalSyntheticLambda0;
+7Lio/github/iamr0s/carplay/ui/RubberBandState$rebound$1;
+-Lio/github/iamr0s/carplay/ui/RubberBandState;
+1Lio/github/iamr0s/carplay/video/VideoTestOptions;
+Ljava/io/ByteArrayInputStream;
+Ljava/io/ByteArrayOutputStream;
+Ljava/io/EOFException;
+Ljava/io/InputStream;
+Ljava/io/OutputStream;
+Ljava/lang/Boolean;
+Ljava/lang/Byte;
+Ljava/lang/CharSequence;
+Ljava/lang/Class;
+Ljava/lang/Enum;
+Ljava/lang/Enum<
+Ljava/lang/Exception;
+Ljava/lang/Float;
+$Ljava/lang/IllegalArgumentException;
+!Ljava/lang/IllegalStateException;
+Ljava/lang/Integer;
+Ljava/lang/Iterable;
+Ljava/lang/Long;
+Ljava/lang/Math;
+Ljava/lang/Number;
+Ljava/lang/Object;
+Ljava/lang/String;
+Ljava/lang/StringBuilder;
+Ljava/lang/System;
+Ljava/lang/Throwable;
+Ljava/math/BigInteger;
+Ljava/nio/ByteBuffer;
+Ljava/nio/ByteOrder;
+Ljava/nio/charset/Charset;
+Ljava/security/PublicKey;
+Ljava/security/SecureRandom;
+Ljava/security/Signature;
+ Ljava/security/cert/Certificate;
+'Ljava/security/cert/CertificateFactory;
+$Ljava/security/cert/X509Certificate;
+&Ljava/security/interfaces/ECPublicKey;
+'Ljava/security/interfaces/RSAPublicKey;
+$Ljava/security/spec/ECParameterSpec;
+Ljava/util/ArrayList;
+Ljava/util/Arrays;
+Ljava/util/Collection;
+Ljava/util/Iterator;
+Ljava/util/List;
+Ljava/util/List<
+Ljava/util/Map;
+"Ljava/util/NoSuchElementException;
+Ljava/util/Set;
+Ljava/util/Set<
+,Ljava/util/concurrent/CancellationException;
+Lkotlin/Function0;
+Lkotlin/Function1;
+Lkotlin/Function2;
+Lkotlin/IllegalStateException;
+Lkotlin/Metadata;
+Lkotlin/Pair;
+Lkotlin/Pair<
+Lkotlin/Result$Companion;
+Lkotlin/Result;
+Lkotlin/ResultKt;
+Lkotlin/TuplesKt;
+Lkotlin/Unit;
+Lkotlin/collections/ArrayDeque;
+Lkotlin/collections/ArrayDeque<
+Lkotlin/collections/ArraysKt;
+"Lkotlin/collections/CollectionsKt;
+ Lkotlin/collections/IntIterator;
+Lkotlin/collections/SetsKt;
+ Lkotlin/coroutines/Continuation;
+ Lkotlin/coroutines/Continuation<
+$Lkotlin/coroutines/CoroutineContext;
+)Lkotlin/coroutines/EmptyCoroutineContext;
++Lkotlin/coroutines/intrinsics/IntrinsicsKt;
+'Lkotlin/coroutines/jvm/internal/Boxing;
+1Lkotlin/coroutines/jvm/internal/ContinuationImpl;
+.Lkotlin/coroutines/jvm/internal/DebugMetadata;
+8Lkotlin/coroutines/jvm/internal/RestrictedSuspendLambda;
+.Lkotlin/coroutines/jvm/internal/SuspendLambda;
+Lkotlin/enums/EnumEntries;
+Lkotlin/enums/EnumEntries<
+Lkotlin/enums/EnumEntriesKt;
+#Lkotlin/internal/ProgressionUtilKt;
+ Lkotlin/jvm/functions/Function0;
+ Lkotlin/jvm/functions/Function0<
+ Lkotlin/jvm/functions/Function1;
+ Lkotlin/jvm/functions/Function1<
+ Lkotlin/jvm/functions/Function2;
+ Lkotlin/jvm/functions/Function2<
+ Lkotlin/jvm/functions/Function3;
+.Lkotlin/jvm/internal/DefaultConstructorMarker;
++Lkotlin/jvm/internal/FunctionReferenceImpl;
+'Lkotlin/jvm/internal/Intrinsics$Kotlin;
+ Lkotlin/jvm/internal/Intrinsics;
+$Lkotlin/jvm/internal/Ref$BooleanRef;
+ Lkotlin/jvm/internal/Ref$IntRef;
+!Lkotlin/jvm/internal/Ref$LongRef;
+Lkotlin/math/MathKt;
+Lkotlin/ranges/IntProgression;
+Lkotlin/ranges/IntRange;
+Lkotlin/ranges/RangesKt;
+Lkotlin/reflect/KProperty;
+Lkotlin/text/Charsets;
+Lkotlin/text/StringsKt;
+Lkotlinx/coroutines/BuildersKt;
+(Lkotlinx/coroutines/CoroutineDispatcher;
+#Lkotlinx/coroutines/CoroutineScope;
+%Lkotlinx/coroutines/CoroutineScopeKt;
+#Lkotlinx/coroutines/CoroutineStart;
+ Lkotlinx/coroutines/Dispatchers;
+%Lkotlinx/coroutines/Job$DefaultImpls;
+Lkotlinx/coroutines/Job;
+Lkotlinx/coroutines/JobKt;
+Lkotlinx/coroutines/TimeoutKt;
+,Lkotlinx/coroutines/channels/BufferOverflow;
+%Lkotlinx/coroutines/channels/Channel;
+%Lkotlinx/coroutines/channels/Channel<
+'Lkotlinx/coroutines/channels/ChannelKt;
++Lkotlinx/coroutines/channels/ChannelResult;
++Lkotlinx/coroutines/channels/ChannelResult<
+9Lkotlinx/coroutines/channels/ReceiveChannel$DefaultImpls;
+,Lkotlinx/coroutines/channels/ReceiveChannel;
+6Lkotlinx/coroutines/channels/SendChannel$DefaultImpls;
+)Lkotlinx/coroutines/channels/SendChannel;
+Local SYN parameters 
+LocalRubberBandAnimations
+"LocalRubberBandAnimations$lambda$0
+#Lorg/bouncycastle/asn1/ASN1Integer;
+#Lorg/bouncycastle/asn1/DERSequence;
++Malformed accessory message list parameter=
+Missing Wi-Fi SSID
+XMissing authentication certificate parameter 0; alternate certificate format unsupported
+Missing authentication response
+NONEwithECDSA
+NONEwithRSA
+$Non-control session ignored session=
+NowPlaying TX 5001 revision=
+-NowPlaying peer unsubscribed; updates stopped
+NowPlaying subscribed media=
+NowPlayingBridge.kt
+NowPlayingSnapshot(title=
+@Out-of-order data; requesting retransmission with cumulative ACK
+.Peer SYN wait expired elapsed-since-detection=
+:Peer changed Wi-Fi network/credentials: previous-security=
+)Peer does not advertise a control session
+/Peer requires unsupported mutual authentication
+<Phone initiating synchronization immediately after detection
+sProbe result=certificate-received signature-verified=false wireless-started=false close-reason=local-probe-complete
+Probe start: profile=
+Probe summary elapsed=
+$RX ACK does not confirm outstanding 
+/RX CSM 0x%04X parameter=0x%04X offset=%d hex=%s
+RX CSM 0x%04X parameters=%d
+RX CSM parameter metadata=
+'RX EAK: retransmit outstanding attempt=
+*RX SYN checksum=validated-by-LinkDecoder; 
+6RX link flags=0x%02X seq=%d ack=%d session=%d bytes=%d
+RX stream ended phase=
+RX synchronization=
+RReference handshake complete; stopping before CSM and unsupported file/EA sessions
+SReliable Wi-Fi iAP transport: direct synchronization, no Bluetooth detection marker
+~Reliable vendor transport: await accessory SYN; no Bluetooth marker; local control session=10; vendor sync parameters retained
+Required value was null.
+Retransmit attempt=
+YRetry policy: local diagnostic cap=3 retransmissions, independent of advertised link max=
+RubberBandScroll.kt
+SENSITIVE bootstrap Wi-Fi SSID=
+SMAP
+Effects.kt
+Kotlin
+*S Kotlin
++ 1 Effects.kt
+androidx/compose/runtime/DisposableEffectScope$onDispose$1
++ 2 RubberBandScroll.kt
+io/github/iamr0s/carplay/ui/RubberBandScrollKt
+1#1,603:1
+89#2:604
+SMAP
+Iap2Codec.kt
+Kotlin
+*S Kotlin
++ 1 Iap2Codec.kt
+io/github/iamr0s/carplay/protocol/ControlDecoder
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,133:1
+1#2:134
+SMAP
+Iap2Codec.kt
+Kotlin
+*S Kotlin
++ 1 Iap2Codec.kt
+io/github/iamr0s/carplay/protocol/ControlMessage
++ 2 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
+1#1,133:1
+295#2,2:134
+*S KotlinDebug
++ 1 Iap2Codec.kt
+io/github/iamr0s/carplay/protocol/ControlMessage
+7#1:134,2
+SMAP
+Iap2Codec.kt
+Kotlin
+*S Kotlin
++ 1 Iap2Codec.kt
+io/github/iamr0s/carplay/protocol/Iap2Codec
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
++ 3 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
+1#1,133:1
+1#2:134
+1869#3,2:135
+*S KotlinDebug
++ 1 Iap2Codec.kt
+io/github/iamr0s/carplay/protocol/Iap2Codec
+44#1:135,2
+SMAP
+Iap2Codec.kt
+Kotlin
+*S Kotlin
++ 1 Iap2Codec.kt
+io/github/iamr0s/carplay/protocol/LinkDecoder
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,133:1
+1#2:134
+SMAP
+Iap2Probe.kt
+Kotlin
+*S Kotlin
++ 1 Iap2Probe.kt
+io/github/iamr0s/carplay/protocol/Iap2Probe$run$2
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
++ 3 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
++ 4 CoroutineScope.kt
+kotlinx/coroutines/CoroutineScopeKt
+1#1,368:1
+1#2:369
+295#3:370
+1740#3,3:371
+296#3:374
+295#3,2:375
+1869#3:377
+1878#3,3:378
+1870#3:381
+1878#3,3:383
+1563#3:386
+1634#3,3:387
+1869#3:390
+1878#3,3:391
+1870#3:394
+375#4:382
+*S KotlinDebug
++ 1 Iap2Probe.kt
+io/github/iamr0s/carplay/protocol/Iap2Probe$run$2
+168#1:370
+169#1:371,3
+168#1:374
+171#1:375,2
+282#1:377
+283#1:378,3
+282#1:381
+102#1:383,3
+107#1:386
+107#1:387,3
+108#1:390
+110#1:391,3
+108#1:394
+355#1:382
+SMAP
+NowPlayingBridge.kt
+Kotlin
+*S Kotlin
++ 1 NowPlayingBridge.kt
+io/github/iamr0s/carplay/protocol/NowPlayingBridge
++ 2 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
++ 3 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,28:1
+1563#2:29
+1634#2,3:30
+774#2:33
+865#2,2:34
+774#2:36
+865#2,2:37
+1#3:39
+*S KotlinDebug
++ 1 NowPlayingBridge.kt
+io/github/iamr0s/carplay/protocol/NowPlayingBridge
+17#1:29
+17#1:30,3
+22#1:33
+22#1:34,2
+24#1:36
+24#1:37,2
+SMAP
+RubberBandScroll.kt
+Kotlin
+*S Kotlin
++ 1 RubberBandScroll.kt
+io/github/iamr0s/carplay/ui/RubberBandScrollKt
++ 2 Effects.kt
+androidx/compose/runtime/DisposableEffectScope
++ 3 IntSize.kt
+androidx/compose/ui/unit/IntSize
++ 4 InlineClassHelper.kt
+androidx/compose/ui/util/InlineClassHelperKt
++ 5 Effects.kt
+androidx/compose/runtime/EffectsKt
++ 6 Composer.kt
+androidx/compose/runtime/ComposerKt
++ 7 Effects.kt
+androidx/compose/runtime/EffectsKt$rememberCoroutineScope$1
++ 8 CompositionLocal.kt
+androidx/compose/runtime/CompositionLocal
++ 9 fake.kt
+kotlin/jvm/internal/FakeKt
++ 10 Dp.kt
+androidx/compose/ui/unit/DpKt
+1#1,193:1
+66#2,5:194
+59#3:199
+54#3:201
+90#4:200
+85#4:202
+599#5:203
+596#5,6:204
+1128#6,3:210
+1131#6,3:214
+1128#6,6:222
+1128#6,6:228
+1128#6,6:234
+1128#6,6:240
+1128#6,6:246
+1128#6,6:252
+1128#6,6:258
+597#7:213
+75#8:217
+75#8:218
+1#9:219
+122#10:220
+122#10:221
+*S KotlinDebug
++ 1 RubberBandScroll.kt
+io/github/iamr0s/carplay/ui/RubberBandScrollKt
+89#1:194,5
+108#1:199
+108#1:201
+108#1:200
+108#1:202
+52#1:203
+52#1:204,6
+52#1:210,3
+52#1:214,3
+58#1:222,6
+59#1:228,6
+89#1:234,6
+90#1:240,6
+91#1:246,6
+107#1:252,6
+110#1:258,6
+52#1:213
+53#1:217
+54#1:218
+56#1:220
+57#1:221
+SMAP
+RubberBandScroll.kt
+Kotlin
+*S Kotlin
++ 1 RubberBandScroll.kt
+io/github/iamr0s/carplay/ui/RubberBandScrollKt$rubberBandScroll$1$3$1$1
++ 2 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
+1#1,193:1
+1761#2,3:194
+*S KotlinDebug
++ 1 RubberBandScroll.kt
+io/github/iamr0s/carplay/ui/RubberBandScrollKt$rubberBandScroll$1$3$1$1
+97#1:194,3
+SMAP
+RubberBandScroll.kt
+Kotlin
+*S Kotlin
++ 1 RubberBandScroll.kt
+io/github/iamr0s/carplay/ui/RubberBandState
++ 2 SnapshotFloatState.kt
+androidx/compose/runtime/PrimitiveSnapshotStateKt__SnapshotFloatStateKt
++ 3 Offset.kt
+androidx/compose/ui/geometry/Offset
++ 4 InlineClassHelper.kt
+androidx/compose/ui/util/InlineClassHelperKt
++ 5 InlineClassHelper.jvm.kt
+androidx/compose/ui/util/InlineClassHelper_jvmKt
++ 6 Offset.kt
+androidx/compose/ui/geometry/OffsetKt
+1#1,193:1
+80#2:194
+113#2,2:195
+69#3:197
+65#3:200
+70#4:198
+60#4:201
+53#4,3:203
+22#5:199
+30#6:202
+*S KotlinDebug
++ 1 RubberBandScroll.kt
+io/github/iamr0s/carplay/ui/RubberBandState
+122#1:194
+122#1:195,2
+132#1:197
+132#1:200
+132#1:198
+132#1:201
+134#1:203,3
+132#1:199
+134#1:202
+SMAP
+WirelessBootstrap.kt
+Kotlin
+*S Kotlin
++ 1 WirelessBootstrap.kt
+io/github/iamr0s/carplay/protocol/WirelessBootstrap
++ 2 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
++ 3 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,230:1
+1563#2:231
+1634#2,3:232
+1563#2:235
+1634#2,3:236
+774#2:239
+865#2,2:240
+626#2,12:243
+1563#2:255
+1634#2,3:256
+1563#2:259
+1634#2,3:260
+1#3:242
+*S KotlinDebug
++ 1 WirelessBootstrap.kt
+io/github/iamr0s/carplay/protocol/WirelessBootstrap
+137#1:231
+137#1:232,3
+146#1:235
+146#1:236,3
+147#1:239
+147#1:240,2
+164#1:243,12
+190#1:255
+190#1:256,3
+127#1:259
+127#1:260,3
+SMAP
+WirelessBootstrap.kt
+Kotlin
+*S Kotlin
++ 1 WirelessBootstrap.kt
+io/github/iamr0s/carplay/protocol/WirelessBootstrap$Companion
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,230:1
+1#2:231
+SMAP
+WirelessBootstrap.kt
+Kotlin
+*S Kotlin
++ 1 WirelessBootstrap.kt
+io/github/iamr0s/carplay/protocol/WirelessConfig
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,230:1
+1#2:231
+SMAP
+WirelessBootstrap.kt
+Kotlin
+*S Kotlin
++ 1 WirelessBootstrap.kt
+io/github/iamr0s/carplay/protocol/WirelessMessages
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
++ 3 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
++ 4 _Arrays.kt
+kotlin/collections/ArraysKt___ArraysKt
+1#1,230:1
+1#2:231
+1740#3,3:232
+774#3:238
+865#3,2:239
+1563#3:241
+1634#3,3:242
+1740#3,3:245
+295#3,2:248
+12897#4,3:235
+*S KotlinDebug
++ 1 WirelessBootstrap.kt
+io/github/iamr0s/carplay/protocol/WirelessMessages
+34#1:232,3
+53#1:238
+53#1:239,2
+53#1:241
+53#1:242,3
+54#1:245,3
+59#1:248,2
+51#1:235,3
+#Synchronization reliable-transport=
+'TX CSM 0x%04X parameter=0x%04X bytes=%d
+/TX CSM 0x%04X parameter=0x%04X offset=%d hex=%s
+TX SYN checksum header=
+"TX complete synchronization frame=
+TX confirmed 
+;TX queued CSM 0x%04X bytes=%d fragments=%d parameter-ids=%s
+TX sending 
+TX synchronization=
+UI rubber-band begin area=
+UI rubber-band end area=
+UTF_8
+$Unsolicited authentication signature
+Unsupported RSA digest length
+#Unsupported Wi-Fi credential format
+Unsupported Wi-Fi security=
+ Unsupported accessory public key
+#Unsupported synchronization payload
+VFLLJL
+VIIIIL
+VIIIL
+VILLLI
+VLIL
+VLILJZ
+VLILJZIL
+VLJLLJL
+VLLFF
+VLLIIFLIL
+VLLIILLLL
+VLLIILLLLIL
+VLLIL
+VLLL
+VLLLI
+VLLLL
+VLLLLIL
+VLLLLILIL
+VLLLLJJI
+VLLLLJJIIL
+VLLLLJL
+VLLLLLL
+VLLLLLLJ
+VLLZLLLL
+VLLZLLLLIL
+VLLZLZL
+VLLZLZLIL
+VZLL
+Velocity
+Vertical
+GWi-Fi configuration arrived before authentication/identity; not joining
+Wireless start has no port
+)Wireless start has no wireless parameters
+WirelessBootstrap.kt
+X.509
+ZLLIL
+ZLLL
+[B>;
+[B>;>;
+[B>;>;)
+[B>;>;)V
+[B>;>;)[B
+[B>;>;I)[B
+[B>;>;II)I
+[B>;>;IIII)
+<[Lio/github/iamr0s/carplay/protocol/BluetoothSyncExperiment;
+[Ljava/lang/Enum;
+[Ljava/lang/Integer;
+[Ljava/lang/Object;
+[Lkotlin/Pair;
+&[Lorg/bouncycastle/asn1/ASN1Encodable;
+$[Lorg/bouncycastle/asn1/ASN1Integer;
+[id=
+_init_$lambda$0
+absent
+access$elapsedSince
+access$finish
+access$getBootstrap$p
+access$getConnectionRounds$cp
+access$getGesture$p
+access$getLabel$p
+access$getLog$p
+access$getLogged$p
+access$getOrientation$p
+access$getPeak$p
+access$getReferenceHandshake$p
+access$getReliableTransport$p
+access$getStatus$p
+access$getSyncExperiment$p
+access$invokeSuspend$enqueue
+access$setDistance
+access$setLogged$p
+access$setPeak$p
+access$setPull$p
+accessFlags
+accessoryInitiates
+accessoryReceives
+accumulator\4
+acknowledgement
+addLast
+addresses
+album
+allocate
+:androidx/compose/runtime/DisposableEffectScope$onDispose$1
+animate
+animations-disabled
+apiLevel
+append
+append$lambda$2
+append$reportSkipped
+areEqual
+array
+artist
+asList
+attributes
+authenticated
+availability
+availabilitySent
+available
+awaitEachGesture
+awaitFirstDown
+awaitPointerEvent
+axis
+axis-TH1AsA0
+axis-k-4lQ0M
+base
+begin
+bitLength
+bits\3
+bits\6
+body
+booleanValue
+bootstrap
+-bootstrap Wi-Fi comparison previous-security=
+{bootstrap Wi-Fi configuration source=0x%04X ssid-bytes=%d credential-present=%s security=%d channel=%d endpoints=%d port=%s
+Ebootstrap availability published; Wi-Fi requested; modern-advertised=
+'bootstrap capabilities accessory-sends=
+bootstrap certificate bytes=
+$bootstrap challenge-signature-valid=
+Bbootstrap equivalent Wi-Fi configuration ignored; network retained
+)bootstrap identity accepted; peer-modern=
+/bootstrap publishing merged endpoint addresses=
+}bootstrap skip optional deviceUUIDUpdate=0x4E0C; accessory did not advertise receiving it; persistent phone identity retained
+2bootstrap unhandled CSM id=0x%04X parameter-ids=%s
+box-impl
+boxFloat
+boxInt
+boxLong
+buffer
+bufferedBytes
+build
+byteValue
+bytes
+bytes\1
+/call to 'resume' before 'invoke' with coroutine
+cancel$default
+candidates
+capture-params-immediate
+capture-params-wait-peer
+carplay-xiaomi-carlife
+catplay-bluetooth-link-only
+certificate
+certificateRequested
+certificates
+challenge
+changed
+changedInstance
+channel
+channelId
+checkNotNull
+checkNotNullExpressionValue
+checkNotNullParameter
+checksum
+checksum-without-payload
+child
+chunk\11
+chunk\18
+chunked
+chunks
+clear
+clipToBounds
+clone
+close
+close$default
+coerceAtLeast
+coerceAtMost
+coerceIn
+collectionSizeOrDefault
+combined
+component1
+component2
+component3
+component4
+component5
+component6
+component7
+composed$default
+composer\1
+config
+config$byte
+config$field
+connection
+connectionRounds
+constraints
+constructor-impl
+consume
+consumed
+contains
+control
+control$default
+controlDecoder
+controlSession
+copy
+copy$default
+copyOf
+copyOf(...)
+copyOfRange
+coroutineScope
+count
+create
+createCompositionCoroutineScope
+createFailure
+createListBuilder
+currentEnabled
+data
+decodeControl
+decoder
+default
+delta
+density
+destination\11
+destination\19
+destination\2
+destination\4
+destination\5
+destination\6
+destination\8
+destination\9
+detail
+detection
+detection-response
+detectionAt
+detectionPending
+detectionReplySent
+developmentTrust
+digest
+direction
+"discard reason=missing-FF5A bytes=
+discardedBytes
+displaced
+displacement
+dispose
+disposed
+distance
+distance$delegate
+drag
+drag-returned-to-bounds
+drop
+duration
+elapsedSince
+element
+element\1
+element\13
+element\15
+element\2
+element\3
+element\4
+element\5
+element\6
+element\8
+element\9
+emptyList
+emptySet
+enabled
+encode
+encode$group
+encode$number
+encode$string
+endReplaceGroup
+enqueue
+ensureActive
+enumEntries
+equals
+equals-impl0
+error
+event
+exceptionOrNull-impl
+expected
+extent
+fields
+finish
+firstOrNull
+flags
+fling-edge
+floatToRawIntBits
+floatValue
+flush
+format
+format(...)
+found\15
+fragment\4
+fragments
+frame
+frames
+generateCertificates
+generateCertificates(...)
+gesture
+getAccessoryInitiates
+getAcknowledgement
+getAddresses
+getAlbum
+getAlgorithm
+getApp
+getArtist
+getBasicConstraints
+getBufferedBytes
+getBytes
+getBytes(...)
+getCOROUTINE_SUSPENDED
+getChanges
+getChannel
+getClass
+getConnectionRounds
+getContext
+getDiscardedBytes
+getDisplaced
+getDistance
+getDuration
+getEmpty
+getEncoded
+getEntries
+getFirst
+getFlags
+getFloatValue
+getHeight
+getIO
+getId
+getIndices
+getInstance
+getLabel
+getLast
+getLimit
+getLocalDensity
+getLocalRubberBandAnimations
+getMarker
+getNormalizedSecurity
+getOrNull-impl
+getOrder
+getParameters
+getParams
+getPassword
+getPayload
+getPeerSynWaitMillis
+getPort
+getPosition
+getPressed
+getProgressionLastElement
+getPublicKey
+getPull
+getReceiverId
+getReceiverPublicKey
+getRejectedFrames
+getRevision
+getSecond
+getSecurity
+getSequence
+getSession
+getSimpleName
+getSnapshot
+getSsid
+getState
+getStep
+getTitle
+getUserInput-WNlRxjI
+getValue
+getWidth
+getX-impl
+getY-impl
+getZero-9UxMQ8M
+getZero-F1C5BW0
+hangsheng-accessory-initiated
+hasNext
+hashCode
+header
+header-checksum
+holder
+iAP2 EAK 
+iAP2 control-session=
+iAP2 heartbeat elapsed=
+iAP2 
+iAP2 
+iAP2 
+id\16
+identified
+index
+indexOf
+index\1
+index\10
+index\11
+index\17
+index\18
+index\3
+index\4
+initVerify
+initialVelocity
+initial\4
+input
+intBitsToFloat
+intValue
+interrupt
+invalid\12
+invalid\15
+invalid\18
+invalid\2
+invalid\21
+invalid\24
+invalid\27
+invalid\30
+invoke
+invokeSuspend
+invokeSuspend$acknowledge
+invokeSuspend$describeSync
+#invokeSuspend$describeSync$lambda$4
+invokeSuspend$elapsed
+invokeSuspend$enqueue
+invokeSuspend$enqueue$default
+1invokeSuspend$enqueue$lambda$10$lambda$9$lambda$8
+invokeSuspend$enqueue(Lkotlin/jvm/internal/Ref$IntRef;Lkotlin/collections/ArrayDeque;Lio/github/iamr0s/carplay/protocol/Iap2Probe;Lkotlin/collections/ArrayDeque;ILjava/util/List;)V
+invokeSuspend$hex
+invokeSuspend$hex$lambda$3
+invokeSuspend$lambda$0
+invokeSuspend$lambda$18
++invokeSuspend$lambda$21$lambda$20$lambda$19
+invokeSuspend$raw
+invokeSuspend$startControl
+invokeSuspend$write
+1io.github.iamr0s.carplay.protocol.Iap2Probe$run$2
+:io.github.iamr0s.carplay.protocol.Iap2Probe$run$2$reader$1
+:io.github.iamr0s.carplay.protocol.Iap2Probe$run$2$result$1
+Eio.github.iamr0s.carplay.ui.RubberBandScrollKt$rubberBandScroll$1$2$1
+Gio.github.iamr0s.carplay.ui.RubberBandScrollKt$rubberBandScroll$1$3$1$1
+Iio.github.iamr0s.carplay.ui.RubberBandScrollKt$rubberBandScroll$1$3$1$1$2
+Pio.github.iamr0s.carplay.ui.RubberBandScrollKt$rubberBandScroll$1$connection$1$1
+5io.github.iamr0s.carplay.ui.RubberBandState$rebound$1
+Qio.github.iamr0s.carplay.ui.rubberBandScroll.<anonymous> (RubberBandScroll.kt:51)
+Pio/github/iamr0s/carplay/ui/RubberBandScrollKt$rubberBandScroll$1$connection$1$1
+isActive
+isClosed-impl
+isEmpty
+isTraceInProgress
+it\1
+it\10
+it\11
+it\12
+it\14
+it\15
+it\16
+it\18
+it\2
+it\20
+it\21
+it\24
+it\27
+it\3
+it\30
+it\4
+it\5
+it\6
+it\7
+it\9
+item\10
+item\11
+item\17
+item\19
+item\2
+item\3
+item\4
+item\6
+items
+iterator
+join
+joinToString$default
+key\2
+kind
+label
+lastConfig
+lastDataSequence
+lastProgressLog
+lastRemote
+lastSend
+launch$default
+layout
+layout$default
+leaf
+length
+length-below-header
+limit
+listOf
+localSyn
+logged
+longValue
+marker
+markerFound
+markerReceived
+maxDistance
+maximum
+measurable
+measure-BRTryo0
+media
+merge
+merged
+message
+method
+minimal-control
+minimumLimit
+modern
++ms RX iAP2 detection marker; leading-bytes=
+ms RX link parser 
+ms RX transport chunk=
+ums TX detection response reply-count=1; accessory marker accepted; waiting for accessory SYN, phone fallback disabled
+ms TX iAP2 detection marker=
+Ems TX link flags=0x%02X seq=%d ack=%d session=%d payload=%d header=%s
+ms accessory-initiates=
+5ms for peer SYN before phone fallback; no marker echo
+ms handshake waiting: marker=
+ms queued-fragments=
+ms retries=
+ms rx-bytes=
+ms tx=
+4ms valid SYN header before detection marker; header=
+ms/3
+Gms; marker-timeout=12000ms handshake-timeout=25000ms application-retry=
+-ms; phone initiating synchronization fallback
+mutableFloatStateOf
+name
+nanoTime
+negotiated
+nestedScroll$default
+next
+nextBytes
+nextInt
+nextSequence
+none
+none (EOF)
+normalizedSecurity
+nowPlayingMedia
+nowPlayingPlayback
+nowPlayingRevision
+Gnull cannot be cast to non-null type java.security.cert.X509Certificate
+Inull cannot be cast to non-null type java.security.interfaces.ECPublicKey
+offset
+offset-tuRUvjQ
+offset\5
+offset\9
+onConfig
+onDiagnostic
+onPostFling
+onPostFling-RZ2iAVY
+onPostScroll
+onPostScroll-DzOQY0M
+onPreFling
+onPreFling-QWom1Mo
+onPreScroll
+onPreScroll-OzD1aCk
+onReady
+onSizeChanged
+order
+ordinal
+orientation
+other
+outgoingDrained
+output
+outstanding
+outstandingDescription
+outstandingSince
+p0\1
+p0\14
+p0\16
+p0\17
+packet
+parameter
+parameterId\9
+parameters
+password
+passwordId
+payload
+payload-checksum
+peak
+peerMaxLength
+peerSynReceived
+peerSynWaitMillis
+pending
+phase
+placeWithLayer$default
+playback
+plus
+pointerInput
+port
+portBytes
+position
+prefix
+previous
+property\1
+proto
+publish
+pull
+putInt
+queue
+queueDescriptions
+quoted
+ratio
+read
+reader
+readyPending
+reason
+rebound
+receive
+receive$ids
+receive$ids$lambda$4
+receive$lambda$5
+receive$messageList
+receiveCatching-JP2dKIU
+received
+receivedBytes
+receivedFrames
+receiverId
+receiverPublicKey
+referenceHandshake
+referenceSynchronization
+reject reason=
+rejectedFrames
+release
+released
+reliableTransport
+rememberUpdatedState
+rememberedValue
+removeFirst
+requested
+response
+result
+retransmissionMillis
+retries
+returning
+revision
+roundToInt
+rubberBandScroll
+rubberBandScroll$lambda$15
+.rubberBandScroll$lambda$15$lambda$11$lambda$10
+.rubberBandScroll$lambda$15$lambda$14$lambda$13
+8rubberBandScroll$lambda$15$lambda$14$lambda$13$lambda$12
+,rubberBandScroll$lambda$15$lambda$7$lambda$6
+runtime
+sameMetadata
+scope
+security
+securityId
+send
+sent
+sentBytes
+sequence
+session
+setDistance
+setFloatValue
+setLimit
+setOf
+settleIfIdle
+signature
+signum
+single
+single\15
+size
+skipped
+snapshot
+source
+sourceInformation
+sourceInformationMarkerEnd
+sourceInformationMarkerStart
+speed
+spring
+ssid
+ssidId
+start
+startReplaceGroup
+state
+states
+staticCompositionLocalOf
+status
+step
+streamOffset
+string
+synIndex
+syncExperiment
+syncPayload
+synchronization
+take
+text
+this
+this$0
+this_\1
+this_\6
+this_\7
+throwIndexOverflow
+throwOnFailure
+tick
+title
+toByteArray
+toPx-0680j_4
+toSet
+toString
+token
+touch-ended
+traceEventEnd
+traceEventStart
+transportId
+unbox-impl
+until
+update
+updateRememberedValue
+uuid
+v1\2
+v1\4
+v2\2
+v2\4
+val1\2
+val1\4
+val2\2
+val2\4
+validChecksum
+value
+valueOf
+value\1
+value\13
+value\16
+value\19
+value\2
+value\22
+value\25
+value\28
+value\3
+value\31
+value\4
+value\5
+value\9
+values
+velocity
+velocity-adjELrA
+verified
+verify
+verifyChallenge
+version=
+versionHash
+wifi
+wire
+wireless
+withFrameNanos
+withTimeoutOrNull
+word
+write
+zeroAcknowledgements
+e~~D8{"backend":"dex","compilation-mode":"debug","has-checksums":true,"min-api":29,"version":"9.1.31"}
+!~~~{"Lio/github/iamr0s/carplay/protocol/BluetoothSyncExperiment$Companion;":"c15985d","Lio/github/iamr0s/carplay/protocol/BluetoothSyncExperiment;":"ad1fc127","Lio/github/iamr0s/carplay/protocol/ControlDecoder;":"140471ba","Lio/github/iamr0s/carplay/protocol/ControlMessage;":"3f03b53e","Lio/github/iamr0s/carplay/protocol/Iap2Codec;":"636812c2","Lio/github/iamr0s/carplay/protocol/Iap2Probe$run$2$$ExternalSyntheticLambda0;":"-6487079b","Lio/github/iamr0s/carplay/protocol/Iap2Probe$run$2$$ExternalSyntheticLambda1;":"224c6ec67","Lio/github/iamr0s/carplay/protocol/Iap2Probe$run$2$$ExternalSyntheticLambda2;":"-1f9d2e65e","Lio/github/iamr0s/carplay/protocol/Iap2Probe$run$2$$ExternalSyntheticLambda3;":"-51b9d3140","Lio/github/iamr0s/carplay/protocol/Iap2Probe$run$2$$ExternalSyntheticLambda4;":"-361432387","Lio/github/iamr0s/carplay/protocol/Iap2Probe$run$2$$ExternalSyntheticLambda5;":"196dc0ab9","Lio/github/iamr0s/carplay/protocol/Iap2Probe$run$2$5;":"9a4f751e","Lio/github/iamr0s/carplay/protocol/Iap2Probe$run$2$7;":"6889b185","Lio/github/iamr0s/carplay/protocol/Iap2Probe$run$2$reader$1;":"78888550","Lio/github/iamr0s/carplay/protocol/Iap2Probe$run$2$result$1;":"f8be915","Lio/github/iamr0s/carplay/protocol/Iap2Probe$run$2$startControl$1;":"4d7d2b84","Lio/github/iamr0s/carplay/protocol/Iap2Probe$run$2;":"58ae979b","Lio/github/iamr0s/carplay/protocol/Iap2Probe;":"49765fbc","Lio/github/iamr0s/carplay/protocol/Iap2SynchronizationSilence;":"b50d8c9d","Lio/github/iamr0s/carplay/protocol/LinkDecoder$$ExternalSyntheticLambda0;":"-1cac11351","Lio/github/iamr0s/carplay/protocol/LinkDecoder$$ExternalSyntheticLambda1;":"107021101","Lio/github/iamr0s/carplay/protocol/LinkDecoder;":"a9915916","Lio/github/iamr0s/carplay/protocol/LinkFrame;":"e977caca","Lio/github/iamr0s/carplay/protocol/NowPlayingBridge;":"39bbb77e","Lio/github/iamr0s/carplay/protocol/NowPlayingSnapshot;":"8fc34e4c","Lio/github/iamr0s/carplay/protocol/WirelessBootstrap$$ExternalSyntheticLambda0;":"49d63d6bb","Lio/github/iamr0s/carplay/protocol/WirelessBootstrap$$ExternalSyntheticLambda1;":"22db7282c","Lio/github/iamr0s/carplay/protocol/WirelessBootstrap$$ExternalSyntheticLambda2;":"-377523fbc","Lio/github/iamr0s/carplay/protocol/WirelessBootstrap$Companion;":"112a0f27","Lio/github/iamr0s/carplay/protocol/WirelessBootstrap;":"1d33982b","Lio/github/iamr0s/carplay/protocol/WirelessConfig;":"ba0c06cf","Lio/github/iamr0s/carplay/protocol/WirelessMessages;":"e6523c3f","Lio/github/iamr0s/carplay/ui/RubberBandPhysics;":"e20cfd42","Lio/github/iamr0s/carplay/ui/RubberBandScrollKt$$ExternalSyntheticLambda0;":"a43bcb36","Lio/github/iamr0s/carplay/ui/RubberBandScrollKt$$ExternalSyntheticLambda1;":"-1efc7c52d","Lio/github/iamr0s/carplay/ui/RubberBandScrollKt$$ExternalSyntheticLambda2;":"-14ff85919","Lio/github/iamr0s/carplay/ui/RubberBandScrollKt$$ExternalSyntheticLambda3;":"-4bd8d4294","Lio/github/iamr0s/carplay/ui/RubberBandScrollKt$$ExternalSyntheticLambda4;":"18e9ca0d3","Lio/github/iamr0s/carplay/ui/RubberBandScrollKt$$ExternalSyntheticLambda5;":"9a45bd4e","Lio/github/iamr0s/carplay/ui/RubberBandScrollKt$rubberBandScroll$1$2$1;":"2f94fd48","Lio/github/iamr0s/carplay/ui/RubberBandScrollKt$rubberBandScroll$1$3$1$1$2$$ExternalSyntheticLambda0;":"21362cfed","Lio/github/iamr0s/carplay/ui/RubberBandScrollKt$rubberBandScroll$1$3$1$1$2;":"1dac78be","Lio/github/iamr0s/carplay/ui/RubberBandScrollKt$rubberBandScroll$1$3$1$1;":"365aea47","Lio/github/iamr0s/carplay/ui/RubberBandScrollKt$rubberBandScroll$1$3$1;":"772a1400","Lio/github/iamr0s/carplay/ui/RubberBandScrollKt$rubberBandScroll$1$connection$1$1$onPostFling$1;":"b3411e13","Lio/github/iamr0s/carplay/ui/RubberBandScrollKt$rubberBandScroll$1$connection$1$1$onPreFling$1;":"59c40ae8","Lio/github/iamr0s/carplay/ui/RubberBandScrollKt$rubberBandScroll$1$connection$1$1;":"1cf3d16d","Lio/github/iamr0s/carplay/ui/RubberBandScrollKt$rubberBandScroll$lambda$15$lambda$7$lambda$6$$inlined$onDispose$1;":"afa5a3a0","Lio/github/iamr0s/carplay/ui/RubberBandScrollKt;":"427cb66","Lio/github/iamr0s/carplay/ui/RubberBandState$rebound$1$$ExternalSyntheticLambda0;":"-718ab23f1","Lio/github/iamr0s/carplay/ui/RubberBandState$rebound$1;":"f960af4","Lio/github/iamr0s/carplay/ui/RubberBandState;":"fed56143"}
+ CarPlay
+iAP2 
+ SYN
+close-reason=accessory-syn-silence
+ SYN
+ MFi 
+ SYN
+ SYN
+ SYN
+close-reason=synchronization-silence
+ iAP2 
+ iAP2 
+close-reason=synchronization-deadline
+ iAP2 
+ CarPlay 
+ iAP2
+ iAP2 
+ Wi-Fi 
+ iAP2 
+ iAP2
+ iAP2 
+close-reason=accessory-detection-silence
+ iAP2 
+ SYN
+close-reason=runtime-accessory-syn-silence
+NowPlaying

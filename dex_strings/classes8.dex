@@ -1,0 +1,3136 @@
+"p0H
+FTN_
+'rU{
+7rV{
+FTN_
+Rgn 
+(#T0
+0B(#
+&n ]
+T4Bo
+0![@
+ErV{
+(-TP
+(#T@
+(3T@
+2n0?
+(5(4
+(;TP
+(pT`%
+PWCq
+!bq d
+'n@v
+(LqV
+WrT{
+'q -
+!0q c
+#$[R
+k("q
+ !T`
+xjxs
+'i<K
+3=-<:
+ixii
++x+y
+y;%i
+y;%i
+y;%i
+-KZ=
+wYb<
+Zxx<
+Z<K<
+8F@FX
+8F@FX
+H&Jp
+0&J.
+0 @BX
+0*0,2
+>?BO
+00002
+0(0&X
+0(00H
+0(0;2
+0(0;H
+0#J7
+0#2 
+0 0"X
+0#J#
+0Q0r
+ FAILED 
+ Hook-input=
++ PCM16LE/16000/mono; recognition not proven
+ Surface=
+ accepted=
+ action=
+ active=
+ actualPcmPackets=
+ alive=
+ app=
+: applied after settling; effective rate capped by receiver
+ artist=
+ bound=
+ bridge-display=
+ bytes=
+ car-entries=
+ carlifeConnected=
+ category=
+ changed=
+ channels=
+ closed=
+ closing=
+ coalesced=
+ code=
+ component=
+ count=
+ current=
+ delivered=
+ descriptor=
+ dimensions=
+ dispatched=
+ display=
+ displayId=
+ down=
+ downTime=
+ dpi=160 encoderFPS=
+ dropped=
+ duration=
+ enabled=
+ encoding=
+ eventTime=
+ expected=
+ exported=
+ extras=
+ finishing=
+ flags=
+S format=16000/16/mono/LE; native AssistantHuMic queue, assistant reading not proven
+= format=48000/16/2 LE playback-policy; phone-microphone=false
+ fps
+62ef926
+ fps=
+ granted=
+ handled=
+ ignored
+W ignored: native HwHelper delegate absent; local launcher has not initialized assistant
+ initial-fps=
+ initialized=
+ installed=
+ key=
+B local display/Surface released; original connection mode restored
+ manager=
+ mapped=
+ mic=
+ microphone=
+ nonzero=
+ normal-entry=
+ options=
+ original=
+ output-avg-ms=
+ output-max-ms=
+ overflows=
+ overloads=
+8 overridden in memory to PCM; saved preference unchanged
+ packets=
+ pending=
+ permission=
+ pixel=
+ pointers=
+ position=
+ prepareRequested=
+ prepared=
+ pressed=
+ primary-display=
+ primary=
+ produced=
+! profile=generic-Apple-unverified
+ protection=
+ queue-avg-ms=
+ queue-delay-ms=
+ queue-max-ms=
+ rate=
+ ready=
+ render=
+ replacement=
+ requested-display=
+ requested=
+ requires-LSPosed=
+ resolved local display=
+ result=
+1 retained context; fixed Baidu force-stop omitted
+M returned; Activity start/resume and actual pixels still require confirmation
+ revision=hfp-identity-v1
+ service=
+ session=
+ settings=
+ size=
+ source=
+ state=
+ target=
+" target=active-media-session time=
+ thread=
+ touch=
+ transport=
+ uri=
+ valid=
+ version=
+ xy=
+$ENTRIES
+$VALUES
+$action
+$activity
+$audioType
+$bytes
+$canCallNative
+$category
+$channels
+$code
+$command
+$completion
+$continuation
+$current
+$descriptor
+$destination
+$detail
+$devices
+$display
+$down
+$encoding
+$enum$name
+$enum$ordinal
+$error
+$event
+$failure
+$flags
+$force
+$fps
+$handle
+$height
+$hook
+.$i$a$-all-ProviderPermissions$granted$1\2\25\0
+%$i$a$-also-CarWithBridge$key$1\2\69\0
+.$i$a$-also-CarWithHook$Runtime$start$5\8\422\0
+/$i$a$-also-CarWithHook$Runtime$start$7\11\423\0
+D$i$a$-also-CarWithSessionHook$install$12$afterHookedMethod$2\3\252\0
+C$i$a$-also-CarWithSessionHook$install$3$afterHookedMethod$2\4\147\0
+L$i$a$-also-HfpIdentityHook$install$hooks$1$beforeHookedMethod$stack$1\1\31\0
+-$i$a$-also-ProviderActivity$onCreate$2\3\45\0
+.$i$a$-any-CarWithAudioCapture$capture$4\8\85\0
+9$i$a$-any-CarWithDirectClient$audioCallback$1$1$1\2\339\0
+4$i$a$-apply-CarWithDirectClient$pcmWorker$1$1\1\30\0
+1$i$a$-apply-CarWithDirectClient$worker$1$1\1\28\0
+@$i$a$-apply-CarWithHook$Runtime$injectTouch$properties$1\3\126\0
+0$i$a$-apply-CarWithHook$Runtime$start$8\12\428\0
+1$i$a$-apply-ProviderActivity$onCreate$12$1\1\96\0
+.$i$a$-apply-ProviderActivity$onCreate$1\2\37\0
+.$i$a$-apply-ProviderActivity$onCreate$3\4\47\0
+.$i$a$-apply-ProviderActivity$onCreate$7\5\68\0
+.$i$a$-apply-ProviderActivity$onCreate$8\6\71\0
+5$i$a$-apply-ProviderActivity$onCreate$button$1\1\40\0
+5$i$a$-apply-ProviderActivity$onCreate$layout$1\1\36\0
+3$i$a$-apply-ProviderActivity$onCreate$text$1\1\38\0
+4$i$a$-buildList-ProviderPermissions$required$1\1\9\0
+0$i$a$-check-CarWithAudioCapture$capture$1\1\31\0
+0$i$a$-check-CarWithAudioCapture$capture$2\2\40\0
+0$i$a$-check-CarWithAudioCapture$capture$3\6\51\0
+0$i$a$-check-CarWithAudioCapture$capture$5\9\58\0
+)$i$a$-check-CarWithBridge$begin$1\1\111\0
+2$i$a$-check-CarWithBridge$selectTransport$1\1\37\0
+2$i$a$-check-CarWithBridge$selectTransport$2\2\38\0
+@$i$a$-check-CarWithBridgeService$endpoint$1$onTransact$1\1\161\0
+-$i$a$-check-CarWithDirectClient$call$3\1\78\0
+J$i$a$-check-CarWithDirectClient$connection$1$onServiceConnected$1$1\1\86\0
+?$i$a$-check-CarWithDirectClient$endpoint$1$onTransact$1\1\153\0
+/$i$a$-check-CarWithDirectClient$start$1\1\126\0
+7$i$a$-check-CarWithHook$Runtime$registerTouch$1\2\159\0
+/$i$a$-check-CarWithHook$Runtime$start$1\1\404\0
+/$i$a$-check-CarWithHook$Runtime$start$2\2\407\0
+/$i$a$-check-CarWithHook$Runtime$start$3\3\409\0
+C$i$a$-check-CarWithHook$Runtime$touchEndpoint$1$onTransact$1\1\56\0
+D$i$a$-check-CarWithSessionHook$install$2$beforeHookedMethod$1\1\70\0
+D$i$a$-check-CarWithSessionHook$install$2$beforeHookedMethod$2\2\71\0
+D$i$a$-check-CarWithSessionHook$install$2$beforeHookedMethod$3\3\74\0
+D$i$a$-check-CarWithSessionHook$install$2$beforeHookedMethod$4\4\75\0
+D$i$a$-check-CarWithSessionHook$install$2$beforeHookedMethod$5\5\76\0
+D$i$a$-check-CarWithSessionHook$install$2$beforeHookedMethod$6\6\80\0
+D$i$a$-check-CarWithSessionHook$install$3$afterHookedMethod$1\3\138\0
+E$i$a$-check-CarWithSessionHook$install$3$beforeHookedMethod$1\1\123\0
+E$i$a$-check-CarWithSessionHook$install$8$beforeHookedMethod$1\1\205\0
+0$i$a$-check-CarWithSessionHook$restore$1\1\346\0
+($i$a$-check-CarWithStartup$wake$1\1\37\0
+($i$a$-check-CarWithStartup$wake$2\2\51\0
+($i$a$-check-CarWithStartup$wake$3\3\54\0
+,$i$a$-check-HfpIdentityHook$install$1\1\43\0
++$i$a$-check-ProviderHostLease$open$1\1\42\0
+2$i$a$-check-ProviderHostLease$videoFormat$2\1\55\0
+/$i$a$-check-ProviderVideoRelay$stream$2\1\107\0
+/$i$a$-check-ProviderVideoRelay$stream$4\4\121\0
+=$i$a$-firstOrNull-CarWithMetadata$poll$1$run$current$1\2\50\0
+=$i$a$-forEach-BluetoothHook$Companion$recordFailure$1\2\138\0
+0$i$a$-forEach-CarWithAudioCapture$close$1\2\87\0
+0$i$a$-forEach-CarWithAudioCapture$close$2\5\89\0
+0$i$a$-forEach-CarWithHook$Runtime$stop$1\2\481\0
+3$i$a$-forEach-CarWithSessionHook$install$19\4\372\0
+2$i$a$-forEach-CarWithSessionHook$install$1\2\370\0
+U$i$a$-getOrElse-CarWithHook$Runtime$install$5$beforeHookedMethod$carEntries$2\5\232\0
+Q$i$a$-getOrElse-CarWithHook$Runtime$install$5$beforeHookedMethod$normal$2\7\234\0
+8$i$a$-getOrPut-CarWithDirectClient$key$1$start$1\4\343\0
+<$i$a$-getOrPut-CarWithHook$Runtime$injectKey$began$1\2\476\0
+G$i$a$-let-BluetoothHook$handleLoadPackage$5$beforeHookedMethod$1\1\68\0
+/$i$a$-let-CarWithDirectClient$close$1$1\1\292\0
+:$i$a$-let-CarWithDirectClient$disconnectProvider$1\1\308\0
++$i$a$-let-CarWithDirectClient$fail$1\1\62\0
+E$i$a$-let-CarWithDirectClient$inspectSystemEntry$protection$1\1\135\0
+D$i$a$-let-CarWithHook$Runtime$install$8$beforeHookedMethod$1\1\275\0
+,$i$a$-let-CarWithHook$Runtime$stop$3\5\442\0
+-$i$a$-let-CarWithHook$Runtime$stop$5\13\446\0
+-$i$a$-let-CarWithHook$Runtime$stop$5\19\446\0
+,$i$a$-let-CarWithHook$Runtime$stop$5\7\446\0
+-$i$a$-let-CarWithHook$Runtime$stop$6\10\456\0
+-$i$a$-let-CarWithHook$Runtime$stop$6\16\456\0
+-$i$a$-let-CarWithHook$Runtime$stop$6\22\456\0
+-$i$a$-let-CarWithHook$Runtime$stop$7\24\461\0
+6$i$a$-let-CarWithMetadata$poll$1$run$position$1\3\33\0
+/$i$a$-let-CarWithSessionHook$finish$1$1\1\337\0
+5$i$a$-let-CarWithSessionHook$finish$machine$1\1\326\0
+D$i$a$-let-CarWithSessionHook$install$13$beforeHookedMethod$1\1\259\0
+D$i$a$-let-CarWithSessionHook$install$14$beforeHookedMethod$1\1\267\0
+.$i$a$-let-CarWithSessionHook$restore$2\2\355\0
+D$i$a$-let-HfpIdentityHook$install$hooks$1$afterHookedMethod$1\1\36\0
+5$i$a$-let-ProviderVideoRelay$configure$2$2$2$1\1\72\0
+1$i$a$-let-ProviderVideoRelay$selectVideo$3\2\37\0
+-$i$a$-let-ProviderVideoRelay$stream$3\3\118\0
+Q$i$a$-map-CarWithHook$Runtime$install$5$beforeHookedMethod$carEntries$1$1\4\476\1
+/$i$a$-map-ProviderActivity$choosePeer$1\3\140\0
+E$i$a$-none-CarWithSessionHook$install$16$beforeHookedMethod$1\2\370\0
+B$i$a$-onFailure-CarWithDirectClient$disconnectProvider$1$2\3\309\1
+6$i$a$-onFailure-CarWithHook$Runtime$stop$5$2\15\453\13
+6$i$a$-onFailure-CarWithHook$Runtime$stop$5$2\21\453\19
+4$i$a$-onFailure-CarWithHook$Runtime$stop$5$2\9\453\7
+/$i$a$-onFailure-CarWithStartup$release$3\3\67\0
+<$i$a$-repeat-CarWithHook$Runtime$drainTouches$1$run$1\1\98\0
+7$i$a$-require-CarWithHook$Runtime$injectTouch$1\2\121\0
+1$i$a$-require-NativeVideoSelection$select$1\1\6\0
+9$i$a$-requireNotNull-CarWithBridge$begin$client$1\2\123\0
+@$i$a$-requireNotNull-CarWithHook$Runtime$start$created$1\5\415\0
+U$i$a$-requireNotNull-CarWithSessionHook$install$3$afterHookedMethod$machine$1\2\135\0
+/$i$a$-run-CarWithBridge$touch$callback$2\2\86\0
+2$i$a$-run-CarWithDirectClient$key$1$code$1\2\269\0
+4$i$a$-run-CarWithDirectClient$key$1$remote$1\1\268\0
+;$i$a$-run-CarWithDirectClient$microphone$1$remote$1\1\280\0
+6$i$a$-run-CarWithDirectClient$touch$1$remote$1\1\252\0
+B$i$a$-run-CarWithHook$Runtime$injectTouch$currentDisplay$1\1\111\0
+Q$i$a$-runCatching-BluetoothHook$handleLoadPackage$5$beforeHookedMethod$1$1\2\69\1
+O$i$a$-runCatching-BluetoothHook$handleLoadPackage$5$beforeHookedMethod$2\3\72\0
+R$i$a$-runCatching-BluetoothHook$registerControl$receiver$1$onReceive$mode$1\2\92\0
+7$i$a$-runCatching-CarWithAudioCapture$capture$6\10\70\0
+7$i$a$-runCatching-CarWithAudioCapture$capture$6\13\70\0
+7$i$a$-runCatching-CarWithAudioCapture$capture$6\16\70\0
+6$i$a$-runCatching-CarWithAudioCapture$capture$6\3\70\0
+7$i$a$-runCatching-CarWithAudioCapture$capture$7\11\70\0
+7$i$a$-runCatching-CarWithAudioCapture$capture$7\14\70\0
+7$i$a$-runCatching-CarWithAudioCapture$capture$7\17\70\0
+6$i$a$-runCatching-CarWithAudioCapture$capture$7\4\70\0
+7$i$a$-runCatching-CarWithAudioCapture$capture$8\12\71\0
+7$i$a$-runCatching-CarWithAudioCapture$capture$8\15\71\0
+7$i$a$-runCatching-CarWithAudioCapture$capture$8\18\71\0
+6$i$a$-runCatching-CarWithAudioCapture$capture$8\5\71\0
+6$i$a$-runCatching-CarWithAudioCapture$close$1$1\3\79\2
+D$i$a$-runCatching-CarWithDirectClient$disconnectProvider$1$1\2\309\1
+W$i$a$-runCatching-CarWithHook$Runtime$install$5$beforeHookedMethod$carEntries$1\1\231\0
+S$i$a$-runCatching-CarWithHook$Runtime$install$5$beforeHookedMethod$normal$1\6\233\0
+6$i$a$-runCatching-CarWithHook$Runtime$stop$1$1\3\437\2
+5$i$a$-runCatching-CarWithHook$Runtime$stop$4\12\445\0
+5$i$a$-runCatching-CarWithHook$Runtime$stop$4\18\445\0
+4$i$a$-runCatching-CarWithHook$Runtime$stop$4\6\445\0
+8$i$a$-runCatching-CarWithHook$Runtime$stop$5$1\14\446\13
+8$i$a$-runCatching-CarWithHook$Runtime$stop$5$1\20\446\19
+6$i$a$-runCatching-CarWithHook$Runtime$stop$5$1\8\446\7
+8$i$a$-runCatching-CarWithHook$Runtime$stop$6$1\11\456\10
+8$i$a$-runCatching-CarWithHook$Runtime$stop$6$1\17\456\16
+8$i$a$-runCatching-CarWithHook$Runtime$stop$6$1\23\456\22
+6$i$a$-runCatching-CarWithHook$Runtime$unbind$1\1\349\0
+1$i$a$-runCatching-CarWithStartup$release$2\1\67\0
+5$i$a$-synchronized-CarWithHook$Runtime$stop$2\4\440\0
+J$i$a$-synchronized-CarWithHook$Runtime$touchEndpoint$1$onTransact$2\3\63\0
+J$i$a$-synchronized-CarWithHook$Runtime$touchEndpoint$1$onTransact$4\4\84\0
+@$i$a$-synchronized-ProviderVideoRelay$configure$2$2$2$1$1\2\73\1
+N$i$a$-takeIf-BluetoothHook$registerControl$receiver$1$onReceive$nonce$1\1\88\0
+0$i$a$-takeIf-CarWithBridge$key$callback$1\1\63\0
+7$i$a$-takeIf-CarWithBridge$microphone$callback$1\1\51\0
+2$i$a$-takeIf-CarWithBridge$touch$callback$1\1\86\0
+I$i$a$-takeIf-CarWithBridgeService$endpoint$1$onTransact$current$1\4\196\0
+6$i$a$-takeIf-ProviderLaunch$Companion$address$1\1\15\0
+4$i$a$-takeIf-ProviderVideoRelay$selectVideo$2\1\37\0
+2$i$a$-use-BluetoothHook$handleLoadPackage$1\1\35\0
+7$i$a$-use-ProviderActivity$onActivityResult$1$1\1\113\0
+=$i$a$-withLock$default-ProviderVideoRelay$configure$2\2\163\0
+=$i$a$-withLock$default-ProviderVideoRelay$configure$2\2\164\0
+$i$f$all\1\18
+$i$f$any\1\238
+$i$f$any\7\53
+"$i$f$currentCoroutineContext\2\117
+$i$f$filterIsInstanceTo\2\473
+$i$f$filterIsInstanceTo\4\484
+$i$f$filterIsInstance\1\261
+$i$f$filterIsInstance\3\263
+$i$f$firstOrNull\1\22
+$i$f$forEach\1\128
+$i$f$forEach\1\437
+$i$f$forEach\1\56
+$i$f$forEach\1\79
+$i$f$forEach\3\310
+$i$f$forEach\4\80
+$i$f$getOrPut\1\184
+$i$f$getOrPut\3\271
+$i$f$mapTo\2\138
+$i$f$mapTo\3\474
+$i$f$map\1\127
+$i$f$map\2\231
+$i$f$none\1\283
+$i$f$toTypedArray\1\65
+$i$f$toTypedArray\2\17
+$i$f$toTypedArray\4\127
+$i$f$withLock\1\59
+$label
+$log
+$mapped
+$method
+$name
+$nativeReady
+$param
+$rate
+$reason
+$receiver
+$record
+$requested
+$resolver
+$result
+$service
+$stable
+$this
+$this$all\1
+$this$any\1
+$this$any\7
+)$this$beforeHookedMethod_u24lambda_u241\1
+8$this$beforeHookedMethod_u24lambda_u241_u24lambda_u240\2
+)$this$beforeHookedMethod_u24lambda_u242\3
+)$this$beforeHookedMethod_u24lambda_u243\6
+$this$capture_u24lambda_u246\10
+$this$capture_u24lambda_u246\13
+$this$capture_u24lambda_u246\16
+$this$capture_u24lambda_u246\3
+$this$capture_u24lambda_u247\11
+$this$capture_u24lambda_u247\14
+$this$capture_u24lambda_u247\17
+$this$capture_u24lambda_u247\4
+$this$capture_u24lambda_u248\12
+$this$capture_u24lambda_u248\15
+$this$capture_u24lambda_u248\18
+$this$capture_u24lambda_u248\5
+-$this$close_u24lambda_u2411_u24lambda_u2410\3
+:$this$disconnectProvider_u24lambda_u2437_u24lambda_u2435\2
+$this$escapeLog
+$this$filterIsInstanceTo\2
+$this$filterIsInstanceTo\4
+$this$filterIsInstance\1
+$this$filterIsInstance\3
+$this$firstOrNull\1
+$this$forEach\1
+$this$forEach\3
+$this$forEach\4
+$this$getOrPut\1
+$this$getOrPut\3
+"$this$injectTouch_u24lambda_u240\1
+"$this$injectTouch_u24lambda_u242\3
++$this$key_u24lambda_u2429_u24lambda_u2424\1
++$this$key_u24lambda_u2429_u24lambda_u2425\2
+$this$launch
+$this$mapTo\2
+$this$mapTo\3
+$this$map\1
+$this$map\2
+2$this$microphone_u24lambda_u2432_u24lambda_u2430\1
+$this$none\1
+)$this$onCreate_u24button_u24lambda_u244\1
+$this$onCreate_u24lambda_u240\1
+ $this$onCreate_u24lambda_u2410\5
+ $this$onCreate_u24lambda_u2412\6
+0$this$onCreate_u24lambda_u2417_u24lambda_u2416\1
+$this$onCreate_u24lambda_u241\2
+$this$onCreate_u24lambda_u246\4
+'$this$onCreate_u24text_u24lambda_u242\1
+ $this$onReceive_u24lambda_u241\2
+/$this$pcmWorker_u24lambda_u243_u24lambda_u242\1
+$this$release_u24lambda_u245\1
+$this$required_u24lambda_u240\1
+$this$start_u24lambda_u2413\12
+,$this$stop_u24lambda_u2415_u24lambda_u2414\3
+$this$stop_u24lambda_u2418\12
+$this$stop_u24lambda_u2418\18
+$this$stop_u24lambda_u2418\6
+-$this$stop_u24lambda_u2421_u24lambda_u2419\14
+-$this$stop_u24lambda_u2421_u24lambda_u2419\20
+,$this$stop_u24lambda_u2421_u24lambda_u2419\8
+-$this$stop_u24lambda_u2423_u24lambda_u2422\11
+-$this$stop_u24lambda_u2423_u24lambda_u2422\17
+-$this$stop_u24lambda_u2423_u24lambda_u2422\23
+$this$toTypedArray\1
+$this$toTypedArray\2
+$this$toTypedArray\4
+-$this$touch_u24lambda_u2423_u24lambda_u2420\1
+$this$touch_u24lambda_u247\2
+$this$unbind_u24lambda_u246\1
+$this$withLock_u24default\1
+,$this$worker_u24lambda_u241_u24lambda_u240\1
+$time
+$value
+$values
+$width
+%.1f
+%02x
+()Landroid/app/Application;
+%()Landroid/content/ServiceConnection;
++()Landroid/hardware/display/VirtualDisplay;
+()Landroid/os/Binder;
+()Landroid/os/Handler;
+()Landroid/os/IBinder;
+()Landroid/view/Surface;
+/()Lio/github/iamr0s/carplay/bridge/BridgeTouch;
+1()Lio/github/iamr0s/carplay/bridge/BridgeTouches;
+A()Lio/github/iamr0s/carplay/bridge/CarLifeIntegration$VideoRelay;
+7()Lio/github/iamr0s/carplay/bridge/CarWithAudioCapture;
+9()Lio/github/iamr0s/carplay/bridge/CarWithBridge$Session;
+;()Lio/github/iamr0s/carplay/bridge/CarWithBridge$Transport;
+3()Lio/github/iamr0s/carplay/bridge/CarWithMetadata;
+()Ljava/lang/ClassLoader;
+()Ljava/lang/Long;
+()Ljava/lang/Object;
+()Ljava/lang/Runnable;
+()Ljava/lang/String;
+()Ljava/lang/reflect/Method;
+()Ljava/util/Map;
+-()Ljava/util/concurrent/atomic/AtomicBoolean;
+*()Ljava/util/concurrent/atomic/AtomicLong;
+"()Lkotlin/jvm/functions/Function0;
+"()Lkotlin/jvm/functions/Function1;
+"()Lkotlin/jvm/functions/Function3;
+"()Lkotlin/jvm/functions/Function4;
+'()Lkotlinx/coroutines/channels/Channel;
+()[B
+()[Ljava/lang/String;
+(?:[0-9A-F]{2}:){5}[0-9A-F]{2}
+(B)Ljava/lang/CharSequence;
+(I)Ljava/lang/Integer;
+(I)V
+(III
+(IIII)
+(IIIIIJ)V
+7(IIILkotlin/coroutines/Continuation;)Ljava/lang/Object;
+(IIILkotlin/jvm/functions/Function1;Lkotlin/jvm/functions/Function3;Lkotlin/jvm/functions/Function0;JLkotlin/coroutines/Continuation;)Ljava/lang/Object;
+6(IILkotlin/coroutines/Continuation;)Ljava/lang/Object;
+K(ILio/github/iamr0s/carplay/TestState;)Lio/github/iamr0s/carplay/TestState;
+(ILjava/lang/String;)V
+(J)V
+N(Landroid/app/Activity;Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime;)V
+3(Landroid/app/Application;Ljava/lang/ClassLoader;)V
+(Landroid/app/Application;Ljava/lang/ClassLoader;Lkotlin/jvm/functions/Function1;Lkotlin/jvm/functions/Function1;Lkotlin/jvm/functions/Function0;)V
+L(Landroid/app/Service;Lio/github/iamr0s/carplay/bridge/CarWithSessionHook;)V
+i(Landroid/content/ContentResolver;Landroid/net/Uri;Lio/github/iamr0s/carplay/provider/ProviderActivity;)V
+(Landroid/content/Context;)V
+b(Landroid/content/Context;Landroid/os/IBinder;Ljava/lang/String;Lkotlin/jvm/functions/Function1;)V
+T(Landroid/content/Context;Lio/github/iamr0s/carplay/bridge/CarWithBridge$Session;Z)V
+y(Landroid/content/Context;Ljava/lang/ClassLoader;Landroid/os/IBinder;Ljava/lang/String;Lkotlin/jvm/functions/Function1;)V
+<(Landroid/content/Context;Lkotlin/jvm/functions/Function1;)V
+:(Landroid/content/Intent;Landroid/os/Parcel;)Lkotlin/Unit;
+,(Landroid/hardware/display/VirtualDisplay;)V
+(Landroid/os/IBinder;)V
+"(Landroid/os/Parcel;)Lkotlin/Unit;
+9(Landroid/view/KeyEvent;Landroid/os/Parcel;)Lkotlin/Unit;
+<(Landroid/view/MotionEvent;Landroid/os/Parcel;)Lkotlin/Unit;
+(Landroid/view/Surface;)V
+{(Lde/robv/android/xposed/XC_MethodHook$MethodHookParam;Lde/robv/android/xposed/callbacks/XC_LoadPackage$LoadPackageParam;)V
+J(Lio/github/iamr0s/carplay/TestState;)Lio/github/iamr0s/carplay/TestState;
+0(Lio/github/iamr0s/carplay/bridge/BridgeTouch;)V
+B(Lio/github/iamr0s/carplay/bridge/CarLifeIntegration$VideoRelay;)V
+8(Lio/github/iamr0s/carplay/bridge/CarWithAudioCapture;)V
+:(Lio/github/iamr0s/carplay/bridge/CarWithAudioCapture;II)V
+8(Lio/github/iamr0s/carplay/bridge/CarWithDirectClient;)V
+^(Lio/github/iamr0s/carplay/bridge/CarWithDirectClient;IIIIIFFLandroid/os/Parcel;)Lkotlin/Unit;
+_(Lio/github/iamr0s/carplay/bridge/CarWithDirectClient;ILandroid/os/Parcel;Landroid/os/Parcel;)Z
+Q(Lio/github/iamr0s/carplay/bridge/CarWithDirectClient;ILjava/lang/Integer;III[B)V
+w(Lio/github/iamr0s/carplay/bridge/CarWithDirectClient;Landroid/content/ComponentName;Landroid/os/IBinder;)Lkotlin/Unit;
+W(Lio/github/iamr0s/carplay/bridge/CarWithDirectClient;Landroid/os/Parcel;)Lkotlin/Unit;
+(Lio/github/iamr0s/carplay/bridge/CarWithDirectClient;Lio/github/iamr0s/carplay/TestState;)Lio/github/iamr0s/carplay/TestState;
+](Lio/github/iamr0s/carplay/bridge/CarWithDirectClient;Ljava/lang/Runnable;)Ljava/lang/Thread;
+W(Lio/github/iamr0s/carplay/bridge/CarWithDirectClient;Ljava/lang/String;Z)Lkotlin/Unit;
+k(Lio/github/iamr0s/carplay/bridge/CarWithDirectClient;Ljava/lang/String;ZILandroid/os/Parcel;)Lkotlin/Unit;
+j(Lio/github/iamr0s/carplay/bridge/CarWithDirectClient;Lkotlin/jvm/functions/Function0;Ljava/lang/String;)V
+I(Lio/github/iamr0s/carplay/bridge/CarWithDirectClient;ZIIII)Lkotlin/Unit;
+F(Lio/github/iamr0s/carplay/bridge/CarWithDirectClient;[B)Lkotlin/Unit;
+K(Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime;)Landroid/os/IBinder;
+4(Lio/github/iamr0s/carplay/bridge/CarWithMetadata;)V
+7(Lio/github/iamr0s/carplay/bridge/CarWithSessionHook;)V
+I(Lio/github/iamr0s/carplay/bridge/CarWithSessionHook;Ljava/lang/String;)V
+(Lio/github/iamr0s/carplay/bridge/CarWithSessionHook;Ljava/lang/String;Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$Pending;)V
+C(Lio/github/iamr0s/carplay/provider/ProviderActivity;)Lkotlin/Unit;
+7(Lio/github/iamr0s/carplay/provider/ProviderActivity;)V
+W(Lio/github/iamr0s/carplay/provider/ProviderActivity;Landroid/widget/CompoundButton;Z)V
+i(Lio/github/iamr0s/carplay/provider/ProviderActivity;Ljava/util/List;Landroid/content/DialogInterface;I)V
+s(Lio/github/iamr0s/carplay/provider/ProviderVideoRelay;Lio/github/iamr0s/carplay/video/TestVideo;[BJZ)Lkotlin/Unit;
+G(Lio/github/iamr0s/carplay/provider/ProviderVideoRelay;[B)Lkotlin/Unit;
+_(Ljava/lang/Exception;Lio/github/iamr0s/carplay/TestState;)Lio/github/iamr0s/carplay/TestState;
+(Ljava/lang/Long;)V
+(Ljava/lang/Object;)V
+((Ljava/lang/Runnable;)Ljava/lang/Thread;
+(Ljava/lang/String;)V
+(Ljava/lang/String;I)V
+.(Ljava/lang/String;Landroid/view/Surface;III)V
+\(Ljava/lang/String;Lio/github/iamr0s/carplay/TestState;)Lio/github/iamr0s/carplay/TestState;
+^(Ljava/lang/String;Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime;Ljava/lang/String;ZJ)V
+P(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/CharSequence;
+(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/Integer;Ljava/lang/String;Z)Lio/github/iamr0s/carplay/provider/ProviderLaunch;
+:(Ljava/lang/String;Ljava/lang/String;[Ljava/lang/Object;)V
+t(Ljava/lang/String;Lkotlin/jvm/functions/Function3;)Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$endpoint$1;
+((Ljava/lang/String;Z)Ljava/lang/Integer;
+A(Ljava/lang/reflect/Method;Ljava/lang/Object;Ljava/lang/Object;)V
+4(Lkotlin/coroutines/Continuation;)Ljava/lang/Object;
+#(Lkotlin/jvm/functions/Function0;)V
+6(Lkotlin/jvm/functions/Function0;Landroid/view/View;)V
+#(Lkotlin/jvm/functions/Function1;)V
+#(Lkotlin/jvm/functions/Function3;)V
+#(Lkotlin/jvm/functions/Function4;)V
+3(Lkotlin/jvm/internal/Ref$ObjectRef;Lkotlin/Pair;)Z
+[(Lkotlinx/coroutines/CoroutineScope;Lio/github/iamr0s/carplay/provider/ProviderHostLease;)V
+(Z)V
+([BJZJ)V
+$([BLandroid/os/Parcel;)Lkotlin/Unit;
+ ) replaced by owned-service stop
+*>;)
++CME ERROR
+, bindVersion=
+, config=
+, fps=
+, height=
+, key=
+, pts=
+, queuedAt=
+, receiver=
+, surface=
+, time=
+, width=
+, x=
+, y=
+-[B-
+.txt
+./apex/com.android.bt/lib64/libbluetooth_jni.so
+00:00:00:00:00:00
+02:00:00:00:00:00
+@047c9421a9bb929bf7fa828acb7680a50d5fa3c49a344be0144c1bc52815d594
+4.0.14-20260801
+62ef926
+@7bbc1d7254613ffaa026de47d975f73968361ef3e5d7b818ce0a83a33039c6b8
+E; CarLife Binder is a separate entry; no privileged startup attempted
+; CarLife flag restored=
+; OS binding may reconnect
+6; accepted=injection-enqueued, UI effect requires test
+@; actual pixels require first encoder frame and car confirmation
+;; authoritative-fps=dynamic-callback-after-display-prepared
+'; awaiting Hook and first encoded frame
+M; awaiting display callback AND encoded frame; no network/USB CarLife startup
+; bridge Binder connected
+; display not yet proven
+; empty capability response
+; event not delivered
+$; expected inspected 4.0.14-20260801
+; field semantics not inferred
+; formalSession=
+; ignored
+; injection-result=Hook-log
+; input queue unaffected
+; inspect module logs
+; installed=
+V; launching CarWith HomeActivity; touch/keys attached; privileged PCM capture starting
+; lease=180s
+; local render initialization
+h; mapping=CarWith-m2.c injection=u1.M ownership=callee-after-handoff; single-finger tap/swipe/long-press
+; mode=
+; modification remains disabled
+T; native HwHelper; assistant/microphone initialization requires runtime confirmation
+; no active injected gesture
+#; no casting-manager methods called
+; no guessed action
+; not replacing active session
+:; original network service not required for display lookup
+J; output=packet-encryption-and-socket-write; receiver-rendering=unmeasured
+; owner=native-CarWith-session
+V; phone settings Activity is not launched; virtual-display HomeActivity still required
+;; policy-success does not imply playing app permits capture
+; prepareCast replay=
+'; previous Hook implementation retained
+F; private-state-machine/connectType not observable through this Binder
+-; receiver rendering still needs confirmation
+!; recognition result not observed
+'; registration alone does not prove PCM
+; releasing display client
+; releasing wake binding
+; retained across encoder swaps
+"; route=background-bind component=
+); stopCast may stop vendor CarLife module
+9; third-party process resume not observed by CarWith Hook
+4; verify individual listener/PCM callbacks in client
+; video retained; no retry loop
+; waiting for iAP2 subscription
+<anonymous>
+<clinit>
+<init>
+<set-?>
+<unused var>
+>;)V
+>;)Z
+>;>;
+>;>;)
+AA:BB:CC:DD:EE:FF
+ACTION_CONTROL
+ACTION_RESULT
+APP_PACKAGE
+AUDIO
+Apple Inc.
+Audio
+"AudioRecord not initialized state=
+AudioRecord read failed length=
+BluetoothHook.kt
+BridgeTouch(action=
+BridgeTouches.kt
+CALLBACK
+CARLIFE_SESSION
+CARWITH 
+cCARWITH DIRECT awaiting valid PCM before live-audio activation; test tone control remains available
+aCARWITH DIRECT previous session cleanup pending; restoring test source instead of racing stopCast
+CARWITH Hook 
+/CARWITH Hook confirmed display release session=
+"CARWITH Surface published session=
+"CARWITH Surface withdrawn session=
+2CARWITH background service binding died component=
+/CARWITH background service connected component=
+2CARWITH background service disconnected component=
+:CARWITH background service returned null Binder component=
+;CARWITH background wake binding released; no active Surface
+7CARWITH background wake reuses existing service binding
+(CARWITH background wake submitted flags=
+CARWITH key IPC name=
+CARWITH metadata title=
+CARWITH readiness reason=
+CARWITH startup package=
+CARWITH touch IPC session=
+*CARWITH touch callback registered session=
+8CARWITH touch not forwarded; callback not ready session=
+CARWITH transport selected=
+CGMI
+CGMM
+CGMR
+CREATOR
+CarLife
+0CarLife session requires CarWith 4.0.14-20260801
+YCarLife+ audio transport requested through native invokeMethod; actual PCM still required
+CarLifeIntegration.kt
+'CarPlay video consumer already attached
+CarPlayEirHook
+CarPlayEirHook: 
+CarPlayPcm-
+5CarWith AudioPolicy returned no AudioRecord category=
+7CarWith CarLife service unavailable or binding rejected
+CarWith CarPlay
+CarWith CarPlay 
+&CarWith Surface session already active
+MCarWith back-to-car-launcher forwarded to CarPlay requestUI; display retained
+ CarWith bridge caller UID denied
+CarWith context unavailable
++CarWith coordinate mapper rejected display=
+1CarWith coordinate mapper returned no coordinates
+-CarWith coordinate mapper returned no display
+0CarWith encoder stopped before provider teardown
+&CarWith input injection returned false
+KCarWith lacks CAPTURE_AUDIO_OUTPUT; privileged playback capture unavailable
+%CarWith microphone listener not ready
+#CarWith video format query rejected
+"CarWith wake must run on UI thread
+CarWith 
+CarWith 
+CarWith 
+CarWith 
+CarWith 
+CarWith 
+CarWith 
+CarWith 
+CarWithAudioCapture.kt
+CarWithBridge.kt
+CarWithCarPlayHook
+CarWithDirect-
+CarWithDirectClient.kt
+CarWithDirectPcm
+CarWithHook.kt
+CarWithMetadata.kt
+CarWithSessionHook.kt
+CarWithStartup.kt
+CardMiniMapView
+Carlife
+Carlink
+CarlinkServiceConnector
+CastController
+)CastController returned no VirtualDisplay
+Channel$default
+Check failed.
+Companion
+CompletableDeferred$default
+Control hook failed: 
+D8$$SyntheticClass
+DESCRIPTOR
+DIRECT
+DISPLAY_RELEASED
+$Direct CarWith callback UID rejected
+ Duplicate local provider startup
+ERROR
+EXPECTED_SHA256
+EXPECTED_SYSTEM
+!Existing CarWith connection type=
+?Existing CarWith display active; stop original projection first
++Existing CarWith display; refusing takeover
+!Existing CarWith projection mode=
+5Existing native CarLife connection; refusing takeover
+FAILED reason=
+FETCH
+FFFF
+FIII
+FINGERPRINT
+Failed requirement.
+FloatingWindCastWrapper
+Frame
+Frame(bytes=
+HFP handler absent: 
+HFP handler hooked method=
+9HFP identity installation failed revision=hfp-identity-v1
+uHFP identity installed revision=hfp-identity-v1; defaults to observe; test values are not captured from a real iPhone
+HFP identity mode active=
+HFP identity request command=
+HFP identity response command=
+$HFP identity response native-result=
+HOOK
+HOST
+HOST_SERVICE
+HfpIdentityHook.kt
+&HomeActivity launch submitted display=
+HomeActivity resumed display=
+fHook implementation mismatch; reload module; modification disabled; loaded=provider-no-hook requested=
+Hook/
+IIII
+ILIII
+ILLL
+INSTANCE
+&Installed local render bridge version=
+JJJJ
+KEY assistant down=
+KEY injected name=
+KEY media dispatched name=
+KEY unmapped name=
+LAUNCH connector.
+LAUNCH original 
+LAUNCH request pkg=
+LAUNCH system returned intent=
+LAUNCH system submit intent=
+LIBRARY
+LIIII
+LIIIIIJ
+LIIIL
+LIIILLLJL
+LIIL
+LILLIL
+LJJIFFI
+LJJIILLIIFFIIII
+LJLL
+LLIIIIIFFL
+LLIIIIIJIL
+LLIIIL
+LLIL
+LLILIL
+LLJZJ
+LLLI
+LLLIII
+LLLJZJIL
+LLLL
+LLLLIIIIL
+LLLLJZ
+LLLLL
+LLLLLI
+LLLLLIL
+LLLLLILLIL
+LLLLLJLIL
+LLLLLLZ
+LLLLZIL
+LLLZ
+LLLZIIL
+LLLZIL
+LLZIIIDLLLLLLLLZLZZZIIILIL
+LLZIIII
+LZIL
+Landroid/app/Activity;
+Landroid/app/ActivityOptions;
+!Landroid/app/AlertDialog$Builder;
+Landroid/app/AlertDialog;
+Landroid/app/Application;
+Landroid/app/BroadcastOptions;
+Landroid/app/Instrumentation;
+Landroid/app/Service;
+$Landroid/bluetooth/BluetoothAdapter;
+#Landroid/bluetooth/BluetoothDevice;
+$Landroid/bluetooth/BluetoothManager;
+#Landroid/content/BroadcastReceiver;
+Landroid/content/ClipData;
+"Landroid/content/ClipboardManager;
+Landroid/content/ComponentName;
+!Landroid/content/ContentResolver;
+Landroid/content/Context;
+1Landroid/content/DialogInterface$OnClickListener;
+!Landroid/content/DialogInterface;
+Landroid/content/Intent;
+Landroid/content/IntentFilter;
+#Landroid/content/ServiceConnection;
+*Landroid/content/SharedPreferences$Editor;
+#Landroid/content/SharedPreferences;
+!Landroid/content/pm/ActivityInfo;
+ Landroid/content/pm/PackageInfo;
+9Landroid/content/pm/PackageManager$NameNotFoundException;
+#Landroid/content/pm/PackageManager;
+#Landroid/content/pm/PermissionInfo;
+ Landroid/content/pm/ResolveInfo;
+ Landroid/content/pm/ServiceInfo;
+)Landroid/hardware/display/VirtualDisplay;
+Landroid/media/AudioManager;
+Landroid/media/AudioRecord;
+Landroid/media/MediaMetadata;
+'Landroid/media/session/MediaController;
++Landroid/media/session/MediaSessionManager;
+%Landroid/media/session/PlaybackState;
+Landroid/net/Uri;
+Landroid/os/Binder;
+Landroid/os/Build$VERSION;
+Landroid/os/Build;
+Landroid/os/Bundle;
+Landroid/os/Handler;
+#Landroid/os/IBinder$DeathRecipient;
+Landroid/os/IBinder;
+Landroid/os/Looper;
+Landroid/os/Parcel;
+Landroid/os/Parcelable$Creator;
+Landroid/os/Parcelable;
+Landroid/os/Process;
+Landroid/os/SystemClock;
+Landroid/text/Editable;
+Landroid/util/Log;
+Landroid/util/Pair;
+Landroid/view/Display;
+Landroid/view/KeyEvent;
+(Landroid/view/MotionEvent$PointerCoords;
+,Landroid/view/MotionEvent$PointerProperties;
+Landroid/view/MotionEvent;
+Landroid/view/Surface;
+#Landroid/view/View$OnClickListener;
+Landroid/view/View;
+%Landroid/view/ViewGroup$LayoutParams;
+Landroid/view/WindowManager;
+Landroid/widget/Button;
+7Landroid/widget/CompoundButton$OnCheckedChangeListener;
+Landroid/widget/CompoundButton;
+Landroid/widget/EditText;
+Landroid/widget/LinearLayout;
+Landroid/widget/ScrollView;
+Landroid/widget/Switch;
+Landroid/widget/TextView;
+Landroid/widget/Toast;
+/Lcom/android/tools/r8/annotations/LambdaMethod;
+5Lcom/android/tools/r8/annotations/SynthesizedClassV2;
+;Lcom/baidu/carlife/service/CarlifeConnectService$Companion;
+1Lcom/baidu/carlife/service/CarlifeConnectService;
+"Ldalvik/annotation/EnclosingClass;
+#Ldalvik/annotation/EnclosingMethod;
+Ldalvik/annotation/InnerClass;
+!Ldalvik/annotation/MemberClasses;
+Ldalvik/annotation/Signature;
+(Ldalvik/annotation/SourceDebugExtension;
+/Lde/robv/android/xposed/IXposedHookLoadPackage;
+6Lde/robv/android/xposed/XC_MethodHook$MethodHookParam;
+-Lde/robv/android/xposed/XC_MethodHook$Unhook;
+&Lde/robv/android/xposed/XC_MethodHook;
+%Lde/robv/android/xposed/XposedBridge;
+&Lde/robv/android/xposed/XposedHelpers;
+BLde/robv/android/xposed/callbacks/XC_LoadPackage$LoadPackageParam;
+*Lio/github/iamr0s/carplay/DiagnosticState;
+&Lio/github/iamr0s/carplay/Diagnostics;
+$Lio/github/iamr0s/carplay/TestState;
+"Lio/github/iamr0s/carplay/Testing;
+-Lio/github/iamr0s/carplay/bridge/BridgeTouch;
+/Lio/github/iamr0s/carplay/bridge/BridgeTouches;
+1Lio/github/iamr0s/carplay/bridge/BridgeTouchesKt;
+?Lio/github/iamr0s/carplay/bridge/CarLifeIntegration$VideoRelay;
+4Lio/github/iamr0s/carplay/bridge/CarLifeIntegration;
+OLio/github/iamr0s/carplay/bridge/CarWithAudioCapture$$ExternalSyntheticLambda0;
+OLio/github/iamr0s/carplay/bridge/CarWithAudioCapture$$ExternalSyntheticLambda1;
+5Lio/github/iamr0s/carplay/bridge/CarWithAudioCapture;
+ILio/github/iamr0s/carplay/bridge/CarWithBridge$$ExternalSyntheticLambda0;
+ILio/github/iamr0s/carplay/bridge/CarWithBridge$$ExternalSyntheticLambda1;
+ILio/github/iamr0s/carplay/bridge/CarWithBridge$$ExternalSyntheticLambda2;
+ILio/github/iamr0s/carplay/bridge/CarWithBridge$$ExternalSyntheticLambda3;
+ILio/github/iamr0s/carplay/bridge/CarWithBridge$$ExternalSyntheticLambda4;
+7Lio/github/iamr0s/carplay/bridge/CarWithBridge$Session;
+9Lio/github/iamr0s/carplay/bridge/CarWithBridge$Transport;
+/Lio/github/iamr0s/carplay/bridge/CarWithBridge;
+[Lio/github/iamr0s/carplay/bridge/CarWithBridgeService$endpoint$1$$ExternalSyntheticLambda0;
+ALio/github/iamr0s/carplay/bridge/CarWithBridgeService$endpoint$1;
+6Lio/github/iamr0s/carplay/bridge/CarWithBridgeService;
+OLio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda0;
+PLio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda10;
+PLio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda11;
+PLio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda12;
+PLio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda13;
+PLio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda14;
+PLio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda15;
+PLio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda16;
+PLio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda17;
+PLio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda18;
+PLio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda19;
+OLio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda1;
+PLio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda20;
+PLio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda21;
+OLio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda2;
+OLio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda3;
+OLio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda4;
+OLio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda5;
+OLio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda6;
+OLio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda7;
+OLio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda8;
+OLio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda9;
+?Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$Companion;
+\Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$connection$1$$ExternalSyntheticLambda0;
+\Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$connection$1$$ExternalSyntheticLambda1;
+\Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$connection$1$$ExternalSyntheticLambda2;
+\Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$connection$1$$ExternalSyntheticLambda3;
+\Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$connection$1$$ExternalSyntheticLambda4;
+\Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$connection$1$$ExternalSyntheticLambda5;
+\Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$connection$1$$ExternalSyntheticLambda6;
+\Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$connection$1$$ExternalSyntheticLambda7;
+\Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$connection$1$$ExternalSyntheticLambda8;
+BLio/github/iamr0s/carplay/bridge/CarWithDirectClient$connection$1;
+@Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$endpoint$1;
+5Lio/github/iamr0s/carplay/bridge/CarWithDirectClient;
+7Lio/github/iamr0s/carplay/bridge/CarWithDirectContract;
+OLio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$$ExternalSyntheticLambda0;
+BLio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$connection$1;
+DLio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$drainTouches$1;
+@Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$10;
+ZLio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$11$$ExternalSyntheticLambda0;
+@Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$11;
+?Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$1;
+?Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$2;
+?Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$4;
+?Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$5;
+?Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$6;
+?Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$7;
+?Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$8;
+?Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$9;
+HLio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$receiver$1;
+<Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$poll$1;
+=Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$start$4;
+=Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$start$6;
+_Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$touchEndpoint$1$$ExternalSyntheticLambda0;
+ELio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$touchEndpoint$1;
+5Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime;
+[Lio/github/iamr0s/carplay/bridge/CarWithHook$handleLoadPackage$1$$ExternalSyntheticLambda0;
+ALio/github/iamr0s/carplay/bridge/CarWithHook$handleLoadPackage$1;
+-Lio/github/iamr0s/carplay/bridge/CarWithHook;
+8Lio/github/iamr0s/carplay/bridge/CarWithMetadata$poll$1;
+1Lio/github/iamr0s/carplay/bridge/CarWithMetadata;
+NLio/github/iamr0s/carplay/bridge/CarWithSessionHook$$ExternalSyntheticLambda0;
+>Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$Companion;
+<Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$Pending;
+?Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$10;
+?Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$11;
+SLio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$12$afterHookedMethod$1;
+?Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$12;
+?Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$13;
+YLio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$14$$ExternalSyntheticLambda0;
+?Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$14;
+?Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$15;
+?Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$16;
+?Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$17;
+?Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$18;
+XLio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$2$$ExternalSyntheticLambda0;
+>Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$2;
+>Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$3;
+>Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$4;
+>Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$5;
+>Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$6;
+XLio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$7$$ExternalSyntheticLambda0;
+>Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$7;
+>Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$8;
+XLio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$9$$ExternalSyntheticLambda0;
+>Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$9;
+4Lio/github/iamr0s/carplay/bridge/CarWithSessionHook;
+JLio/github/iamr0s/carplay/bridge/CarWithStartup$$ExternalSyntheticLambda0;
+JLio/github/iamr0s/carplay/bridge/CarWithStartup$$ExternalSyntheticLambda1;
+=Lio/github/iamr0s/carplay/bridge/CarWithStartup$connection$1;
+0Lio/github/iamr0s/carplay/bridge/CarWithStartup;
+GLio/github/iamr0s/carplay/hook/BluetoothHook$$ExternalSyntheticLambda0;
+7Lio/github/iamr0s/carplay/hook/BluetoothHook$Companion;
+ALio/github/iamr0s/carplay/hook/BluetoothHook$handleLoadPackage$2;
+ALio/github/iamr0s/carplay/hook/BluetoothHook$handleLoadPackage$3;
+ALio/github/iamr0s/carplay/hook/BluetoothHook$handleLoadPackage$4;
+ALio/github/iamr0s/carplay/hook/BluetoothHook$handleLoadPackage$5;
+HLio/github/iamr0s/carplay/hook/BluetoothHook$registerControl$receiver$1;
+-Lio/github/iamr0s/carplay/hook/BluetoothHook;
+9Lio/github/iamr0s/carplay/hook/HfpIdentityHook$install$2;
+?Lio/github/iamr0s/carplay/hook/HfpIdentityHook$install$hooks$1;
+/Lio/github/iamr0s/carplay/hook/HfpIdentityHook;
+LLio/github/iamr0s/carplay/hook/HfpIdentityProfile$$ExternalSyntheticLambda0;
+2Lio/github/iamr0s/carplay/hook/HfpIdentityProfile;
+-Lio/github/iamr0s/carplay/hook/NativeEirHook;
+2Lio/github/iamr0s/carplay/hook/NativeHookContract;
+4Lio/github/iamr0s/carplay/protocol/NowPlayingBridge;
+6Lio/github/iamr0s/carplay/protocol/NowPlayingSnapshot;
+8Lio/github/iamr0s/carplay/provider/NativeVideoSelection;
+NLio/github/iamr0s/carplay/provider/ProviderActivity$$ExternalSyntheticLambda0;
+OLio/github/iamr0s/carplay/provider/ProviderActivity$$ExternalSyntheticLambda10;
+OLio/github/iamr0s/carplay/provider/ProviderActivity$$ExternalSyntheticLambda11;
+OLio/github/iamr0s/carplay/provider/ProviderActivity$$ExternalSyntheticLambda12;
+NLio/github/iamr0s/carplay/provider/ProviderActivity$$ExternalSyntheticLambda1;
+NLio/github/iamr0s/carplay/provider/ProviderActivity$$ExternalSyntheticLambda2;
+NLio/github/iamr0s/carplay/provider/ProviderActivity$$ExternalSyntheticLambda3;
+NLio/github/iamr0s/carplay/provider/ProviderActivity$$ExternalSyntheticLambda4;
+NLio/github/iamr0s/carplay/provider/ProviderActivity$$ExternalSyntheticLambda5;
+NLio/github/iamr0s/carplay/provider/ProviderActivity$$ExternalSyntheticLambda6;
+NLio/github/iamr0s/carplay/provider/ProviderActivity$$ExternalSyntheticLambda7;
+NLio/github/iamr0s/carplay/provider/ProviderActivity$$ExternalSyntheticLambda8;
+NLio/github/iamr0s/carplay/provider/ProviderActivity$$ExternalSyntheticLambda9;
+>Lio/github/iamr0s/carplay/provider/ProviderActivity$refresh$1;
+4Lio/github/iamr0s/carplay/provider/ProviderActivity;
+=Lio/github/iamr0s/carplay/provider/ProviderBluetoothReceiver;
+BLio/github/iamr0s/carplay/provider/ProviderHostLease$connection$1;
+CLio/github/iamr0s/carplay/provider/ProviderHostLease$videoFormat$1;
+JLio/github/iamr0s/carplay/provider/ProviderHostLease$videoFormat$remote$1;
+5Lio/github/iamr0s/carplay/provider/ProviderHostLease;
+<Lio/github/iamr0s/carplay/provider/ProviderLaunch$Companion;
+2Lio/github/iamr0s/carplay/provider/ProviderLaunch;
+7Lio/github/iamr0s/carplay/provider/ProviderPermissions;
+1Lio/github/iamr0s/carplay/provider/ProviderRetry;
+1Lio/github/iamr0s/carplay/provider/ProviderStore;
+`Lio/github/iamr0s/carplay/provider/ProviderVideoRelay$$ExternalSyntheticBackportWithForwarding0;
+<Lio/github/iamr0s/carplay/provider/ProviderVideoRelay$Frame;
+;Lio/github/iamr0s/carplay/provider/ProviderVideoRelay$Sink;
+>Lio/github/iamr0s/carplay/provider/ProviderVideoRelay$close$1;
+BLio/github/iamr0s/carplay/provider/ProviderVideoRelay$configure$1;
+DLio/github/iamr0s/carplay/provider/ProviderVideoRelay$configure$2$1;
+^Lio/github/iamr0s/carplay/provider/ProviderVideoRelay$configure$2$2$$ExternalSyntheticLambda0;
+^Lio/github/iamr0s/carplay/provider/ProviderVideoRelay$configure$2$2$$ExternalSyntheticLambda1;
+DLio/github/iamr0s/carplay/provider/ProviderVideoRelay$configure$2$2;
+ILio/github/iamr0s/carplay/provider/ProviderVideoRelay$frameRateChanged$1;
+DLio/github/iamr0s/carplay/provider/ProviderVideoRelay$selectVideo$1;
+MLio/github/iamr0s/carplay/provider/ProviderVideoRelay$selectVideo$settings$1;
+?Lio/github/iamr0s/carplay/provider/ProviderVideoRelay$stream$1;
+FLio/github/iamr0s/carplay/provider/ProviderVideoRelay$stream$packet$1;
+6Lio/github/iamr0s/carplay/provider/ProviderVideoRelay;
+4Lio/github/iamr0s/carplay/video/TestVideo$Companion;
+*Lio/github/iamr0s/carplay/video/TestVideo;
+1Lio/github/iamr0s/carplay/video/VideoTestOptions;
+Ljava/io/BufferedWriter;
+Ljava/io/Closeable;
+Ljava/io/File;
+Ljava/io/FileInputStream;
+Ljava/io/OutputStream;
+Ljava/io/OutputStreamWriter;
+Ljava/io/PrintWriter;
+Ljava/io/StringWriter;
+Ljava/io/Writer;
+Ljava/lang/Boolean;
+Ljava/lang/Byte;
+Ljava/lang/CharSequence;
+Ljava/lang/Class;
+Ljava/lang/Class<
+Ljava/lang/ClassLoader;
+Ljava/lang/Double;
+Ljava/lang/Enum;
+Ljava/lang/Enum<
+Ljava/lang/Exception;
+Ljava/lang/Float;
+$Ljava/lang/IllegalArgumentException;
+!Ljava/lang/IllegalStateException;
+Ljava/lang/Integer;
+Ljava/lang/Iterable;
+Ljava/lang/Long;
+Ljava/lang/Math;
+Ljava/lang/Number;
+Ljava/lang/Object;
+Ljava/lang/Runnable;
+Ljava/lang/StackTraceElement;
+Ljava/lang/String;
+Ljava/lang/StringBuilder;
+Ljava/lang/System;
+Ljava/lang/Thread;
+Ljava/lang/ThreadLocal;
+Ljava/lang/ThreadLocal<
+Ljava/lang/Throwable;
+Ljava/lang/reflect/Field;
+Ljava/lang/reflect/Member;
+Ljava/lang/reflect/Method;
+Ljava/nio/charset/Charset;
+Ljava/security/MessageDigest;
+Ljava/util/ArrayDeque;
+Ljava/util/ArrayDeque<
+Ljava/util/ArrayList;
+Ljava/util/Arrays;
+Ljava/util/Collection;
+Ljava/util/Iterator;
+Ljava/util/LinkedHashMap;
+Ljava/util/List;
+Ljava/util/List<
+Ljava/util/Locale;
+Ljava/util/Map;
+Ljava/util/Map<
+Ljava/util/Set;
+Ljava/util/UUID;
+)Ljava/util/concurrent/ArrayBlockingQueue;
+$Ljava/util/concurrent/BlockingQueue;
+,Ljava/util/concurrent/CancellationException;
++Ljava/util/concurrent/CopyOnWriteArrayList;
++Ljava/util/concurrent/CopyOnWriteArrayList<
+1Ljava/util/concurrent/RejectedExecutionException;
+$Ljava/util/concurrent/ThreadFactory;
+)Ljava/util/concurrent/ThreadPoolExecutor;
+Ljava/util/concurrent/TimeUnit;
++Ljava/util/concurrent/atomic/AtomicBoolean;
+(Ljava/util/concurrent/atomic/AtomicLong;
+-Ljava/util/concurrent/atomic/AtomicReference;
+-Ljava/util/concurrent/atomic/AtomicReference<
+Lkotlin/Exception;
+Lkotlin/Function0;
+Lkotlin/Function1;
+Lkotlin/Function3;
+Lkotlin/Function4;
+Lkotlin/Metadata;
+Lkotlin/Pair;
+Lkotlin/Pair<
+Lkotlin/Result$Companion;
+Lkotlin/Result;
+Lkotlin/ResultKt;
+Lkotlin/Triple;
+Lkotlin/Triple<
+Lkotlin/TuplesKt;
+Lkotlin/Unit;
+Lkotlin/collections/ArrayDeque;
+Lkotlin/collections/ArrayDeque<
+Lkotlin/collections/ArraysKt;
+"Lkotlin/collections/CollectionsKt;
+Lkotlin/collections/MapsKt;
+Lkotlin/collections/SetsKt;
+ Lkotlin/coroutines/Continuation;
+ Lkotlin/coroutines/Continuation<
+$Lkotlin/coroutines/CoroutineContext;
++Lkotlin/coroutines/intrinsics/IntrinsicsKt;
+'Lkotlin/coroutines/jvm/internal/Boxing;
+1Lkotlin/coroutines/jvm/internal/ContinuationImpl;
+.Lkotlin/coroutines/jvm/internal/DebugMetadata;
+.Lkotlin/coroutines/jvm/internal/SuspendLambda;
+Lkotlin/enums/EnumEntries;
+Lkotlin/enums/EnumEntries<
+Lkotlin/enums/EnumEntriesKt;
+Lkotlin/io/CloseableKt;
+ Lkotlin/jvm/functions/Function0;
+ Lkotlin/jvm/functions/Function0<
+ Lkotlin/jvm/functions/Function1;
+ Lkotlin/jvm/functions/Function1<
+ Lkotlin/jvm/functions/Function2;
+ Lkotlin/jvm/functions/Function2<
+ Lkotlin/jvm/functions/Function3;
+ Lkotlin/jvm/functions/Function3<
+ Lkotlin/jvm/functions/Function4;
+ Lkotlin/jvm/functions/Function4<
+.Lkotlin/jvm/internal/DefaultConstructorMarker;
++Lkotlin/jvm/internal/FunctionReferenceImpl;
+ Lkotlin/jvm/internal/Intrinsics;
+#Lkotlin/jvm/internal/Ref$ObjectRef;
+Lkotlin/ranges/RangesKt;
+Lkotlin/sequences/Sequence;
+Lkotlin/text/Charsets;
+Lkotlin/text/Regex;
+Lkotlin/text/StringsKt;
+Lkotlinx/coroutines/BuildersKt;
+(Lkotlinx/coroutines/CompletableDeferred;
+(Lkotlinx/coroutines/CompletableDeferred<
+*Lkotlinx/coroutines/CompletableDeferredKt;
+(Lkotlinx/coroutines/CoroutineDispatcher;
+#Lkotlinx/coroutines/CoroutineScope;
+%Lkotlinx/coroutines/CoroutineScopeKt;
+#Lkotlinx/coroutines/CoroutineStart;
+Lkotlinx/coroutines/DelayKt;
+ Lkotlinx/coroutines/Dispatchers;
+%Lkotlinx/coroutines/Job$DefaultImpls;
+Lkotlinx/coroutines/Job;
+Lkotlinx/coroutines/JobKt;
+Lkotlinx/coroutines/TimeoutKt;
+,Lkotlinx/coroutines/channels/BufferOverflow;
+%Lkotlinx/coroutines/channels/Channel;
+%Lkotlinx/coroutines/channels/Channel<
+'Lkotlinx/coroutines/channels/ChannelKt;
++Lkotlinx/coroutines/channels/ChannelResult;
+9Lkotlinx/coroutines/channels/ReceiveChannel$DefaultImpls;
+,Lkotlinx/coroutines/channels/ReceiveChannel;
+#Lkotlinx/coroutines/flow/StateFlow;
+Lkotlinx/coroutines/sync/Mutex;
+!Lkotlinx/coroutines/sync/MutexKt;
+Log forwarding failed
+Lorg/json/JSONObject;
+MANAGER
+METADATA
+!MIC CarWith listener fed packets=
+ MIC native queue consumer reads=
+MICROPHONE
+MILLISECONDS
+Metadata capture FAILED 
+gMetadata capture armed; active MediaSession -> subscribed iAP2 NowPlaying; no lyrics capability assumed
+Microphone PCM absent
+Mode receiver failed: 
+Mode request modify=
+JModule entry build=62ef926; process=com.android.bluetooth; default=observe
+MusicInfo strings=[
+Mutex$default
+NATIVE 
+NATIVE_UI
+MNative display still active; retain ownership and do not permit a new session
+!Native load/verification failed: 
+0Native main service did not create state machine
+@Native module loaded; installation result is reported separately
+ Native state machine is not idle
+NativeHookContract.kt
+NativeVideoSelection.kt
+1No owned CarLife provider for this Binder/session
+PACKAGE
+PCM Binder rejected
+PCM absent
+PCM actual packets=
+PCM capture FAILED category=
+PCM capture category=
+PCM capture ended category=
+PCM capture started category=
+.PCM queue full/released; packet dropped bytes=
+PCM rejected category=
+PERMISSION
+PREFIX
+BPROVIDER CarPlay video channel ready; preparing host Surface size=
+#PROVIDER follow CarWith resolution=
+ PROVIDER host lease bind result=
+(PROVIDER host lease connected component=
+"PROVIDER host lease failed reason=
+1PROVIDER host lease released after media teardown
+&PROVIDER invalid native carlife_frame=
+PROVIDER native carlife_frame=
+&PROVIDER native video format receiver=
+PROVIDER relay first IDR size=
+#PROVIDER relay stats delivered-fps=
+PROVIDER_HANDSHAKE
+Pending
+Pending(method=
+-Previous CarLife session still active/closing
+\Provider request is not the active CarPlay Surface session; retry after Hook Binder connects
+ProviderActivity.kt
+ProviderBluetoothReceiver.kt
+ProviderHostLease.kt
+ProviderLaunch(usbType=
+ProviderLaunch.kt
+ProviderLogExport
+ProviderPermissions.kt
+ProviderStore.kt
+ProviderVideoRelay.kt
+REGISTER_TOUCH
+REVISION
+ROOT
+@Rejected: library fingerprint mismatch; no native hook installed
+-Rejected: unsupported SDK; no hooks installed
+FRejected: unsupported system fingerprint/SDK; no native hook installed
+Required value was null.
+Runtime
+SDK_INT
+SERVICE
+SESSION
+SESSION id=
+SESSION_EXTRA
+SHA-256
+SMAP
+BluetoothHook.kt
+Kotlin
+*S Kotlin
++ 1 BluetoothHook.kt
+io/github/iamr0s/carplay/hook/BluetoothHook$Companion
++ 2 _Sequences.kt
+kotlin/sequences/SequencesKt___SequencesKt
+1#1,137:1
+1321#2,2:138
+*S KotlinDebug
++ 1 BluetoothHook.kt
+io/github/iamr0s/carplay/hook/BluetoothHook$Companion
+128#1:138,2
+SMAP
+BluetoothHook.kt
+Kotlin
+*S Kotlin
++ 1 BluetoothHook.kt
+io/github/iamr0s/carplay/hook/BluetoothHook$handleLoadPackage$5
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,137:1
+1#2:138
+SMAP
+BluetoothHook.kt
+Kotlin
+*S Kotlin
++ 1 BluetoothHook.kt
+io/github/iamr0s/carplay/hook/BluetoothHook$registerControl$receiver$1
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,137:1
+1#2:138
+SMAP
+CarWithAudioCapture.kt
+Kotlin
+*S Kotlin
++ 1 CarWithAudioCapture.kt
+io/github/iamr0s/carplay/bridge/CarWithAudioCapture
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
++ 3 _Arrays.kt
+kotlin/collections/ArraysKt___ArraysKt
++ 4 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
+1#1,83:1
+1#2:84
+12647#3,2:85
+1869#4,2:87
+1869#4,2:89
+*S KotlinDebug
++ 1 CarWithAudioCapture.kt
+io/github/iamr0s/carplay/bridge/CarWithAudioCapture
+53#1:85,2
+79#1:87,2
+80#1:89,2
+SMAP
+CarWithBridge.kt
+Kotlin
+*S Kotlin
++ 1 CarWithBridge.kt
+io/github/iamr0s/carplay/bridge/CarWithBridge
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,227:1
+1#2:228
+SMAP
+CarWithBridge.kt
+Kotlin
+*S Kotlin
++ 1 CarWithBridge.kt
+io/github/iamr0s/carplay/bridge/CarWithBridgeService$endpoint$1
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,227:1
+1#2:228
+SMAP
+CarWithDirectClient.kt
+Kotlin
+*S Kotlin
++ 1 CarWithDirectClient.kt
+io/github/iamr0s/carplay/bridge/CarWithDirectClient
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
++ 3 _Arrays.kt
+kotlin/collections/ArraysKt___ArraysKt
++ 4 Maps.kt
+kotlin/collections/MapsKt__MapsKt
+1#1,337:1
+1#2:338
+12647#3,2:339
+382#4,7:341
+*S KotlinDebug
++ 1 CarWithDirectClient.kt
+io/github/iamr0s/carplay/bridge/CarWithDirectClient
+238#1:339,2
+271#1:341,7
+SMAP
+CarWithDirectClient.kt
+Kotlin
+*S Kotlin
++ 1 CarWithDirectClient.kt
+io/github/iamr0s/carplay/bridge/CarWithDirectClient$connection$1
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,337:1
+1#2:338
+SMAP
+CarWithHook.kt
+Kotlin
+*S Kotlin
++ 1 CarWithHook.kt
+io/github/iamr0s/carplay/bridge/CarWithHook$Runtime
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
++ 3 Maps.kt
+kotlin/collections/MapsKt__MapsKt
++ 4 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
+1#1,472:1
+1#2:473
+382#3,7:474
+1869#4,2:481
+*S KotlinDebug
++ 1 CarWithHook.kt
+io/github/iamr0s/carplay/bridge/CarWithHook$Runtime
+184#1:474,7
+437#1:481,2
+SMAP
+CarWithHook.kt
+Kotlin
+*S Kotlin
++ 1 CarWithHook.kt
+io/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$5
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
++ 3 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
+1#1,472:1
+1#2:473
+1563#3:474
+1634#3,3:475
+*S KotlinDebug
++ 1 CarWithHook.kt
+io/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$5
+231#1:474
+231#1:475,3
+SMAP
+CarWithHook.kt
+Kotlin
+*S Kotlin
++ 1 CarWithHook.kt
+io/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$7
++ 2 _Arrays.kt
+kotlin/collections/ArraysKt___ArraysKt
+1#1,472:1
+4135#2,11:473
+4135#2,11:484
+*S KotlinDebug
++ 1 CarWithHook.kt
+io/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$7
+261#1:473,11
+263#1:484,11
+SMAP
+CarWithHook.kt
+Kotlin
+*S Kotlin
++ 1 CarWithHook.kt
+io/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$8
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,472:1
+1#2:473
+SMAP
+CarWithMetadata.kt
+Kotlin
+*S Kotlin
++ 1 CarWithMetadata.kt
+io/github/iamr0s/carplay/bridge/CarWithMetadata$poll$1
++ 2 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
+1#1,49:1
+295#2,2:50
+*S KotlinDebug
++ 1 CarWithMetadata.kt
+io/github/iamr0s/carplay/bridge/CarWithMetadata$poll$1
+22#1:50,2
+SMAP
+CarWithSessionHook.kt
+Kotlin
+*S Kotlin
++ 1 CarWithSessionHook.kt
+io/github/iamr0s/carplay/bridge/CarWithSessionHook
++ 2 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
++ 3 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,369:1
+1869#2,2:370
+1869#2,2:372
+1#3:374
+*S KotlinDebug
++ 1 CarWithSessionHook.kt
+io/github/iamr0s/carplay/bridge/CarWithSessionHook
+56#1:370,2
+310#1:372,2
+SMAP
+CarWithSessionHook.kt
+Kotlin
+*S Kotlin
++ 1 CarWithSessionHook.kt
+io/github/iamr0s/carplay/bridge/CarWithSessionHook$install$12
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,369:1
+1#2:370
+SMAP
+CarWithSessionHook.kt
+Kotlin
+*S Kotlin
++ 1 CarWithSessionHook.kt
+io/github/iamr0s/carplay/bridge/CarWithSessionHook$install$13
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,369:1
+1#2:370
+SMAP
+CarWithSessionHook.kt
+Kotlin
+*S Kotlin
++ 1 CarWithSessionHook.kt
+io/github/iamr0s/carplay/bridge/CarWithSessionHook$install$14
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,369:1
+1#2:370
+SMAP
+CarWithSessionHook.kt
+Kotlin
+*S Kotlin
++ 1 CarWithSessionHook.kt
+io/github/iamr0s/carplay/bridge/CarWithSessionHook$install$16
++ 2 _Arrays.kt
+kotlin/collections/ArraysKt___ArraysKt
+1#1,369:1
+19652#2,2:370
+*S KotlinDebug
++ 1 CarWithSessionHook.kt
+io/github/iamr0s/carplay/bridge/CarWithSessionHook$install$16
+283#1:370,2
+SMAP
+CarWithSessionHook.kt
+Kotlin
+*S Kotlin
++ 1 CarWithSessionHook.kt
+io/github/iamr0s/carplay/bridge/CarWithSessionHook$install$2
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,369:1
+1#2:370
+SMAP
+CarWithSessionHook.kt
+Kotlin
+*S Kotlin
++ 1 CarWithSessionHook.kt
+io/github/iamr0s/carplay/bridge/CarWithSessionHook$install$3
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,369:1
+1#2:370
+SMAP
+CarWithStartup.kt
+Kotlin
+*S Kotlin
++ 1 CarWithStartup.kt
+io/github/iamr0s/carplay/bridge/CarWithStartup
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,71:1
+1#2:72
+SMAP
+HfpIdentityHook.kt
+Kotlin
+*S Kotlin
++ 1 HfpIdentityHook.kt
+io/github/iamr0s/carplay/hook/HfpIdentityHook
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,92:1
+1#2:93
+SMAP
+HfpIdentityHook.kt
+Kotlin
+*S Kotlin
++ 1 HfpIdentityHook.kt
+io/github/iamr0s/carplay/hook/HfpIdentityHook$install$hooks$1
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,92:1
+1#2:93
+SMAP
+ProviderActivity.kt
+Kotlin
+*S Kotlin
++ 1 ProviderActivity.kt
+io/github/iamr0s/carplay/provider/ProviderActivity
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
++ 3 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
++ 4 ArraysJVM.kt
+kotlin/collections/ArraysKt__ArraysJVMKt
+1#1,136:1
+1#2:137
+1563#3:138
+1634#3,3:139
+37#4:142
+36#4,3:143
+37#4:146
+36#4,3:147
+*S KotlinDebug
++ 1 ProviderActivity.kt
+io/github/iamr0s/carplay/provider/ProviderActivity
+127#1:138
+127#1:139,3
+127#1:142
+127#1:143,3
+65#1:146
+65#1:147,3
+SMAP
+ProviderHostLease.kt
+Kotlin
+*S Kotlin
++ 1 ProviderHostLease.kt
+io/github/iamr0s/carplay/provider/ProviderHostLease
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,73:1
+1#2:74
+SMAP
+ProviderPermissions.kt
+Kotlin
+*S Kotlin
++ 1 ProviderPermissions.kt
+io/github/iamr0s/carplay/provider/ProviderPermissions
++ 2 ArraysJVM.kt
+kotlin/collections/ArraysKt__ArraysJVMKt
++ 3 _Arrays.kt
+kotlin/collections/ArraysKt___ArraysKt
+1#1,20:1
+37#2:21
+36#2,3:22
+12434#3,2:25
+*S KotlinDebug
++ 1 ProviderPermissions.kt
+io/github/iamr0s/carplay/provider/ProviderPermissions
+17#1:21
+17#1:22,3
+18#1:25,2
+SMAP
+ProviderVideoRelay.kt
+Kotlin
+*S Kotlin
++ 1 ProviderVideoRelay.kt
+io/github/iamr0s/carplay/provider/ProviderVideoRelay
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
++ 3 Mutex.kt
+kotlinx/coroutines/sync/MutexKt
++ 4 CoroutineScope.kt
+kotlinx/coroutines/CoroutineScopeKt
+1#1,155:1
+1#2:156
+116#3,11:157
+375#4:168
+*S KotlinDebug
++ 1 ProviderVideoRelay.kt
+io/github/iamr0s/carplay/provider/ProviderVideoRelay
+59#1:157,11
+117#1:168
+SUPPORTED
+Session
+Session(id=
+"Signed mode-control receiver ready
+Sink
+,Surface 
+CarWith 
+TARGET_PACKAGE
+TOUCH
+TOUCH UI received activity=
+TOUCH ignored action=
+TOUCH inject session=
+TOUCH ready session=
+!TOUCH rejected no virtual display
+TOUCH stale session=
+TOUCH_DESCRIPTOR
+TYPE
+Target library SHA256=
+ Touch callback caller UID denied
+5Touch registration rejected (Surface session changed)
+Transport
+UCarActivityManager
+UCarWindowManager
+UTF_8
+"Unexpected CarWith Binder contract
+Unsupported Binder transaction 
+Unsupported CarWith version=
+VIII
+VIIII
+VIIIIIJ
+VIIIZ
+VIIIZZZLIL
+VIIJLLL
+VIIL
+VILLLLI
+VJJIII
+VLII
+VLIII
+VLIIIIIFF
+VLIIL
+VLIL
+VLILIIIL
+VLJZJ
+VLLIII
+VLLIL
+VLLILL
+VLLL
+VLLLI
+VLLLILL
+VLLLILLIL
+VLLLL
+VLLLLJJI
+VLLLLJJIIL
+VLLLLL
+VLLLZJ
+VLLZ
+VLLZI
+VLLZIL
+VLZIIII
+VLZIL
+VLZJ
+VZIIIIJ
+VideoRelay
+VirtualDisplay created id=
+WAKE
+NXiaomi/pudding/pudding:17/CP2A.260605.016/OS4.0.0.32.XPCCNXM:user/release-keys
+ZIIII
+ZILLI
+ZLILL
+ZLLI
+ZLLL
+ZLLZIL
+ZZIIII
+)[Landroid/view/MotionEvent$PointerCoords;
+-[Landroid/view/MotionEvent$PointerProperties;
+:[Lio/github/iamr0s/carplay/bridge/CarWithBridge$Transport;
+[Ljava/lang/CharSequence;
+[Ljava/lang/Enum;
+[Ljava/lang/Integer;
+[Ljava/lang/Long;
+[Ljava/lang/Object;
+[Ljava/lang/StackTraceElement;
+[Ljava/lang/String;
+[Lkotlin/Pair;
+] duration=
+accept-provider
+accepted
+faccepted provider; main-service startup pending; transport=local-CarLife-USB external=wireless-CarPlay
+access$call
+access$configure
+access$disconnected
+access$dispatch
+access$escapeLog
+access$fail
+access$failure
+access$finish
+access$getAudioCallback$p
+access$getAuthorize$p
+access$getBootstrap$p
+access$getBoundContext$p
+access$getBridge$p
+access$getCastCallback$p
+access$getClosed$p
+access$getClosing$p
+access$getCommands$p
+access$getContext$p
+access$getControlReceiver$cp
+access$getDeath$p
+access$getFormalSession$p
+access$getHandler$p
+access$getHost$p
+access$getId$p
+access$getMain$p
+access$getManager$p
+access$getMetadata$p
+access$getOldConnected$p
+access$getOwnedConnection$p
+access$getOwnedManager$p
+access$getOwnedService$p
+access$getPending$p
+access$getReady$p
+access$getRemote$p
+access$getReport$p
+access$getSession$p
+access$getSink$p
+access$getStatus$p
+access$log
+access$mode
+access$proxy
+access$record
+access$recordFailure
+access$registerControl
+access$restore
+access$setBootstrap$p
+access$setConfig$p
+access$setControlReceiver$cp
+access$setFailure$p
+access$setId$p
+access$setManager$p
+access$setMetadata$p
+access$setNativeFps$p
+access$setOldAudioBluetooth$p
+access$setOldAudioPlus$p
+access$setOldBox$p
+access$setOldConnected$p
+access$setOldMode$p
+access$setOldStop$p
+access$setOwnedConnection$p
+access$setOwnedManager$p
+access$setOwnedService$p
+access$setPending$p
+access$setPrepared$p
+access$setReady$p
+access$submit
+access$type
+accessFlags
+action
+active
+activity
+activityInfo
+addAndGet
+addCategory
+addFlags
+addFlags(...)
+addLast
+addView
+address
+afterHookedMethod
+afterHookedMethod$lambda$0
+afterOutput
+album
+-android.bluetooth.device.action.ACL_CONNECTED
+%android.bluetooth.device.extra.DEVICE
+%android.intent.action.CREATE_DOCUMENT
+ android.intent.category.OPENABLE
+android.intent.extra.TITLE
+android.media.metadata.ALBUM
+android.media.metadata.ARTIST
+android.media.metadata.DURATION
+android.media.metadata.TITLE
+)android.permission.ACCESS_COARSE_LOCATION
+'android.permission.ACCESS_FINE_LOCATION
+'android.permission.ACCESS_LOCAL_NETWORK
+&android.permission.BLUETOOTH_ADVERTISE
+$android.permission.BLUETOOTH_CONNECT
+!android.permission.BLUETOOTH_SCAN
+'android.permission.CAPTURE_AUDIO_OUTPUT
+&android.permission.NEARBY_WIFI_DEVICES
+%android.permission.POST_NOTIFICATIONS
+answer\1
+answer\3
+apiLevel
+appContext
+append
+application-launch
+apply
+areEqual
+args
+artist
+atResponseString
+attach
+audio
+audio route preference=
+audio state category=
+audio state=
+audioCallback
+audioCallback$lambda$19
+!audioCallback$lambda$19$lambda$18
+audioCapture
+audioCategory
+audioPackets
+audioType
+authorize
+authorizeSession
+%authorizeSession(Ljava/lang/String;)Z
+await
+awaitingKey
+Lback-to-car-launcher forwarded to CarPlay requestUI; native display retained
+back-to-native-ui
+beforeHookedMethod
+beforeHookedMethod$lambda$0
+beforeHookedMethod$lambda$1
+beforeHookedMethod$lambda$6
+beforeOutput
+began
+begin
+begin$lambda$11
+begin$lambda$12
+begin$lambda$9
+bind
+bindService
+bindService result=
+7bindService returned false; check installed CarPlay APK
+bindVersion
+binder
+binderDied
+binder\24
+binding died
+binding died 
+bluetooth-address
+bluetoothConnected
+booleanValue
+bootstrap
+bound
+bound component=
+boundContext
+bounded callback queue overflow
+box-impl
+boxBoolean
+boxInt
+boxLong
+bridge
+bridgeCoordinate
+buffer
+build
+byteValue
+bytes
+bytes\1
+call
+/call to 'resume' before 'invoke' with coroutine
+call$default
+call$lambda$10
+call$lambda$9
+callMethod
+callStaticMethod
+callStaticMethod(...)
+callback
+canCallNative
+cancel$default
+cancelAndJoin
+cancelTouch
+cancelled
+capacity
+capture
+capture$lambda$9
+carEntries
+carIntent
+carlife
+carlife_back_to_car_launcher
+carlife_connect_audio_type
+carlife_dynamic_params
+carlife_encode_format
+carlife_frame
+carlife_music_sample_rate
+carlife_vr_hu_wake_up_enable
+carlife_vr_use_phone_mic
+carplay-xiaomi-carlife
+carplayLaunch
+carplayMicSession
+carplayStartIntent
+carplayTouch
+carplay_eir_hook
+carwith-carplay-
+castCallback
+castCallback$lambda$16
+ castCallback$lambda$16$lambda$14
+ castCallback$lambda$16$lambda$15
+category
+channels
+checkNotNull
+checkNotNullExpressionValue
+checkNotNullParameter
+checkSelfPermission
+choosePeer
+choosePeer$lambda$23
+classLoader
+clear
+client
+clientReleased
+clone
+close
+close$lambda$34
+closeFinally
+closed
+closing
+closing queued=
+coalesced
+code
+coerceAtLeast
+coerceAtMost
+coerceIn
+collectionSizeOrDefault
+com.android.bluetooth
+.com.android.bluetooth.btservice.AdapterService
+0com.android.bluetooth.hfp.HeadsetNativeInterface
+-com.android.bluetooth.hfp.HeadsetStateMachine
+#com.baidu.carlife.mixing.CastConfig
+com.baidu.carlife.mixing.aidl.
+2com.baidu.carlife.mixing.aidl.ICarLifeCastCallback
+1com.baidu.carlife.mixing.aidl.ICarLifeCastManager
+6com.baidu.carlife.mixing.aidl.ICarLifeCastManager$Stub
+2com.baidu.carlife.mixing.aidl.IRemoteAudioListener
+0com.baidu.carlife.mixing.aidl.IRemoteKeyListener
+2com.baidu.carlife.mixing.aidl.IRemoteTouchListener
+2com.baidu.carlife.mixing.aidl.ISystemAudioCallback
+com.carwith.common.utils.c1
+com.carwith.common.utils.h0
+com.carwith.common.utils.q1
+com.carwith.common.utils.u1
+com.carwith.launcher.ams.a
+&com.carwith.launcher.home.HomeActivity
+com.miui.carlink
+'com.miui.carlink.castfwk.CarlinkService
+,com.miui.carlink.castfwk.CarlinkStateMachine
+'com.miui.carlink.castfwk.CastController
+com.ucar.intent.action.UCAR
+com.ucar.intent.category.UCAR
+*com.xiaomi.ucar.carlife.CarlifeConnService
+Acom.xiaomi.ucar.carlife.CarlifeConnService$CarLifeCastManagerImpl
+/com.xiaomi.ucar.carlife.CarlifeKeepAliveService
+2com.xiaomi.ucar.carlife.audio.CarlifeAudioListener
+com.xiaomi.ucar.carlife.j
+command
+commands
+compareAndSet
+Fcompeting CarLife binding rejected while local provider owns callbacks
+Ccompeting native service startup rejected during provider ownership
+complete
+component
+component1
+component2
+component3
+component4
+component5
+component6
+config
+configSent
+configure
+connection
+connector
+constructor-impl
+contains
+contains$default
+context
+controlReceiver
+controller
+controllerType
+controllers
+coordinate
+coords
+copy
+copy$default
+copyOf
+copyOf(...)
+count
+count\1
+create
+create-display/launcher
+createByteArray
+createFailure
+createFromParcel
+createListBuilder
+created
+current
+currentDisplay
+currentThread
+currentTimeMillis
+current\2
+data
+dataAvail
+deadline
+death
+death$lambda$4
+default_height
+default_width
+delay
+delegate
+delivered
+descriptor
+desktop
+destination
+destination\1
+destination\2
+destination\3
+destination\4
+detail
+device
+devices
+digest
+digest(...)
+dimensions
+direct
+discarded\2
+disconnectProvider
+disconnected
+dispatch
+dispatchMediaKeyEvent
+dispatchTouchEvent
+display
+display-disconnect
+display-release-notification
+displayConnected
+displayDisconnected
+displayId
+down
+downTime
+drainTouches
+dropped
+duration
+e2.a
+e2.g
+e4.a
+edit
+elapsed
+elapsedRealtime
+elapsed\3
+element
+element\1
+element\2
+element\3
+element\4
+element\7
+emptyList
+enabled
+enabledUntil
+encoder
+encoding
+end$lambda$13
+endpoint
+enforceInterface
+enumEntries
+equals
+error
+error\1
+error\24
+escapeLog
+event
+eventTime
+exceptionOrNull-impl
+execStartActivity
+execute
+exit
+export
+exported
+f3744a
+fail
+fail$lambda$7
+fail$lambda$8
+failed
+failedSession
+failure
+failures
+fetch-surface
+filter
+findAndHookMethod
+findClass
+finish
+finish$lambda$3
+first
+first-frame-timeout
+firstFrameTimeoutReason
+firstOrNull
+firstPts
+flags
+force
+formal-session-hook-install
+formalSession
+format
+format(...)
+forward
+frame
+frameRateChanged
+frames
+getAction
+getActive
+getActiveSessions
+getActiveSessions(...)
+getActualFps
+getAdapter
+getAddress
+getAddress(...)
+getAndSet
+getApplicationContext
+getApplicationContext(...)
+getAudioCapture
+getAwaitingKey
+getBindVersion
+getBondedDevices
+getBoolean
+getBooleanExtra
+getBooleanField
+getBound
+getBridge
+getBytes
+getCOROUTINE_SUSPENDED
+getCallingUid
+getCarWith
+getClass
+getClassName
+getCoalesced
+getComponent
+getConfig
+getConnection
+getContentResolver
+getContext
+getController
+getCurrent
+getData
+getDeclaredField
+getDefaultDisplay
+getDisplay
+getDisplayId
+getDownTime
+getDrainTouches
+getDropped
+getEnabled
+getEntries
+getEventTime
+getExtras
+getFailedSession
+getFirst
+getFloat
+getFps
+getFrames
+getHeight
+getHeldKeys
+getIO
+getId
+getIdle
+getInjectedTouches
+getInstalled
+getInstance
+getInt
+getIntExtra
+getInterfaceDescriptor
+getKey
+getLastEventTime
+getLastPositionUpdateTime
+getLastTouch
+getLaunchIntentForPackage
+getLoader
+getLong
+getLongVersionCode
+getMain
+getMainLooper
+getMessage
+getMetadata
+getMethod
+getMethodName
+getMicListener
+getMicrophonePackets
+getMicrophoneReads
+getName
+getObjectExtra
+getObjectField
+getOldMode
+getOnAudioSource
+getOnConnectionEnded
+getOnConnectionReady
+getOnPcm
+getOnStopRequested
+getOrNull
+getOverflows
+getPackageInfo
+getPackageManager
+getPackageName
+getPackagesForUid
+getParcelableExtra
+getPeer
+getPermissionInfo
+getPlaybackSpeed
+getPlaybackState
+getPointerCount
+getPoll
+getPosition
+getPreviousController
+getProduced
+getPts
+getQueue
+getQueuedAt
+getReceiver
+getRecordingState
+getRelay
+getReleased
+getRemote
+getRenderHeight
+getRenderWidth
+getResult
+getSecond
+getSentFromPackage
+getSentFromUid
+getServiceInfo
+getServiceInfo(...)
+getSession
+getSessionId
+getSharedPreferences
+getSimpleName
+getStackTrace
+getStackTrace(...)
+getStackTraceString
+getState
+getStaticObjectField
+getStatus
+getString
+getStringExtra
+getSurface
+getSystemService
+getText
+getThird
+getThrowable
+getThrowable(...)
+getTime
+getTouchEndpoint
+getTouchScheduled
+getTouches
+getTransport
+getType
+getUsbType
+getValue
+getWidth
+getWindowManager
+getX
+getY
+granted
+h1.a
+handle
+handleLoadPackage
+handleLoadPackage$lambda$1
+handler
+hasExtra
+hasNext
+hasThrowable
+hash
+hashCode
+header
+height
+heldKeys
+helper
+hfp-active
+hfp-identity-v1
+hfp-revision
+holder
+hook
+hookAllMethods
+hooks
+host
+hu_wake_up_enable
+iOS 26.0
+iPhone
+idle
+implementation-id
+incoming
+incrementAndGet
+index
+info
+injectKey
+injectTouch
+injectedTouches
+input\1
+inspectSystemEntry
+install
+install$lambda$5
+installed
+Finstalled provider ABI=4.0.14-20260801; legacy render bridge preserved
+intValue
+intent
+interrupt
+invoke
+invokeMethod action=
+ invokeMethod unsupported action=
+invokeOriginalMethod
+invokeSuspend
+invokeSuspend$lambda$0
+invokeSuspend$lambda$3
+io.github.iamr0s.carplay
+1io.github.iamr0s.carplay.CARLIFE_PROVIDER_SESSION
+2io.github.iamr0s.carplay.CARLIFE_PROVIDER_SESSION.
+%io.github.iamr0s.carplay.CARWITH_WAKE
+)io.github.iamr0s.carplay.CarWithBridge.v1
+/io.github.iamr0s.carplay.CarWithBridge.v1.touch
+%io.github.iamr0s.carplay.HOOK_CONTROL
+"io.github.iamr0s.carplay.HOOK_MODE
+$io.github.iamr0s.carplay.HOOK_RESULT
+4io.github.iamr0s.carplay.bridge.CarWithBridgeService
+3io.github.iamr0s.carplay.provider.ProviderHostLease
+Hio.github.iamr0s.carplay.provider.ProviderHostLease$videoFormat$remote$1
+4io.github.iamr0s.carplay.provider.ProviderVideoRelay
+Bio.github.iamr0s.carplay.provider.ProviderVideoRelay$configure$2$1
+Bio.github.iamr0s.carplay.provider.ProviderVideoRelay$configure$2$2
+Gio.github.iamr0s.carplay.provider.ProviderVideoRelay$frameRateChanged$1
+Kio.github.iamr0s.carplay.provider.ProviderVideoRelay$selectVideo$settings$1
+Dio.github.iamr0s.carplay.provider.ProviderVideoRelay$stream$packet$1
+?io/github/iamr0s/carplay/bridge/CarWithBridgeService$endpoint$1
+@io/github/iamr0s/carplay/bridge/CarWithDirectClient$connection$1
+>io/github/iamr0s/carplay/bridge/CarWithDirectClient$endpoint$1
+@io/github/iamr0s/carplay/bridge/CarWithHook$Runtime$connection$1
+Bio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$drainTouches$1
+>io/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$10
+>io/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$11
+=io/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$4
+=io/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$5
+=io/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$6
+=io/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$7
+=io/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$8
+=io/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$9
+Fio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$receiver$1
+:io/github/iamr0s/carplay/bridge/CarWithHook$Runtime$poll$1
+Cio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$touchEndpoint$1
+?io/github/iamr0s/carplay/bridge/CarWithHook$handleLoadPackage$1
+6io/github/iamr0s/carplay/bridge/CarWithMetadata$poll$1
+=io/github/iamr0s/carplay/bridge/CarWithSessionHook$install$10
+=io/github/iamr0s/carplay/bridge/CarWithSessionHook$install$11
+=io/github/iamr0s/carplay/bridge/CarWithSessionHook$install$12
+=io/github/iamr0s/carplay/bridge/CarWithSessionHook$install$13
+=io/github/iamr0s/carplay/bridge/CarWithSessionHook$install$14
+=io/github/iamr0s/carplay/bridge/CarWithSessionHook$install$15
+=io/github/iamr0s/carplay/bridge/CarWithSessionHook$install$16
+=io/github/iamr0s/carplay/bridge/CarWithSessionHook$install$17
+=io/github/iamr0s/carplay/bridge/CarWithSessionHook$install$18
+<io/github/iamr0s/carplay/bridge/CarWithSessionHook$install$2
+<io/github/iamr0s/carplay/bridge/CarWithSessionHook$install$3
+<io/github/iamr0s/carplay/bridge/CarWithSessionHook$install$4
+<io/github/iamr0s/carplay/bridge/CarWithSessionHook$install$5
+<io/github/iamr0s/carplay/bridge/CarWithSessionHook$install$6
+<io/github/iamr0s/carplay/bridge/CarWithSessionHook$install$7
+<io/github/iamr0s/carplay/bridge/CarWithSessionHook$install$8
+<io/github/iamr0s/carplay/bridge/CarWithSessionHook$install$9
+;io/github/iamr0s/carplay/bridge/CarWithStartup$connection$1
+?io/github/iamr0s/carplay/hook/BluetoothHook$handleLoadPackage$4
+?io/github/iamr0s/carplay/hook/BluetoothHook$handleLoadPackage$5
+Fio/github/iamr0s/carplay/hook/BluetoothHook$registerControl$receiver$1
+7io/github/iamr0s/carplay/hook/HfpIdentityHook$install$2
+=io/github/iamr0s/carplay/hook/HfpIdentityHook$install$hooks$1
+<io/github/iamr0s/carplay/provider/ProviderActivity$refresh$1
+@io/github/iamr0s/carplay/provider/ProviderHostLease$connection$1
+isActive
+isAssignableFrom
+isBinderAlive
+isBlank
+isDestroyed
+isEmpty
+isFailure-impl
+isFinishing
+isSuccess-impl
+isValid
+is_use_phone_mic
+it\1
+it\11
+it\15
+it\2
+it\21
+it\3
+it\4
+it\5
+it\7
+it\8
+it\9
+item\2
+item\3
+iterator
+java.lang.System
+joinToString$default
+key name=
+key unavailable name=
+key unmapped name=
+key$lambda$29
+key$lambda$29$lambda$27
+key$lambda$29$lambda$28
+key-inject
+keyCode
+keyListener
+keySet
+key\1
+key\3
+kind
+kotlin.jvm.PlatformType
+label
+last-ready
+lastEventTime
+lastLog
+lastOrNull
+lastPcmSink
+lastTouch
+launch
+launch$default
+launch-entry-query
+launch-normal-entry-query
+launchContext
+layout
+length
+line
+lineSequence
+linkToDeath
+listOf
+listener
+listener transaction=
+listener\3
+Rlive audio enabled after VALID PCM for current consumer; not on Surface submission
+loadLibrary
+loaded process=
+loader
+`local provider replaced Baidu module/version startup continuation; no fake auth-success callback
+localAddress
+localProvider
+lock
+log(Ljava/lang/String;)V
+longValue
+m2.c
+mInstance
+mSurface
+mVirtualDisplay
+machine
+main
+"main service requested; callerUID=
+makeBasic
+makeText
+manager
+manager Binder died
+manufacturer
+mapOf
+mapped
+mapper
+mapping
+matches
+max-fps-to-encoder
+media_session
+message
+metadata
+metadata-start
+method
+micListener
+microphone
+microphone forwarded bytes=
+)microphone unavailable: no audio listener
+microphone$lambda$32
+microphone$lambda$32$lambda$31
+microphone-queue-read
+microphoneListener
+microphonePackets
+microphoneReads
+mode
+mode\10
+mode\16
+mode\22
+modified
+modify
+music progress=
+music_sample_rate
+myLooper
+myPid
+myUid
+name
+name\2
+nanoTime
+native
+\native Baidu auto-reconnect omitted; next provider connection must be a new explicit session
+$native K0 disconnect begin; display=
+native disconnect System.exit(
+Dnative disconnect process-kill branch replaced by owned-service stop
+/native launcher-ready handler returned display=
+!native listener registered; mode=
+Ynative onStartCommand begin startType=3; original foreground/state-machine initialization
+@native timeout/disconnect routed through owned provider teardown
+native-disconnect
+native-display-ready
+native-listener-init
+native-main-start
+nativeFps
+nativeReady
+newInstance
+newPlainText
+newThread
+next
+nextDelay
+nonce
+none
+nonzero
+normal
+null binding
+null binding 
+9null cannot be cast to non-null type android.app.Activity
+<null cannot be cast to non-null type android.app.Application
+8null cannot be cast to non-null type android.app.Service
+<null cannot be cast to non-null type android.content.Context
+?null cannot be cast to non-null type android.media.AudioManager
+Nnull cannot be cast to non-null type android.media.session.MediaSessionManager
+6null cannot be cast to non-null type android.os.Parcel
+=null cannot be cast to non-null type android.view.MotionEvent
+=null cannot be cast to non-null type java.lang.reflect.Method
+3null cannot be cast to non-null type kotlin.Boolean
+5null cannot be cast to non-null type kotlin.ByteArray
+2null cannot be cast to non-null type kotlin.String
+obtain
+obtain(...)
+offer
+oldAudioBluetooth
+oldAudioPlus
+oldBox
+oldConnected
+oldMode
+oldStop
+onActivityResult
+onActivityResult$lambda$21
+$onActivityResult$lambda$21$lambda$19
+$onActivityResult$lambda$21$lambda$20
+onAudioSource
+onBind
+onBindingDied
+onCastPrepared displayId=
+onCheckedChanged
+onClick
+onConnectionEnded
+onConnectionReady
+onCreate
+onCreate$button
+!onCreate$button$lambda$4$lambda$3
+onCreate$lambda$12$lambda$11
+onCreate$lambda$13
+onCreate$lambda$14
+onCreate$lambda$15
+onCreate$lambda$17
+onCreate$lambda$7
+onCreate$lambda$8
+onCreate$lambda$9
+onCreate$text
+onDestroy
+onNullBinding
+onPause
+onPcm
+onReceive
+onReceiveAudioStream
+onResume
+onServiceConnected
+onServiceConnected$lambda$9
+$onServiceConnected$lambda$9$lambda$1
+$onServiceConnected$lambda$9$lambda$2
+$onServiceConnected$lambda$9$lambda$3
+$onServiceConnected$lambda$9$lambda$4
+$onServiceConnected$lambda$9$lambda$5
+$onServiceConnected$lambda$9$lambda$6
+$onServiceConnected$lambda$9$lambda$7
+$onServiceConnected$lambda$9$lambda$8
+onServiceDestroy
+onServiceDisconnected
+onServiceReady active=
+onStartCommand
+onStopRequested
+onTransact
+onTransact$lambda$2
+open
+openOutputStream
+original
+originalId
+other
+output
+outputMax
+outputTime
+outputTotal
+overflows
+owned CarLife manager attached=
+#owned main service destroyed error=
+ownedConnection
+ownedManager
+ownedService
+owned\13
+owned\19
+owned\7
+owner
+owner\1
+p0\2
+p0\3
+packageName
+packet
+param
+parameters
+params
+parcel
+parse
+pcmWorker
+pcmWorker$lambda$3
+peek
+peer
+pending
+permission
+permissions
+playback
+poll
+position
+post
+postDelayed
+prefix
+prefs
+prepareCast
+prepareCast accepted size=
+UprepareCast queued until native listener ready; acceptance is not first-frame success
+prepareCast received config=
+prepareCast-dispatch
+prepared
+pressed
+pressure
+previous
+previousController
+printStackTrace
+processAtCgmi
+processAtCgmm
+processAtCgmr
+processName
+produced
+properties
+protection
+protectionLevel
+proto
+$provider Hook confirmed nativeReady=
+Hprovider handshake confirmed; callbacks and Surface may now be submitted
+provider lifecycle e2.g.
+provider-handshake
+provider-no-hook
+proxy
+ptsBaseUs
+push
+putBoolean
+putExtra
+putExtra(...)
+putInt
+putLong
+putString
+queryIntentActivities
+queryIntentActivities(...)
+queue full/released label=
+queueMax
+queueTime
+queueTotal
+queuedAt
+randomUUID
+rate
+rateChange
+read
+readException
+readInt
+readLong
+readString
+readStrongBinder
+readiness reason=
+reads
+ready
+9real Baidu KeepAlive bind replaced by our Binder lifetime
+real_height
+real_width
+reason
+receive
+receiver
+receiverFps
+receiver\1
+reconfigure
+record
+record(Ljava/lang/String;)V
+recordFailure
+%recordFailure(Ljava/lang/Throwable;)V
+record\2
+records
+recycle
+reflector
+refresh
+registerControl
+registerReceiver
+registerTouch
+registerTouch$lambda$5
+relay
+release
+release$default
+release$lambda$4
+releaseWhenIdle
+releaseWhenIdle$lambda$3
+released
+-released; local Surface remains encoder-owned
+released; mode restored=
+remote
+remote\1
+remove
+removeAll
+removeCallbacks
+removeFirst
+removeLast
+renderHeight
+renderWidth
+replace
+replace$default
+replace$lambda$0
+Sreplaying original prepareCast through e2.g 
+ CarlinkService 
+ native state machine
+reply
+reply\24
+report
+report(Ljava/lang/String;)V
+reportReadiness
+request
+requestCode
+requestKeyFrame
+requestPermissions
+request\24
+requested
+requestedFps
+required
+resolver
+restore
+restore-controller
+restore-owned-session
+result
+resultCode
+rl.a
+run$default
+runOnUiThread
+s9.a
+s9.b
+sameImplementation
+sample
+sample\1
+savedInstanceState
+scheduleTouches
+scope
+second
+select
+selectTransport
+selectVideo
+selected
+selectedFps
+selectedHeight
+selectedWidth
+sendBroadcast
+service
+service disconnected
+service disconnected 
+session
+session=
+sessionId
+setAction
+setAudioCapture
+setAwaitingKey
+setBound
+setChecked
+setClassName
+setComponent
+setComponent(...)
+setContentView
+setController
+setDaemon
+setDisplay
+setDownTime
+setEnabled
+setFailedSession
+setHint
+setIdle
+setInjectedTouches
+setItems
+setLastEventTime
+setLastTouch
+setLaunchDisplayId
+setMetadata
+setMicListener
+setMicrophonePackets
+setModify
+setObjectExtra
+setObjectField
+setOf
+setOldMode
+setOnAudioSource
+setOnCheckedChangeListener
+setOnClickListener
+setOnConnectionEnded
+setOnConnectionReady
+setOnPcm
+setOnStopRequested
+setOrientation
+setPackage
+setPackage(...)
+setPadding
+setPeer
+setPreviousController
+setPrimaryClip
+setRelay
+setRemote
+setRenderHeight
+setRenderWidth
+setResult
+setSessionId
+setShareIdentityEnabled
+setSingleLine
+setSource
+setStaticObjectField
+setSurface
+setText
+setTextSize
+setTitle
+setType
+settings
+show
+shutdown
+sink
+size
+source
+split$default
+stack
+stack\1
+stage
+stage=
+6stale prepareCast discarded after session change/close
+start
+start$lambda$0
+start-main-service
+startActivity
+startActivityForResult
+startForegroundService
+startRecording
+startType
+startsWith$default
+state
+statsAt
+status
+stop
+stop-owned-service
+stopCast
+;stopCast requested; native state-machine teardown scheduled
+stopProvider
+stopSelf
+stopService
+stream
+submit
+submit$lambda$5
+surface
+.system entry inspection failed; status unknown
+system entry version=
+system-assist
+system-start-activity 
+take
+target
+target\2
+task
+teardown checkpoint display=
+text/plain
+third
+this
+this$0
+thisObject
+this_\1
+this_\2
+this_\4
+throwOnFailure
+)throwUninitializedPropertyAccessException
+time
+timeoutReason
+timestamp
+title
+toArray
+toBundle
+toList
+toMutableList
+toString
+toString(...)
+toUpperCase
+toUpperCase(...)
+toast
+toolType
+touch
+touch action=
+touch unavailable: no listener
+touch$lambda$23
+touch$lambda$23$lambda$21
+touch$lambda$23$lambda$22
+touch-callback
+touch-cancel
+touch-inject
+touch-ui-dispatch
+touchEndpoint
+touchListener
+touchRemote
+touchScheduled
+touches
+transact
+transferred
+transport
+trim
+trimmed
+tryReceive-PtdJZtk
+trySend-JP2dKIU
+type
+type(...)
+type\14
+type\20
+type\8
+unbind
+unbindService
+unhook
+"unknown cast callback transaction=
+unlinkToDeath
+unlock
+unregisterReceiver
+update
+uptimeMillis
+usbType
+usb_carlife_connect
+validPcm
+validate
+value
+valueOf
+value\1
+value\3
+values
+version
+versionHash
+versionName
+videoFormat
+waitForRelease
+wake
+width
+withContext
+withTimeout
+withTimeoutOrNull
+worker
+worker$lambda$1
+workers
+write
+writeByteArray
+writeException
+writeExport
+writeInt
+writeInterfaceToken
+writeLong
+writeNoException
+writeParcelable
+writeString
+writeStrongBinder
+writeToParcel
+xiaomi
+xiaomi-carlife-provider
+{"audioType":2}
+e~~D8{"backend":"dex","compilation-mode":"debug","has-checksums":true,"min-api":29,"version":"9.1.31"}
+m~~~{"Lio/github/iamr0s/carplay/bridge/BridgeTouch;":"6a0c688e","Lio/github/iamr0s/carplay/bridge/BridgeTouches;":"55bc8fad","Lio/github/iamr0s/carplay/bridge/BridgeTouchesKt;":"7e693d4a","Lio/github/iamr0s/carplay/bridge/CarLifeIntegration$VideoRelay;":"768a44bc","Lio/github/iamr0s/carplay/bridge/CarLifeIntegration;":"1a5f75f","Lio/github/iamr0s/carplay/bridge/CarWithAudioCapture$$ExternalSyntheticLambda0;":"-62f250c74","Lio/github/iamr0s/carplay/bridge/CarWithAudioCapture$$ExternalSyntheticLambda1;":"-2a1970f49","Lio/github/iamr0s/carplay/bridge/CarWithAudioCapture;":"b724c967","Lio/github/iamr0s/carplay/bridge/CarWithBridge$$ExternalSyntheticLambda0;":"-3205f4b98","Lio/github/iamr0s/carplay/bridge/CarWithBridge$$ExternalSyntheticLambda1;":"38a0afd4","Lio/github/iamr0s/carplay/bridge/CarWithBridge$$ExternalSyntheticLambda2;":"-558b7b5d5","Lio/github/iamr0s/carplay/bridge/CarWithBridge$$ExternalSyntheticLambda3;":"36fc73e4e","Lio/github/iamr0s/carplay/bridge/CarWithBridge$$ExternalSyntheticLambda4;":"-22d1b1185","Lio/github/iamr0s/carplay/bridge/CarWithBridge$Session;":"5a1d00f9","Lio/github/iamr0s/carplay/bridge/CarWithBridge$Transport;":"cc9bb7d3","Lio/github/iamr0s/carplay/bridge/CarWithBridge;":"37607bf4","Lio/github/iamr0s/carplay/bridge/CarWithBridgeService$endpoint$1$$ExternalSyntheticLambda0;":"64f15f91f","Lio/github/iamr0s/carplay/bridge/CarWithBridgeService$endpoint$1;":"1ae048a2","Lio/github/iamr0s/carplay/bridge/CarWithBridgeService;":"2ec5dcb1","Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda0;":"-1d060be2a","Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda10;":"-24df31284","Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda11;":"7d1a94cbf","Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda12;":"-2ac372bb2","Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda13;":"-32e112be2","Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda14;":"-24a747665","Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda15;":"54d248a5e","Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda16;":"27f7227bc","Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda17;":"36e63302a","Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda18;":"2521bb553","Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda19;":"763d6e6f6","Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda1;":"37fceb873","Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda20;":"-1df0bda02","Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda21;":"6a6b809d7","Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda2;":"c35ea0e6","Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda3;":"-222716d5","Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda4;":"-50174b63d","Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda5;":"-4bed7011f","Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda6;":"3925ac492","Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda7;":"1a9a17869","Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda8;":"446f72c68","Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$$ExternalSyntheticLambda9;":"72bdcb36","Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$Companion;":"29b34383","Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$connection$1$$ExternalSyntheticLambda0;":"-847e1b0c","Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$connection$1$$ExternalSyntheticLambda1;":"-20279f00c","Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$connection$1$$ExternalSyntheticLambda2;":"-8ffab92f","Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$connection$1$$ExternalSyntheticLambda3;":"27c64440f","Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$connection$1$$ExternalSyntheticLambda4;":"409f7c8aa","Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$connection$1$$ExternalSyntheticLambda5;":"-58dd20f04","Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$connection$1$$ExternalSyntheticLambda6;":"-2da72cad7","Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$connection$1$$ExternalSyntheticLambda7;":"346c4c4d4","Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$connection$1$$ExternalSyntheticLambda8;":"-20b0bdcb2","Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$connection$1;":"4b46cb7b","Lio/github/iamr0s/carplay/bridge/CarWithDirectClient$endpoint$1;":"9e26dd91","Lio/github/iamr0s/carplay/bridge/CarWithDirectClient;":"154a0bf2","Lio/github/iamr0s/carplay/bridge/CarWithDirectContract;":"ac87f6f2","Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$$ExternalSyntheticLambda0;":"59fd4aeb1","Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$connection$1;":"f9bb0899","Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$drainTouches$1;":"27ef141e","Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$10;":"6b98a102","Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$11$$ExternalSyntheticLambda0;":"-e11ec1a0","Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$11;":"6a17fdb9","Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$1;":"b02e8c08","Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$2;":"dca3b985","Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$4;":"cee23aa","Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$5;":"669f065c","Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$6;":"55f23026","Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$7;":"bc6ca816","Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$8;":"ed08e680","Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$9;":"28f1b40","Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$install$receiver$1;":"2a3dd13f","Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$poll$1;":"d6b84626","Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$start$4;":"bb6ddbc4","Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$start$6;":"dee907e3","Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$touchEndpoint$1$$ExternalSyntheticLambda0;":"-3bfce78cb","Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime$touchEndpoint$1;":"e572d14c","Lio/github/iamr0s/carplay/bridge/CarWithHook$Runtime;":"8413e33c","Lio/github/iamr0s/carplay/bridge/CarWithHook$handleLoadPackage$1$$ExternalSyntheticLambda0;":"52c4fd89e","Lio/github/iamr0s/carplay/bridge/CarWithHook$handleLoadPackage$1;":"b2ed94fd","Lio/github/iamr0s/carplay/bridge/CarWithHook;":"90f23c46","Lio/github/iamr0s/carplay/bridge/CarWithMetadata$poll$1;":"82c0b512","Lio/github/iamr0s/carplay/bridge/CarWithMetadata;":"fc627311","Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$$ExternalSyntheticLambda0;":"420bc947b","Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$Companion;":"e6fe291d","Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$Pending;":"925e9dac","Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$10;":"6e873e88","Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$11;":"38654957","Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$12$afterHookedMethod$1;":"121d0e03","Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$12;":"2bd20ae7","Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$13;":"af277371","Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$14$$ExternalSyntheticLambda0;":"bb37f8aa","Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$14;":"4b2313d6","Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$15;":"94c93815","Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$16;":"a09f6a73","Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$17;":"5305bd2c","Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$18;":"45936a1f","Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$2$$ExternalSyntheticLambda0;":"-6b9ccebe4","Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$2;":"506dbb44","Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$3;":"8b00188","Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$4;":"2d334334","Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$5;":"5e3183f0","Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$6;":"486e63e","Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$7$$ExternalSyntheticLambda0;":"107f563b1","Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$7;":"447fd186","Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$8;":"a21fe230","Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$9$$ExternalSyntheticLambda0;":"-440dd4f41","Lio/github/iamr0s/carplay/bridge/CarWithSessionHook$install$9;":"238b7316","Lio/github/iamr0s/carplay/bridge/CarWithSessionHook;":"45d87d0a","Lio/github/iamr0s/carplay/bridge/CarWithStartup$$ExternalSyntheticLambda0;":"-336394d3a","Lio/github/iamr0s/carplay/bridge/CarWithStartup$$ExternalSyntheticLambda1;":"-8fe146edb","Lio/github/iamr0s/carplay/bridge/CarWithStartup$connection$1;":"6886ede1","Lio/github/iamr0s/carplay/bridge/CarWithStartup;":"94ef1aa6","Lio/github/iamr0s/carplay/hook/BluetoothHook$$ExternalSyntheticLambda0;":"9af1783c","Lio/github/iamr0s/carplay/hook/BluetoothHook$Companion;":"5f36421a","Lio/github/iamr0s/carplay/hook/BluetoothHook$handleLoadPackage$2;":"418bda7a","Lio/github/iamr0s/carplay/hook/BluetoothHook$handleLoadPackage$3;":"2f894d99","Lio/github/iamr0s/carplay/hook/BluetoothHook$handleLoadPackage$4;":"567fd2c3","Lio/github/iamr0s/carplay/hook/BluetoothHook$handleLoadPackage$5;":"e6e7e378","Lio/github/iamr0s/carplay/hook/BluetoothHook$registerControl$receiver$1;":"76301151","Lio/github/iamr0s/carplay/hook/BluetoothHook;":"3ede054c","Lio/github/iamr0s/carplay/hook/HfpIdentityHook$install$2;":"617a68fc","Lio/github/iamr0s/carplay/hook/HfpIdentityHook$install$hooks$1;":"3a868b10","Lio/github/iamr0s/carplay/hook/HfpIdentityHook;":"5aaf3ced","Lio/github/iamr0s/carplay/hook/HfpIdentityProfile$$ExternalSyntheticLambda0;":"-23e3882ab","Lio/github/iamr0s/carplay/hook/HfpIdentityProfile;":"9d01b54f","Lio/github/iamr0s/carplay/hook/NativeEirHook;":"55697952","Lio/github/iamr0s/carplay/hook/NativeHookContract;":"13ba18eb","Lio/github/iamr0s/carplay/provider/NativeVideoSelection;":"2bd56cb7","Lio/github/iamr0s/carplay/provider/ProviderActivity$$ExternalSyntheticLambda0;":"e288347c","Lio/github/iamr0s/carplay/provider/ProviderActivity$$ExternalSyntheticLambda10;":"-245b7313d","Lio/github/iamr0s/carplay/provider/ProviderActivity$$ExternalSyntheticLambda11;":"-631542420","Lio/github/iamr0s/carplay/provider/ProviderActivity$$ExternalSyntheticLambda12;":"1ee4820c6","Lio/github/iamr0s/carplay/provider/ProviderActivity$$ExternalSyntheticLambda1;":"-18f0abc1a","Lio/github/iamr0s/carplay/provider/ProviderActivity$$ExternalSyntheticLambda2;":"-14715827f","Lio/github/iamr0s/carplay/provider/ProviderActivity$$ExternalSyntheticLambda3;":"-2944e841b","Lio/github/iamr0s/carplay/provider/ProviderActivity$$ExternalSyntheticLambda4;":"-3015de9fb","Lio/github/iamr0s/carplay/provider/ProviderActivity$$ExternalSyntheticLambda5;":"-3dacdb5d4","Lio/github/iamr0s/carplay/provider/ProviderActivity$$ExternalSyntheticLambda6;":"53e4d0557","Lio/github/iamr0s/carplay/provider/ProviderActivity$$ExternalSyntheticLambda7;":"1ce587a22","Lio/github/iamr0s/carplay/provider/ProviderActivity$$ExternalSyntheticLambda8;":"3e16a67ef","Lio/github/iamr0s/carplay/provider/ProviderActivity$$ExternalSyntheticLambda9;":"-4cd335dec","Lio/github/iamr0s/carplay/provider/ProviderActivity$refresh$1;":"43952c27","Lio/github/iamr0s/carplay/provider/ProviderActivity;":"9821a265","Lio/github/iamr0s/carplay/provider/ProviderBluetoothReceiver;":"ccc33eef","Lio/github/iamr0s/carplay/provider/ProviderHostLease$connection$1;":"d32c3b0c","Lio/github/iamr0s/carplay/provider/ProviderHostLease$videoFormat$1;":"49a4b808","Lio/github/iamr0s/carplay/provider/ProviderHostLease$videoFormat$remote$1;":"93bceb52","Lio/github/iamr0s/carplay/provider/ProviderHostLease;":"46d9ee7f","Lio/github/iamr0s/carplay/provider/ProviderLaunch$Companion;":"94c07318","Lio/github/iamr0s/carplay/provider/ProviderLaunch;":"18df827f","Lio/github/iamr0s/carplay/provider/ProviderPermissions;":"4d732f99","Lio/github/iamr0s/carplay/provider/ProviderRetry;":"4fb888fa","Lio/github/iamr0s/carplay/provider/ProviderStore;":"e8edf0a2","Lio/github/iamr0s/carplay/provider/ProviderVideoRelay$$ExternalSyntheticBackportWithForwarding0;":"2c5ca3b3a","Lio/github/iamr0s/carplay/provider/ProviderVideoRelay$Frame;":"8b1a9c84","Lio/github/iamr0s/carplay/provider/ProviderVideoRelay$Sink;":"ac1b9d97","Lio/github/iamr0s/carplay/provider/ProviderVideoRelay$close$1;":"32534ee7","Lio/github/iamr0s/carplay/provider/ProviderVideoRelay$configure$1;":"5d5b1464","Lio/github/iamr0s/carplay/provider/ProviderVideoRelay$configure$2$1;":"c6a0edd6","Lio/github/iamr0s/carplay/provider/ProviderVideoRelay$configure$2$2$$ExternalSyntheticLambda0;":"45604bff8","Lio/github/iamr0s/carplay/provider/ProviderVideoRelay$configure$2$2$$ExternalSyntheticLambda1;":"bf383ab7","Lio/github/iamr0s/carplay/provider/ProviderVideoRelay$configure$2$2;":"3f3d6f88","Lio/github/iamr0s/carplay/provider/ProviderVideoRelay$frameRateChanged$1;":"2405671f","Lio/github/iamr0s/carplay/provider/ProviderVideoRelay$selectVideo$1;":"6f7efbfc","Lio/github/iamr0s/carplay/provider/ProviderVideoRelay$selectVideo$settings$1;":"fe93d160","Lio/github/iamr0s/carplay/provider/ProviderVideoRelay$stream$1;":"d4f218ae","Lio/github/iamr0s/carplay/provider/ProviderVideoRelay$stream$packet$1;":"8245a545","Lio/github/iamr0s/carplay/provider/ProviderVideoRelay;":"b5dcbf6b"}
+ CarWith 
+ CarWith 
+ CarWith 
+ Root
+ CarWith
+com.miui.carlink
+ Wi-Fi 
+ CarWith
+ Hook CarWith 
+ Hook CarWith 
+ Hook 
+ Hook
+CarWith 
+ Hook
+Surface 
+ CarWith 
+ CarWith
+ Surface 
+ CarWith Hook
+ CarWith 
+ Drop
+ Hook Switch
+ CarWith 
+ CarWith 
+PWC73

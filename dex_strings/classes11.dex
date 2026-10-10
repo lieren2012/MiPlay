@@ -1,0 +1,22 @@
+@7bbc1d7254613ffaa026de47d975f73968361ef3e5d7b818ce0a83a33039c6b8
+D8$$SyntheticClass
+/Lcom/android/tools/r8/annotations/LambdaMethod;
+5Lcom/android/tools/r8/annotations/SynthesizedClassV2;
+Ljava/lang/Object;
+Ljava/lang/String;
+!Ljava/lang/annotation/Annotation;
+"Ljava/lang/annotation/ElementType;
+ Ljava/lang/annotation/Retention;
+&Ljava/lang/annotation/RetentionPolicy;
+Ljava/lang/annotation/Target;
+RUNTIME
+TYPE
+apiLevel
+holder
+kind
+method
+proto
+value
+versionHash
+e~~D8{"backend":"dex","compilation-mode":"debug","has-checksums":true,"min-api":29,"version":"9.1.31"}
+B~~~{"Lcom/android/tools/r8/annotations/LambdaMethod;":"1263366f6"}

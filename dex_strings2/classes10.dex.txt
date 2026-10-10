@@ -1,0 +1,4464 @@
+uGq@
+5eB@
+FRq@
+;IXq@
+a4([q@
+1nq@
+i}q@
+03q@
+;IXq0
+uGq0
+1nq0
+a4([q0
+i}q0
+03q0
+FRq0
+ p0?
+ p0?
+ p0?
+ Nq0i
+ p0?
+ Nq0i
+ p0?
+ p0?
+ p0?
+ p0?
+ p0?
+Cr@E
+ p0?
+ #wT
+( n 
+7#wY
+ p0?
+ p0?
+ p0?
+ p0?
+ p0?
+ p0?
+ p0?
+ p0?
+ p0?
+ p0?
+ p0?
+In0@
+In0@
+In0@
+Tn0@
+ p0?
+ p0?
+)P9%
+q9%q0
+[S?8r 
+joq@
+pqYX
+5#UW
+ Nq@t
+(4q 4
+qoq@
+unYq0
+>wpq@
+>wpq0
+^Lq@
+#$q@j
+|9q0
+U2q0
+!$q@j
+3#3W
+U2q0
+a/q@
+^LqY
+;gr 
+a/qX
+jcxq@
+jcxq0
+!n@3
+ p0?
+a(&q
+ p0?
+ p0?
+ p0?
+3#3Y
+ p0?
+ p0?
+K+K+<
+xiK)
+KIL*L
+ijgji
+wyxKK
+'}n0
++}ng
+SVwZ
+iiii
+<<<xK
+Yxix[xy
+xxx<
+iK=xK
+xZKix
+xKxi
+KKKi
++i:i:j9jWk8k8l7l7m
+0(0-H
+0(0-H
+8B@BX
+8B@BX
+8B@BX
+8B@BX
+8B@BX
+8B@BX
+0(0-0,X
+010,X
+0(0-0,X
+010,X
+010,X
+0(0,X
+=== 
+Bounded logs: attempt beginning <=
+[Hook log output limited to 1 MiB]
+ ===
+ ===
+ FPS
+ FPS 
+ FPS 
+ FPS
+ RFCOMM-initiator=
+ [preview=
+ active=
+ audio=
+ bond-state=
+ bytes; recent segments <=
+ bytes; rotations=
+ bytes=
+ connected=
+ eir-experiment=
+ elapsed=
+H expected-implementation=provider-no-hook; APK commit is diagnostic only
+G fresh-RFCOMM=true; vendor-responder and generic compatibility profiles
+ hex=
+ hid=
+ iAP2-initiator=
+ iap2=
+ implementation=
+ interface-index=
+ kept=
+ loaded-implementation=
+ local=
+- match=false; continuing selected-device wait
+ match=true
+ module-build=
+ native-modify=
+ offset=
+ omitted=
+ profile=
+ reference-handshake=
+ result=
+D result=no-peer-synchronization; closing transport before next round
+ scale=
+ selected-peer=
+ sha256=
+ truncated omitted=
+ wait=
+ wireless-experiment=
+$$this$coroutineScope
+$$this$withTimeoutOrNull
+$address
+$allowRoot
+$app
+$assistOption$delegate
+$attemptProfile
+$bluetooth
+$bluetoothAddress$delegate
+$bootstrap
+$carWith
+$category
+$changed
+$changed\1
+$changed\10
+$changed\12
+$changed\13
+$changed\14
+$changed\15
+$changed\16
+$changed\18
+$changed\19
+$changed\2
+$changed\20
+$changed\21
+$changed\23
+$changed\24
+$changed\3
+$changed\30
+$changed\31
+$changed\32
+$changed\34
+$changed\35
+$changed\4
+$changed\5
+$changed\6
+$changed\7
+$changed\8
+$changed\9
+$command
+$completion
+$composer
+$composer\1
+$composer\10
+$composer\12
+$composer\13
+$composer\14
+$composer\15
+$composer\16
+$composer\18
+$composer\19
+$composer\2
+$composer\20
+$composer\21
+$composer\23
+$composer\24
+$composer\3
+$composer\30
+$composer\31
+$composer\32
+$composer\34
+$composer\35
+$composer\4
+$composer\5
+$composer\6
+$composer\7
+$composer\8
+$composer\9
+$configs
+ $confirmIdentityRebuild$delegate
+$connected
+$contentType
+$context
+$continuation
+$continuousWait
+$description
+$device
+$diagnostics$delegate
+$dirty
+$eirIdentityExperiment
+$enable
+$endpoint
+$error
+$event
+$fps
+$fps$delegate
+$hookLease
+9$i$a$-Box-MainActivity$onCreate$1$1$1$12$1$1$11$1\6\983\0
+;$i$a$-Box-MainActivity$onCreate$1$1$1$12$1$1$2$1$3\19\901\7
+6$i$a$-Box-MainActivityKt$TestPanel$1$1$1$24$1\6\1001\0
+>$i$a$-Column-MainActivity$onCreate$1$1$1$12$1$1$10$2$1\7\584\0
+4$i$a$-Column-MainActivity$onCreate$1$1$1$5$1\7\652\0
+"$i$a$-Layout-BoxKt$Box$1\18\925\14
+!$i$a$-Layout-BoxKt$Box$1\5\1007\1
+!$i$a$-Layout-BoxKt$Box$1\5\1025\1
+&$i$a$-Layout-ColumnKt$Column$1\6\608\2
+&$i$a$-Layout-ColumnKt$Column$1\6\676\2
+!$i$a$-Layout-RowKt$Row$1\12\709\8
+"$i$a$-Layout-RowKt$Row$1\23\754\19
+"$i$a$-Layout-RowKt$Row$1\34\799\30
+ $i$a$-Layout-RowKt$Row$1\5\629\1
+ $i$a$-Layout-RowKt$Row$1\5\684\1
+ $i$a$-Layout-RowKt$Row$1\5\733\1
+ $i$a$-Layout-RowKt$Row$1\5\782\1
+ $i$a$-Layout-RowKt$Row$1\5\831\1
+ $i$a$-Layout-RowKt$Row$1\5\876\1
+ $i$a$-Layout-RowKt$Row$1\5\928\1
+ $i$a$-Layout-RowKt$Row$1\5\977\1
+ $i$a$-Layout-RowKt$Row$1\6\880\2
+4$i$a$-ReusableComposeNode-LayoutKt$Layout$1\11\702\9
+5$i$a$-ReusableComposeNode-LayoutKt$Layout$1\17\918\15
+5$i$a$-ReusableComposeNode-LayoutKt$Layout$1\22\747\20
+5$i$a$-ReusableComposeNode-LayoutKt$Layout$1\33\792\31
+4$i$a$-ReusableComposeNode-LayoutKt$Layout$1\4\1000\2
+4$i$a$-ReusableComposeNode-LayoutKt$Layout$1\4\1018\2
+3$i$a$-ReusableComposeNode-LayoutKt$Layout$1\4\622\2
+3$i$a$-ReusableComposeNode-LayoutKt$Layout$1\4\677\2
+3$i$a$-ReusableComposeNode-LayoutKt$Layout$1\4\726\2
+3$i$a$-ReusableComposeNode-LayoutKt$Layout$1\4\775\2
+3$i$a$-ReusableComposeNode-LayoutKt$Layout$1\4\824\2
+3$i$a$-ReusableComposeNode-LayoutKt$Layout$1\4\869\2
+3$i$a$-ReusableComposeNode-LayoutKt$Layout$1\4\921\2
+3$i$a$-ReusableComposeNode-LayoutKt$Layout$1\4\970\2
+3$i$a$-ReusableComposeNode-LayoutKt$Layout$1\5\601\3
+3$i$a$-ReusableComposeNode-LayoutKt$Layout$1\5\669\3
+3$i$a$-ReusableComposeNode-LayoutKt$Layout$1\5\873\3
+8$i$a$-Row-MainActivity$onCreate$1$1$1$12$1$1$2$1\7\856\0
+4$i$a$-Row-MainActivity$onCreate$1$1$1$5$1$1\13\685\7
+4$i$a$-Row-MainActivity$onCreate$1$1$1$5$1$2\24\730\7
+4$i$a$-Row-MainActivity$onCreate$1$1$1$5$1$3\35\775\7
+4$i$a$-Row-MainActivityKt$TestPanel$1$1$1$1$1\6\605\0
+5$i$a$-Row-MainActivityKt$TestPanel$1$1$1$12$1\6\807\0
+5$i$a$-Row-MainActivityKt$TestPanel$1$1$1$13$1\6\852\0
+5$i$a$-Row-MainActivityKt$TestPanel$1$1$1$18$1\6\904\0
+5$i$a$-Row-MainActivityKt$TestPanel$1$1$1$20$1\6\953\0
+4$i$a$-Row-MainActivityKt$TestPanel$1$1$1$6$1\6\660\0
+4$i$a$-Row-MainActivityKt$TestPanel$1$1$1$8$1\6\709\0
+4$i$a$-Row-MainActivityKt$TestPanel$1$1$1$9$1\6\758\0
+/$i$a$-all-MainActivity$hasPermissions$1\2\594\0
+0$i$a$-all-MainActivity$startConnection$1\2\605\0
+6$i$a$-all-MainActivity$wirelessPermissions$1$1\2\609\0
+5$i$a$-any-MainActivity$receiver$1$onReceive$3\2\576\0
+/$i$a$-any-MainActivity$rememberDevice$1\2\600\0
+1$i$a$-apply-Diagnostics$attach$directory$1\1\26\0
+2$i$a$-apply-MainActivity$onCreate$filter$1\1\134\0
+4$i$a$-apply-MainActivity$startConnection$3$1\1\414\0
+9$i$a$-buildList-MainActivity$networkPermissions$1\1\119\0
+.$i$a$-buildString-Diagnostics$export$1\1\119\0
+4$i$a$-buildString-Diagnostics$exportHeader$1\1\109\0
+-$i$a$-buildString-Diagnostics$quoted$1\1\77\0
+M$i$a$-cache-ComposableSingletons$MainActivityKt$lambda$-609276994$1$1\3\578\0
+M$i$a$-cache-ComposableSingletons$MainActivityKt$lambda$1198885877$1$1\3\584\0
+4$i$a$-cache-MainActivity$onCreate$1$1$1$10\36\1101\0
+4$i$a$-cache-MainActivity$onCreate$1$1$1$11\39\1101\0
+;$i$a$-cache-MainActivity$onCreate$1$1$1$12$1$1$10$1\4\527\1
+=$i$a$-cache-MainActivity$onCreate$1$1$1$12$1$1$2$1$1\10\883\7
+=$i$a$-cache-MainActivity$onCreate$1$1$1$12$1$1$2$1$2\13\889\7
+@$i$a$-cache-MainActivity$onCreate$1$1$1$12$1$1$2$1$3$1\22\928\19
+@$i$a$-cache-MainActivity$onCreate$1$1$1$12$1$1$2$1$3$2\25\934\19
+@$i$a$-cache-MainActivity$onCreate$1$1$1$12$1$1$2$1$3$3$1\3\837\0
+@$i$a$-cache-MainActivity$onCreate$1$1$1$12$1$1$2$1$3$3$2\6\843\0
+:$i$a$-cache-MainActivity$onCreate$1$1$1$12$1$1$3$1\3\948\0
+:$i$a$-cache-MainActivity$onCreate$1$1$1$12$1$1$4$1\3\954\0
+:$i$a$-cache-MainActivity$onCreate$1$1$1$12$1$1$5$1\3\960\0
+:$i$a$-cache-MainActivity$onCreate$1$1$1$12$1$1$6$1\3\966\0
+:$i$a$-cache-MainActivity$onCreate$1$1$1$12$1$1$7$1\3\972\0
+5$i$a$-cache-MainActivity$onCreate$1$1$1$12$1\5\1029\0
+2$i$a$-cache-MainActivity$onCreate$1$1$1$1\3\1035\0
+3$i$a$-cache-MainActivity$onCreate$1$1$1$2\24\1077\0
+3$i$a$-cache-MainActivity$onCreate$1$1$1$3$1\3\633\0
+3$i$a$-cache-MainActivity$onCreate$1$1$1$4$1\3\639\0
+;$i$a$-cache-MainActivity$onCreate$1$1$1$5$1$1$1$1\18\713\15
+;$i$a$-cache-MainActivity$onCreate$1$1$1$5$1$2$1$1\29\758\26
+9$i$a$-cache-MainActivity$onCreate$1$1$1$5$1$3$1\38\802\35
+6$i$a$-cache-MainActivity$onCreate$1$1$1$5$1$4\41\812\7
+3$i$a$-cache-MainActivity$onCreate$1$1$1$6\30\1089\0
+3$i$a$-cache-MainActivity$onCreate$1$1$1$7\33\1095\0
+3$i$a$-cache-MainActivity$onCreate$1$1$1$8$1\3\825\0
+3$i$a$-cache-MainActivity$onCreate$1$1$1$9$1\3\831\0
+@$i$a$-cache-MainActivity$onCreate$1$1$1$assistOption$2\18\1065\0
+D$i$a$-cache-MainActivity$onCreate$1$1$1$bluetoothAddress$2\21\1071\0
+J$i$a$-cache-MainActivity$onCreate$1$1$1$confirmIdentityRebuild$2\27\1083\0
+:$i$a$-cache-MainActivity$onCreate$1$1$1$logMenu$2\6\1041\0
+<$i$a$-cache-MainActivity$onCreate$1$1$1$showTests$2\9\1047\0
+@$i$a$-cache-MainActivity$onCreate$1$1$1$videoOptions$2\15\1059\0
+A$i$a$-cache-MainActivity$onCreate$1$1$1$videoSettings$2\12\1053\0
+<$i$a$-cache-MainActivityKt$TestPanel$1$1$1$12$1$1$1\11\835\8
+<$i$a$-cache-MainActivityKt$TestPanel$1$1$1$13$1$1$1\11\880\8
+7$i$a$-cache-MainActivityKt$TestPanel$1$1$1$14$1\3\891\0
+9$i$a$-cache-MainActivityKt$TestPanel$1$1$1$18$1$1\9\931\6
+:$i$a$-cache-MainActivityKt$TestPanel$1$1$1$18$1$2\12\937\6
+9$i$a$-cache-MainActivityKt$TestPanel$1$1$1$20$1$1\9\980\6
+:$i$a$-cache-MainActivityKt$TestPanel$1$1$1$20$1$2\12\980\6
+7$i$a$-cache-MainActivityKt$TestPanel$1$1$1$22$1\3\990\0
+6$i$a$-cache-MainActivityKt$TestPanel$1$1$1$3$1\3\636\0
+6$i$a$-cache-MainActivityKt$TestPanel$1$1$1$4$1\3\642\0
+6$i$a$-cache-MainActivityKt$TestPanel$1$1$1$5$1\3\648\0
+8$i$a$-cache-MainActivityKt$TestPanel$1$1$1$6$1$1\9\687\6
+9$i$a$-cache-MainActivityKt$TestPanel$1$1$1$6$1$2\12\693\6
+8$i$a$-cache-MainActivityKt$TestPanel$1$1$1$8$1$1\9\736\6
+9$i$a$-cache-MainActivityKt$TestPanel$1$1$1$8$1$2\12\742\6
+8$i$a$-cache-MainActivityKt$TestPanel$1$1$1$9$1$1\9\785\6
+9$i$a$-cache-MainActivityKt$TestPanel$1$1$1$9$1$2\12\791\6
+1$i$a$-cache-MainActivityKt$TestPanel$1$1\5\1034\0
+2$i$a$-cache-MainActivityKt$TestPanel$fps$2\4\579\0
+4$i$a$-cache-MainActivityKt$TestPanel$scale$2\7\585\0
+7$i$a$-check-ConnectionService$onStartCommand$4$1\1\83\0
+A$i$a$-check-ConnectionService$runWireless$2$bootstrap$3$1\1\249\0
+$$i$a$-check-DiagnosticFiles$1\2\21\0
++$i$a$-check-DiagnosticFiles$append$1\1\52\0
++$i$a$-check-DiagnosticFiles$append$2\2\53\0
+-$i$a$-check-DiagnosticFiles$trimTail$2\3\40\0
+2$i$a$-check-LocalBluetoothIdentity$read$2$6\6\33\0
+2$i$a$-check-LocalBluetoothIdentity$read$2$8\7\37\0
+2$i$a$-check-LocalBluetoothIdentity$read$2$9\8\41\0
+,$i$a$-filter-DiagnosticFiles$export$1\3\78\0
+.$i$a$-filterNot-Diagnostics$device$1$1\5\169\0
+9$i$a$-firstOrNull-Diagnostics$device$1$previous$1\2\166\0
+&$i$a$-forEach-DiagnosticFiles$2\4\75\0
+-$i$a$-forEach-DiagnosticFiles$export$2\5\80\0
+,$i$a$-forEach-Diagnostics$export$1$1\3\158\1
++$i$a$-forEach-Diagnostics$failure$2\2\156\0
+)$i$a$-forEach-Diagnostics$log$1$2\3\160\0
+,$i$a$-forEach-Diagnostics$quoted$1$1\3\151\1
+:$i$a$-forEach-MainActivity$collectNativeHookLogs$4\2\607\0
+8$i$a$-forEach-MainActivity$loadPairedDevices$1$1\3\603\1
+;$i$a$-forEach-MainActivity$onCreate$1$1$1$5$1$1$1\15\710\13
+;$i$a$-forEach-MainActivity$onCreate$1$1$1$5$1$2$1\26\755\24
+;$i$a$-forEach-MainActivityKt$TestPanel$1$1$1$12$1$1\8\832\6
+;$i$a$-forEach-MainActivityKt$TestPanel$1$1$1$13$1$1\8\877\6
+0$i$a$-forEachIndexed-Diagnostics$bytes$1\2\154\0
+;$i$a$-ifEmpty-MainActivityKt$TestPanel$1$1$1$17$1$1\1\554\0
+A$i$a$-items$default-MainActivity$onCreate$1$1$1$12$1$1$10\1\179\0
+%$i$a$-let-ComposerKt$cache$1\10\833\9
+%$i$a$-let-ComposerKt$cache$1\10\878\9
+'$i$a$-let-ComposerKt$cache$1\11\1051\10
+&$i$a$-let-ComposerKt$cache$1\11\691\10
+&$i$a$-let-ComposerKt$cache$1\11\740\10
+&$i$a$-let-ComposerKt$cache$1\11\789\10
+&$i$a$-let-ComposerKt$cache$1\11\935\10
+&$i$a$-let-ComposerKt$cache$1\11\978\10
+&$i$a$-let-ComposerKt$cache$1\12\887\11
+'$i$a$-let-ComposerKt$cache$1\14\1057\13
+'$i$a$-let-ComposerKt$cache$1\17\1063\16
+&$i$a$-let-ComposerKt$cache$1\17\711\16
+'$i$a$-let-ComposerKt$cache$1\20\1069\19
+&$i$a$-let-ComposerKt$cache$1\21\926\20
+'$i$a$-let-ComposerKt$cache$1\23\1075\22
+&$i$a$-let-ComposerKt$cache$1\24\932\23
+'$i$a$-let-ComposerKt$cache$1\26\1081\25
+&$i$a$-let-ComposerKt$cache$1\28\756\27
+'$i$a$-let-ComposerKt$cache$1\29\1087\28
+%$i$a$-let-ComposerKt$cache$1\2\1033\1
+$$i$a$-let-ComposerKt$cache$1\2\576\1
+$$i$a$-let-ComposerKt$cache$1\2\582\1
+$$i$a$-let-ComposerKt$cache$1\2\631\1
+$$i$a$-let-ComposerKt$cache$1\2\634\1
+$$i$a$-let-ComposerKt$cache$1\2\637\1
+$$i$a$-let-ComposerKt$cache$1\2\640\1
+$$i$a$-let-ComposerKt$cache$1\2\646\1
+$$i$a$-let-ComposerKt$cache$1\2\823\1
+$$i$a$-let-ComposerKt$cache$1\2\829\1
+$$i$a$-let-ComposerKt$cache$1\2\835\1
+$$i$a$-let-ComposerKt$cache$1\2\889\1
+$$i$a$-let-ComposerKt$cache$1\2\946\1
+$$i$a$-let-ComposerKt$cache$1\2\952\1
+$$i$a$-let-ComposerKt$cache$1\2\958\1
+$$i$a$-let-ComposerKt$cache$1\2\964\1
+$$i$a$-let-ComposerKt$cache$1\2\970\1
+$$i$a$-let-ComposerKt$cache$1\2\988\1
+'$i$a$-let-ComposerKt$cache$1\32\1093\31
+'$i$a$-let-ComposerKt$cache$1\35\1099\34
+&$i$a$-let-ComposerKt$cache$1\37\800\36
+'$i$a$-let-ComposerKt$cache$1\38\1099\37
+$$i$a$-let-ComposerKt$cache$1\3\525\2
+$$i$a$-let-ComposerKt$cache$1\3\577\2
+&$i$a$-let-ComposerKt$cache$1\40\810\39
+%$i$a$-let-ComposerKt$cache$1\4\1027\3
+%$i$a$-let-ComposerKt$cache$1\4\1032\3
+%$i$a$-let-ComposerKt$cache$1\5\1039\4
+$$i$a$-let-ComposerKt$cache$1\5\841\4
+$$i$a$-let-ComposerKt$cache$1\6\583\5
+%$i$a$-let-ComposerKt$cache$1\8\1045\7
+$$i$a$-let-ComposerKt$cache$1\8\685\7
+$$i$a$-let-ComposerKt$cache$1\8\734\7
+$$i$a$-let-ComposerKt$cache$1\8\783\7
+$$i$a$-let-ComposerKt$cache$1\8\929\7
+$$i$a$-let-ComposerKt$cache$1\8\978\7
+$$i$a$-let-ComposerKt$cache$1\9\881\8
+0$i$a$-let-LocalBluetoothIdentity$read$2$2\2\20\0
+0$i$a$-let-LocalBluetoothIdentity$read$2$4\4\23\0
+0$i$a$-let-LocalBluetoothIdentity$read$2$5\5\26\0
+4$i$a$-let-MainActivity$startConnection$3$1$1\2\415\1
+%$i$a$-map-Diagnostics$log$1$3\6\164\0
+.$i$a$-onFailure-MainActivity$export$1$2\4\92\0
+8$i$a$-onFailure-MainActivity$loadPairedDevices$2\5\291\0
+<$i$a$-onFailure-MainActivity$onCreate$1$1$1$11$1$1$2\3\220\0
+J$i$a$-onFailure-MainActivity$onCreate$1$1$1$12$1$1$2$1$3$3$1$1$1$2\3\238\0
++$i$a$-onFailure-MainActivity$scan$2\3\343\0
+>$i$a$-runCatching-ConnectionService$closeTransport$1$1\2\318\1
+>$i$a$-runCatching-ConnectionService$closeTransport$1$2\3\319\1
+>$i$a$-runCatching-ConnectionService$closeTransport$1$3\4\320\1
+>$i$a$-runCatching-ConnectionService$closeTransport$1$4\5\321\1
+>$i$a$-runCatching-ConnectionService$closeTransport$1$5\6\322\1
+>$i$a$-runCatching-ConnectionService$closeTransport$1$6\7\323\1
+>$i$a$-runCatching-ConnectionService$onStartCommand$4$6\6\181\0
+R$i$a$-runCatching-ConnectionService$onStartCommand$4$connected$timeout$1$1\1\148\0
+H$i$a$-runCatching-ConnectionService$onStartCommand$4$timeout$1$1\1\197\0
+;$i$a$-runCatching-ConnectionService$runWireless$2$4\4\292\0
+;$i$a$-runCatching-ConnectionService$runWireless$2$4\5\292\0
+B$i$a$-runCatching-ConnectionService$runWireless$2$lost$1$1\1\268\0
+D$i$a$-runCatching-ConnectionService$runWireless$2$screen$1$1\1\286\0
+,$i$a$-runCatching-Diagnostics$begin$1\1\34\0
+,$i$a$-runCatching-Diagnostics$log$1$1\1\56\0
+:$i$a$-runCatching-LocalBluetoothIdentity$read$2$10\10\45\0
+9$i$a$-runCatching-LocalBluetoothIdentity$read$2$10\9\45\0
+8$i$a$-runCatching-LocalBluetoothIdentity$read$2$1\1\20\0
+8$i$a$-runCatching-LocalBluetoothIdentity$read$2$3\3\23\0
+0$i$a$-runCatching-MainActivity$export$1$1\1\90\0
+:$i$a$-runCatching-MainActivity$loadPairedDevices$1\1\290\0
+>$i$a$-runCatching-MainActivity$onCreate$1$1$1$11$1$1$1\1\219\0
+L$i$a$-runCatching-MainActivity$onCreate$1$1$1$12$1$1$2$1$3$3$1$1$1$1\1\237\0
+2$i$a$-runCatching-MainActivity$onDestroy$1\1\486\0
+-$i$a$-runCatching-MainActivity$scan$1\1\337\0
+5$i$a$-runCatching-MainActivity$selectDevice$1\1\321\0
+4$i$a$-runCatching-MainActivity$stopRunning$1\1\306\0
+@$i$a$-runCatching-NativeHookControl$requestMode$2$1$1$1$1\1\41\0
+>$i$a$-runCatching-NativeHookControl$requestMode$2$1$1$2\4\53\3
+S$i$a$-runCatching-NativeHookControl$requestMode$2$1$1$receiver$1$onReceive$1\1\33\0
+>$i$a$-runCatching-NativeHookLogReader$readCommand$2$1$2\1\42\0
+>$i$a$-runCatching-NativeHookLogReader$readCommand$2$1$2\2\42\0
+7$i$a$-sortedByDescending-Diagnostics$device$1$2\1\121\0
+7$i$a$-sortedByDescending-Diagnostics$device$1$2\2\121\0
+L$i$a$-suspendCancellableCoroutine-NativeHookControl$requestMode$2$1$1\3\71\0
+j$i$a$-suspendCoroutineUninterceptedOrReturn-CancellableContinuationKt$suspendCancellableCoroutine$2\2\63\1
+9$i$a$-synchronized-ConnectionService$acceptPeer$2\1\301\0
+=$i$a$-synchronized-ConnectionService$closeTransport$1\1\317\0
+8$i$a$-synchronized-ConnectionService$onDestroy$1\1\326\0
+<$i$a$-synchronized-ConnectionService$onStartCommand$1\1\49\0
+<$i$a$-synchronized-ConnectionService$onStartCommand$2\2\56\0
+A$i$a$-synchronized-ConnectionService$onStartCommand$4$13\11\235\0
+A$i$a$-synchronized-ConnectionService$onStartCommand$4$13\14\235\0
+A$i$a$-synchronized-ConnectionService$onStartCommand$4$13\15\235\0
+?$i$a$-synchronized-ConnectionService$onStartCommand$4$3\2\108\0
+?$i$a$-synchronized-ConnectionService$onStartCommand$4$7\9\190\0
+@$i$a$-synchronized-ConnectionService$onStartCommand$4$8\10\202\0
+@$i$a$-synchronized-ConnectionService$onStartCommand$4$9\13\214\0
+I$i$a$-synchronized-ConnectionService$onStartCommand$4$connected$1\3\140\0
+I$i$a$-synchronized-ConnectionService$onStartCommand$4$connected$2\4\154\0
+I$i$a$-synchronized-ConnectionService$onStartCommand$4$connected$3\5\159\0
+H$i$a$-synchronized-ConnectionService$onStartCommand$4$listener$1\7\184\0
+K$i$a$-synchronized-ConnectionService$onStartCommand$4$openInbound$1\1\122\0
+K$i$a$-synchronized-ConnectionService$onStartCommand$4$openInbound$2\2\129\0
+<$i$a$-synchronized-ConnectionService$runWireless$2$1\1\264\0
+<$i$a$-synchronized-ConnectionService$runWireless$2$2\2\274\0
+<$i$a$-synchronized-ConnectionService$runWireless$2$3\3\288\0
+2$i$a$-takeIf-LocalBluetoothIdentity$valid$1\1\13\0
+)$i$a$-use-DiagnosticFiles$append$3\3\59\0
++$i$a$-use-DiagnosticFiles$export$2$1\6\68\5
+-$i$a$-use-DiagnosticFiles$trimTail$1$1\2\35\1
++$i$a$-use-DiagnosticFiles$trimTail$1\1\31\0
+*$i$a$-use-MainActivity$export$1$1$1\2\91\1
+?$i$a$-use-NativeHookLogReader$readCommand$2$1$output$1$1\1\23\0
+$i$f$Box\14\230
+$i$f$Box\1\274
+$i$f$Box\1\569
+$i$f$Column\2\170
+$i$f$Column\2\266
+$i$f$Layout\15\900
+$i$f$Layout\20\729
+$i$f$Layout\2\1000
+$i$f$Layout\2\604
+$i$f$Layout\2\659
+$i$f$Layout\2\708
+$i$f$Layout\2\757
+$i$f$Layout\2\806
+$i$f$Layout\2\851
+$i$f$Layout\2\903
+$i$f$Layout\2\952
+$i$f$Layout\2\982
+$i$f$Layout\31\774
+$i$f$Layout\3\583
+$i$f$Layout\3\651
+$i$f$Layout\3\855
+$i$f$Layout\9\684
+$i$f$ReusableComposeNode\10\692
+$i$f$ReusableComposeNode\16\908
+$i$f$ReusableComposeNode\21\737
+$i$f$ReusableComposeNode\32\782
+$i$f$ReusableComposeNode\3\1008
+$i$f$ReusableComposeNode\3\612
+$i$f$ReusableComposeNode\3\667
+$i$f$ReusableComposeNode\3\716
+$i$f$ReusableComposeNode\3\765
+$i$f$ReusableComposeNode\3\814
+$i$f$ReusableComposeNode\3\859
+$i$f$ReusableComposeNode\3\911
+$i$f$ReusableComposeNode\3\960
+$i$f$ReusableComposeNode\3\990
+$i$f$ReusableComposeNode\4\591
+$i$f$ReusableComposeNode\4\659
+$i$f$ReusableComposeNode\4\863
+$i$f$Row\19\175
+$i$f$Row\1\503
+$i$f$Row\1\522
+$i$f$Row\1\533
+$i$f$Row\1\538
+$i$f$Row\1\546
+$i$f$Row\1\547
+$i$f$Row\1\557
+$i$f$Row\1\562
+$i$f$Row\2\227
+$i$f$Row\30\176
+$i$f$Row\8\173
+$i$f$all\1\118
+$i$f$all\1\387
+$i$f$all\1\61
+$i$f$any\1\109
+$i$f$any\1\286
+$i$f$cache\10\158
+$i$f$cache\10\530
+$i$f$cache\10\535
+$i$f$cache\10\540
+$i$f$cache\10\559
+$i$f$cache\10\562
+$i$f$cache\11\229
+$i$f$cache\13\159
+$i$f$cache\16\160
+$i$f$cache\16\173
+$i$f$cache\19\161
+$i$f$cache\1\148
+$i$f$cache\1\180
+$i$f$cache\1\191
+$i$f$cache\1\206
+$i$f$cache\1\215
+$i$f$cache\1\233
+$i$f$cache\1\251
+$i$f$cache\1\252
+$i$f$cache\1\253
+$i$f$cache\1\254
+$i$f$cache\1\255
+$i$f$cache\1\256
+$i$f$cache\1\259
+$i$f$cache\1\506
+$i$f$cache\1\509
+$i$f$cache\1\516
+$i$f$cache\1\548
+$i$f$cache\1\566
+$i$f$cache\20\231
+$i$f$cache\22\163
+$i$f$cache\23\232
+$i$f$cache\25\198
+$i$f$cache\27\175
+$i$f$cache\28\199
+$i$f$cache\2\498
+$i$f$cache\2\524
+$i$f$cache\31\203
+$i$f$cache\34\217
+$i$f$cache\36\176
+$i$f$cache\37\217
+$i$f$cache\39\177
+$i$f$cache\3\224
+$i$f$cache\3\502
+$i$f$cache\4\155
+$i$f$cache\4\241
+$i$f$cache\5\499
+$i$f$cache\7\157
+$i$f$cache\7\523
+$i$f$cache\7\534
+$i$f$cache\7\539
+$i$f$cache\7\558
+$i$f$cache\7\562
+$i$f$cache\8\228
+$i$f$cache\9\546
+$i$f$cache\9\547
+$i$f$filterNotTo\4\168
+$i$f$filterNot\3\106
+$i$f$filterTo\2\77
+$i$f$filter\1\66
+$i$f$firstOrNull\1\105
+$i$f$forEachIndexed\1\91
+$i$f$forEach\14\173
+$i$f$forEach\1\101
+$i$f$forEach\1\461
+$i$f$forEach\25\175
+$i$f$forEach\2\130
+$i$f$forEach\2\290
+$i$f$forEach\2\59
+$i$f$forEach\2\79
+$i$f$forEach\3\23
+$i$f$forEach\4\66
+$i$f$forEach\7\546
+$i$f$forEach\7\547
+$i$f$getCurrent\1\494
+$i$f$getDp\1\170
+$i$f$getDp\1\223
+$i$f$getDp\1\227
+$i$f$getDp\1\266
+$i$f$getDp\1\501
+$i$f$getDp\2\224
+$i$f$getDp\2\502
+$i$f$getValue\1\147
+$i$f$getValue\1\155
+$i$f$getValue\1\156
+$i$f$getValue\1\157
+$i$f$getValue\1\158
+$i$f$getValue\1\159
+$i$f$getValue\1\160
+$i$f$getValue\1\161
+$i$f$getValue\1\198
+$i$f$getValue\1\496
+$i$f$getValue\1\497
+$i$f$getValue\1\498
+$i$f$getValue\1\499
+$i$f$getValue\1\51
+$i$f$getValue\1\52
+$i$f$getValue\1\53
+$i$f$getValue\1\54
+$i$f$getValue\1\55
+$i$f$getValue\1\56
+$i$f$items\1\264
+$i$f$mapTo\5\162
+$i$f$map\4\66
+$i$f$setValue\1\155
+$i$f$setValue\1\157
+$i$f$setValue\1\158
+$i$f$setValue\1\159
+$i$f$setValue\1\160
+$i$f$setValue\1\161
+$i$f$setValue\1\198
+$i$f$setValue\1\498
+$i$f$setValue\1\499
+$i$f$setValue\1\51
+$i$f$setValue\1\52
+$i$f$setValue\1\53
+$i$f$setValue\1\54
+$i$f$setValue\1\55
+$i$f$setValue\1\56
+$i$f$sortedByDescending\6\107
+%$i$f$suspendCancellableCoroutine\1\25
+$i$f$toTypedArray\2\123
+$identity
+$items
+$key
+$logMenu$delegate
+$mediaLocal
+$modify
+$nativeHookModify
+$networkOwner
+$nonce
+$onBack
+$onCopy
+$pending
+$process
+$provider
+$receiver
+$reference
+$referenceHandshake
+$registered
+$result
+$row
+$runtimeReady
+$scale
+$scale$delegate
+$showTests$delegate
+$stable
+$startId
+$state$delegate
+$state$delegate$inlined
+$syncExperiment
+$testState$delegate
+$this
+$this$Button
+$this$Card
+$this$DropdownMenu
+$this$Layout_u24lambda_u240\11
+$this$Layout_u24lambda_u240\17
+$this$Layout_u24lambda_u240\22
+$this$Layout_u24lambda_u240\33
+$this$Layout_u24lambda_u240\4
+$this$Layout_u24lambda_u240\5
+$this$LazyColumn
+$this$OutlinedButton
+a$this$TestPanel_u24lambda_u2490_u24lambda_u2489_u24lambda_u2488_u24lambda_u2428_u24lambda_u2427\6
+a$this$TestPanel_u24lambda_u2490_u24lambda_u2489_u24lambda_u2488_u24lambda_u2436_u24lambda_u2435\6
+a$this$TestPanel_u24lambda_u2490_u24lambda_u2489_u24lambda_u2488_u24lambda_u2442_u24lambda_u2441\6
+a$this$TestPanel_u24lambda_u2490_u24lambda_u2489_u24lambda_u2488_u24lambda_u2450_u24lambda_u2449\6
+a$this$TestPanel_u24lambda_u2490_u24lambda_u2489_u24lambda_u2488_u24lambda_u2456_u24lambda_u2455\6
+a$this$TestPanel_u24lambda_u2490_u24lambda_u2489_u24lambda_u2488_u24lambda_u2470_u24lambda_u2469\6
+a$this$TestPanel_u24lambda_u2490_u24lambda_u2489_u24lambda_u2488_u24lambda_u2477_u24lambda_u2476\6
+a$this$TestPanel_u24lambda_u2490_u24lambda_u2489_u24lambda_u2488_u24lambda_u2487_u24lambda_u2486\6
+_$this$TestPanel_u24lambda_u2490_u24lambda_u2489_u24lambda_u2488_u24lambda_u249_u24lambda_u248\6
+$this$TextButton
+$this$all\1
+$this$any\1
+$this$attach_u24lambda_u240\1
+$this$begin_u24lambda_u241\1
+$this$cache\1
+$this$cache\10
+$this$cache\11
+$this$cache\13
+$this$cache\16
+$this$cache\19
+$this$cache\2
+$this$cache\20
+$this$cache\22
+$this$cache\23
+$this$cache\25
+$this$cache\27
+$this$cache\28
+$this$cache\3
+$this$cache\31
+$this$cache\34
+$this$cache\36
+$this$cache\37
+$this$cache\39
+$this$cache\4
+$this$cache\5
+$this$cache\7
+$this$cache\8
+$this$cache\9
+6$this$closeTransport_u24lambda_u2412_u24lambda_u2410\6
+6$this$closeTransport_u24lambda_u2412_u24lambda_u2411\7
+5$this$closeTransport_u24lambda_u2412_u24lambda_u246\2
+5$this$closeTransport_u24lambda_u2412_u24lambda_u247\3
+5$this$closeTransport_u24lambda_u2412_u24lambda_u248\4
+5$this$closeTransport_u24lambda_u2412_u24lambda_u249\5
+$this$coroutineScope
+$this$dp\1
+$this$dp\2
+$$this$exportHeader_u24lambda_u2420\1
+$this$export_u24lambda_u2422\1
+,$this$export_u24lambda_u249_u24lambda_u247\1
+$this$filterNotTo\4
+$this$filterNot\3
+$this$filterTo\2
+$this$filter\1
+$this$firstOrNull\1
+$this$forEachIndexed\1
+$this$forEach\1
+$this$forEach\14
+$this$forEach\2
+$this$forEach\25
+$this$forEach\3
+$this$forEach\4
+$this$forEach\7
+$this$getValue\1
+$$this$invokeSuspend_u24lambda_u240\1
+$$this$invokeSuspend_u24lambda_u240\2
+3$this$invokeSuspend_u24lambda_u241_u24lambda_u240\4
+$$this$invokeSuspend_u24lambda_u242\1
+$$this$invokeSuspend_u24lambda_u242\3
+3$this$invokeSuspend_u24lambda_u245_u24lambda_u244\1
+$$this$invokeSuspend_u24lambda_u247\4
+$$this$invokeSuspend_u24lambda_u247\5
+$$this$invokeSuspend_u24lambda_u247\6
+%$this$invokeSuspend_u24lambda_u249\10
+$$this$invokeSuspend_u24lambda_u249\9
+$this$invoke_u24lambda_u240\1
+$this$invoke_u24lambda_u240\7
+$this$item
+$this$items
+$this$items_u24default\1
+$this$launch
+*$this$loadPairedDevices_u24lambda_u24122\1
+)$this$log_u24lambda_u246_u24lambda_u243\1
+$this$mapTo\5
+$this$map\4
+*$this$networkPermissions_u24lambda_u2411\1
+$this$onCreate_u24lambda_u24120_u24lambda_u24119_u24lambda_u24118_u24lambda_u24117_u24lambda_u24116_u24lambda_u24115_u24lambda_u24111\1
+$this$onCreate_u24lambda_u24120_u24lambda_u24119_u24lambda_u24118_u24lambda_u24117_u24lambda_u24116_u24lambda_u24115_u24lambda_u24114_u24lambda_u24113\6
+$this$onCreate_u24lambda_u24120_u24lambda_u24119_u24lambda_u24118_u24lambda_u24117_u24lambda_u24116_u24lambda_u24115_u24lambda_u2491_u24lambda_u2490\7
+$this$onCreate_u24lambda_u24120_u24lambda_u24119_u24lambda_u24118_u24lambda_u24117_u24lambda_u24116_u24lambda_u24115_u24lambda_u2491_u24lambda_u2490_u24lambda_u2489\19
+c$this$onCreate_u24lambda_u24120_u24lambda_u24119_u24lambda_u24118_u24lambda_u2458_u24lambda_u2457\7
+t$this$onCreate_u24lambda_u24120_u24lambda_u24119_u24lambda_u24118_u24lambda_u2458_u24lambda_u2457_u24lambda_u2446\13
+t$this$onCreate_u24lambda_u24120_u24lambda_u24119_u24lambda_u24118_u24lambda_u2458_u24lambda_u2457_u24lambda_u2451\24
+t$this$onCreate_u24lambda_u24120_u24lambda_u24119_u24lambda_u24118_u24lambda_u2458_u24lambda_u2457_u24lambda_u2454\35
+ $this$onCreate_u24lambda_u2412\1
+"$this$onDestroy_u24lambda_u24135\1
+ $this$onReceive_u24lambda_u240\1
+$this$quoted_u24lambda_u2411\1
+$this$scan_u24lambda_u24126\1
+%$this$selectDevice_u24lambda_u24125\1
+$this$setValue\1
+$this$sortedByDescending\6
+$$this$stopRunning_u24lambda_u24124\1
+$this$supervisorScope
+$this$toTypedArray\2
+$this$withContext
+$this$withTimeoutOrNull
+$transportId
+$value
+$videoOptions$delegate
+$videoSettings$delegate
+$wireless
+$wirelessExperiment
+%.1f
+%02X
+%02x
+%; effective=next-session
+&()Landroid/bluetooth/BluetoothAdapter;
+3()Lio/github/iamr0s/carplay/video/VideoTestOptions;
+()Ljava/lang/String;
+()Ljava/util/List;
+()Ljava/util/UUID;
+()Lkotlin/Unit;
+%()Lkotlinx/coroutines/flow/StateFlow;
+()[Ljava/lang/String;
+(?:[0-9A-F]{2}:){5}[0-9A-F]{2}
+(B)Ljava/lang/CharSequence;
+a(ILandroidx/compose/foundation/layout/RowScope;Landroidx/compose/runtime/Composer;I)Lkotlin/Unit;
+7(ILandroidx/compose/runtime/MutableState;)Lkotlin/Unit;
+;(ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;Z)V
+(Landroid/bluetooth/BluetoothSocket;Ljava/lang/String;Lio/github/iamr0s/carplay/airplay/PhoneIdentity;Lio/github/iamr0s/carplay/protocol/BluetoothSyncExperiment;Lkotlin/coroutines/Continuation;)Ljava/lang/Object;
+(Landroid/bluetooth/BluetoothSocket;Ljava/net/InetAddress;Lio/github/iamr0s/carplay/network/ReceiverEndpoint;Ljava/util/concurrent/atomic/AtomicBoolean;Lkotlinx/coroutines/CoroutineScope;Lkotlinx/coroutines/Job;)Lkotlin/Unit;
+((Landroid/content/Context;)Lkotlin/Unit;
+(Landroid/content/Context;Landroidx/compose/runtime/State;Landroidx/compose/foundation/lazy/LazyItemScope;Landroidx/compose/runtime/Composer;I)Lkotlin/Unit;
+N(Landroid/content/Context;ZLkotlin/coroutines/Continuation;)Ljava/lang/Object;
+`(Landroidx/compose/foundation/layout/RowScope;Landroidx/compose/runtime/Composer;I)Lkotlin/Unit;
+c(Landroidx/compose/foundation/lazy/LazyItemScope;Landroidx/compose/runtime/Composer;I)Lkotlin/Unit;
+3(Landroidx/compose/runtime/Composer;I)Lkotlin/Unit;
+6(Landroidx/compose/runtime/MutableState;)Lkotlin/Unit;
+(Landroidx/compose/runtime/MutableState;Landroidx/compose/foundation/layout/RowScope;Landroidx/compose/runtime/Composer;I)Lkotlin/Unit;
+(Landroidx/compose/runtime/MutableState;Landroidx/compose/foundation/lazy/LazyItemScope;Landroidx/compose/runtime/Composer;I)Lkotlin/Unit;
+Z(Landroidx/compose/runtime/MutableState;Landroidx/compose/runtime/Composer;I)Lkotlin/Unit;
+](Landroidx/compose/runtime/MutableState;Landroidx/compose/runtime/MutableState;)Lkotlin/Unit;
+(Landroidx/compose/runtime/MutableState;Landroidx/compose/runtime/MutableState;Landroidx/compose/foundation/lazy/LazyItemScope;Landroidx/compose/runtime/Composer;I)Lkotlin/Unit;
+(Landroidx/compose/runtime/MutableState;Landroidx/compose/runtime/MutableState;Landroidx/compose/runtime/MutableState;Landroidx/compose/runtime/Composer;I)Lkotlin/Unit;
+(Landroidx/compose/runtime/MutableState;Landroidx/compose/runtime/MutableState;Landroidx/compose/runtime/State;Landroidx/compose/foundation/lazy/LazyItemScope;Landroidx/compose/runtime/Composer;I)Lkotlin/Unit;
+(Landroidx/compose/runtime/MutableState;Landroidx/compose/runtime/State;Landroidx/compose/foundation/lazy/LazyItemScope;Landroidx/compose/runtime/Composer;I)Lkotlin/Unit;
+H(Landroidx/compose/runtime/MutableState;Ljava/lang/String;)Lkotlin/Unit;
+7(Landroidx/compose/runtime/MutableState;Z)Lkotlin/Unit;
+(Landroidx/compose/runtime/State;Landroidx/compose/foundation/lazy/LazyItemScope;Landroidx/compose/runtime/Composer;I)Lkotlin/Unit;
+S(Landroidx/compose/runtime/State;Landroidx/compose/runtime/Composer;I)Lkotlin/Unit;
+(Landroidx/compose/runtime/State;Lio/github/iamr0s/carplay/MainActivity;Landroidx/compose/runtime/MutableState;Landroidx/compose/runtime/State;Landroidx/compose/runtime/MutableState;Landroidx/compose/runtime/MutableState;Landroidx/compose/runtime/MutableState;Landroidx/compose/foundation/lazy/LazyListScope;)Lkotlin/Unit;
+(Landroidx/compose/runtime/State;Lio/github/iamr0s/carplay/MainActivity;Landroidx/compose/runtime/State;Landroidx/compose/runtime/MutableState;Landroidx/compose/runtime/MutableState;Landroidx/compose/runtime/MutableState;Landroidx/compose/runtime/MutableState;Landroidx/compose/foundation/layout/PaddingValues;Landroidx/compose/runtime/Composer;I)Lkotlin/Unit;
+8(Lio/github/iamr0s/carplay/DeviceRow;)Ljava/lang/Object;
+z(Lio/github/iamr0s/carplay/DeviceRow;Lio/github/iamr0s/carplay/DiagnosticState;)Lio/github/iamr0s/carplay/DiagnosticState;
+V(Lio/github/iamr0s/carplay/DiagnosticState;)Lio/github/iamr0s/carplay/DiagnosticState;
+6(Lio/github/iamr0s/carplay/MainActivity;)Lkotlin/Unit;
+;(Lio/github/iamr0s/carplay/MainActivity;Landroid/net/Uri;)V
+S(Lio/github/iamr0s/carplay/MainActivity;Landroidx/activity/result/ActivityResult;)V
+(Lio/github/iamr0s/carplay/MainActivity;Landroidx/compose/foundation/lazy/LazyItemScope;Landroidx/compose/runtime/Composer;I)Lkotlin/Unit;
+Z(Lio/github/iamr0s/carplay/MainActivity;Landroidx/compose/runtime/Composer;I)Lkotlin/Unit;
+](Lio/github/iamr0s/carplay/MainActivity;Landroidx/compose/runtime/MutableState;)Lkotlin/Unit;
+(Lio/github/iamr0s/carplay/MainActivity;Landroidx/compose/runtime/MutableState;Landroidx/compose/foundation/layout/ColumnScope;Landroidx/compose/runtime/Composer;I)Lkotlin/Unit;
+(Lio/github/iamr0s/carplay/MainActivity;Landroidx/compose/runtime/MutableState;Landroidx/compose/runtime/MutableState;Landroidx/compose/runtime/MutableState;Landroidx/compose/runtime/MutableState;)Lkotlin/Unit;
+(Lio/github/iamr0s/carplay/MainActivity;Landroidx/compose/runtime/MutableState;Landroidx/compose/runtime/MutableState;Landroidx/compose/runtime/MutableState;Landroidx/compose/runtime/MutableState;Landroidx/compose/runtime/Composer;I)Lkotlin/Unit;
+(Lio/github/iamr0s/carplay/MainActivity;Landroidx/compose/runtime/MutableState;Landroidx/compose/runtime/State;Landroidx/compose/runtime/Composer;I)Lkotlin/Unit;
+(Lio/github/iamr0s/carplay/MainActivity;Landroidx/compose/runtime/MutableState;Landroidx/compose/runtime/State;Landroidx/compose/runtime/MutableState;Landroidx/compose/foundation/lazy/LazyItemScope;Landroidx/compose/runtime/Composer;I)Lkotlin/Unit;
+(Lio/github/iamr0s/carplay/MainActivity;Landroidx/compose/runtime/State;Landroidx/compose/foundation/lazy/LazyItemScope;Landroidx/compose/runtime/Composer;I)Lkotlin/Unit;
+(Lio/github/iamr0s/carplay/MainActivity;Landroidx/compose/runtime/State;Landroidx/compose/runtime/MutableState;Landroidx/compose/foundation/lazy/LazyItemScope;Landroidx/compose/runtime/Composer;I)Lkotlin/Unit;
+9(Lio/github/iamr0s/carplay/MainActivity;Ljava/util/Map;)V
+J(Lio/github/iamr0s/carplay/TestState;)Lio/github/iamr0s/carplay/TestState;
+(Ljava/io/File;II)V
+_(Ljava/lang/Exception;Lio/github/iamr0s/carplay/TestState;)Lio/github/iamr0s/carplay/TestState;
+,(Ljava/lang/Object;)Ljava/lang/CharSequence;
+(Ljava/lang/Process;)Z
+(Ljava/lang/String;)Z
+h(Ljava/lang/String;Lio/github/iamr0s/carplay/DiagnosticState;)Lio/github/iamr0s/carplay/DiagnosticState;
+\(Ljava/lang/String;Lio/github/iamr0s/carplay/TestState;)Lio/github/iamr0s/carplay/TestState;
+)(Ljava/lang/String;Ljava/lang/String;ZZ)V
+K(Ljava/lang/String;Ljava/util/List;ZZLjava/util/List;Ljava/lang/String;ZZ)V
+F(Ljava/lang/String;Lkotlin/coroutines/Continuation;)Ljava/lang/Object;
+/(Ljava/util/Map$Entry;)Ljava/lang/CharSequence;
+4(Lkotlin/coroutines/Continuation;)Ljava/lang/Object;
+t(Lkotlin/jvm/functions/Function0;Lkotlin/jvm/functions/Function0;ILandroidx/compose/runtime/Composer;I)Lkotlin/Unit;
+(Lkotlin/jvm/functions/Function0;Lkotlin/jvm/functions/Function0;Landroidx/compose/foundation/lazy/LazyItemScope;Landroidx/compose/runtime/Composer;I)Lkotlin/Unit;
+g(Lkotlin/jvm/functions/Function0;Lkotlin/jvm/functions/Function0;Landroidx/compose/runtime/Composer;I)V
+(Lkotlin/jvm/functions/Function0;Lkotlin/jvm/functions/Function0;Landroidx/compose/runtime/State;Landroid/content/Context;Landroidx/compose/runtime/MutableState;Landroidx/compose/runtime/MutableState;Landroidx/compose/runtime/State;Landroidx/compose/foundation/lazy/LazyListScope;)Lkotlin/Unit;
+(Lkotlin/jvm/functions/Function0;Lkotlin/jvm/functions/Function0;Landroidx/compose/runtime/State;Landroid/content/Context;Landroidx/compose/runtime/State;Landroidx/compose/runtime/MutableState;Landroidx/compose/runtime/MutableState;Landroidx/compose/foundation/layout/PaddingValues;Landroidx/compose/runtime/Composer;I)Lkotlin/Unit;
+f(Lkotlinx/coroutines/channels/Channel;Lio/github/iamr0s/carplay/protocol/WirelessConfig;)Lkotlin/Unit;
+(TT;TT;)I
+(Z)V
+(ZIIID
+(ZIIIDLjava/lang/String;Ljava/lang/String;Ljava/util/List;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;ZLjava/lang/String;ZZZIIILio/github/iamr0s/carplay/video/VideoTestOptions;)V
+K(ZLio/github/iamr0s/carplay/TestState;)Lio/github/iamr0s/carplay/TestState;
+5(ZLkotlin/coroutines/Continuation;)Ljava/lang/Object;
+'*172@10332L47,172@10381L16,172@10311L86
+'*174@10559L51,174@10612L19,174@10538L93
+'*545@35845L15,545@35889L22,545@35824L87
+'*546@36003L17,546@36049L19,546@35982L86
+*>;)
+, accessory=
+, actualFps=
+, audio=
+, audioPlaying=
+, audioTest=
+, bridge=
+, bridgeKeysReady=
+, build=
+, carWith=
+, composeDesktop=
+, connecting=
+, devices=
+, fps=
+, height=
+, hfpActive=
+, hfpRevision=
+, hid=
+, hookReading=
+, hookStatus=
+, implementationId=
+, keys=
+, logs=
+, message=
+, name=
+, nativeHeight=
+, nativeWidth=
+, paired=
+, protocol=
+, receiver=
+, receiverFps=
+, scanning=
+, touch=
+, videoOptions=
+, waitingForPeer=
+, width=
+F. Older records may be omitted; beginning can overlap recent records.
+.bounded
+/20000
+$00000000-deca-fade-deca-deafdecacafe
+$00000000-deca-fade-deca-deafdecacaff
+00:00:00:00:00:00
+02:00:00:00:00:00
+D162@9570L397,179@11040L934,190@12012L438,169@10044L958,161@9518L2950
+5202@12804L34,205@13006L587,214@13631L75,201@12752L972
+(216@13775L21,216@13807L331,216@13756L383
+221@14154L5397,221@14145L5406
+$2d8d2466-e14d-451c-88bc-7301abea291a
+62ef926
+@7bbc1d7254613ffaa026de47d975f73968361ef3e5d7b818ce0a83a33039c6b8
+8.1.1-carplay.1
+; HFP-active=
+&; actual EIR requires HCI confirmation
+; address=
+5; authentication failures never trigger this fallback
+%; continuing standard iAP2 connection
+; discoverability not requested
+A; generic Apple profile is an unverified compatibility experiment
+:; injection outcome is recorded separately by CarWith Hook
+Z; no lease renewal/root reads; previous controller EIR may persist until Bluetooth refresh
+; not a peer failure
+; phase: 
+; retained logs: 
+"; use bounded payload diagnostics
+<anonymous>
+<clinit>
+<init>
+<set-?>
+%=== Full exception stack begin trace=
+#=== Full exception stack end trace=
+<=== Root read Hook logs begin; allow the KernelSU prompt ===
+&=== Root read Hook logs end; matching=
+*=== Session begin build=62ef926 direction=
+=== Session end elapsed=
+>;)I
+>;)V
+>;)Z
+>;>;
+>;I)V
+>;Z)V
+>;ZZ
+ACCESSORY_UUID
+APPLICATION_ID
+ATTEMPT begin id=
+!AirPlay address selection remote=
+AlertDialog-Oix01E0
+JAlready discoverable; reusing current window without another system dialog
+Android SDK 
+Attempt: 
+"Automatic Hook lease refresh mode=
+9Automatic Hook refresh failed; current lease may expire; 
+-Automatic identity modification unavailable: 
+BUILD_TYPE
+BackHandler
+/Bluetooth bootstrap ended after runtime handoff
+BuildConfig.java
+Button
+C(TestPanel)N(onBack,onCopy)493@31361L7,494@31399L28,495@31459L29,496@31530L29,497@31575L83,498@31676L32,499@31722L6758,499@31713L6767:MainActivity.kt#y8y2r
+C101@5233L9:Row.kt#2w3rfo
+4C144@8263L11312,144@8200L11375:MainActivity.kt#y8y2r
+4C145@8324L11241,145@8277L11288:MainActivity.kt#y8y2r
+C146@8373L29,147@8478L315,147@8419L374,154@8825L34,155@8907L29,156@8970L34,157@9042L34,158@9113L101,159@9251L69,160@9361L121,197@12515L34,198@12595L112,198@12566L141:MainActivity.kt#y8y2r
+"C168@9999L14:MainActivity.kt#y8y2r
+$C169@10046L954:MainActivity.kt#y8y2r
+C170@10129L54,171@10208L36,172@10269L132,173@10426L42,174@10493L142,175@10660L121,176@10866L25,176@10806L172:MainActivity.kt#y8y2r
+#C172@10383L12:MainActivity.kt#y8y2r
+#C174@10614L15:MainActivity.kt#y8y2r
+=C175@10717L21,175@10666L73,175@10741L38:MainActivity.kt#y8y2r
+#C177@10931L25:MainActivity.kt#y8y2r
+2C179@11063L893,179@11042L930:MainActivity.kt#y8y2r
+#C189@11960L10:MainActivity.kt#y8y2r
+2C190@12035L397,190@12014L434:MainActivity.kt#y8y2r
+#C195@12436L10:MainActivity.kt#y8y2r
+#C203@12870L18:MainActivity.kt#y8y2r
+#C204@12921L45:MainActivity.kt#y8y2r
+2C205@13029L514,205@13008L583:MainActivity.kt#y8y2r
+#C213@13576L13:MainActivity.kt#y8y2r
+0C214@13654L34,214@13633L71:MainActivity.kt#y8y2r
+#C214@13692L10:MainActivity.kt#y8y2r
+0C224@14495L10,224@14454L67:MainActivity.kt#y8y2r
+0C225@14596L10,225@14555L64:MainActivity.kt#y8y2r
+%C226@14653L1775:MainActivity.kt#y8y2r
+[C227@14756L18,227@14739L113,228@14906L17,228@14881L115,229@15025L1377:MainActivity.kt#y8y2r
+#C227@14838L12:MainActivity.kt#y8y2r
+#C228@14984L10:MainActivity.kt#y8y2r
+[C230@15088L18,230@15063L59,231@15207L19,231@15228L1144,231@15155L1217:MainActivity.kt#y8y2r
+#C230@15110L10:MainActivity.kt#y8y2r
+#C232@15292L14:MainActivity.kt#y8y2r
+NC232@15320L571,232@15266L626,240@15983L354,240@15929L409:MainActivity.kt#y8y2r
+#C240@15955L14:MainActivity.kt#y8y2r
+2C250@16487L113,250@16462L196:MainActivity.kt#y8y2r
+#C250@16640L16:MainActivity.kt#y8y2r
+2C251@16717L144,251@16692L225:MainActivity.kt#y8y2r
+#C251@16901L14:MainActivity.kt#y8y2r
+1C252@17029L60,252@17004L141:MainActivity.kt#y8y2r
+#C252@17129L14:MainActivity.kt#y8y2r
+1C253@17221L32,253@17204L108:MainActivity.kt#y8y2r
+#C253@17293L17:MainActivity.kt#y8y2r
+0C254@17388L20,254@17371L93:MainActivity.kt#y8y2r
+#C254@17448L14:MainActivity.kt#y8y2r
+1C255@17519L17,255@17498L178:MainActivity.kt#y8y2r
+#C256@17634L16:MainActivity.kt#y8y2r
+?C258@17731L24,258@17798L121,258@17710L209:MainActivity.kt#y8y2r
+#C259@17828L65:MainActivity.kt#y8y2r
+0C261@17988L10,261@17953L57:MainActivity.kt#y8y2r
+#C262@18073L77:MainActivity.kt#y8y2r
+$C265@18396L476:MainActivity.kt#y8y2r
+eC266@18521L10,266@18481L63,267@18624L10,267@18581L64,268@18817L10,268@18682L156:MainActivity.kt#y8y2r
+0C272@18995L10,272@18960L57:MainActivity.kt#y8y2r
+1C273@19154L21,273@19051L317:MainActivity.kt#y8y2r
+2C274@19227L115,274@19208L134:MainActivity.kt#y8y2r
+1C274@19319L10,274@19229L111:MainActivity.kt#y8y2r
+1C276@19488L10,276@19402L107:MainActivity.kt#y8y2r
+$C502@31969L100:MainActivity.kt#y8y2r
+0C502@31975L43,502@32020L47:MainActivity.kt#y8y2r
+#C502@32006L10:MainActivity.kt#y8y2r
+#C502@32051L14:MainActivity.kt#y8y2r
+0C503@32126L10,503@32091L61:MainActivity.kt#y8y2r
+$C504@32174L106:MainActivity.kt#y8y2r
+1C505@32319L32,505@32302L137:MainActivity.kt#y8y2r
+#C505@32407L30:MainActivity.kt#y8y2r
+#C506@32461L63:MainActivity.kt#y8y2r
+$C507@32546L105:MainActivity.kt#y8y2r
+2C508@32690L460,508@32673L560:MainActivity.kt#y8y2r
+#C514@33199L32:MainActivity.kt#y8y2r
+2C515@33272L367,515@33255L461:MainActivity.kt#y8y2r
+#C520@33688L26:MainActivity.kt#y8y2r
+$C521@33738L710:MainActivity.kt#y8y2r
+LC522@33777L478,522@33760L564,529@34362L25,529@34341L93:MainActivity.kt#y8y2r
+#C528@34304L18:MainActivity.kt#y8y2r
+#C529@34418L14:MainActivity.kt#y8y2r
+0C531@34489L22,531@34470L41:MainActivity.kt#y8y2r
+#C531@34491L18:MainActivity.kt#y8y2r
+$C532@34533L536:MainActivity.kt#y8y2r
+NC533@34576L129,533@34555L246,534@34839L129,534@34818L237:MainActivity.kt#y8y2r
+#C533@34778L21:MainActivity.kt#y8y2r
+#C534@35041L12:MainActivity.kt#y8y2r
+#C536@35091L84:MainActivity.kt#y8y2r
+$C537@35197L236:MainActivity.kt#y8y2r
+JC538@35236L25,538@35219L89,539@35346L26,539@35325L94:MainActivity.kt#y8y2r
+#C538@35292L14:MainActivity.kt#y8y2r
+#C539@35403L14:MainActivity.kt#y8y2r
+#C541@35455L43:MainActivity.kt#y8y2r
+#C542@35520L85:MainActivity.kt#y8y2r
+0C543@35662L10,543@35627L57:MainActivity.kt#y8y2r
+#C544@35706L52:MainActivity.kt#y8y2r
+$C545@35780L135:MainActivity.kt#y8y2r
+#C545@35891L18:MainActivity.kt#y8y2r
+$C546@35937L135:MainActivity.kt#y8y2r
+#C546@36051L15:MainActivity.kt#y8y2r
+1C547@36111L80,547@36094L145:MainActivity.kt#y8y2r
+#C547@36222L15:MainActivity.kt#y8y2r
+#C548@36261L19:MainActivity.kt#y8y2r
+0C549@36337L10,549@36302L57:MainActivity.kt#y8y2r
+#C550@36381L71:MainActivity.kt#y8y2r
+0C551@36514L10,551@36474L62:MainActivity.kt#y8y2r
+#C552@36558L97:MainActivity.kt#y8y2r
+0C553@36696L62,553@36677L81:MainActivity.kt#y8y2r
+#C553@36698L58:MainActivity.kt#y8y2r
+0C554@36819L10,554@36780L61:MainActivity.kt#y8y2r
+$C555@36863L114:MainActivity.kt#y8y2r
+$C556@36999L250:MainActivity.kt#y8y2r
+KC557@37038L22,557@37021L108,558@37167L23,558@37146L89:MainActivity.kt#y8y2r
+#C557@37114L13:MainActivity.kt#y8y2r
+#C558@37221L12:MainActivity.kt#y8y2r
+#C560@37271L21:MainActivity.kt#y8y2r
+$C561@37314L213:MainActivity.kt#y8y2r
+KC561@37341L28,561@37320L96,561@37439L33,561@37418L107:MainActivity.kt#y8y2r
+#C561@37400L14:MainActivity.kt#y8y2r
+#C561@37503L20:MainActivity.kt#y8y2r
+0C562@37568L65,562@37549L84:MainActivity.kt#y8y2r
+0C562@37610L10,562@37570L61:MainActivity.kt#y8y2r
+0C563@37701L10,563@37655L68:MainActivity.kt#y8y2r
+#C564@37745L95:MainActivity.kt#y8y2r
+0C565@37883L30,565@37862L98:MainActivity.kt#y8y2r
+#C565@37944L14:MainActivity.kt#y8y2r
+0C566@38001L68,566@37982L87:MainActivity.kt#y8y2r
+0C566@38046L10,566@38003L64:MainActivity.kt#y8y2r
+0C567@38126L10,567@38091L57:MainActivity.kt#y8y2r
+1C568@38267L21,568@38170L292:MainActivity.kt#y8y2r
+2C569@38328L120,569@38309L139:MainActivity.kt#y8y2r
+1C569@38425L10,569@38330L116:MainActivity.kt#y8y2r
+C72@3469L9:Box.kt#2w3rfo
+C89@4557L9:Column.kt#2w3rfo
+C:MainActivity.kt#y8y2r
+CARLIFE_SESSION
+,CC(<get-current>):CompositionLocal.kt#9igjgp
+\CC(Box)N(modifier,contentAlignment,propagateMinConstraints,content)71@3424L131:Box.kt#2w3rfo
+lCC(Column)N(modifier,verticalArrangement,horizontalAlignment,content)87@4443L61,88@4509L134:Column.kt#2w3rfo
+8CC(Layout)P(!1,2)81@3355L27,84@3521L416:Layout.kt#80mrfh
+QCC(ReusableComposeNode)N(factory,update,content)399@15590L9:Composables.kt#9igjgp
+gCC(Row)N(modifier,horizontalArrangement,verticalAlignment,content)99@5125L58,100@5188L131:Row.kt#2w3rfo
+#CC(remember):MainActivity.kt#9igjgp
+ICN(device)*264@18275L32,264@18362L540,264@18260L642:MainActivity.kt#y8y2r
+#CN(it)178@8834L22:LazyDsl.kt#428nma
+>CN(padding)223@14421L5112,222@14187L5346:MainActivity.kt#y8y2r
+>CN(padding)501@31948L6526,500@31743L6731:MainActivity.kt#y8y2r
+COPY_LIMIT
+Cannot bound old log 
+#Cannot create diagnostics directory
+#Cannot rotate active diagnostic log
+%Cannot rotate previous diagnostic log
+CarLife 
+2CarPlay Android wireless 8.1.1-carplay.1 (62ef926)
+CarPlay Identity Probe
+CarPlay Probe
+CarPlay 
+CarPlay 
+CarPlay 
+CarPlayEirHook
+CarWith CarLife 
+Hook
+CarWith 
+CarWith 
+Card
+Channel$default
+Checkbox
+1Classic Bluetooth discovery finished; candidates=
+{Clipboard/recent export: <=262144 bytes of recent records; save diagnostic file for connection beginning and a longer tail.
+Companion
+Comparisons.kt
+CompositionLocalProvider
+ConnectionService.kt
+CoroutineScope
+D8$$SyntheticClass
+DEBUG
+DIRECT
+GDevice selected: direct outbound connection; no discoverability request
+DeviceRow(address=
+DiagnosticFiles.kt
+DiagnosticState(status=
+Diagnostics.kt
+QDiscoverability declined; keeping listener and direct device connection available
+1Discovery failed; keeping inbound listener active
+DropdownMenu-IlH_yew
+DropdownMenuItem
+Execution plan=
+\Explicit discoverability granted; existing paired devices can still connect by saved address
+FILE-LOG failure: 
+Failed requirement.
+GIT_SHA
+HFP identity control revision=
+HOOK
+HOOK 
+@Hook log capture exceeded 1 MiB; the captured portion is limited
+6Hook log collection failed; confirm Root authorization
+Hook 
+WHook 
+ NowPlaying 
+ Hook 
+Horizontal
+ILII
+INSTANCE
+$Identity helper SDP registered uuid=
+\Identity helper has no protocol handler; use the separate iAP2 phone service for connections
+3In-memory/copy log budget: 2097152 bytes; retained=
+0Inbound iAP2 phone SDP listener registered uuid=
+QInbound listener ready; starting nearby-device scan; discoverability not required
+JLLIIL
+KEY 
+L$10
+L$11
+L$12
+L$13
+L$14
+L$15
+LILII
+LILLI
+LILLIL
+LILLLZ
+LIZL
+LIZLLI
+4LJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJIIL
+LJLL
+LLFIL
+LLIIIL
+LLIL
+LLILI
+LLILLLZIL
+LLLI
+LLLIL
+LLLILI
+LLLL
+LLLLI
+LLLLIL
+LLLLL
+LLLLLI
+LLLLLIL
+LLLLLILLIL
+LLLLLL
+LLLLLLI
+LLLLLLII
+LLLLLLL
+LLLLLLLI
+LLLLLLLLL
+LLLLLLLLLLI
+LLLLZI
+LLLLZZIL
+LLLLZZLLZZIL
+LLLZI
+LLLZLIL
+LLLZLZIL
+LLLZZ
+LLLZZLLZZ
+LLZIIIDLLLLLLLLZLZZZIIILIL
+LLZL
+#LOG oversized record omitted bytes=
+LOG_LIMIT
+LZIIIDLLLLLLLLZLZZZIIIL
+LZZZLLL
+Landroid/app/BroadcastOptions;
+)Landroid/app/Notification$Action$Builder;
+!Landroid/app/Notification$Action;
+"Landroid/app/Notification$Builder;
+Landroid/app/Notification;
+!Landroid/app/NotificationChannel;
+!Landroid/app/NotificationManager;
+Landroid/app/PendingIntent;
+Landroid/app/Service;
+$Landroid/bluetooth/BluetoothAdapter;
+#Landroid/bluetooth/BluetoothDevice;
+$Landroid/bluetooth/BluetoothManager;
+)Landroid/bluetooth/BluetoothServerSocket;
+#Landroid/bluetooth/BluetoothSocket;
+#Landroid/content/BroadcastReceiver;
+Landroid/content/ClipData;
+"Landroid/content/ClipboardManager;
+Landroid/content/ComponentName;
+!Landroid/content/ContentResolver;
+Landroid/content/Context;
+Landroid/content/Intent;
+Landroid/content/IntentFilter;
+*Landroid/content/SharedPreferences$Editor;
+#Landroid/content/SharedPreferences;
+#Landroid/content/pm/PackageManager;
+ Landroid/graphics/drawable/Icon;
+Landroid/net/Network;
+Landroid/net/Uri;
+Landroid/net/wifi/WifiManager;
+Landroid/os/Build$VERSION;
+Landroid/os/Build;
+Landroid/os/Bundle;
+Landroid/os/IBinder;
+Landroid/os/ParcelUuid;
+Landroid/os/Parcelable;
+"Landroid/provider/Settings$Secure;
+%Landroidx/activity/ComponentActivity;
+)Landroidx/activity/compose/BackHandlerKt;
+/Landroidx/activity/compose/ComponentActivityKt;
+)Landroidx/activity/result/ActivityResult;
+1Landroidx/activity/result/ActivityResultCallback;
+1Landroidx/activity/result/ActivityResultLauncher;
+1Landroidx/activity/result/ActivityResultLauncher<
+:Landroidx/activity/result/contract/ActivityResultContract;
+JLandroidx/activity/result/contract/ActivityResultContracts$CreateDocument;
+VLandroidx/activity/result/contract/ActivityResultContracts$RequestMultiplePermissions;
+RLandroidx/activity/result/contract/ActivityResultContracts$StartActivityForResult;
+*Landroidx/compose/foundation/BorderStroke;
+.Landroidx/compose/foundation/OverscrollEffect;
+*Landroidx/compose/foundation/OverscrollKt;
+&Landroidx/compose/foundation/ScrollKt;
+)Landroidx/compose/foundation/ScrollState;
+4Landroidx/compose/foundation/gestures/FlingBehavior;
+2Landroidx/compose/foundation/gestures/Orientation;
+BLandroidx/compose/foundation/interaction/MutableInteractionSource;
+;Landroidx/compose/foundation/layout/Arrangement$Horizontal;
+ELandroidx/compose/foundation/layout/Arrangement$HorizontalOrVertical;
+9Landroidx/compose/foundation/layout/Arrangement$Vertical;
+0Landroidx/compose/foundation/layout/Arrangement;
+*Landroidx/compose/foundation/layout/BoxKt;
+-Landroidx/compose/foundation/layout/BoxScope;
+5Landroidx/compose/foundation/layout/BoxScopeInstance;
+-Landroidx/compose/foundation/layout/ColumnKt;
+0Landroidx/compose/foundation/layout/ColumnScope;
+8Landroidx/compose/foundation/layout/ColumnScopeInstance;
+.Landroidx/compose/foundation/layout/PaddingKt;
+2Landroidx/compose/foundation/layout/PaddingValues;
+*Landroidx/compose/foundation/layout/RowKt;
+-Landroidx/compose/foundation/layout/RowScope;
+5Landroidx/compose/foundation/layout/RowScopeInstance;
++Landroidx/compose/foundation/layout/SizeKt;
+1Landroidx/compose/foundation/layout/WindowInsets;
+,Landroidx/compose/foundation/lazy/LazyDslKt;
+0Landroidx/compose/foundation/lazy/LazyItemScope;
+0Landroidx/compose/foundation/lazy/LazyListScope;
+0Landroidx/compose/foundation/lazy/LazyListState;
+2Landroidx/compose/foundation/text/KeyboardActions;
+2Landroidx/compose/foundation/text/KeyboardOptions;
+/Landroidx/compose/foundation/text/TextAutoSize;
+ALandroidx/compose/foundation/text/selection/SelectionContainerKt;
+9Landroidx/compose/material3/AndroidAlertDialog_androidKt;
+2Landroidx/compose/material3/AndroidMenu_androidKt;
+)Landroidx/compose/material3/ButtonColors;
+,Landroidx/compose/material3/ButtonElevation;
+%Landroidx/compose/material3/ButtonKt;
+'Landroidx/compose/material3/CardColors;
+*Landroidx/compose/material3/CardElevation;
+#Landroidx/compose/material3/CardKt;
++Landroidx/compose/material3/CheckboxColors;
+'Landroidx/compose/material3/CheckboxKt;
+(Landroidx/compose/material3/ColorScheme;
+*Landroidx/compose/material3/ColorSchemeKt;
+*Landroidx/compose/material3/MaterialTheme;
+,Landroidx/compose/material3/MaterialThemeKt;
++Landroidx/compose/material3/MenuItemColors;
+0Landroidx/compose/material3/OutlinedTextFieldKt;
+'Landroidx/compose/material3/ScaffoldKt;
+#Landroidx/compose/material3/Shapes;
+,Landroidx/compose/material3/TextFieldColors;
+#Landroidx/compose/material3/TextKt;
+'Landroidx/compose/material3/Typography;
+"Landroidx/compose/runtime/Applier;
+(Landroidx/compose/runtime/ComposablesKt;
+-Landroidx/compose/runtime/Composer$Companion;
+#Landroidx/compose/runtime/Composer;
+%Landroidx/compose/runtime/ComposerKt;
+-Landroidx/compose/runtime/CompositionContext;
++Landroidx/compose/runtime/CompositionLocal;
+-Landroidx/compose/runtime/CompositionLocalKt;
+.Landroidx/compose/runtime/CompositionLocalMap;
+$Landroidx/compose/runtime/EffectsKt;
+'Landroidx/compose/runtime/MutableState;
+'Landroidx/compose/runtime/MutableState<
+5Landroidx/compose/runtime/ProvidableCompositionLocal;
+(Landroidx/compose/runtime/ProvidedValue;
+/Landroidx/compose/runtime/RecomposeScopeImplKt;
++Landroidx/compose/runtime/ScopeUpdateScope;
+1Landroidx/compose/runtime/SnapshotMutationPolicy;
+*Landroidx/compose/runtime/SnapshotStateKt;
+ Landroidx/compose/runtime/State;
+ Landroidx/compose/runtime/State<
+"Landroidx/compose/runtime/Updater;
+4Landroidx/compose/runtime/internal/ComposableLambda;
+6Landroidx/compose/runtime/internal/ComposableLambdaKt;
+)Landroidx/compose/ui/Alignment$Companion;
+*Landroidx/compose/ui/Alignment$Horizontal;
+(Landroidx/compose/ui/Alignment$Vertical;
+Landroidx/compose/ui/Alignment;
+(Landroidx/compose/ui/ComposedModifierKt;
+(Landroidx/compose/ui/Modifier$Companion;
+Landroidx/compose/ui/Modifier;
+$Landroidx/compose/ui/graphics/Shape;
+*Landroidx/compose/ui/layout/MeasurePolicy;
+2Landroidx/compose/ui/node/ComposeUiNode$Companion;
+(Landroidx/compose/ui/node/ComposeUiNode;
+ALandroidx/compose/ui/platform/AndroidCompositionLocals_androidKt;
+$Landroidx/compose/ui/text/TextStyle;
+*Landroidx/compose/ui/text/font/FontFamily;
+)Landroidx/compose/ui/text/font/FontStyle;
+*Landroidx/compose/ui/text/font/FontWeight;
+5Landroidx/compose/ui/text/input/VisualTransformation;
+*Landroidx/compose/ui/text/style/TextAlign;
+/Landroidx/compose/ui/text/style/TextDecoration;
+Landroidx/compose/ui/unit/Dp;
+-Landroidx/compose/ui/window/DialogProperties;
+,Landroidx/compose/ui/window/PopupProperties;
+$Landroidx/lifecycle/Lifecycle$State;
+,Landroidx/lifecycle/LifecycleCoroutineScope;
+#Landroidx/lifecycle/LifecycleOwner;
+%Landroidx/lifecycle/LifecycleOwnerKt;
+&Landroidx/lifecycle/compose/FlowExtKt;
+LaunchedEffect
+LazyColumn
+LazyDsl.kt
+/Lcom/android/tools/r8/annotations/LambdaMethod;
+5Lcom/android/tools/r8/annotations/SynthesizedClassV2;
+"Ldalvik/annotation/EnclosingClass;
+#Ldalvik/annotation/EnclosingMethod;
+Ldalvik/annotation/InnerClass;
+!Ldalvik/annotation/MemberClasses;
+Ldalvik/annotation/Signature;
+(Ldalvik/annotation/SourceDebugExtension;
+&Lio/github/iamr0s/carplay/BuildConfig;
+XLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda0;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda10;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda11;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda12;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda13;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda14;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda15;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda16;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda17;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda18;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda19;
+XLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda1;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda20;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda21;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda22;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda23;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda24;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda25;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda26;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda27;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda28;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda29;
+XLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda2;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda30;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda31;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda32;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda33;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda34;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda35;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda36;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda37;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda38;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda39;
+XLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda3;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda40;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda41;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda42;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda43;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda44;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda45;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda46;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda47;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda48;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda49;
+XLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda4;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda50;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda51;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda52;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda53;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda54;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda55;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda56;
+YLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda57;
+XLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda5;
+XLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda6;
+XLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda7;
+XLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda8;
+XLio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda9;
+>Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt;
+FLio/github/iamr0s/carplay/ConnectionService$$ExternalSyntheticLambda0;
+FLio/github/iamr0s/carplay/ConnectionService$$ExternalSyntheticLambda1;
+FLio/github/iamr0s/carplay/ConnectionService$$ExternalSyntheticLambda2;
+FLio/github/iamr0s/carplay/ConnectionService$$ExternalSyntheticLambda3;
+6Lio/github/iamr0s/carplay/ConnectionService$Companion;
+WLio/github/iamr0s/carplay/ConnectionService$onStartCommand$4$$ExternalSyntheticLambda0;
+@Lio/github/iamr0s/carplay/ConnectionService$onStartCommand$4$10;
+@Lio/github/iamr0s/carplay/ConnectionService$onStartCommand$4$11;
+?Lio/github/iamr0s/carplay/ConnectionService$onStartCommand$4$2;
+?Lio/github/iamr0s/carplay/ConnectionService$onStartCommand$4$4;
+?Lio/github/iamr0s/carplay/ConnectionService$onStartCommand$4$5;
+QLio/github/iamr0s/carplay/ConnectionService$onStartCommand$4$connected$timeout$1;
+GLio/github/iamr0s/carplay/ConnectionService$onStartCommand$4$timeout$1;
+=Lio/github/iamr0s/carplay/ConnectionService$onStartCommand$4;
+TLio/github/iamr0s/carplay/ConnectionService$runWireless$2$$ExternalSyntheticLambda0;
+TLio/github/iamr0s/carplay/ConnectionService$runWireless$2$$ExternalSyntheticLambda1;
+HLio/github/iamr0s/carplay/ConnectionService$runWireless$2$bluetooth$1$1;
+HLio/github/iamr0s/carplay/ConnectionService$runWireless$2$bluetooth$1$2;
+FLio/github/iamr0s/carplay/ConnectionService$runWireless$2$bluetooth$1;
+FLio/github/iamr0s/carplay/ConnectionService$runWireless$2$bootstrap$1;
+FLio/github/iamr0s/carplay/ConnectionService$runWireless$2$bootstrap$2;
+FLio/github/iamr0s/carplay/ConnectionService$runWireless$2$discovery$1;
+DLio/github/iamr0s/carplay/ConnectionService$runWireless$2$initial$1;
+ALio/github/iamr0s/carplay/ConnectionService$runWireless$2$lost$1;
+:Lio/github/iamr0s/carplay/ConnectionService$runWireless$2;
+,Lio/github/iamr0s/carplay/ConnectionService;
+$Lio/github/iamr0s/carplay/DeviceRow;
+*Lio/github/iamr0s/carplay/DiagnosticFiles;
+FLio/github/iamr0s/carplay/DiagnosticPayload$$ExternalSyntheticLambda0;
+FLio/github/iamr0s/carplay/DiagnosticPayload$$ExternalSyntheticLambda1;
+,Lio/github/iamr0s/carplay/DiagnosticPayload;
+*Lio/github/iamr0s/carplay/DiagnosticState;
+@Lio/github/iamr0s/carplay/Diagnostics$$ExternalSyntheticLambda0;
+@Lio/github/iamr0s/carplay/Diagnostics$$ExternalSyntheticLambda1;
+@Lio/github/iamr0s/carplay/Diagnostics$$ExternalSyntheticLambda2;
+@Lio/github/iamr0s/carplay/Diagnostics$$ExternalSyntheticLambda3;
+@Lio/github/iamr0s/carplay/Diagnostics$$ExternalSyntheticLambda4;
+@Lio/github/iamr0s/carplay/Diagnostics$$ExternalSyntheticLambda5;
+@Lio/github/iamr0s/carplay/Diagnostics$$ExternalSyntheticLambda6;
+@Lio/github/iamr0s/carplay/Diagnostics$$ExternalSyntheticLambda7;
+ULio/github/iamr0s/carplay/Diagnostics$device$lambda$19$$inlined$sortedByDescending$1;
+&Lio/github/iamr0s/carplay/Diagnostics;
+RLio/github/iamr0s/carplay/LocalBluetoothIdentity$read$2$$ExternalSyntheticLambda0;
+8Lio/github/iamr0s/carplay/LocalBluetoothIdentity$read$2;
+1Lio/github/iamr0s/carplay/LocalBluetoothIdentity;
+ALio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda0;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda10;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda11;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda12;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda13;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda14;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda15;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda16;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda17;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda18;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda19;
+ALio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda1;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda20;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda21;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda22;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda23;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda24;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda25;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda26;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda27;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda28;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda29;
+ALio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda2;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda30;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda31;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda32;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda33;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda34;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda35;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda36;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda37;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda38;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda39;
+ALio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda3;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda40;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda41;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda42;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda43;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda44;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda45;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda46;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda47;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda48;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda49;
+ALio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda4;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda50;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda51;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda52;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda53;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda54;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda55;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda56;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda57;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda58;
+BLio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda59;
+ALio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda5;
+ALio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda6;
+ALio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda7;
+ALio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda8;
+ALio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda9;
+9Lio/github/iamr0s/carplay/MainActivity$applyNativeMode$1;
+?Lio/github/iamr0s/carplay/MainActivity$collectNativeHookLogs$1;
+?Lio/github/iamr0s/carplay/MainActivity$collectNativeHookLogs$2;
+:Lio/github/iamr0s/carplay/MainActivity$onCreate$1$1$1$1$1;
+=Lio/github/iamr0s/carplay/MainActivity$onCreate$1$1$1$11$1$1;
+DLio/github/iamr0s/carplay/MainActivity$onCreate$1$1$1$12$1$1$10$1$1;
+BLio/github/iamr0s/carplay/MainActivity$onCreate$1$1$1$12$1$1$10$2;
+KLio/github/iamr0s/carplay/MainActivity$onCreate$1$1$1$12$1$1$2$1$3$3$1$1$1;
+KLio/github/iamr0s/carplay/MainActivity$onCreate$1$1$1$12$1$1$2$1$3$3$2$1$1;
+:Lio/github/iamr0s/carplay/MainActivity$onCreate$1$1$1$6$1;
+@Lio/github/iamr0s/carplay/MainActivity$onCreate$1$1$1$8$1$1$1$1;
+>Lio/github/iamr0s/carplay/MainActivity$onCreate$1$1$1$8$1$1$1;
+Lio/github/iamr0s/carplay/MainActivity$onCreate$lambda$120$lambda$119$lambda$118$lambda$117$lambda$116$lambda$115$$inlined$items$default$1;
+Lio/github/iamr0s/carplay/MainActivity$onCreate$lambda$120$lambda$119$lambda$118$lambda$117$lambda$116$lambda$115$$inlined$items$default$2;
+Lio/github/iamr0s/carplay/MainActivity$onCreate$lambda$120$lambda$119$lambda$118$lambda$117$lambda$116$lambda$115$$inlined$items$default$3;
+Lio/github/iamr0s/carplay/MainActivity$onCreate$lambda$120$lambda$119$lambda$118$lambda$117$lambda$116$lambda$115$$inlined$items$default$4;
+LLio/github/iamr0s/carplay/MainActivity$receiver$1$$ExternalSyntheticLambda0;
+LLio/github/iamr0s/carplay/MainActivity$receiver$1$$ExternalSyntheticLambda1;
+2Lio/github/iamr0s/carplay/MainActivity$receiver$1;
+8Lio/github/iamr0s/carplay/MainActivity$selectDevice$2$1;
+6Lio/github/iamr0s/carplay/MainActivity$selectDevice$2;
+SLio/github/iamr0s/carplay/MainActivity$startConnection$3$$ExternalSyntheticLambda0;
+SLio/github/iamr0s/carplay/MainActivity$startConnection$3$$ExternalSyntheticLambda1;
+9Lio/github/iamr0s/carplay/MainActivity$startConnection$3;
+5Lio/github/iamr0s/carplay/MainActivity$stopRunning$2;
+'Lio/github/iamr0s/carplay/MainActivity;
+CLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda0;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda10;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda11;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda12;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda13;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda14;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda15;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda16;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda17;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda18;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda19;
+CLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda1;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda20;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda21;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda22;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda23;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda24;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda25;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda26;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda27;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda28;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda29;
+CLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda2;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda30;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda31;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda32;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda33;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda34;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda35;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda36;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda37;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda38;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda39;
+CLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda3;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda40;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda41;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda42;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda43;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda44;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda45;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda46;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda47;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda48;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda49;
+CLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda4;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda50;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda51;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda52;
+DLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda53;
+CLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda5;
+CLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda6;
+CLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda7;
+CLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda8;
+CLio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda9;
+)Lio/github/iamr0s/carplay/MainActivityKt;
+@Lio/github/iamr0s/carplay/NativeHookControl$requestMode$2$1$1$1;
+ILio/github/iamr0s/carplay/NativeHookControl$requestMode$2$1$1$receiver$1;
+<Lio/github/iamr0s/carplay/NativeHookControl$requestMode$2$1;
+:Lio/github/iamr0s/carplay/NativeHookControl$requestMode$2;
+,Lio/github/iamr0s/carplay/NativeHookControl;
+@Lio/github/iamr0s/carplay/NativeHookLogReader$readCommand$2$1$1;
+GLio/github/iamr0s/carplay/NativeHookLogReader$readCommand$2$1$output$1;
+>Lio/github/iamr0s/carplay/NativeHookLogReader$readCommand$2$1;
+<Lio/github/iamr0s/carplay/NativeHookLogReader$readCommand$2;
+.Lio/github/iamr0s/carplay/NativeHookLogReader;
+*Lio/github/iamr0s/carplay/NativeHookReply;
+%Lio/github/iamr0s/carplay/R$drawable;
+'Lio/github/iamr0s/carplay/SystemAssist;
+$Lio/github/iamr0s/carplay/TestState;
+<Lio/github/iamr0s/carplay/Testing$$ExternalSyntheticLambda0;
+=Lio/github/iamr0s/carplay/Testing$$ExternalSyntheticLambda10;
+=Lio/github/iamr0s/carplay/Testing$$ExternalSyntheticLambda11;
+=Lio/github/iamr0s/carplay/Testing$$ExternalSyntheticLambda12;
+=Lio/github/iamr0s/carplay/Testing$$ExternalSyntheticLambda13;
+<Lio/github/iamr0s/carplay/Testing$$ExternalSyntheticLambda1;
+<Lio/github/iamr0s/carplay/Testing$$ExternalSyntheticLambda2;
+<Lio/github/iamr0s/carplay/Testing$$ExternalSyntheticLambda3;
+<Lio/github/iamr0s/carplay/Testing$$ExternalSyntheticLambda4;
+<Lio/github/iamr0s/carplay/Testing$$ExternalSyntheticLambda5;
+<Lio/github/iamr0s/carplay/Testing$$ExternalSyntheticLambda6;
+<Lio/github/iamr0s/carplay/Testing$$ExternalSyntheticLambda7;
+<Lio/github/iamr0s/carplay/Testing$$ExternalSyntheticLambda8;
+<Lio/github/iamr0s/carplay/Testing$$ExternalSyntheticLambda9;
+"Lio/github/iamr0s/carplay/Testing;
+:Lio/github/iamr0s/carplay/airplay/PhoneIdentity$Companion;
+0Lio/github/iamr0s/carplay/airplay/PhoneIdentity;
+4Lio/github/iamr0s/carplay/airplay/TestScreenSession;
+4Lio/github/iamr0s/carplay/bridge/CarLifeIntegration;
+9Lio/github/iamr0s/carplay/bridge/CarWithBridge$Transport;
+/Lio/github/iamr0s/carplay/bridge/CarWithBridge;
+0Lio/github/iamr0s/carplay/bridge/CarWithStartup;
+8Lio/github/iamr0s/carplay/desktop/DesktopDisplayControl;
+9Lio/github/iamr0s/carplay/desktop/DesktopPreviewActivity;
+/Lio/github/iamr0s/carplay/desktop/DesktopState;
+0Lio/github/iamr0s/carplay/desktop/ProjectedApps;
+/Lio/github/iamr0s/carplay/network/CarDiscovery;
+-Lio/github/iamr0s/carplay/network/CarNetwork;
+5Lio/github/iamr0s/carplay/network/NetworkAddressesKt;
+7Lio/github/iamr0s/carplay/network/ReceiverConnectionKt;
+3Lio/github/iamr0s/carplay/network/ReceiverEndpoint;
+ELio/github/iamr0s/carplay/protocol/BluetoothSyncExperiment$Companion;
+;Lio/github/iamr0s/carplay/protocol/BluetoothSyncExperiment;
+-Lio/github/iamr0s/carplay/protocol/Iap2Probe;
+>Lio/github/iamr0s/carplay/protocol/Iap2SynchronizationSilence;
+5Lio/github/iamr0s/carplay/protocol/WirelessBootstrap;
+2Lio/github/iamr0s/carplay/protocol/WirelessConfig;
+0Lio/github/iamr0s/carplay/ui/RubberBandScrollKt;
+;Lio/github/iamr0s/carplay/video/VideoTestOptions$Companion;
+1Lio/github/iamr0s/carplay/video/VideoTestOptions;
+Ljava/io/BufferedReader;
+Ljava/io/BufferedWriter;
+Ljava/io/ByteArrayOutputStream;
+Ljava/io/Closeable;
+Ljava/io/EOFException;
+Ljava/io/File;
+Ljava/io/FileInputStream;
+Ljava/io/FileOutputStream;
+Ljava/io/IOException;
+Ljava/io/InputStream;
+Ljava/io/InputStreamReader;
+Ljava/io/OutputStream;
+Ljava/io/OutputStreamWriter;
+Ljava/io/PrintWriter;
+Ljava/io/RandomAccessFile;
+Ljava/io/Reader;
+Ljava/io/StringWriter;
+Ljava/io/Writer;
+Ljava/lang/Boolean;
+Ljava/lang/Byte;
+Ljava/lang/CharSequence;
+Ljava/lang/Class;
+Ljava/lang/Comparable;
+Ljava/lang/Double;
+Ljava/lang/Exception;
+$Ljava/lang/IllegalArgumentException;
+!Ljava/lang/IllegalStateException;
+Ljava/lang/Integer;
+Ljava/lang/Iterable;
+Ljava/lang/Long;
+Ljava/lang/Math;
+Ljava/lang/Number;
+Ljava/lang/Object;
+Ljava/lang/Process;
+Ljava/lang/ProcessBuilder;
+Ljava/lang/SecurityException;
+Ljava/lang/String;
+Ljava/lang/StringBuilder;
+Ljava/lang/System;
+Ljava/lang/Throwable;
+Ljava/lang/Void;
+Ljava/net/InetAddress;
+Ljava/net/Socket;
+Ljava/nio/charset/Charset;
+Ljava/security/MessageDigest;
+Ljava/time/Instant;
+Ljava/util/ArrayDeque;
+Ljava/util/ArrayDeque<
+Ljava/util/ArrayList;
+Ljava/util/Arrays;
+Ljava/util/Collection;
+Ljava/util/Comparator;
+Ljava/util/Iterator;
+Ljava/util/List;
+Ljava/util/List<
+Ljava/util/Locale;
+Ljava/util/Map$Entry;
+Ljava/util/Map;
+Ljava/util/Set;
+Ljava/util/UUID;
+,Ljava/util/concurrent/CancellationException;
+*Ljava/util/concurrent/CopyOnWriteArraySet;
+*Ljava/util/concurrent/CopyOnWriteArraySet<
+Ljava/util/concurrent/TimeUnit;
++Ljava/util/concurrent/atomic/AtomicBoolean;
+Lkotlin/ExceptionsKt;
+Lkotlin/Function0;
+Lkotlin/Function1;
+Lkotlin/Metadata;
+Lkotlin/Pair;
+Lkotlin/Pair<
+Lkotlin/Result$Companion;
+Lkotlin/Result;
+Lkotlin/ResultKt;
+Lkotlin/TuplesKt;
+Lkotlin/Unit;
+Lkotlin/collections/ArraysKt;
+"Lkotlin/collections/CollectionsKt;
+"Lkotlin/comparisons/ComparisonsKt;
+ Lkotlin/coroutines/Continuation;
+ Lkotlin/coroutines/Continuation<
+$Lkotlin/coroutines/CoroutineContext;
++Lkotlin/coroutines/intrinsics/IntrinsicsKt;
+'Lkotlin/coroutines/jvm/internal/Boxing;
+1Lkotlin/coroutines/jvm/internal/ContinuationImpl;
+.Lkotlin/coroutines/jvm/internal/DebugMetadata;
+.Lkotlin/coroutines/jvm/internal/DebugProbesKt;
++Lkotlin/coroutines/jvm/internal/SpillingKt;
+.Lkotlin/coroutines/jvm/internal/SuspendLambda;
+Lkotlin/io/CloseableKt;
+Lkotlin/io/FilesKt;
+Lkotlin/io/TextStreamsKt;
+ Lkotlin/jvm/functions/Function0;
+ Lkotlin/jvm/functions/Function0<
+ Lkotlin/jvm/functions/Function1;
+ Lkotlin/jvm/functions/Function1<
+ Lkotlin/jvm/functions/Function2;
+ Lkotlin/jvm/functions/Function2<
+ Lkotlin/jvm/functions/Function3;
+ Lkotlin/jvm/functions/Function3<
+ Lkotlin/jvm/functions/Function4;
+ Lkotlin/jvm/functions/Function4<
+.Lkotlin/jvm/internal/DefaultConstructorMarker;
++Lkotlin/jvm/internal/FunctionReferenceImpl;
+ Lkotlin/jvm/internal/Intrinsics;
+#Lkotlin/jvm/internal/Ref$ObjectRef;
+#Lkotlin/jvm/internal/Ref$ObjectRef<
+Lkotlin/ranges/RangesKt;
+Lkotlin/reflect/KProperty;
+Lkotlin/sequences/Sequence;
+Lkotlin/sequences/SequencesKt;
+Lkotlin/text/CharsKt;
+Lkotlin/text/Charsets;
+Lkotlin/text/Regex;
+Lkotlin/text/StringsKt;
+Lkotlinx/coroutines/BuildersKt;
+,Lkotlinx/coroutines/CancellableContinuation;
+,Lkotlinx/coroutines/CancellableContinuation<
+0Lkotlinx/coroutines/CancellableContinuationImpl;
+(Lkotlinx/coroutines/CompletableDeferred;
+#Lkotlinx/coroutines/CompletableJob;
+(Lkotlinx/coroutines/CoroutineDispatcher;
+#Lkotlinx/coroutines/CoroutineScope;
+%Lkotlinx/coroutines/CoroutineScopeKt;
+#Lkotlinx/coroutines/CoroutineStart;
+Lkotlinx/coroutines/Deferred;
+Lkotlinx/coroutines/DelayKt;
+ Lkotlinx/coroutines/Dispatchers;
+$Lkotlinx/coroutines/InterruptibleKt;
+%Lkotlinx/coroutines/Job$DefaultImpls;
+Lkotlinx/coroutines/Job;
+Lkotlinx/coroutines/JobKt;
+,Lkotlinx/coroutines/MainCoroutineDispatcher;
+#Lkotlinx/coroutines/NonCancellable;
+!Lkotlinx/coroutines/SupervisorKt;
+Lkotlinx/coroutines/TimeoutKt;
+,Lkotlinx/coroutines/channels/BufferOverflow;
+%Lkotlinx/coroutines/channels/Channel;
+%Lkotlinx/coroutines/channels/Channel<
+'Lkotlinx/coroutines/channels/ChannelKt;
++Lkotlinx/coroutines/channels/ChannelResult;
+9Lkotlinx/coroutines/channels/ReceiveChannel$DefaultImpls;
+,Lkotlinx/coroutines/channels/ReceiveChannel;
+ Lkotlinx/coroutines/flow/FlowKt;
+*Lkotlinx/coroutines/flow/MutableStateFlow;
+*Lkotlinx/coroutines/flow/MutableStateFlow<
+#Lkotlinx/coroutines/flow/StateFlow;
+#Lkotlinx/coroutines/flow/StateFlow<
+%Lkotlinx/coroutines/flow/StateFlowKt;
+ZLocal Bluetooth address requires Root read; allow KernelSU prompt; fixed read-only command
+'Local Bluetooth identity source=adapter
+4Local Bluetooth identity source=root-secure-settings
+OLocal Bluetooth identity source=saved-address; hardware-verified=false; device=
+/Local Bluetooth identity source=secure-settings
+LocalBluetoothIdentity.kt
+Log policy: persistent export <=4.5 MiB plus headers; attempt beginning + recent tail; binary previews bounded; routine feedback sampled. Wi-Fi credentials and exception stacks retained.
+MANUFACTURER
+MEMORY_LIMIT
+MODEL
+MainActivity.kt
+MaterialTheme
+MutableStateFlow
+NATIVE_HOOK_ID
+Native Hook 
+180 
+Native Hook 
+Native Hook 
+Native Hook: 
+Native mode control failed: 
+Native mode request modify=
+,Native mode reset before SDP cleanup result=
+NativeHookControl.kt
+NativeHookLogReader.kt
+NativeHookReply(mode=
+9Next-round RFCOMM connect timeout=20000ms; closing socket
+TNo Hook log lines found; check module scope/loading; this does not prove EIR absence
+1NowPlaying 
+,Outbound accessory RFCOMM; secure SDP lookup
+OutlinedButton
+OutlinedTextField
+PHONE_EIR_UUID
+PHONE_UUID
+PaddingValues-0680j_4
+IPersistent phone pairing identity prepared before RFCOMM; no key rotation
+.RFCOMM connect timeout=20000ms; closing socket
+"RFCOMM connected actual-direction=
+RFCOMM inbound accepted peer=
+RFCOMM inbound ignored peer=
+|RFCOMM outbound establishment failed before iAP2; automatic direction fallback to car-initiated transport for selected-peer=
+RFCOMM target service=
+ROOT
+`Requesting system discoverability duration=300s; this is the Bluetooth visibility consent dialog
+Required value was null.
+2Root Hook log read skipped: system assist disabled
+Root log command exit=
+Root 
+SDK_INT
+SDP result: accessory=
+SECONDS
+SENSITIVE DIAGNOSTICS: contains Wi-Fi SSID/password, device identifiers and public protocol payloads. Local private/session keys are not logged.
+SHA-256
+SMAP
+Comparisons.kt
+Kotlin
+*S Kotlin
++ 1 Comparisons.kt
+kotlin/comparisons/ComparisonsKt__ComparisonsKt$compareByDescending$1
++ 2 Diagnostics.kt
+io/github/iamr0s/carplay/Diagnostics
+1#1,328:1
+107#2:329
+SMAP
+ConnectionService.kt
+Kotlin
+*S Kotlin
++ 1 ConnectionService.kt
+io/github/iamr0s/carplay/ConnectionService
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,340:1
+1#2:341
+SMAP
+ConnectionService.kt
+Kotlin
+*S Kotlin
++ 1 ConnectionService.kt
+io/github/iamr0s/carplay/ConnectionService$onStartCommand$4
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,340:1
+1#2:341
+SMAP
+ConnectionService.kt
+Kotlin
+*S Kotlin
++ 1 ConnectionService.kt
+io/github/iamr0s/carplay/ConnectionService$onStartCommand$4$connected$timeout$1
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,340:1
+1#2:341
+SMAP
+ConnectionService.kt
+Kotlin
+*S Kotlin
++ 1 ConnectionService.kt
+io/github/iamr0s/carplay/ConnectionService$onStartCommand$4$timeout$1
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,340:1
+1#2:341
+SMAP
+ConnectionService.kt
+Kotlin
+*S Kotlin
++ 1 ConnectionService.kt
+io/github/iamr0s/carplay/ConnectionService$runWireless$2
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,340:1
+1#2:341
+SMAP
+ConnectionService.kt
+Kotlin
+*S Kotlin
++ 1 ConnectionService.kt
+io/github/iamr0s/carplay/ConnectionService$runWireless$2$lost$1
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,340:1
+1#2:341
+SMAP
+DiagnosticFiles.kt
+Kotlin
+*S Kotlin
++ 1 DiagnosticFiles.kt
+io/github/iamr0s/carplay/DiagnosticFiles
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
++ 3 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
+1#1,73:1
+1#2:74
+1869#3,2:75
+774#3:77
+865#3,2:78
+1869#3,2:80
+*S KotlinDebug
++ 1 DiagnosticFiles.kt
+io/github/iamr0s/carplay/DiagnosticFiles
+23#1:75,2
+66#1:77
+66#1:78,2
+66#1:80,2
+SMAP
+Diagnostics.kt
+Kotlin
+*S Kotlin
++ 1 Diagnostics.kt
+io/github/iamr0s/carplay/Diagnostics
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
++ 3 _Strings.kt
+kotlin/text/StringsKt___StringsKt
++ 4 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
++ 5 _Sequences.kt
+kotlin/sequences/SequencesKt___SequencesKt
+1#1,149:1
+1#2:150
+1179#3,2:151
+1878#4,3:153
+1869#4,2:158
+1869#4,2:160
+1563#4:162
+1634#4,3:163
+295#4,2:166
+827#4:168
+855#4,2:169
+1068#4:171
+1321#5,2:156
+*S KotlinDebug
++ 1 Diagnostics.kt
+io/github/iamr0s/carplay/Diagnostics
+79#1:151,2
+91#1:153,3
+130#1:158,2
+59#1:160,2
+66#1:162
+66#1:163,3
+105#1:166,2
+106#1:168
+106#1:169,2
+107#1:171
+101#1:156,2
+vSMAP
+LazyDsl.kt
+Kotlin
+*S Kotlin
++ 1 LazyDsl.kt
+androidx/compose/foundation/lazy/LazyDslKt$items$1
+1#1,523:1
+vSMAP
+LazyDsl.kt
+Kotlin
+*S Kotlin
++ 1 LazyDsl.kt
+androidx/compose/foundation/lazy/LazyDslKt$items$2
+1#1,523:1
+vSMAP
+LazyDsl.kt
+Kotlin
+*S Kotlin
++ 1 LazyDsl.kt
+androidx/compose/foundation/lazy/LazyDslKt$items$3
+1#1,523:1
+SMAP
+LazyDsl.kt
+Kotlin
+*S Kotlin
++ 1 LazyDsl.kt
+androidx/compose/foundation/lazy/LazyDslKt$items$4
++ 2 MainActivity.kt
+io/github/iamr0s/carplay/MainActivity
++ 3 Composer.kt
+androidx/compose/runtime/ComposerKt
+1#1,523:1
+265#2:524
+272#2:531
+1128#3,6:525
+*S KotlinDebug
++ 1 MainActivity.kt
+io/github/iamr0s/carplay/MainActivity
+265#1:525,6
+SMAP
+LocalBluetoothIdentity.kt
+Kotlin
+*S Kotlin
++ 1 LocalBluetoothIdentity.kt
+io/github/iamr0s/carplay/LocalBluetoothIdentity$read$2
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,48:1
+1#2:49
+SMAP
+MainActivity.kt
+Kotlin
+*S Kotlin
++ 1 MainActivity.kt
+io/github/iamr0s/carplay/ComposableSingletons$MainActivityKt
++ 2 Composer.kt
+androidx/compose/runtime/ComposerKt
+1#1,575:1
+1128#2,6:576
+1128#2,6:582
+*S KotlinDebug
++ 1 MainActivity.kt
+io/github/iamr0s/carplay/ComposableSingletons$MainActivityKt
+253#1:576,6
+254#1:582,6
+ SMAP
+MainActivity.kt
+Kotlin
+*S Kotlin
++ 1 MainActivity.kt
+io/github/iamr0s/carplay/MainActivity
++ 2 SnapshotState.kt
+androidx/compose/runtime/SnapshotStateKt__SnapshotStateKt
++ 3 _Arrays.kt
+kotlin/collections/ArraysKt___ArraysKt
++ 4 ArraysJVM.kt
+kotlin/collections/ArraysKt__ArraysJVMKt
++ 5 fake.kt
+kotlin/jvm/internal/FakeKt
++ 6 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
++ 7 Composer.kt
+androidx/compose/runtime/ComposerKt
++ 8 Dp.kt
+androidx/compose/ui/unit/DpKt
++ 9 Column.kt
+androidx/compose/foundation/layout/ColumnKt
++ 10 Layout.kt
+androidx/compose/ui/layout/LayoutKt
++ 11 Composables.kt
+androidx/compose/runtime/ComposablesKt
++ 12 Row.kt
+androidx/compose/foundation/layout/RowKt
++ 13 Box.kt
+androidx/compose/foundation/layout/BoxKt
++ 14 LazyDsl.kt
+androidx/compose/foundation/lazy/LazyDslKt
+1#1,575:1
+85#2:576
+117#2,2:577
+85#2:579
+117#2,2:580
+85#2:582
+117#2,2:583
+85#2:585
+117#2,2:586
+85#2:588
+117#2,2:589
+85#2:591
+117#2,2:592
+85#2:611
+85#2:612
+117#2,2:613
+85#2:615
+85#2:616
+117#2,2:617
+85#2:619
+117#2,2:620
+85#2:622
+117#2,2:623
+85#2:625
+117#2,2:626
+85#2:628
+117#2,2:629
+85#2:820
+117#2,2:821
+12434#3,2:594
+12637#3,2:600
+12434#3,2:605
+12434#3,2:609
+37#4:596
+36#4,3:597
+1#5:602
+1869#6,2:603
+1869#6,2:607
+1869#6:710
+1870#6:717
+1869#6:755
+1870#6:762
+1128#7,6:631
+1128#7,6:637
+1128#7,6:711
+1128#7,6:756
+1128#7,6:800
+1128#7,6:810
+1128#7,6:823
+1128#7,6:829
+1128#7,6:835
+1128#7,6:841
+1128#7,6:881
+1128#7,6:887
+1128#7,6:926
+1128#7,6:932
+1128#7,6:946
+1128#7,6:952
+1128#7,6:958
+1128#7,6:964
+1128#7,6:970
+1128#7,6:1027
+1128#7,6:1033
+1128#7,6:1039
+1128#7,6:1045
+1128#7,6:1051
+1128#7,6:1057
+1128#7,6:1063
+1128#7,6:1069
+1128#7,6:1075
+1128#7,6:1081
+1128#7,6:1087
+1128#7,6:1093
+1128#7,6:1099
+122#8:643
+122#8:847
+122#8:1025
+122#8:1026
+87#9:644
+83#9,10:645
+94#9:819
+81#10,6:655
+88#10,6:670
+81#10,6:688
+88#10,6:703
+96#10:720
+81#10,6:733
+88#10,6:748
+96#10:765
+81#10,6:778
+88#10,6:793
+96#10:808
+96#10:818
+81#10,6:859
+88#10,6:874
+81#10,6:904
+88#10,6:919
+96#10:940
+96#10:944
+81#10,6:986
+88#10,6:1001
+96#10:1010
+391#11,9:661
+400#11:676
+391#11,9:694
+400#11:709
+401#11,2:718
+391#11,9:739
+400#11:754
+401#11,2:763
+391#11,9:784
+400#11:799
+401#11,2:806
+401#11,2:816
+391#11,9:865
+400#11:880
+391#11,9:910
+400#11:925
+401#11,2:938
+401#11,2:942
+391#11,9:992
+400#11,3:1007
+99#12:677
+95#12,10:678
+106#12:721
+99#12:722
+95#12,10:723
+106#12:766
+99#12:767
+95#12,10:768
+106#12:809
+99#12:848
+95#12,10:849
+106#12:945
+70#13:893
+66#13,10:894
+77#13:941
+70#13:976
+67#13,9:977
+77#13:1011
+168#14,13:1012
+*S KotlinDebug
++ 1 MainActivity.kt
+io/github/iamr0s/carplay/MainActivity
+51#1:576
+51#1:577,2
+52#1:579
+52#1:580,2
+53#1:582
+53#1:583,2
+54#1:585
+54#1:586,2
+55#1:588
+55#1:589,2
+56#1:591
+56#1:592,2
+147#1:611
+155#1:612
+155#1:613,2
+156#1:615
+157#1:616
+157#1:617,2
+158#1:619
+158#1:620,2
+159#1:622
+159#1:623,2
+160#1:625
+160#1:626,2
+161#1:628
+161#1:629,2
+198#1:820
+198#1:821,2
+118#1:594,2
+286#1:600,2
+387#1:605,2
+61#1:609,2
+123#1:596
+123#1:597,3
+290#1:603,2
+461#1:607,2
+173#1:710
+173#1:717
+175#1:755
+175#1:762
+180#1:631,6
+191#1:637,6
+173#1:711,6
+175#1:756,6
+176#1:800,6
+177#1:810,6
+206#1:823,6
+215#1:829,6
+233#1:835,6
+241#1:841,6
+228#1:881,6
+229#1:887,6
+231#1:926,6
+232#1:932,6
+251#1:946,6
+252#1:952,6
+255#1:958,6
+256#1:964,6
+259#1:970,6
+224#1:1027,6
+148#1:1033,6
+155#1:1039,6
+157#1:1045,6
+158#1:1051,6
+159#1:1057,6
+160#1:1063,6
+161#1:1069,6
+163#1:1075,6
+198#1:1081,6
+199#1:1087,6
+203#1:1093,6
+217#1:1099,6
+170#1:643
+227#1:847
+223#1:1025
+224#1:1026
+170#1:644
+170#1:645,10
+170#1:819
+170#1:655,6
+170#1:670,6
+173#1:688,6
+173#1:703,6
+173#1:720
+175#1:733,6
+175#1:748,6
+175#1:765
+176#1:778,6
+176#1:793,6
+176#1:808
+170#1:818
+227#1:859,6
+227#1:874,6
+230#1:904,6
+230#1:919,6
+230#1:940
+227#1:944
+274#1:986,6
+274#1:1001,6
+274#1:1010
+170#1:661,9
+170#1:676
+173#1:694,9
+173#1:709
+173#1:718,2
+175#1:739,9
+175#1:754
+175#1:763,2
+176#1:784,9
+176#1:799
+176#1:806,2
+170#1:816,2
+227#1:865,9
+227#1:880
+230#1:910,9
+230#1:925
+230#1:938,2
+227#1:942,2
+274#1:992,9
+274#1:1007,3
+173#1:677
+173#1:678,10
+173#1:721
+175#1:722
+175#1:723,10
+175#1:766
+176#1:767
+176#1:768,10
+176#1:809
+227#1:848
+227#1:849,10
+227#1:945
+230#1:893
+230#1:894,10
+230#1:941
+274#1:976
+274#1:977,9
+274#1:1011
+264#1:1012,13
+SMAP
+MainActivity.kt
+Kotlin
+*S Kotlin
++ 1 MainActivity.kt
+io/github/iamr0s/carplay/MainActivity$onCreate$1$1$1$11$1$1
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,575:1
+1#2:576
+SMAP
+MainActivity.kt
+Kotlin
+*S Kotlin
++ 1 MainActivity.kt
+io/github/iamr0s/carplay/MainActivity$onCreate$1$1$1$12$1$1$10$2
++ 2 Dp.kt
+androidx/compose/ui/unit/DpKt
++ 3 Column.kt
+androidx/compose/foundation/layout/ColumnKt
++ 4 Layout.kt
+androidx/compose/ui/layout/LayoutKt
++ 5 Composables.kt
+androidx/compose/runtime/ComposablesKt
+1#1,575:1
+122#2:576
+87#3:577
+84#3,9:578
+94#3:612
+81#4,6:587
+88#4,6:602
+96#4:611
+391#5,9:593
+400#5,3:608
+*S KotlinDebug
++ 1 MainActivity.kt
+io/github/iamr0s/carplay/MainActivity$onCreate$1$1$1$12$1$1$10$2
+266#1:576
+266#1:577
+266#1:578,9
+266#1:612
+266#1:587,6
+266#1:602,6
+266#1:611
+266#1:593,9
+266#1:608,3
+SMAP
+MainActivity.kt
+Kotlin
+*S Kotlin
++ 1 MainActivity.kt
+io/github/iamr0s/carplay/MainActivity$onCreate$1$1$1$12$1$1$2$1$3$3$1$1$1
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,575:1
+1#2:576
+SMAP
+MainActivity.kt
+Kotlin
+*S Kotlin
++ 1 MainActivity.kt
+io/github/iamr0s/carplay/MainActivity$receiver$1
++ 2 _Arrays.kt
+kotlin/collections/ArraysKt___ArraysKt
+1#1,575:1
+12637#2,2:576
+*S KotlinDebug
++ 1 MainActivity.kt
+io/github/iamr0s/carplay/MainActivity$receiver$1
+109#1:576,2
+SMAP
+MainActivity.kt
+Kotlin
+*S Kotlin
++ 1 MainActivity.kt
+io/github/iamr0s/carplay/MainActivity$startConnection$3
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,575:1
+1#2:576
+SMAP
+MainActivity.kt
+Kotlin
+*S Kotlin
++ 1 MainActivity.kt
+io/github/iamr0s/carplay/MainActivityKt
++ 2 CompositionLocal.kt
+androidx/compose/runtime/CompositionLocal
++ 3 Composer.kt
+androidx/compose/runtime/ComposerKt
++ 4 SnapshotState.kt
+androidx/compose/runtime/SnapshotStateKt__SnapshotStateKt
++ 5 Row.kt
+androidx/compose/foundation/layout/RowKt
++ 6 Layout.kt
+androidx/compose/ui/layout/LayoutKt
++ 7 Composables.kt
+androidx/compose/runtime/ComposablesKt
++ 8 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
++ 9 fake.kt
+kotlin/jvm/internal/FakeKt
++ 10 Box.kt
+androidx/compose/foundation/layout/BoxKt
++ 11 Dp.kt
+androidx/compose/ui/unit/DpKt
+1#1,575:1
+75#2:576
+1128#3,6:577
+1128#3,6:583
+1128#3,6:634
+1128#3,6:640
+1128#3,6:646
+1128#3,6:685
+1128#3,6:691
+1128#3,6:734
+1128#3,6:740
+1128#3,6:783
+1128#3,6:789
+1128#3,6:833
+1128#3,6:878
+1128#3,6:889
+1128#3,6:929
+1128#3,6:935
+1128#3,6:978
+1128#3,6:988
+1128#3,6:1032
+85#4:589
+85#4:590
+85#4:591
+117#4,2:592
+85#4:594
+117#4,2:595
+99#5:597
+95#5,10:598
+106#5:633
+99#5:652
+95#5,10:653
+106#5:700
+99#5:701
+95#5,10:702
+106#5:749
+99#5:750
+95#5,10:751
+106#5:798
+99#5:799
+95#5,10:800
+106#5:843
+99#5:844
+95#5,10:845
+106#5:888
+99#5:896
+95#5,10:897
+106#5:944
+99#5:945
+95#5,10:946
+106#5:987
+81#6,6:608
+88#6,6:623
+96#6:632
+81#6,6:663
+88#6,6:678
+96#6:699
+81#6,6:712
+88#6,6:727
+96#6:748
+81#6,6:761
+88#6,6:776
+96#6:797
+81#6,6:810
+88#6,6:825
+96#6:842
+81#6,6:855
+88#6,6:870
+96#6:887
+81#6,6:907
+88#6,6:922
+96#6:943
+81#6,6:956
+88#6,6:971
+96#6:986
+81#6,6:1004
+88#6,6:1019
+96#6:1028
+391#7,9:614
+400#7,3:629
+391#7,9:669
+400#7:684
+401#7,2:697
+391#7,9:718
+400#7:733
+401#7,2:746
+391#7,9:767
+400#7:782
+401#7,2:795
+391#7,9:816
+400#7:831
+401#7,2:840
+391#7,9:861
+400#7:876
+401#7,2:885
+391#7,9:913
+400#7:928
+401#7,2:941
+391#7,9:962
+400#7:977
+401#7,2:984
+391#7,9:1010
+400#7,3:1025
+1869#8:832
+1870#8:839
+1869#8:877
+1870#8:884
+1#9:895
+70#10:994
+67#10,9:995
+77#10:1029
+122#11:1030
+122#11:1031
+*S KotlinDebug
++ 1 MainActivity.kt
+io/github/iamr0s/carplay/MainActivityKt
+494#1:576
+498#1:577,6
+499#1:583,6
+506#1:634,6
+509#1:640,6
+516#1:646,6
+523#1:685,6
+530#1:691,6
+534#1:734,6
+535#1:740,6
+539#1:783,6
+540#1:789,6
+546#1:833,6
+547#1:878,6
+548#1:889,6
+558#1:929,6
+559#1:935,6
+562#1:978,6
+566#1:988,6
+502#1:1032,6
+496#1:589
+497#1:590
+498#1:591
+498#1:592,2
+499#1:594
+499#1:595,2
+503#1:597
+503#1:598,10
+503#1:633
+522#1:652
+522#1:653,10
+522#1:700
+533#1:701
+533#1:702,10
+533#1:749
+538#1:750
+538#1:751,10
+538#1:798
+546#1:799
+546#1:800,10
+546#1:843
+547#1:844
+547#1:845,10
+547#1:888
+557#1:896
+557#1:897,10
+557#1:944
+562#1:945
+562#1:946,10
+562#1:987
+503#1:608,6
+503#1:623,6
+503#1:632
+522#1:663,6
+522#1:678,6
+522#1:699
+533#1:712,6
+533#1:727,6
+533#1:748
+538#1:761,6
+538#1:776,6
+538#1:797
+546#1:810,6
+546#1:825,6
+546#1:842
+547#1:855,6
+547#1:870,6
+547#1:887
+557#1:907,6
+557#1:922,6
+557#1:943
+562#1:956,6
+562#1:971,6
+562#1:986
+569#1:1004,6
+569#1:1019,6
+569#1:1028
+503#1:614,9
+503#1:629,3
+522#1:669,9
+522#1:684
+522#1:697,2
+533#1:718,9
+533#1:733
+533#1:746,2
+538#1:767,9
+538#1:782
+538#1:795,2
+546#1:816,9
+546#1:831
+546#1:840,2
+547#1:861,9
+547#1:876
+547#1:885,2
+557#1:913,9
+557#1:928
+557#1:941,2
+562#1:962,9
+562#1:977
+562#1:984,2
+569#1:1010,9
+569#1:1025,3
+546#1:832
+546#1:839
+547#1:877
+547#1:884
+569#1:994
+569#1:995,9
+569#1:1029
+501#1:1030
+502#1:1031
+SMAP
+NativeHookControl.kt
+Kotlin
+*S Kotlin
++ 1 NativeHookControl.kt
+io/github/iamr0s/carplay/NativeHookControl$requestMode$2$1
++ 2 CancellableContinuation.kt
+kotlinx/coroutines/CancellableContinuationKt
++ 3 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,62:1
+426#2,9:63
+435#2,2:73
+1#3:72
+*S KotlinDebug
++ 1 NativeHookControl.kt
+io/github/iamr0s/carplay/NativeHookControl$requestMode$2$1
+25#1:63,9
+25#1:73,2
+SMAP
+NativeHookControl.kt
+Kotlin
+*S Kotlin
++ 1 NativeHookControl.kt
+io/github/iamr0s/carplay/NativeHookControl$requestMode$2$1$1$1
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,62:1
+1#2:63
+SMAP
+NativeHookControl.kt
+Kotlin
+*S Kotlin
++ 1 NativeHookControl.kt
+io/github/iamr0s/carplay/NativeHookControl$requestMode$2$1$1$receiver$1
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,62:1
+1#2:63
+SMAP
+NativeHookLogReader.kt
+Kotlin
+*S Kotlin
++ 1 NativeHookLogReader.kt
+io/github/iamr0s/carplay/NativeHookLogReader$readCommand$2$1
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,48:1
+1#2:49
+STACK[
+STATUS 
+.SYNC EXPERIMENT fresh transport accepted type=
+SYNC EXPERIMENT next-round waiting for NEW car-initiated RFCOMM; existing SDP channel retained; reconnect from car if it does not retry
+SYNC EXPERIMENT round=
+Saved Bluetooth address has locally-administered bit set; this alone is not invalid, but verify it was not copied from a randomized Wi-Fi MAC
+Saved address must match THIS phone's Bluetooth address in system settings, not Wi-Fi MAC, receiver MAC or another phone's address; format validation is not hardware verification
+Scaffold-TvnljyQ
+EScan unavailable; continuing with paired devices and inbound listener
+ASearching nearby devices; inbound iAP2 listener remains available
+SelectionContainer
+Service stopped
+(Session cancelled by lifecycle/user stop
+vStart requested: start inbound listener without discoverability dialog; discoverability is an explicit optional action
+Status: 
+SupervisorJob$default
++System assist disabled; Hook observe/reset=
+SystemAssist.kt
+TEST audio requested play=
+TEST inspect category=
+TestPanel
+TestPanel$lambda$0
+TestPanel$lambda$1
+TestPanel$lambda$3
+TestPanel$lambda$4
+TestPanel$lambda$6
+TestPanel$lambda$7
+TestPanel$lambda$90
+'TestPanel$lambda$90$lambda$89$lambda$88
+1TestPanel$lambda$90$lambda$89$lambda$88$lambda$10
+1TestPanel$lambda$90$lambda$89$lambda$88$lambda$13
+ETestPanel$lambda$90$lambda$89$lambda$88$lambda$13$lambda$12$lambda$11
+1TestPanel$lambda$90$lambda$89$lambda$88$lambda$17
+ETestPanel$lambda$90$lambda$89$lambda$88$lambda$17$lambda$16$lambda$15
+OTestPanel$lambda$90$lambda$89$lambda$88$lambda$17$lambda$16$lambda$15$lambda$14
+1TestPanel$lambda$90$lambda$89$lambda$88$lambda$21
+ETestPanel$lambda$90$lambda$89$lambda$88$lambda$21$lambda$20$lambda$19
+OTestPanel$lambda$90$lambda$89$lambda$88$lambda$21$lambda$20$lambda$19$lambda$18
+1TestPanel$lambda$90$lambda$89$lambda$88$lambda$28
+OTestPanel$lambda$90$lambda$89$lambda$88$lambda$28$lambda$27$lambda$24$lambda$23
+YTestPanel$lambda$90$lambda$89$lambda$88$lambda$28$lambda$27$lambda$24$lambda$23$lambda$22
+OTestPanel$lambda$90$lambda$89$lambda$88$lambda$28$lambda$27$lambda$26$lambda$25
+1TestPanel$lambda$90$lambda$89$lambda$88$lambda$30
+;TestPanel$lambda$90$lambda$89$lambda$88$lambda$30$lambda$29
+1TestPanel$lambda$90$lambda$89$lambda$88$lambda$36
+OTestPanel$lambda$90$lambda$89$lambda$88$lambda$36$lambda$35$lambda$32$lambda$31
+OTestPanel$lambda$90$lambda$89$lambda$88$lambda$36$lambda$35$lambda$34$lambda$33
+1TestPanel$lambda$90$lambda$89$lambda$88$lambda$42
+OTestPanel$lambda$90$lambda$89$lambda$88$lambda$42$lambda$41$lambda$38$lambda$37
+OTestPanel$lambda$90$lambda$89$lambda$88$lambda$42$lambda$41$lambda$40$lambda$39
+1TestPanel$lambda$90$lambda$89$lambda$88$lambda$43
+1TestPanel$lambda$90$lambda$89$lambda$88$lambda$44
+1TestPanel$lambda$90$lambda$89$lambda$88$lambda$50
+YTestPanel$lambda$90$lambda$89$lambda$88$lambda$50$lambda$49$lambda$48$lambda$46$lambda$45
+OTestPanel$lambda$90$lambda$89$lambda$88$lambda$50$lambda$49$lambda$48$lambda$47
+1TestPanel$lambda$90$lambda$89$lambda$88$lambda$56
+YTestPanel$lambda$90$lambda$89$lambda$88$lambda$56$lambda$55$lambda$54$lambda$52$lambda$51
+OTestPanel$lambda$90$lambda$89$lambda$88$lambda$56$lambda$55$lambda$54$lambda$53
+1TestPanel$lambda$90$lambda$89$lambda$88$lambda$59
+ETestPanel$lambda$90$lambda$89$lambda$88$lambda$59$lambda$58$lambda$57
+1TestPanel$lambda$90$lambda$89$lambda$88$lambda$60
+1TestPanel$lambda$90$lambda$89$lambda$88$lambda$61
+1TestPanel$lambda$90$lambda$89$lambda$88$lambda$64
+;TestPanel$lambda$90$lambda$89$lambda$88$lambda$64$lambda$63
+1TestPanel$lambda$90$lambda$89$lambda$88$lambda$70
+OTestPanel$lambda$90$lambda$89$lambda$88$lambda$70$lambda$69$lambda$66$lambda$65
+OTestPanel$lambda$90$lambda$89$lambda$88$lambda$70$lambda$69$lambda$68$lambda$67
+1TestPanel$lambda$90$lambda$89$lambda$88$lambda$71
+1TestPanel$lambda$90$lambda$89$lambda$88$lambda$77
+OTestPanel$lambda$90$lambda$89$lambda$88$lambda$77$lambda$76$lambda$73$lambda$72
+OTestPanel$lambda$90$lambda$89$lambda$88$lambda$77$lambda$76$lambda$75$lambda$74
+1TestPanel$lambda$90$lambda$89$lambda$88$lambda$79
+;TestPanel$lambda$90$lambda$89$lambda$88$lambda$79$lambda$78
+1TestPanel$lambda$90$lambda$89$lambda$88$lambda$82
+ETestPanel$lambda$90$lambda$89$lambda$88$lambda$82$lambda$81$lambda$80
+1TestPanel$lambda$90$lambda$89$lambda$88$lambda$84
+;TestPanel$lambda$90$lambda$89$lambda$88$lambda$84$lambda$83
+1TestPanel$lambda$90$lambda$89$lambda$88$lambda$87
+ETestPanel$lambda$90$lambda$89$lambda$88$lambda$87$lambda$86$lambda$85
+0TestPanel$lambda$90$lambda$89$lambda$88$lambda$9
+TestPanel$lambda$91
+TestState(connected=
+Testing.kt
+Text-Nvy7gAk
+TextButton
+%Transport interrupted by local stop; 
+UI options source=
+UTF-8
+UTF_8
+VERSION_CODE
+VERSION_NAME
+VIIIL
+VILLL
+VILLLLI
+VILLLZ
+VILLLZIL
+VLBIIIL
+VLII
+VLIIIL
+VLIL
+VLILI
+VLLI
+VLLIL
+VLLJLJLLLJLLJIZIILLLIII
+VLLL
+VLLLI
+VLLLII
+VLLLIL
+VLLLL
+VLLLLIL
+VLLLLL
+VLLLLLI
+VLLLLLII
+VLLLLLIJJLLLII
+VLLLLLIL
+VLLLLLL
+VLLLLLLL
+VLLLLLLLLJJJJFLLIII
+VLLLLLZLLLLII
+VLLLZLLLZLLLII
+VLLLZZLLLLLLLLZLLLZIILLLLIIII
+VLLZLLLLIL
+VLLZLLLLLLLII
+VLLZLLLLLLLLII
+VLLZLZLIL
+VLLZZ
+VLLZZLLZZ
+VLLZZLLZZIL
+VLLZZZZLZZIL
+VLZL
+VZIIIDLLLLLLLLZLZZZIIIL
+VZIIIDLLLLLLLLZLZZZIIILIL
+VZLLII
+VZLLJLLLJFFLLLIII
+VZLLZLLLII
+VZLLZZZL
+Vertical
+'Video test options saved requested-fps=
+KWaiting for Bluetooth enablement; inbound connection resumes after enabling
+LWaiting for Bluetooth permissions; inbound connection resumes after granting
+(Wi-Fi configuration queue exceeded bound
+eWireless experiment enabled; MFi trust-chain verification NOT provisioned; signatures still mandatory
+ZLLZ
+ZLLZIL
+ZZ)V
+ZZZIII
+ZZZZ
+[Hook log output limited
+[Landroid/os/ParcelUuid;
+[Ljava/io/File;
+[Ljava/lang/Integer;
+[Ljava/lang/Object;
+[Ljava/lang/String;
+\u%04x
+accept
+acceptPeer
+acceptPeer$lambda$3
+acceptPeer$lambda$5
+accepted
+access$TestPanel
+access$acceptPeer
+access$applyNativeMode
+access$closeTransport
+access$collectNativeHookLogs
+access$getACCESSORY_UUID$cp
+access$getCarDiscovery$p
+access$getCarNetwork$p
+access$getDestroyed$p
+access$getExport$p
+access$getLock$p
+access$getPHONE_EIR_UUID$cp
+access$getPHONE_UUID$cp
+access$getRunning
+access$getScanPending
+access$getScope$p
+access$getScreenSession$p
+access$getServer$p
+access$getSocket$p
+access$getStopRequested$p
+access$hasPermissions
+:access$onCreate$lambda$120$lambda$119$lambda$118$lambda$13
+:access$onCreate$lambda$120$lambda$119$lambda$118$lambda$61
+access$readCommand
+access$rememberDevice
+access$runWireless
+access$scan
+access$selectDevice
+access$setAttemptFinished$p
+access$setCarDiscovery$p
+access$setCarNetwork$p
+access$setIdentityServer$p
+access$setScanPending
+access$setScreenSession$p
+access$setServer$p
+access$setSocket$p
+access$startConnection
+access$valid
+accessFlags
+accessory
+actualFps
+actualModify
+adapter
+addAction
+addLast
+additions
+address
+advertisedEndpoint
+allowRoot
+3android.bluetooth.adapter.action.DISCOVERY_FINISHED
+2android.bluetooth.adapter.action.DISCOVERY_STARTED
+5android.bluetooth.adapter.action.REQUEST_DISCOVERABLE
+/android.bluetooth.adapter.action.REQUEST_ENABLE
+5android.bluetooth.adapter.extra.DISCOVERABLE_DURATION
+2android.bluetooth.device.action.BOND_STATE_CHANGED
+%android.bluetooth.device.action.FOUND
+$android.bluetooth.device.action.UUID
+%android.bluetooth.device.extra.DEVICE
+)android.permission.ACCESS_COARSE_LOCATION
+'android.permission.ACCESS_FINE_LOCATION
+'android.permission.ACCESS_LOCAL_NETWORK
+&android.permission.BLUETOOTH_ADVERTISE
+$android.permission.BLUETOOTH_CONNECT
+!android.permission.BLUETOOTH_SCAN
+&android.permission.NEARBY_WIFI_DEVICES
+"android.settings.panel.action.WIFI
+Candroidx.compose.foundation.lazy.items.<anonymous> (LazyDsl.kt:178)
+apiLevel
+app\3
+append
+apply
+applyNativeMode
+applyNativeMode$lambda$130
+areEqual
+asReversedMutable
+asStateFlow
+assistOption
+assistOption$delegate
+async$default
+attach
+attemptFinished
+attemptProfile
+audio
+audioPlaying
+audioRequest
+audioTest
+)authentication->wifi->airplay->test-video
+await
+begin
+beginRunning
+beginning
+bind
+bind$lambda$6
+bindAudio
+bindDesktopSource
+bindMicrophone
+bindSource
+bindUi
+block
+bluetooth
+bluetooth-address
+bluetoothAddress
+bluetoothAddress$delegate
+bluetooth_address
+booleanValue
+bootstrap
+boxBoolean
+boxInt
+bridge
+bridgeKeysReady
+buffer
+buffer\2
+build
+byteValue
+bytes
+bytes$lambda$13$lambda$12
+bytes(
+bytes\1
+bytes\3
+/call to 'resume' before 'invoke' with coroutine
+cancel$default
+cancelAndJoin
+cancelDiscovery
+cancellable\2
+cancelled
+carDiscovery
+carNetwork
+carWith
+carplay-diagnostics.txt
+carplay-xiaomi-carlife
+category
+catplay-bluetooth-link-only
+certificate-only->local-close
+changed
+changedInstance
+charAt
+character\3
+checkNotNull
+checkNotNullExpressionValue
+checkNotNullParameter
+checkRadix
+checkSelfPermission
+chunk\2
+chunked
+clear
+close
+closeFinally
+closeTransport
+cluster
+coerceAtMost
+collectAsStateWithLifecycle
+collectNativeHookLogs
+ collectNativeHookLogs$lambda$131
+ collectNativeHookLogs$lambda$132
+ collectNativeHookLogs$lambda$134
+collectionSizeOrDefault
+columnMeasurePolicy
+com.android.bluetooth
+com.baidu.carlife.xiaomi
+command
+compare
+compareValues
+component1
+component10
+component11
+component12
+component13
+component14
+component15
+component16
+component17
+component18
+component19
+component2
+component20
+component21
+component22
+component3
+component4
+component5
+component6
+component7
+component8
+component9
+composableLambdaInstance
+composeDesktop
+composeDesktop$lambda$0
+composeDesktop$lambda$1
+compositeKeyHash\15
+compositeKeyHash\2
+compositeKeyHash\20
+compositeKeyHash\3
+compositeKeyHash\31
+compositeKeyHash\9
+config
+configs
+confirmIdentityRebuild
+confirmIdentityRebuild$delegate
+connect
+connectReceiver
+connected
+connecting
+connection
+connection-list
+connection-log
+connection.log
+connection.previous.log
+connection.start.log
+connectionStart
+constructor-impl
+consume
+contains
+contains$default
+contentAlignment\1
+contentAlignment\14
+contentType\1
+context
+continuation\3
+continuous
+continuousWait
+copy
+copy$default
+copyOf
+copyOf(...)
+copyTo$default
+coroutineScope
+count
+count\1
+count\2
+create
+createFailure
+createListBuilder
+createNode
+createNotificationChannel
+!createRfcommSocketToServiceRecord
+current
+currentAddresses
+"currentAddresses()Ljava/util/List;
+currentBytes
+darkColorScheme-_VG5OTI$default
+deadline
+debug
+delay
+delete
+descendingIterator
+describe
+describe$lambda$1
+description
+desktop
+desktop$lambda$7
+desktop$lambda$8
+desktopSourceRequest
+destination\2
+destination\4
+destination\5
+destroy
+destroyed
+device
+device$lambda$19
+device\1
+devices
+diagnostics
+diagnostics$delegate
+digest
+digest(...)
+directory
+disconnect
+disconnect$lambda$9
+discoverable
+discoverable$lambda$5
+discovery
+edit
+eirIdentityExperiment
+eirIdentityExperiment$delegate
+element
+element\1
+element\14
+element\2
+element\25
+element\3
+element\4
+element\7
+emptyList
+enable
+enableBluetooth
+enableBluetooth$lambda$4
+enableWifi
+enableWifi$lambda$2
+enabled
+endNode
+endReplaceGroup
+endRestartGroup
+endpoint
+ensureActive
+entrySet
+entry\1
+entry\3
+equals
+error
+error\3
+event
+exceptionOrNull-impl
+exists
+exitValue
+expected
+experiment
+explicit-allow-car-discovery
+export
+export$lambda$9
+exportHeader
+factory\10
+factory\16
+factory\21
+factory\3
+factory\32
+factory\4
+failure
+failure$lambda$14
+fields
+fields$lambda$7
+fields$lambda$8
+fields$lambda$9
+file
+file\5
+files
+fill$default
+fillMaxSize$default
+fillMaxWidth$default
+filter
+filter\3
+flags
+flush
+format
+format(...)
+fps$delegate
+fps\15
+fromString
+fromString(...)
+getACCESSORY_UUID
+getAccessory
+getAccessoryInitiates
+getAction
+getActive
+getActivity
+getActualFps
+getAdapter
+getAddress
+getAddress(...)
+getAndSet
+getApplicationContext
+getApplicationContext(...)
+getApplier
+"getApplyOnDeactivatedNodeAssertion
+getAudio
+getAudioPlaying
+getAudioTest
+getBodySmall
+getBondState
+getBondedDevices
+getBoolean
+getBooleanExtra
+getBridge
+getBridgeKeysReady
+getBuild
+getBytes
+getBytes(...)
+getCOROUTINE_SUSPENDED
+getCarWith
+getClass
+getComposeDesktop
+getConnected
+getConnecting
+getConnectionRounds
+getConnectionType
+getConstructor
+getContentResolver
+getCurrentCompositeKeyHashCode
+getCurrentCompositionLocalMap
+getDevices
+getEirIdentityExperiment
+getEmpty
+getErrorStream
+getFilePointer
+getFilesDir
+getFirst
+getFps
+getHeadlineMedium
+getHeight
+getHfpActive
+getHfpRevision
+getHid
+getHookReading
+getHookStatus
+getHost
+getHostAddress
+getIO
+getId
+getImmediate
+getImplementationId
+getInputStream
+getInputStream(...)
+getInserting
+getInstance
+getIntExtra
+getInterfaceIndex
+getKey
+getKeys
+getLabel
+*getLambda$-10044890$carplay_xiaomi_carlife
+,getLambda$-1096215846$carplay_xiaomi_carlife
+,getLambda$-1185031089$carplay_xiaomi_carlife
++getLambda$-119606767$carplay_xiaomi_carlife
+,getLambda$-1274366432$carplay_xiaomi_carlife
+,getLambda$-1278463410$carplay_xiaomi_carlife
+,getLambda$-1305389869$carplay_xiaomi_carlife
+,getLambda$-1717768517$carplay_xiaomi_carlife
+,getLambda$-1754943255$carplay_xiaomi_carlife
+,getLambda$-1798922770$carplay_xiaomi_carlife
+,getLambda$-1808766843$carplay_xiaomi_carlife
+,getLambda$-1920894486$carplay_xiaomi_carlife
+,getLambda$-2015930284$carplay_xiaomi_carlife
+,getLambda$-2016231956$carplay_xiaomi_carlife
+,getLambda$-2037464484$carplay_xiaomi_carlife
++getLambda$-208071980$carplay_xiaomi_carlife
+,getLambda$-2125706862$carplay_xiaomi_carlife
++getLambda$-271111952$carplay_xiaomi_carlife
++getLambda$-327621213$carplay_xiaomi_carlife
+*getLambda$-35930561$carplay_xiaomi_carlife
++getLambda$-378815824$carplay_xiaomi_carlife
++getLambda$-475172605$carplay_xiaomi_carlife
++getLambda$-504216157$carplay_xiaomi_carlife
++getLambda$-506210131$carplay_xiaomi_carlife
++getLambda$-609276994$carplay_xiaomi_carlife
++getLambda$-651178849$carplay_xiaomi_carlife
+*getLambda$-72163238$carplay_xiaomi_carlife
+*getLambda$-72246450$carplay_xiaomi_carlife
++getLambda$-886277028$carplay_xiaomi_carlife
++getLambda$-887015893$carplay_xiaomi_carlife
++getLambda$-913206415$carplay_xiaomi_carlife
++getLambda$1035876818$carplay_xiaomi_carlife
++getLambda$1055451412$carplay_xiaomi_carlife
++getLambda$1198885877$carplay_xiaomi_carlife
++getLambda$1202677196$carplay_xiaomi_carlife
++getLambda$1380383621$carplay_xiaomi_carlife
++getLambda$1437775375$carplay_xiaomi_carlife
++getLambda$1481194469$carplay_xiaomi_carlife
++getLambda$1529361505$carplay_xiaomi_carlife
+*getLambda$155665329$carplay_xiaomi_carlife
+*getLambda$162851729$carplay_xiaomi_carlife
++getLambda$1636640877$carplay_xiaomi_carlife
++getLambda$1672873554$carplay_xiaomi_carlife
++getLambda$1848709147$carplay_xiaomi_carlife
+*getLambda$187524050$carplay_xiaomi_carlife
++getLambda$2104079883$carplay_xiaomi_carlife
++getLambda$2133027757$carplay_xiaomi_carlife
+*getLambda$306208270$carplay_xiaomi_carlife
+*getLambda$361717231$carplay_xiaomi_carlife
+*getLambda$413683511$carplay_xiaomi_carlife
+*getLambda$649720367$carplay_xiaomi_carlife
+*getLambda$750924522$carplay_xiaomi_carlife
+*getLambda$765164069$carplay_xiaomi_carlife
+*getLambda$821868108$carplay_xiaomi_carlife
+*getLambda$858842976$carplay_xiaomi_carlife
+*getLambda$986022701$carplay_xiaomi_carlife
+getLastIndex
+getLaunchIntentForPackage
+getLifecycleScope
+getLocalAddress
+getLocalAddress(...)
+getLocalContext
+getLocalOverscrollFactory
+getLogs
+getLost
+getMain
+getMessage
+getMode
+getName
+getNativeHeight
+getNativeHookModify
+getNativeWidth
+getOnConnectionEnded
+getOnConnectionReady
+getOnStopRequested
+getOutputStream
+getOutputStream(...)
+getPHONE_EIR_UUID
+getPHONE_UUID
+getPackageManager
+getPackageName
+getPaired
+getParcelableExtra
+getPassword
+getPort
+getProtocol
+getReceiver
+getReceiverFps
+getReferenceHandshake
+getRemoteDevice
+getResult
+getResultCode
+getRotations
+getRunning
+getScale
+getScanMode
+getScanPending
+getScanning
+getSecond
+getSeed
+getSentFromPackage
+getSentFromUid
+getService
+getSetCompositeKeyHash
+getSetMeasurePolicy
+getSetModifier
+getSetResolvedCompositionLocals
+getSharedPreferences
+getSimpleName
+getSsid
+getStart
+getState
+getStatus
+getString
+getStringExtra
+getSystemService
+getTitleLarge
+getTitleMedium
+getTop
+getTopStart
+getTouch
+getTransport
+getTypography
+getUuid
+getUuids
+getValue
+getVideoOptions
+getWaitingForPeer
+getWidth
+getWirelessExperiment
+ hangsheng-responder-then-generic
+hasNext
+hasPermissions
+hash
+hash$lambda$0
+hashCode
+height
+hfp-active
+hfp-revision
+hfpActive
+hfpRevision
+holder
+home
+hookLease
+hookReading
+hookStatus
+horizontalAlignment\2
+horizontalArrangement\1
+horizontalArrangement\19
+horizontalArrangement\2
+horizontalArrangement\30
+horizontalArrangement\8
+horizontalScroll$default
+(iAP2 listener unavailable for next round
+iap2
+ic_app
+identity
+identityServer
+idle
+implementation-id
+implementationId
+inbound
+inboundMode
+index
+index\1
+index\2
+init-impl
+initCancellability
+initial
+initialControl
+input\1
+inspect
+inspect$lambda$13
+intValue
+intent
+intercepted
+invalidApplier
+invalid\1
+invalid\10
+invalid\11
+invalid\13
+invalid\16
+invalid\19
+invalid\2
+invalid\20
+invalid\22
+invalid\23
+invalid\25
+invalid\27
+invalid\28
+invalid\3
+invalid\31
+invalid\34
+invalid\36
+invalid\37
+invalid\39
+invalid\4
+invalid\5
+invalid\7
+invalid\8
+invalid\9
+invoke
+invokeOnCancellation
+invokeSuspend
+invokeSuspend$lambda$0
+invokeSuspend$lambda$1
+invokeSuspend$lambda$12
+invokeSuspend$lambda$3
+invokeSuspend$lambda$5
+invokeSuspend$lambda$6
+invokeSuspend$openInbound
+invokeSuspend$remember
+oio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$-10044890.<anonymous> (MainActivity.kt:254)
+qio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$-1096215846.<anonymous> (MainActivity.kt:232)
+qio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$-1185031089.<anonymous> (MainActivity.kt:251)
+pio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$-119606767.<anonymous> (MainActivity.kt:565)
+qio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$-1274366432.<anonymous> (MainActivity.kt:261)
+qio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$-1278463410.<anonymous> (MainActivity.kt:214)
+qio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$-1305389869.<anonymous> (MainActivity.kt:203)
+qio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$-1717768517.<anonymous> (MainActivity.kt:177)
+qio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$-1754943255.<anonymous> (MainActivity.kt:561)
+qio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$-1798922770.<anonymous> (MainActivity.kt:507)
+qio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$-1808766843.<anonymous> (MainActivity.kt:547)
+qio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$-1920894486.<anonymous> (MainActivity.kt:168)
+qio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$-2015930284.<anonymous> (MainActivity.kt:502)
+qio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$-2016231956.<anonymous> (MainActivity.kt:563)
+qio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$-2037464484.<anonymous> (MainActivity.kt:276)
+pio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$-208071980.<anonymous> (MainActivity.kt:204)
+qio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$-2125706862.<anonymous> (MainActivity.kt:558)
+pio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$-271111952.<anonymous> (MainActivity.kt:567)
+pio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$-327621213.<anonymous> (MainActivity.kt:189)
+oio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$-35930561.<anonymous> (MainActivity.kt:557)
+pio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$-378815824.<anonymous> (MainActivity.kt:252)
+pio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$-475172605.<anonymous> (MainActivity.kt:240)
+pio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$-504216157.<anonymous> (MainActivity.kt:224)
+pio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$-506210131.<anonymous> (MainActivity.kt:564)
+pio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$-609276994.<anonymous> (MainActivity.kt:252)
+pio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$-651178849.<anonymous> (MainActivity.kt:514)
+oio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$-72163238.<anonymous> (MainActivity.kt:538)
+oio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$-72246450.<anonymous> (MainActivity.kt:551)
+pio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$-886277028.<anonymous> (MainActivity.kt:505)
+pio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$-887015893.<anonymous> (MainActivity.kt:533)
+pio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$-913206415.<anonymous> (MainActivity.kt:543)
+pio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$1035876818.<anonymous> (MainActivity.kt:529)
+pio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$1055451412.<anonymous> (MainActivity.kt:534)
+pio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$1198885877.<anonymous> (MainActivity.kt:253)
+pio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$1202677196.<anonymous> (MainActivity.kt:549)
+pio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$1380383621.<anonymous> (MainActivity.kt:528)
+pio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$1437775375.<anonymous> (MainActivity.kt:552)
+pio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$1481194469.<anonymous> (MainActivity.kt:253)
+pio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$1529361505.<anonymous> (MainActivity.kt:272)
+oio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$155665329.<anonymous> (MainActivity.kt:228)
+oio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$162851729.<anonymous> (MainActivity.kt:554)
+pio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$1636640877.<anonymous> (MainActivity.kt:536)
+pio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$1672873554.<anonymous> (MainActivity.kt:555)
+pio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$1848709147.<anonymous> (MainActivity.kt:256)
+oio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$187524050.<anonymous> (MainActivity.kt:561)
+pio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$2104079883.<anonymous> (MainActivity.kt:502)
+pio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$2133027757.<anonymous> (MainActivity.kt:539)
+oio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$306208270.<anonymous> (MainActivity.kt:250)
+oio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$361717231.<anonymous> (MainActivity.kt:541)
+oio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$413683511.<anonymous> (MainActivity.kt:230)
+oio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$649720367.<anonymous> (MainActivity.kt:227)
+oio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$750924522.<anonymous> (MainActivity.kt:503)
+oio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$765164069.<anonymous> (MainActivity.kt:195)
+oio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$821868108.<anonymous> (MainActivity.kt:213)
+oio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$858842976.<anonymous> (MainActivity.kt:520)
+oio.github.iamr0s.carplay.ComposableSingletons$MainActivityKt.lambda$986022701.<anonymous> (MainActivity.kt:506)
+;io.github.iamr0s.carplay.ConnectionService$onStartCommand$4
+>io.github.iamr0s.carplay.ConnectionService$onStartCommand$4$10
+>io.github.iamr0s.carplay.ConnectionService$onStartCommand$4$11
+=io.github.iamr0s.carplay.ConnectionService$onStartCommand$4$2
+Oio.github.iamr0s.carplay.ConnectionService$onStartCommand$4$connected$timeout$1
+Eio.github.iamr0s.carplay.ConnectionService$onStartCommand$4$timeout$1
+8io.github.iamr0s.carplay.ConnectionService$runWireless$2
+Dio.github.iamr0s.carplay.ConnectionService$runWireless$2$bluetooth$1
+Bio.github.iamr0s.carplay.ConnectionService$runWireless$2$initial$1
+?io.github.iamr0s.carplay.ConnectionService$runWireless$2$lost$1
+"io.github.iamr0s.carplay.HOOK_MODE
+$io.github.iamr0s.carplay.HOOK_RESULT
+6io.github.iamr0s.carplay.LocalBluetoothIdentity$read$2
+%io.github.iamr0s.carplay.MainActivity
+=io.github.iamr0s.carplay.MainActivity$collectNativeHookLogs$2
+8io.github.iamr0s.carplay.MainActivity$onCreate$1$1$1$1$1
+;io.github.iamr0s.carplay.MainActivity$onCreate$1$1$1$11$1$1
+Iio.github.iamr0s.carplay.MainActivity$onCreate$1$1$1$12$1$1$2$1$3$3$1$1$1
+Iio.github.iamr0s.carplay.MainActivity$onCreate$1$1$1$12$1$1$2$1$3$3$2$1$1
+8io.github.iamr0s.carplay.MainActivity$onCreate$1$1$1$6$1
+<io.github.iamr0s.carplay.MainActivity$onCreate$1$1$1$8$1$1$1
+>io.github.iamr0s.carplay.MainActivity$onCreate$1$1$1$8$1$1$1$1
+4io.github.iamr0s.carplay.MainActivity$selectDevice$2
+6io.github.iamr0s.carplay.MainActivity$selectDevice$2$1
+7io.github.iamr0s.carplay.MainActivity$startConnection$3
+3io.github.iamr0s.carplay.MainActivity$stopRunning$2
+Pio.github.iamr0s.carplay.MainActivity.onCreate.<anonymous> (MainActivity.kt:144)
+\io.github.iamr0s.carplay.MainActivity.onCreate.<anonymous>.<anonymous> (MainActivity.kt:145)
+hio.github.iamr0s.carplay.MainActivity.onCreate.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:146)
+tio.github.iamr0s.carplay.MainActivity.onCreate.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:169)
+tio.github.iamr0s.carplay.MainActivity.onCreate.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:179)
+tio.github.iamr0s.carplay.MainActivity.onCreate.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:190)
+tio.github.iamr0s.carplay.MainActivity.onCreate.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:205)
+tio.github.iamr0s.carplay.MainActivity.onCreate.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:214)
+tio.github.iamr0s.carplay.MainActivity.onCreate.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:222)
+io.github.iamr0s.carplay.MainActivity.onCreate.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:225)
+io.github.iamr0s.carplay.MainActivity.onCreate.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:226)
+io.github.iamr0s.carplay.MainActivity.onCreate.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:250)
+io.github.iamr0s.carplay.MainActivity.onCreate.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:251)
+io.github.iamr0s.carplay.MainActivity.onCreate.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:254)
+io.github.iamr0s.carplay.MainActivity.onCreate.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:255)
+io.github.iamr0s.carplay.MainActivity.onCreate.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:258)
+io.github.iamr0s.carplay.MainActivity.onCreate.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:262)
+io.github.iamr0s.carplay.MainActivity.onCreate.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:273)
+io.github.iamr0s.carplay.MainActivity.onCreate.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:172)
+io.github.iamr0s.carplay.MainActivity.onCreate.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:174)
+io.github.iamr0s.carplay.MainActivity.onCreate.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:259)
+io.github.iamr0s.carplay.MainActivity.onCreate.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:265)
+io.github.iamr0s.carplay.MainActivity.onCreate.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:274)
+io.github.iamr0s.carplay.MainActivity.onCreate.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:232)
+8io.github.iamr0s.carplay.NativeHookControl$requestMode$2
+:io.github.iamr0s.carplay.NativeHookControl$requestMode$2$1
+:io.github.iamr0s.carplay.NativeHookLogReader$readCommand$2
+<io.github.iamr0s.carplay.NativeHookLogReader$readCommand$2$1
+>io.github.iamr0s.carplay.NativeHookLogReader$readCommand$2$1$1
+Eio.github.iamr0s.carplay.NativeHookLogReader$readCommand$2$1$output$1
+8io.github.iamr0s.carplay.TestPanel (MainActivity.kt:492)
+Dio.github.iamr0s.carplay.TestPanel.<anonymous> (MainActivity.kt:500)
+hio.github.iamr0s.carplay.TestPanel.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:502)
+hio.github.iamr0s.carplay.TestPanel.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:504)
+hio.github.iamr0s.carplay.TestPanel.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:505)
+hio.github.iamr0s.carplay.TestPanel.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:508)
+hio.github.iamr0s.carplay.TestPanel.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:515)
+hio.github.iamr0s.carplay.TestPanel.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:521)
+hio.github.iamr0s.carplay.TestPanel.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:531)
+hio.github.iamr0s.carplay.TestPanel.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:532)
+hio.github.iamr0s.carplay.TestPanel.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:537)
+hio.github.iamr0s.carplay.TestPanel.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:542)
+hio.github.iamr0s.carplay.TestPanel.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:544)
+hio.github.iamr0s.carplay.TestPanel.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:545)
+hio.github.iamr0s.carplay.TestPanel.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:546)
+hio.github.iamr0s.carplay.TestPanel.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:547)
+hio.github.iamr0s.carplay.TestPanel.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:548)
+hio.github.iamr0s.carplay.TestPanel.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:550)
+hio.github.iamr0s.carplay.TestPanel.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:553)
+hio.github.iamr0s.carplay.TestPanel.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:556)
+hio.github.iamr0s.carplay.TestPanel.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:560)
+hio.github.iamr0s.carplay.TestPanel.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:561)
+hio.github.iamr0s.carplay.TestPanel.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:562)
+hio.github.iamr0s.carplay.TestPanel.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:565)
+hio.github.iamr0s.carplay.TestPanel.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:566)
+hio.github.iamr0s.carplay.TestPanel.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:568)
+tio.github.iamr0s.carplay.TestPanel.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:531)
+tio.github.iamr0s.carplay.TestPanel.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:553)
+tio.github.iamr0s.carplay.TestPanel.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:562)
+tio.github.iamr0s.carplay.TestPanel.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:566)
+io.github.iamr0s.carplay.TestPanel.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:569)
+io.github.iamr0s.carplay.TestPanel.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:545)
+io.github.iamr0s.carplay.TestPanel.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous> (MainActivity.kt:546)
+0io/github/iamr0s/carplay/MainActivity$receiver$1
+Gio/github/iamr0s/carplay/NativeHookControl$requestMode$2$1$1$receiver$1
+isActive
+isAlive
+isConnected
+isDirectory
+isEmpty
+isEnabled
+isFailure-impl
+isSuccess-impl
+isTraceInProgress
+isWifiEnabled
+it\1
+it\10
+it\11
+it\13
+it\16
+it\19
+it\2
+it\20
+it\22
+it\23
+it\25
+it\27
+it\28
+it\3
+it\31
+it\34
+it\36
+it\37
+it\39
+it\4
+it\5
+it\6
+it\7
+it\8
+it\9
+item$default
+item\1
+item\5
+items
+items\1
+iterator
+iterator\1
+join
+joinToString$default
+keep\1
+key$lambda$12
+key\1
+keys
+kind
+kotlin.jvm.PlatformType
+label
+lambda$-10044890
+lambda$-1096215846
+lambda$-1185031089
+lambda$-119606767
+lambda$-1274366432
+lambda$-1278463410
+lambda$-1305389869
+lambda$-1717768517
+lambda$-1754943255
+lambda$-1798922770
+lambda$-1808766843
+lambda$-1920894486
+lambda$-2015930284
+lambda$-2016231956
+lambda$-2037464484
+lambda$-208071980
+lambda$-2125706862
+lambda$-271111952
+lambda$-327621213
+lambda$-35930561
+lambda$-378815824
+lambda$-475172605
+lambda$-504216157
+lambda$-506210131
+lambda$-609276994
+lambda$-651178849
+lambda$-72163238
+lambda$-72246450
+lambda$-886277028
+lambda$-887015893
+lambda$-913206415
+lambda$1035876818
+lambda$1055451412
+lambda$1198885877
+lambda$1202677196
+lambda$1380383621
+lambda$1437775375
+lambda$1481194469
+lambda$1529361505
+lambda$155665329
+lambda$162851729
+lambda$1636640877
+lambda$1672873554
+lambda$1848709147
+lambda$187524050
+lambda$2104079883
+lambda$2133027757
+lambda$306208270
+lambda$361717231
+lambda$413683511
+lambda$649720367
+lambda$750924522
+lambda$765164069
+lambda$821868108
+lambda$858842976
+lambda$986022701
+lambda_1035876818$lambda$38
+lambda_1055451412$lambda$40
+lambda_1198885877$lambda$23
+/lambda_1198885877$lambda$23$lambda$22$lambda$21
+lambda_1202677196$lambda$47
+lambda_1380383621$lambda$37
+lambda_1437775375$lambda$49
+lambda_1481194469$lambda$20
+lambda_1529361505$lambda$27
+lambda_155665329$lambda$10
+lambda_162851729$lambda$50
+lambda_1636640877$lambda$41
+lambda_1672873554$lambda$51
+lambda_1848709147$lambda$25
+lambda_187524050$lambda$55
+lambda_2104079883$lambda$30
+lambda_2133027757$lambda$43
+lambda_306208270$lambda$14
+lambda_361717231$lambda$44
+lambda_413683511$lambda$11
+lambda_649720367$lambda$9
+lambda_750924522$lambda$31
+lambda_765164069$lambda$1
+lambda_821868108$lambda$4
+lambda_858842976$lambda$36
+lambda_986022701$lambda$33
+lambda__10044890$lambda$24
+lambda__1096215846$lambda$12
+lambda__1185031089$lambda$15
+lambda__119606767$lambda$58
+lambda__1274366432$lambda$26
+lambda__1278463410$lambda$5
+lambda__1305389869$lambda$6
+lambda__1717768517$lambda$3
+lambda__1754943255$lambda$54
+lambda__1798922770$lambda$34
+lambda__1808766843$lambda$46
+lambda__1920894486$lambda$2
+lambda__2015930284$lambda$29
+lambda__2016231956$lambda$56
+lambda__2037464484$lambda$28
+lambda__208071980$lambda$7
+lambda__2125706862$lambda$53
+lambda__271111952$lambda$59
+lambda__327621213$lambda$0
+lambda__35930561$lambda$52
+lambda__378815824$lambda$16
+lambda__475172605$lambda$13
+lambda__504216157$lambda$8
+lambda__506210131$lambda$57
+lambda__609276994$lambda$19
+/lambda__609276994$lambda$19$lambda$18$lambda$17
+lambda__651178849$lambda$35
+lambda__72163238$lambda$42
+lambda__72246450$lambda$48
+lambda__886277028$lambda$32
+lambda__887015893$lambda$39
+lambda__913206415$lambda$45
+launch
+launch$default
+legacy/unknown
+length
+limit
+line
+lineSequence
+lines
+link-only
+listOf
+"listenUsingRfcommWithServiceRecord
+listener
+load
+loadPairedDevices
+local
+localAddress$default
+localAddresses
+localMap\15
+localMap\2
+localMap\20
+localMap\3
+localMap\31
+localMap\9
+lock
+log$lambda$6
+log(Ljava/lang/String;)V
+logMenu
+logMenu$delegate
+logOptions
+1logcat -d -v threadtime -s CarPlayEirHook:I '*:S'
+logcat -d -v threadtime -t 1500 -s WifiNetworkFactory:V WifiConnectivityManager:V WifiClientModeImpl:V WifiPermissionsUtil:V ConnectivityService:V WifiService:V WifiNetworkRequestDialog:V '*:S'
+logs
+lost
+makeBasic
+manager
+matches
+materializeModifier
+materialized\15
+materialized\2
+materialized\20
+materialized\3
+materialized\31
+materialized\9
+maybeCachedBoxMeasurePolicy
+measurePolicy\1
+measurePolicy\14
+measurePolicy\15
+measurePolicy\19
+measurePolicy\2
+measurePolicy\20
+measurePolicy\3
+measurePolicy\30
+measurePolicy\31
+measurePolicy\8
+measurePolicy\9
+mediaLocal
+memoryBytes
+memoryLines
+message
+method
+microphone
+microphone$lambda$2
+microphoneRequest
+minimal-control
+mkdirs
+mode
+modifier\1
+modifier\14
+modifier\15
+modifier\19
+modifier\2
+modifier\20
+modifier\3
+modifier\30
+modifier\31
+modifier\8
+modifier\9
+modify
+ms continuous=
+ms type=
+ms; transport closed ===
+ms] 
+mutable
+mutableListOf
+mutableStateOf$default
+name
+nanoTime
+nativeHeight
+nativeHookModify
+nativeHookModify$delegate
+nativeWidth
+network
+networkOwner
+networkPermissions
+newPlainText
+next
+no-reply
+nonce
+nonce\3
+none
+normal-wireless-connect
+not-loaded
+null
+nullOutSpilledVariable
+onActivityResult
+onBack
+onBind
+onCopy
+onCreate
+onCreate$lambda$120
+onCreate$lambda$120$lambda$119
+)onCreate$lambda$120$lambda$119$lambda$118
+4onCreate$lambda$120$lambda$119$lambda$118$lambda$117
+JonCreate$lambda$120$lambda$119$lambda$118$lambda$117$lambda$116$lambda$115
+UonCreate$lambda$120$lambda$119$lambda$118$lambda$117$lambda$116$lambda$115$lambda$100
+ionCreate$lambda$120$lambda$119$lambda$118$lambda$117$lambda$116$lambda$115$lambda$100$lambda$99$lambda$98
+UonCreate$lambda$120$lambda$119$lambda$118$lambda$117$lambda$116$lambda$115$lambda$103
+konCreate$lambda$120$lambda$119$lambda$118$lambda$117$lambda$116$lambda$115$lambda$103$lambda$102$lambda$101
+UonCreate$lambda$120$lambda$119$lambda$118$lambda$117$lambda$116$lambda$115$lambda$107
+konCreate$lambda$120$lambda$119$lambda$118$lambda$117$lambda$116$lambda$115$lambda$107$lambda$105$lambda$104
+`onCreate$lambda$120$lambda$119$lambda$118$lambda$117$lambda$116$lambda$115$lambda$107$lambda$106
+UonCreate$lambda$120$lambda$119$lambda$118$lambda$117$lambda$116$lambda$115$lambda$108
+UonCreate$lambda$120$lambda$119$lambda$118$lambda$117$lambda$116$lambda$115$lambda$109
+UonCreate$lambda$120$lambda$119$lambda$118$lambda$117$lambda$116$lambda$115$lambda$114
+konCreate$lambda$120$lambda$119$lambda$118$lambda$117$lambda$116$lambda$115$lambda$114$lambda$113$lambda$112
+TonCreate$lambda$120$lambda$119$lambda$118$lambda$117$lambda$116$lambda$115$lambda$75
+TonCreate$lambda$120$lambda$119$lambda$118$lambda$117$lambda$116$lambda$115$lambda$91
+ronCreate$lambda$120$lambda$119$lambda$118$lambda$117$lambda$116$lambda$115$lambda$91$lambda$90$lambda$77$lambda$76
+ronCreate$lambda$120$lambda$119$lambda$118$lambda$117$lambda$116$lambda$115$lambda$91$lambda$90$lambda$79$lambda$78
+|onCreate$lambda$120$lambda$119$lambda$118$lambda$117$lambda$116$lambda$115$lambda$91$lambda$90$lambda$89$lambda$81$lambda$80
+|onCreate$lambda$120$lambda$119$lambda$118$lambda$117$lambda$116$lambda$115$lambda$91$lambda$90$lambda$89$lambda$83$lambda$82
+ronCreate$lambda$120$lambda$119$lambda$118$lambda$117$lambda$116$lambda$115$lambda$91$lambda$90$lambda$89$lambda$88
+onCreate$lambda$120$lambda$119$lambda$118$lambda$117$lambda$116$lambda$115$lambda$91$lambda$90$lambda$89$lambda$88$lambda$85$lambda$84
+onCreate$lambda$120$lambda$119$lambda$118$lambda$117$lambda$116$lambda$115$lambda$91$lambda$90$lambda$89$lambda$88$lambda$87$lambda$86
+TonCreate$lambda$120$lambda$119$lambda$118$lambda$117$lambda$116$lambda$115$lambda$94
+honCreate$lambda$120$lambda$119$lambda$118$lambda$117$lambda$116$lambda$115$lambda$94$lambda$93$lambda$92
+TonCreate$lambda$120$lambda$119$lambda$118$lambda$117$lambda$116$lambda$115$lambda$97
+honCreate$lambda$120$lambda$119$lambda$118$lambda$117$lambda$116$lambda$115$lambda$97$lambda$96$lambda$95
+3onCreate$lambda$120$lambda$119$lambda$118$lambda$13
+3onCreate$lambda$120$lambda$119$lambda$118$lambda$16
+3onCreate$lambda$120$lambda$119$lambda$118$lambda$17
+3onCreate$lambda$120$lambda$119$lambda$118$lambda$18
+3onCreate$lambda$120$lambda$119$lambda$118$lambda$20
+3onCreate$lambda$120$lambda$119$lambda$118$lambda$21
+3onCreate$lambda$120$lambda$119$lambda$118$lambda$23
+3onCreate$lambda$120$lambda$119$lambda$118$lambda$24
+3onCreate$lambda$120$lambda$119$lambda$118$lambda$26
+3onCreate$lambda$120$lambda$119$lambda$118$lambda$27
+3onCreate$lambda$120$lambda$119$lambda$118$lambda$29
+3onCreate$lambda$120$lambda$119$lambda$118$lambda$30
+3onCreate$lambda$120$lambda$119$lambda$118$lambda$32
+3onCreate$lambda$120$lambda$119$lambda$118$lambda$33
+=onCreate$lambda$120$lambda$119$lambda$118$lambda$35$lambda$34
+3onCreate$lambda$120$lambda$119$lambda$118$lambda$38
+GonCreate$lambda$120$lambda$119$lambda$118$lambda$38$lambda$37$lambda$36
+3onCreate$lambda$120$lambda$119$lambda$118$lambda$41
+GonCreate$lambda$120$lambda$119$lambda$118$lambda$41$lambda$40$lambda$39
+3onCreate$lambda$120$lambda$119$lambda$118$lambda$58
+eonCreate$lambda$120$lambda$119$lambda$118$lambda$58$lambda$57$lambda$46$lambda$45$lambda$43$lambda$42
+[onCreate$lambda$120$lambda$119$lambda$118$lambda$58$lambda$57$lambda$46$lambda$45$lambda$44
+eonCreate$lambda$120$lambda$119$lambda$118$lambda$58$lambda$57$lambda$51$lambda$50$lambda$48$lambda$47
+[onCreate$lambda$120$lambda$119$lambda$118$lambda$58$lambda$57$lambda$51$lambda$50$lambda$49
+[onCreate$lambda$120$lambda$119$lambda$118$lambda$58$lambda$57$lambda$54$lambda$53$lambda$52
+QonCreate$lambda$120$lambda$119$lambda$118$lambda$58$lambda$57$lambda$56$lambda$55
+3onCreate$lambda$120$lambda$119$lambda$118$lambda$60
+3onCreate$lambda$120$lambda$119$lambda$118$lambda$61
+=onCreate$lambda$120$lambda$119$lambda$118$lambda$64$lambda$63
+3onCreate$lambda$120$lambda$119$lambda$118$lambda$67
+GonCreate$lambda$120$lambda$119$lambda$118$lambda$67$lambda$66$lambda$65
+3onCreate$lambda$120$lambda$119$lambda$118$lambda$70
+GonCreate$lambda$120$lambda$119$lambda$118$lambda$70$lambda$69$lambda$68
+=onCreate$lambda$120$lambda$119$lambda$118$lambda$72$lambda$71
+=onCreate$lambda$120$lambda$119$lambda$118$lambda$74$lambda$73
+onDestroy
+onDestroy$lambda$136
+onDestroy$lambda$14
+onReceive
+onReceive$lambda$0
+onReceive$lambda$1
+onSaveInstanceState
+onStartCommand
+onStartCommand$lambda$2
+open
+openOutputStream
+options
+other
+outState
+out\2
+outbound
+output
+p0\3
+padding
+padding-3ABfNKs
+paired
+parseBoolean
+parseInt
+peer
+pending
+pendingBluetoothAction
+pendingBluetoothAddress
+pendingWirelessAddress
+permissionRequest
+permissionRequest$lambda$3
+permissions
+phase
+phone
+play
+plus
+prefs
+prepareWirelessConnection
+preparedIdentity
+preserveStart
+preview
+previous
+printStackTrace
+probeCoroutineSuspended
+process
+projectedApps
+propagateMinConstraints\1
+propagateMinConstraints\14
+property\1
+proto
+protocol
+provider
+provider-no-hook
+provides
+putBoolean
+putExtra
+putExtra(...)
+putString
+quoted
+randomUUID
+read
+read$default
+readCommand
+readWifi
+reason\13
+rebuildAfterConfirmation
+receive
+receiver
+receiverFps
+receiver\3
+reconcile-impl
+record
+redirectErrorStream
+reference
+referenceHandshake
+referenceHandshake$delegate
+registerForActivityResult
+registerReceiver
+registered
+registered\3
+remaining
+rememberComposableLambda
+rememberDevice
+rememberScrollState
+rememberedValue
+removeFirst
+renameTo
+reply
+request
+request$lambda$10
+request$lambda$11
+requestMode
+request\3
+reset
+result
+resumeBluetoothAction
+resumeWith
+rotations
+rounds
+rowMeasurePolicy
+rubberBandScroll
+runInterruptible$default
+runWireless
+running
+running$delegate
+runtimeReady
+save
+saved
+savedInstanceState
+scale
+scale$delegate
+scale\26
+scan
+scanPending
+scanPending$delegate
+scanning
+scope
+scopeCarAddress
+screen
+screenSession
+secret
+secrets
+seek
+segmentLimit
+selectDevice
+selectTransport
+selected\1
+sendBroadcast
+server
+serviceStarted
+session
+set-impl
+setAction
+setContent$default
+setContentIntent
+setContentText
+setContentTitle
+setEirIdentityExperiment
+setNativeHookModify
+setPackage
+setPrimaryClip
+setReferenceHandshake
+setRunning
+setScanPending
+setShareIdentityEnabled
+setSmallIcon
+setValue
+setWirelessExperiment
+%settings get secure bluetooth_address
+shouldExecute
+showTests
+showTests$delegate
+silence
+size
+skipToGroupEnd
+socket
+sortedWith
+source
+source$lambda$3
+source$lambda$4
+sourceInformation
+sourceInformationMarkerEnd
+sourceInformationMarkerStart
+sourceRequest
+spacedBy-0680j_4
+stack
+stackTraceToString
+start
+start-
+startActivity
+startBytes
+startConnection
+startConnection$lambda$129
+startDiscovery
+startForeground
+startForegroundService
+startId
+startLimit
+startReplaceGroup
+startRestartGroup
+startReusableNode
+started
+startedAt
+startsWith$default
+state
+state$delegate
+status
+status$lambda$2
+status(Ljava/lang/String;)V
+stop
+stopRequested
+stopRunning
+stopSelf
+stopService
+storage
+substring
+substring(...)
+supervisorScope
+syncExperiment
+system-assist
+take
+takeLast
+temp
+test-list
+test-log
+testState
+testState$delegate
+text
+text/plain
+this
+this$0
+this_\1
+this_\2
+throwIndexOverflow
+throwOnFailure
+timeout
+toArray
+toBundle
+toList
+toString
+toString(...)
+toUpperCase
+toUpperCase(...)
+tone
+tone$lambda$5
+touch
+traceEventEnd
+traceEventStart
+traceId
+transportId
+trim
+trimTail
+true
+truncated
+trySend-JP2dKIU
+uCont\1
+uiRequest
+unknown
+unregisterReceiver
+update
+updateChangedFlags
+updateRememberedValue
+updateScope
+useNode
+valid
+value
+valueOf
+value\1
+value\10
+value\11
+value\12
+value\14
+value\17
+value\2
+value\20
+value\21
+value\23
+value\24
+value\26
+value\28
+value\29
+value\3
+value\32
+value\35
+value\37
+value\38
+value\4
+value\40
+value\5
+value\6
+value\8
+value\9
+versionHash
+verticalAlignment\1
+verticalAlignment\19
+verticalAlignment\2
+verticalAlignment\30
+verticalAlignment\8
+verticalArrangement\2
+videoOptions
+videoOptions$delegate
+videoRequest
+videoSettings
+videoSettings$delegate
+wait
+waitFor
+waitForPeer
+waitMs
+waitingForPeer
+wake
+width
+wireless
+wirelessExperiment
+wirelessExperiment$delegate
+wirelessPermissions
+wirelessPermissions$lambda$1
+withContext
+withTimeout
+withTimeoutOrNull
+write
+writeBytes
+writeExport
+writer
+e~~D8{"backend":"dex","compilation-mode":"debug","has-checksums":true,"min-api":29,"version":"9.1.31"}
+~~~{"Lio/github/iamr0s/carplay/BuildConfig;":"e112e589","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda0;":"bb7ae4b","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda10;":"aa25ec3a","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda11;":"-325d90620","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda12;":"19d889ca8","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda13;":"2910d488","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda14;":"-119a7b893","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda15;":"336c8609","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda16;":"3157bb704","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda17;":"1b0675533","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda18;":"-106759e7d","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda19;":"75a5a8ef","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda1;":"1da839a92","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda20;":"290e64d9e","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda21;":"-1703240ba","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda22;":"b4d80934","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda23;":"4ea6540a","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda24;":"2eedc79c3","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda25;":"-16c04d81f","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda26;":"-15ee94ce7","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda27;":"14420a683","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda28;":"-db01c816","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda29;":"-2c7c36c","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda2;":"-2db9bb4f1","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda30;":"-3386040b8","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda31;":"faffbe8b","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda32;":"-20efb3561","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda33;":"-122a9d956","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda34;":"19dd200f5","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda35;":"-22399eab2","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda36;":"-27412a610","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda37;":"6d063271","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda38;":"4b18777a","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda39;":"6625922d","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda3;":"-21e63b8a2","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda40;":"-2751362ec","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda41;":"-353bf5388","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda42;":"-1df83c79d","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda43;":"fdc6053b","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda44;":"2cfc905d9","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda45;":"-b6fcba9f","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda46;":"-245489aff","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda47;":"-17b48034a","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda48;":"-10f2c1877","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda49;":"2c9e3e56c","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda4;":"-d7d194d9","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda50;":"2d0a61bd4","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda51;":"-1170d1485","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda52;":"-4e571650","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda53;":"-141434ae5","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda54;":"-22eb18bf","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda55;":"-1198d85c8","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda56;":"9af82730","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda57;":"-11c089a7f","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda5;":"2142c1446","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda6;":"ca76f710","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda7;":"2b90936e","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda8;":"d21dea69","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt$$ExternalSyntheticLambda9;":"2d1356a02","Lio/github/iamr0s/carplay/ComposableSingletons$MainActivityKt;":"6807691c","Lio/github/iamr0s/carplay/ConnectionService$$ExternalSyntheticLambda0;":"-1b772abf5","Lio/github/iamr0s/carplay/ConnectionService$$ExternalSyntheticLambda1;":"b45c1244","Lio/github/iamr0s/carplay/ConnectionService$$ExternalSyntheticLambda2;":"-21b5c718d","Lio/github/iamr0s/carplay/ConnectionService$$ExternalSyntheticLambda3;":"20e69234c","Lio/github/iamr0s/carplay/ConnectionService$Companion;":"2124aae5","Lio/github/iamr0s/carplay/ConnectionService$onStartCommand$4$$ExternalSyntheticLambda0;":"1743c6a32","Lio/github/iamr0s/carplay/ConnectionService$onStartCommand$4$10;":"16bb7c2b","Lio/github/iamr0s/carplay/ConnectionService$onStartCommand$4$11;":"56dbb588","Lio/github/iamr0s/carplay/ConnectionService$onStartCommand$4$2;":"2894382a","Lio/github/iamr0s/carplay/ConnectionService$onStartCommand$4$4;":"c2fabd84","Lio/github/iamr0s/carplay/ConnectionService$onStartCommand$4$5;":"1aa3fe39","Lio/github/iamr0s/carplay/ConnectionService$onStartCommand$4$connected$timeout$1;":"35f0675c","Lio/github/iamr0s/carplay/ConnectionService$onStartCommand$4$timeout$1;":"42a71d13","Lio/github/iamr0s/carplay/ConnectionService$onStartCommand$4;":"a4b2b288","Lio/github/iamr0s/carplay/ConnectionService$runWireless$2$$ExternalSyntheticLambda0;":"-258a3a6ce","Lio/github/iamr0s/carplay/ConnectionService$runWireless$2$$ExternalSyntheticLambda1;":"-3ea61a1a8","Lio/github/iamr0s/carplay/ConnectionService$runWireless$2$bluetooth$1$1;":"5fdb6fba","Lio/github/iamr0s/carplay/ConnectionService$runWireless$2$bluetooth$1$2;":"2c167344","Lio/github/iamr0s/carplay/ConnectionService$runWireless$2$bluetooth$1;":"3024b57","Lio/github/iamr0s/carplay/ConnectionService$runWireless$2$bootstrap$1;":"4721406d","Lio/github/iamr0s/carplay/ConnectionService$runWireless$2$bootstrap$2;":"c980f42f","Lio/github/iamr0s/carplay/ConnectionService$runWireless$2$discovery$1;":"f5e4a33d","Lio/github/iamr0s/carplay/ConnectionService$runWireless$2$initial$1;":"d3b271b9","Lio/github/iamr0s/carplay/ConnectionService$runWireless$2$lost$1;":"fd226892","Lio/github/iamr0s/carplay/ConnectionService$runWireless$2;":"e7a1946e","Lio/github/iamr0s/carplay/ConnectionService;":"f81c9c36","Lio/github/iamr0s/carplay/DeviceRow;":"bf0c1795","Lio/github/iamr0s/carplay/DiagnosticFiles;":"56011f4e","Lio/github/iamr0s/carplay/DiagnosticPayload$$ExternalSyntheticLambda0;":"-15c947968","Lio/github/iamr0s/carplay/DiagnosticPayload$$ExternalSyntheticLambda1;":"-90385617","Lio/github/iamr0s/carplay/DiagnosticPayload;":"e2a04d10","Lio/github/iamr0s/carplay/DiagnosticState;":"cb2ed7e0","Lio/github/iamr0s/carplay/Diagnostics$$ExternalSyntheticLambda0;":"-2cc21e3a5","Lio/github/iamr0s/carplay/Diagnostics$$ExternalSyntheticLambda1;":"-9c7750ac","Lio/github/iamr0s/carplay/Diagnostics$$ExternalSyntheticLambda2;":"-34b92faa1","Lio/github/iamr0s/carplay/Diagnostics$$ExternalSyntheticLambda3;":"-7cd584bad","Lio/github/iamr0s/carplay/Diagnostics$$ExternalSyntheticLambda4;":"23d965686","Lio/github/iamr0s/carplay/Diagnostics$$ExternalSyntheticLambda5;":"-ed3ed3a0","Lio/github/iamr0s/carplay/Diagnostics$$ExternalSyntheticLambda6;":"121c2a21a","Lio/github/iamr0s/carplay/Diagnostics$$ExternalSyntheticLambda7;":"1cee63b74","Lio/github/iamr0s/carplay/Diagnostics$device$lambda$19$$inlined$sortedByDescending$1;":"ad97f07","Lio/github/iamr0s/carplay/Diagnostics;":"fee13ba0","Lio/github/iamr0s/carplay/LocalBluetoothIdentity$read$2$$ExternalSyntheticLambda0;":"7059bc6a3","Lio/github/iamr0s/carplay/LocalBluetoothIdentity$read$2;":"6c3291a0","Lio/github/iamr0s/carplay/LocalBluetoothIdentity;":"4f577d29","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda0;":"111aa9a76","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda10;":"326a5b91d","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda11;":"-5580f48da","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda12;":"-1713803c8","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda13;":"65f89318","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda14;":"3840d8c0f","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda15;":"17a6eeba","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda16;":"-16af38149","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda17;":"662475351","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda18;":"-311368abb","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda19;":"-810791fe","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda1;":"48a539657","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda20;":"3b469dcd3","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda21;":"-3cae53c8b","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda22;":"890b8c92b","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda23;":"-1d1cca50c","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda24;":"-612e86db","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda25;":"307992880","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda26;":"2435d04f1","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda27;":"152614d8e","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda28;":"-34d9e07a","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda29;":"-33f359dbc","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda2;":"4319a5ad0","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda30;":"5d4f3f99","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda31;":"-5de63b913","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda32;":"50a83cf63","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda33;":"503e95e9e","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda34;":"-2d982dfbe","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda35;":"-6643a228","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda36;":"-55e60da16","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda37;":"-59caa41ac","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda38;":"-699e7f444","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda39;":"-3ae13378e","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda3;":"-5b7772238","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda40;":"-726a7c585","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda41;":"d61deb86","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda42;":"-1cb7970d7","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda43;":"-196f530c9","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda44;":"-4579eb518","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda45;":"-3800e2a11","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda46;":"32eff042","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda47;":"-1bfa625e7","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda48;":"-abae27c6","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda49;":"-aad8d2a6","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda4;":"-2d9f8e218","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda50;":"27f882c4b","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda51;":"-4db94985a","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda52;":"2ebe23557","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda53;":"1403b2e9b","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda54;":"a2724e7c","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda55;":"34ed0d06c","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda56;":"26fc841f6","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda57;":"6873c3301","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda58;":"-5227f5b58","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda59;":"50f92d033","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda5;":"-29acc7a38","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda6;":"-2bfa03360","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda7;":"-429912b07","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda8;":"-3d9a6082","Lio/github/iamr0s/carplay/MainActivity$$ExternalSyntheticLambda9;":"-f6927824","Lio/github/iamr0s/carplay/MainActivity$applyNativeMode$1;":"8d2764c","Lio/github/iamr0s/carplay/MainActivity$collectNativeHookLogs$1;":"bc209b7f","Lio/github/iamr0s/carplay/MainActivity$collectNativeHookLogs$2;":"a273f8f2","Lio/github/iamr0s/carplay/MainActivity$onCreate$1$1$1$1$1;":"e799db57","Lio/github/iamr0s/carplay/MainActivity$onCreate$1$1$1$11$1$1;":"3c3fe079","Lio/github/iamr0s/carplay/MainActivity$onCreate$1$1$1$12$1$1$10$1$1;":"96a58674","Lio/github/iamr0s/carplay/MainActivity$onCreate$1$1$1$12$1$1$10$2;":"d08ded8d","Lio/github/iamr0s/carplay/MainActivity$onCreate$1$1$1$12$1$1$2$1$3$3$1$1$1;":"b636539b","Lio/github/iamr0s/carplay/MainActivity$onCreate$1$1$1$12$1$1$2$1$3$3$2$1$1;":"dc6de723","Lio/github/iamr0s/carplay/MainActivity$onCreate$1$1$1$6$1;":"8e505a38","Lio/github/iamr0s/carplay/MainActivity$onCreate$1$1$1$8$1$1$1$1;":"ad4ecc4f","Lio/github/iamr0s/carplay/MainActivity$onCreate$1$1$1$8$1$1$1;":"2740fde7","Lio/github/iamr0s/carplay/MainActivity$onCreate$lambda$120$lambda$119$lambda$118$lambda$117$lambda$116$lambda$115$$inlined$items$default$1;":"28f870d0","Lio/github/iamr0s/carplay/MainActivity$onCreate$lambda$120$lambda$119$lambda$118$lambda$117$lambda$116$lambda$115$$inlined$items$default$2;":"2bb4e7c7","Lio/github/iamr0s/carplay/MainActivity$onCreate$lambda$120$lambda$119$lambda$118$lambda$117$lambda$116$lambda$115$$inlined$items$default$3;":"31e5986c","Lio/github/iamr0s/carplay/MainActivity$onCreate$lambda$120$lambda$119$lambda$118$lambda$117$lambda$116$lambda$115$$inlined$items$default$4;":"ea27227a","Lio/github/iamr0s/carplay/MainActivity$receiver$1$$ExternalSyntheticLambda0;":"-132d6c98e","Lio/github/iamr0s/carplay/MainActivity$receiver$1$$ExternalSyntheticLambda1;":"-fd43d4f2","Lio/github/iamr0s/carplay/MainActivity$receiver$1;":"2905e800","Lio/github/iamr0s/carplay/MainActivity$selectDevice$2$1;":"9b507f39","Lio/github/iamr0s/carplay/MainActivity$selectDevice$2;":"65ef0649","Lio/github/iamr0s/carplay/MainActivity$startConnection$3$$ExternalSyntheticLambda0;":"-27657ff18","Lio/github/iamr0s/carplay/MainActivity$startConnection$3$$ExternalSyntheticLambda1;":"27aa2d860","Lio/github/iamr0s/carplay/MainActivity$startConnection$3;":"37fe71c5","Lio/github/iamr0s/carplay/MainActivity$stopRunning$2;":"4b87ca13","Lio/github/iamr0s/carplay/MainActivity;":"9285d002","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda0;":"4f3fdf24","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda10;":"152f4c03a","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda11;":"-667f5fc9a","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda12;":"220005de5","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda13;":"4b6d84832","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda14;":"1262bb882","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda15;":"46b9ebac7","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda16;":"-247e15c55","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda17;":"-217db3838","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda18;":"-10ac93923","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda19;":"-1abe9aefc","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda1;":"84d0e3403","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda20;":"-12d853afb","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda21;":"6724ae408","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda22;":"1949e7b22","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda23;":"94bb87b6","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda24;":"-33e9a1c66","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda25;":"18ad80b98","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda26;":"-12f107572","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda27;":"374199b4f","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda28;":"-3ccb48840","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda29;":"9e7921ec","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda2;":"-34bb5c709","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda30;":"190fdd067","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda31;":"422fef087","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda32;":"23425d1b5","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda33;":"-27807ac24","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda34;":"-3c776596","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda35;":"1ebbbfbe6","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda36;":"7222b0727","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda37;":"450de1e15","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda38;":"40fc63b4","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda39;":"11ef979c8","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda3;":"82267d6a9","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda40;":"23459732b","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda41;":"-1e53d3d97","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda42;":"7c7cc80bb","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda43;":"1b636af1c","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda44;":"45b86f51f","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda45;":"-450100137","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda46;":"-33167949c","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda47;":"-6984cdda1","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda48;":"b067c168","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda49;":"-1499bce3e","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda4;":"3167a1e09","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda50;":"-5ac8f6244","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda51;":"-ad74a20a","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda52;":"-534cbb4b","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda53;":"-19c873634","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda5;":"-141050bea","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda6;":"-366de644","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda7;":"75889fc6","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda8;":"-51b5fb0d8","Lio/github/iamr0s/carplay/MainActivityKt$$ExternalSyntheticLambda9;":"-17ecf298b","Lio/github/iamr0s/carplay/MainActivityKt;":"b6519b31","Lio/github/iamr0s/carplay/NativeHookControl$requestMode$2$1$1$1;":"cfbaf2d9","Lio/github/iamr0s/carplay/NativeHookControl$requestMode$2$1$1$receiver$1;":"d5425d3b","Lio/github/iamr0s/carplay/NativeHookControl$requestMode$2$1;":"b6aab08d","Lio/github/iamr0s/carplay/NativeHookControl$requestMode$2;":"d35e14e1","Lio/github/iamr0s/carplay/NativeHookControl;":"974f8be6","Lio/github/iamr0s/carplay/NativeHookLogReader$readCommand$2$1$1;":"e72b257b","Lio/github/iamr0s/carplay/NativeHookLogReader$readCommand$2$1$output$1;":"14aaf1ac","Lio/github/iamr0s/carplay/NativeHookLogReader$readCommand$2$1;":"ca3aeee0","Lio/github/iamr0s/carplay/NativeHookLogReader$readCommand$2;":"8f509641","Lio/github/iamr0s/carplay/NativeHookLogReader;":"bf0e881b","Lio/github/iamr0s/carplay/NativeHookReply;":"667ac99f","Lio/github/iamr0s/carplay/SystemAssist;":"ef790c30","Lio/github/iamr0s/carplay/TestState;":"47d314b","Lio/github/iamr0s/carplay/Testing$$ExternalSyntheticLambda0;":"-36489d44c","Lio/github/iamr0s/carplay/Testing$$ExternalSyntheticLambda10;":"-54c0d2b0d","Lio/github/iamr0s/carplay/Testing$$ExternalSyntheticLambda11;":"1bd016dbc","Lio/github/iamr0s/carplay/Testing$$ExternalSyntheticLambda12;":"-313430519","Lio/github/iamr0s/carplay/Testing$$ExternalSyntheticLambda13;":"-320af471d","Lio/github/iamr0s/carplay/Testing$$ExternalSyntheticLambda1;":"-1a0ee1ec2","Lio/github/iamr0s/carplay/Testing$$ExternalSyntheticLambda2;":"5f07adeb","Lio/github/iamr0s/carplay/Testing$$ExternalSyntheticLambda3;":"a1a82920","Lio/github/iamr0s/carplay/Testing$$ExternalSyntheticLambda4;":"-6b16873b9","Lio/github/iamr0s/carplay/Testing$$ExternalSyntheticLambda5;":"-2ef5e2d94","Lio/github/iamr0s/carplay/Testing$$ExternalSyntheticLambda6;":"-8ff34a89","Lio/github/iamr0s/carplay/Testing$$ExternalSyntheticLambda7;":"112859a02","Lio/github/iamr0s/carplay/Testing$$ExternalSyntheticLambda8;":"-706e285aa","Lio/github/iamr0s/carplay/Testing$$ExternalSyntheticLambda9;":"-24fb2783b","Lio/github/iamr0s/carplay/Testing;":"ec3c7ab8"}
+ CarLife 
+ LSPosed
+ Hook 
+ CarLife
+ Hook 
+ Hook 
+ iAP2 
+ Native Hook / root 
+440 / 660 Hz 
+CarWith 
+ 10 
+ CarWith
+ iAP2 
+CarWith 
+ CarWith 
+ Wi-Fi 
+ CarWith 
+ CarWith 
+ Hook 
+ PCM 
+ PCM 
+ Hook 
+ CarPlay
+ Wi-Fi / 
+ Native Hook 
+ LSPosed 
+ Compose 
+ iAP2 
+ RFCOMM 
+ / iAP2 
+ CarWith
+ Hook
+ 10 
+ CarPlay 
+ 8.1.1-carplay.1 
+ 62ef926
+ Compose 
+ Hook
+ DESKTOP 
+ Hook
+ Wi-Fi
+CarWith 
+ Root 
+ Wi-Fi 
+$ ND

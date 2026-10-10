@@ -1,0 +1,19 @@
+[package]
+name = "bridge-lab"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+authors.workspace = true
+
+[lints]
+workspace = true
+
+[[bin]]
+name = "bridge-lab"
+path = "src/main.rs"
+
+[dependencies]
+bridge-core = { path = "../bridge-core" }
+bridge-iccoa = { path = "../bridge-iccoa" }
+bridge-linux = { path = "../bridge-linux" }

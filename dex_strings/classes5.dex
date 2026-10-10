@@ -1,0 +1,2284 @@
+Way x!
+ p0f
+g(Iq
+ p0f
+ p0f
+(6r 
+E3Tw
+ p0f
+ p0f
+ p0f
+&YvC
+CY#O
+ Nq@
+ p0f
+ p0f
+ p0f
+S(6r
+!4p0
+0vp0
+!rpY
+(6n 
+)#5!
+4\n 
+W5g&
+ p0f
+ p0f
+ p0f
+Kg[9\t
+W V VN
+qw<K
+Zi--
+K:x+j*
+x>H-
+O,H/
+ZK---
+0%0$X
+Content-Length: 0
+Connection: close
+ accepted=
+ actual-listener=
+ actual-local=
+ addresses=
+ bonjour-key-present=
+ bonjour-matched=
+ bytes=
+ channel-hint=
+ channel=
+ connect-timeout=
+ control-port=
+ current-local=
+ deviceid=
+ elapsed-ms=
+ features=
+ group=
+ header=
+ homekit-feature=
+ host=
+ hosts=
+ identity-present=
+ iface=
+ index=
+ interface-index=
+ interface=
+ invitation=
+ ipv4=
+ ipv6=
+ key-present=
+ link=
+ local-network-addresses=
+ location-enabled=
+ malformed=
+ multicast-lock=released
+" multicast-lock=true transport-id=
+ network=
+ pairing-id-present=
+ password-utf8-bytes=
+ password=
+ peer=
+ pi=
+ pk=
+ port=
+ port=5353
+ process-importance=
+ public-key=
+ receiver-id=
+ receiver-ids=
+ remote=
+ resolved=
+ routes=
+ sdk=
+ security=
+ specifier=
+ srcvers=
+ ssid-utf8-bytes=
+ state=
+ target-sdk=
+& timeout=90000ms; no internet required
+ ttl=
+ txt=
+ type=
+ unicast=
+ usable=
+ value=
+ Network
+available=
+$bytes
+$command
+$completion
+$configs
+$continuation
+,$i$a$-List-MdnsWire$parse$questions$1\3\49\0
+6$i$a$-all-CarDiscoveryKt$bootstrapPairingKey$1\2\254\0
+:$i$a$-all-CarDiscoveryKt$invitationReceiverIds$1$2\4\234\1
+8$i$a$-all-CarDiscoveryKt$normalizeReceiverId$1$1\3\231\1
+1$i$a$-all-CarDiscoveryKt$numericAddress$1\3\243\0
+3$i$a$-all-CarDiscoveryKt$numericAddress$2$1\9\247\7
+1$i$a$-all-CarDiscoveryKt$numericAddress$2\7\246\0
+2$i$a$-all-LegacyCarDiscovery$onCarLink$1$1\4\223\2
+.$i$a$-also-CarNetwork$join$importance$1\1\35\0
+.$i$a$-also-LegacyCarDiscovery$start$2$2\2\44\0
+8$i$a$-any-CarDiscoveryKt$homekitFeature$1$mask$1\6\241\1
+F$i$a$-any-CarNetwork$join$listener$1$onLinkPropertiesChanged$1\2\147\0
+F$i$a$-any-CarNetwork$join$listener$1$onLinkPropertiesChanged$2\4\147\0
+0$i$a$-any-LegacyCarDiscovery$onCarLink$1\2\221\0
+2$i$a$-any-LegacyCarDiscovery$receive$3$1$1\9\232\7
+0$i$a$-any-LegacyCarDiscovery$receive$3$1\7\232\1
+1$i$a$-any-LegacyCarDiscovery$receive$3$2\14\239\1
+1$i$a$-any-LegacyCarDiscovery$receive$3$3\16\242\1
+.$i$a$-apply-CarNetwork$join$specifier$1\6\54\0
+2$i$a$-apply-ModernCarDiscovery$start$info$1\1\41\0
+8$i$a$-associateByTo-MapsKt__MapsKt$mapValuesTo$1\4\247\2
+=$i$a$-buildSet-CarDiscoveryKt$invitationReceiverIds$1\1\191\0
+.$i$a$-check-CarDiscovery$endpoint$2$3\18\155\0
+1$i$a$-check-CarNetwork$currentAddresses$1\1\129\0
+$$i$a$-check-CarNetwork$join$3\2\43\0
+/$i$a$-check-CarNetwork$localAddresses$3\1\125\0
+6$i$a$-check-LegacyCarDiscovery$refreshSockets$1\4\85\0
+/$i$a$-check-LegacyCarDiscovery$start$2$1\1\43\0
+/$i$a$-check-LegacyCarDiscovery$start$2$4\4\46\0
+1$i$a$-check-LegacyCarDiscovery$start$2$5$2\7\54\5
+:$i$a$-check-ReceiverConnectionKt$connectReceiver$5\10\31\0
+4$i$a$-filter-CarDiscovery$refreshListeners$1\3\236\0
+J$i$a$-filter-CarNetwork$join$listener$1$onLinkPropertiesChanged$5\11\155\0
+9$i$a$-filter-CarNetwork$join$missingPermissions$1\5\148\0
+9$i$a$-filter-LegacyCarDiscovery$refreshSockets$2\10\218\0
+*$i$a$-filter-MdnsCache$endpoints$1\6\250\0
+4$i$a$-filter-MdnsCache$endpoints$2$hosts$1\17\269\12
+4$i$a$-filter-MdnsCache$endpoints$2$hosts$3\27\285\12
+.$i$a$-filter-MdnsCache$questions$1$1\18\221\15
+4$i$a$-filter-MdnsCache$questions$instances$1\6\202\0
+'$i$a$-filter-MdnsCache$update$1\3\178\0
+($i$a$-filter-MdnsCache$update$2\12\189\0
+,$i$a$-filter-MdnsCache$update$keys$1\6\181\0
+.$i$a$-filter-MdnsWire$controlRecords$1\4\179\0
+k$i$a$-filter-ModernCarDiscovery$start$browser$1$onServiceFound$resolver$1$onServiceUpdated$hosts$2\13\113\0
+;$i$a$-filter-NetworkAddressesKt$receiverCandidates$1\3\45\0
+J$i$a$-filter-NetworkAddressesKt$selectCarLocalAddress$sameFamily$1\10\38\0
+E$i$a$-filter-NetworkAddressesKt$selectCarLocalAddress$usable$1\3\31\0
+<$i$a$-firstOrNull-CarDiscovery$endpoint$2$bonjour$1\17\253\0
+A$i$a$-firstOrNull-CarDiscovery$endpoint$2$candidate$1$1\21\255\19
+O$i$a$-firstOrNull-CarDiscovery$startInvitationListener$1$1$receiverId$1\3\231\1
+A$i$a$-firstOrNull-LegacyCarDiscovery$receive$3$conflict$1\3\226\1
+C$i$a$-firstOrNull-NetworkAddressesKt$selectCarLocalAddress$1\5\33\0
+C$i$a$-firstOrNull-NetworkAddressesKt$selectCarLocalAddress$2\7\35\0
+D$i$a$-firstOrNull-NetworkAddressesKt$selectCarLocalAddress$3\12\40\0
+D$i$a$-firstOrNull-NetworkAddressesKt$selectCarLocalAddress$4\14\42\0
+/$i$a$-flatMap-MdnsCache$questions$1$3\27\238\15
+,$i$a$-flatMap-MdnsCache$questions$1\15\219\0
+*$i$a$-forEach-CarDiscovery$close$1\2\238\0
+)$i$a$-forEach-CarNetwork$join$6$2\2\146\0
+2$i$a$-forEach-CarNetworkKt$takeLastLines$1\2\146\0
+C$i$a$-forEach-CollectionsKt___CollectionsKt$mapNotNullTo$1\10\213\8
+C$i$a$-forEach-CollectionsKt___CollectionsKt$mapNotNullTo$1\10\261\8
+D$i$a$-forEach-CollectionsKt___CollectionsKt$mapNotNullTo$1\21\280\19
+D$i$a$-forEach-CollectionsKt___CollectionsKt$mapNotNullTo$1\22\232\20
+B$i$a$-forEach-CollectionsKt___CollectionsKt$mapNotNullTo$1\5\241\3
+B$i$a$-forEach-CollectionsKt___CollectionsKt$mapNotNullTo$1\7\107\5
+2$i$a$-forEach-LegacyCarDiscovery$close$1$1\3\265\1
+2$i$a$-forEach-LegacyCarDiscovery$close$1$3\6\267\1
+0$i$a$-forEach-LegacyCarDiscovery$query$1\2\263\0
+2$i$a$-forEach-LegacyCarDiscovery$sendAll$1\2\261\0
+)$i$a$-forEach-MdnsCache$update$3\14\194\0
+/$i$a$-forEach-ModernCarDiscovery$close$2\4\95\0
+/$i$a$-forEach-ModernCarDiscovery$close$3\7\97\0
+1$i$a$-ifEmpty-CarNetwork$localAddresses$4\2\126\0
+6$i$a$-lastOrNull-MdnsCache$endpoints$2$srv$1\14\265\12
+6$i$a$-lastOrNull-MdnsCache$endpoints$2$txt$1\29\290\12
++$i$a$-let-CarDiscovery$endpoint$2$1\1\131\0
+6$i$a$-let-CarDiscovery$endpoint$2$candidate$1\19\162\0
+G$i$a$-let-CarDiscovery$startInvitationListener$1$1$receiverId$2\4\111\1
+1$i$a$-let-CarDiscoveryKt$homekitFeature$1\1\198\0
+:$i$a$-let-CarDiscoveryKt$invitationReceiverIds$1$1\2\192\1
+:$i$a$-let-CarDiscoveryKt$invitationReceiverIds$1$4\6\194\1
+$$i$a$-let-CarNetwork$close$1\1\137\0
+E$i$a$-let-CarNetwork$join$listener$1$onLinkPropertiesChanged$3\5\89\0
+B$i$a$-let-CollectionsKt___CollectionsKt$mapNotNullTo$1$1\11\214\10
+B$i$a$-let-CollectionsKt___CollectionsKt$mapNotNullTo$1$1\11\293\10
+B$i$a$-let-CollectionsKt___CollectionsKt$mapNotNullTo$1$1\24\233\22
+B$i$a$-let-CollectionsKt___CollectionsKt$mapNotNullTo$1$1\24\281\21
+@$i$a$-let-CollectionsKt___CollectionsKt$mapNotNullTo$1$1\6\242\5
+@$i$a$-let-CollectionsKt___CollectionsKt$mapNotNullTo$1$1\8\109\7
+.$i$a$-let-LegacyCarDiscovery$close$1$2\4\205\1
+:$i$a$-let-LegacyCarDiscovery$refreshSockets$iface$1\2\84\0
+/$i$a$-let-MdnsCache$endpoints$2$txt$2\30\171\12
+%$i$a$-let-MdnsCache$update$4\15\144\0
++$i$a$-let-ModernCarDiscovery$close$1\1\87\0
+,$i$a$-map-CarDiscovery$endpoint$2$2\15\251\0
+6$i$a$-map-CarDiscovery$endpoint$2$signature$1\12\247\0
+&$i$a$-map-CarDiscovery$start$2\3\233\0
+;$i$a$-map-CarDiscoveryKt$homekitFeature$1$numbers$1\4\238\1
+2$i$a$-map-CarDiscoveryKt$numericAddress$3\13\252\0
+F$i$a$-map-CarNetwork$join$listener$1$onLinkPropertiesChanged$4\8\152\0
+G$i$a$-map-CarNetwork$join$listener$1$onLinkPropertiesChanged$6\14\159\0
+G$i$a$-map-CarNetwork$join$listener$1$onLinkPropertiesChanged$7\17\163\0
++$i$a$-map-CarNetwork$localAddress$2\3\152\0
+,$i$a$-map-LegacyCarDiscovery$emit$1\11\255\0
+5$i$a$-map-LegacyCarDiscovery$emit$current$1$1\8\250\5
+.$i$a$-map-LegacyCarDiscovery$publish$1\3\259\0
+7$i$a$-map-LegacyCarDiscovery$receive$3$reply$1\12\236\1
+>$i$a$-map-LegacyCarDiscovery$refreshSockets$families$1\7\215\0
+/$i$a$-map-MdnsCache$endpoints$records$1\3\247\0
+/$i$a$-map-MdnsCache$questions$records$1\3\199\0
+)$i$a$-map-MdnsCache$update$keys$2\9\185\0
++$i$a$-map-MdnsWire$controlRecords$2\7\183\0
+`$i$a$-map-ModernCarDiscovery$start$browser$1$onServiceFound$resolver$1$onServiceUpdated$1\3\96\0
+j$i$a$-map-ModernCarDiscovery$start$browser$1$onServiceFound$resolver$1$onServiceUpdated$host$1$1\17\117\14
+7$i$a$-map-ReceiverConnectionKt$connectReceiver$3\4\47\0
+7$i$a$-map-ReceiverConnectionKt$connectReceiver$4\7\47\0
+;$i$a$-map-ReceiverConnectionKt$connectReceiver$5$1\13\53\10
+9$i$a$-mapNotNull-CarDiscovery$endpoint$2$parsed$1\7\240\0
+8$i$a$-mapNotNull-MdnsCache$endpoints$2$hosts$2\22\279\12
+/$i$a$-mapNotNull-MdnsCache$endpoints$2\12\260\0
+2$i$a$-mapNotNull-MdnsCache$questions$1$2\23\231\15
+9$i$a$-mapNotNull-MdnsCache$questions$instances$2\12\212\0
+n$i$a$-mapNotNull-ModernCarDiscovery$start$browser$1$onServiceFound$resolver$1$onServiceUpdated$hosts$1\9\106\0
+9$i$a$-mapValues-LegacyCarDiscovery$emit$current$1\5\247\0
+<$i$a$-none-LegacyCarDiscovery$receive$3$conflict$1$1\5\228\3
+:$i$a$-onFailure-CarDiscovery$endpoint$2$parsed$1$2\9\136\7
+0$i$a$-repeat-LegacyCarDiscovery$start$2$5\5\49\0
+$$i$a$-repeat-MdnsWire$parse$3\4\55\0
+%$i$a$-require-MdnsWire$parse$1\1\21\0
+%$i$a$-require-MdnsWire$parse$2\2\48\0
+-$i$a$-require-MdnsWire$parse$dnsName$1\1\28\0
+9$i$a$-require-NetworkAddressesKt$scopeCarAddress$1\1\10\0
+;$i$a$-require-ReceiverConnectionKt$connectReceiver$2\1\16\0
+E$i$a$-requireNotNull-LegacyCarDiscovery$refreshSockets$iface$2\3\84\0
+J$i$a$-requireNotNull-LegacyCarDiscovery$refreshSockets$properties$1\1\83\0
+f$i$a$-run-ModernCarDiscovery$start$browser$1$onServiceFound$resolver$1$onServiceUpdated$host$1\14\64\0
+0$i$a$-runCatching-CarDiscovery$close$1$1\3\180\2
+.$i$a$-runCatching-CarDiscovery$close$2\4\180\0
+<$i$a$-runCatching-CarDiscovery$endpoint$2$parsed$1$1\8\135\7
+.$i$a$-runCatching-CarNetwork$close$1$1\2\137\1
+;$i$a$-runCatching-MdnsCache$endpoints$2$hosts$2$1\23\168\23
+5$i$a$-runCatching-ModernCarDiscovery$close$1$1\2\87\1
+5$i$a$-runCatching-ModernCarDiscovery$close$2$1\5\88\4
+5$i$a$-runCatching-ModernCarDiscovery$close$3$1\8\89\7
+q$i$a$-runCatching-ModernCarDiscovery$start$browser$1$onServiceFound$resolver$1$onServiceUpdated$hosts$1$1\10\62\9
+*$i$a$-sumOfInt-MdnsWire$writeName$1\2\93\0
+5$i$a$-synchronized-LegacyCarDiscovery$close$1\1\200\0
+7$i$a$-synchronized-LegacyCarDiscovery$receive$3\1\131\0
+6$i$a$-synchronized-LegacyCarDiscovery$start$2$3\3\45\0
+8$i$a$-synchronized-LegacyCarDiscovery$start$2$5$1\6\50\5
+6$i$a$-synchronized-LegacyCarDiscovery$start$2$6\8\56\0
+8$i$a$-synchronized-LegacyCarDiscovery$start$2$7$1\1\66\0
+=$i$a$-takeIf-CarDiscoveryKt$invitationReceiverIds$1$3\5\194\1
+9$i$a$-takeIf-CarDiscoveryKt$normalizeReceiverId$1\1\186\0
+9$i$a$-use-CarDiscovery$startInvitationListener$1$1\1\95\0
+$i$f$all\1\226
+$i$f$all\2\187
+$i$f$all\2\213
+$i$f$all\3\116
+$i$f$all\3\193
+$i$f$all\6\219
+$i$f$all\8\219
+$i$f$any\13\157
+$i$f$any\15\159
+$i$f$any\1\113
+$i$f$any\1\87
+$i$f$any\3\87
+$i$f$any\5\203
+$i$f$any\6\151
+$i$f$any\8\151
+$i$f$associateByTo\3\245
+!$i$f$currentCoroutineContext\8\20
+!$i$f$currentCoroutineContext\9\30
+$i$f$filterTo\10\154
+$i$f$filterTo\11\187
+$i$f$filterTo\12\112
+$i$f$filterTo\16\268
+$i$f$filterTo\17\220
+$i$f$filterTo\26\284
+$i$f$filterTo\2\177
+$i$f$filterTo\2\235
+$i$f$filterTo\2\30
+$i$f$filterTo\2\44
+$i$f$filterTo\3\178
+$i$f$filterTo\4\147
+$i$f$filterTo\5\180
+$i$f$filterTo\5\201
+$i$f$filterTo\5\249
+$i$f$filterTo\9\217
+$i$f$filterTo\9\37
+$i$f$filter\10\139
+$i$f$filter\11\63
+$i$f$filter\15\167
+$i$f$filter\16\156
+$i$f$filter\1\137
+$i$f$filter\1\15
+$i$f$filter\1\26
+$i$f$filter\1\74
+$i$f$filter\25\169
+$i$f$filter\2\124
+$i$f$filter\3\45
+$i$f$filter\4\138
+$i$f$filter\4\153
+$i$f$filter\4\164
+$i$f$filter\8\18
+$i$f$filter\8\88
+$i$f$filter\9\90
+$i$f$firstOrNull\11\20
+$i$f$firstOrNull\13\21
+$i$f$firstOrNull\16\150
+$i$f$firstOrNull\20\162
+$i$f$firstOrNull\2\109
+$i$f$firstOrNull\2\137
+$i$f$firstOrNull\4\16
+$i$f$firstOrNull\6\17
+$i$f$flatMapTo\14\217
+$i$f$flatMapTo\26\236
+$i$f$flatMap\13\154
+$i$f$flatMap\25\156
+$i$f$forEach\13\140
+$i$f$forEach\1\111
+$i$f$forEach\1\142
+$i$f$forEach\1\180
+$i$f$forEach\1\195
+$i$f$forEach\1\198
+$i$f$forEach\20\279
+$i$f$forEach\21\231
+$i$f$forEach\2\204
+$i$f$forEach\3\88
+$i$f$forEach\4\240
+$i$f$forEach\5\207
+$i$f$forEach\6\106
+$i$f$forEach\6\89
+$i$f$forEach\9\212
+$i$f$forEach\9\260
+$i$f$lastOrNull\13\166
+$i$f$lastOrNull\28\171
+$i$f$mapNotNullTo\19\271
+$i$f$mapNotNullTo\20\223
+$i$f$mapNotNullTo\3\232
+$i$f$mapNotNullTo\5\98
+$i$f$mapNotNullTo\8\204
+$i$f$mapNotNullTo\8\252
+$i$f$mapNotNull\18\167
+$i$f$mapNotNull\19\156
+$i$f$mapNotNull\2\134
+$i$f$mapNotNull\4\61
+$i$f$mapNotNull\7\153
+$i$f$mapNotNull\7\164
+$i$f$mapTo\10\253
+$i$f$mapTo\11\234
+$i$f$mapTo\11\245
+$i$f$mapTo\12\250
+$i$f$mapTo\12\51
+$i$f$mapTo\13\157
+$i$f$mapTo\14\249
+$i$f$mapTo\16\115
+$i$f$mapTo\16\161
+$i$f$mapTo\2\150
+$i$f$mapTo\2\197
+$i$f$mapTo\2\231
+$i$f$mapTo\2\245
+$i$f$mapTo\2\257
+$i$f$mapTo\2\94
+$i$f$mapTo\3\236
+$i$f$mapTo\3\45
+$i$f$mapTo\6\181
+$i$f$mapTo\6\213
+$i$f$mapTo\6\45
+$i$f$mapTo\7\150
+$i$f$mapTo\7\248
+$i$f$mapTo\8\183
+$i$f$mapValuesTo\2\244
+$i$f$mapValues\1\174
+$i$f$map\10\141
+$i$f$map\10\155
+$i$f$map\11\220
+$i$f$map\11\31
+$i$f$map\12\91
+$i$f$map\13\149
+$i$f$map\15\65
+$i$f$map\15\92
+$i$f$map\1\135
+$i$f$map\1\152
+$i$f$map\1\163
+$i$f$map\1\189
+$i$f$map\1\42
+$i$f$map\1\60
+$i$f$map\2\18
+$i$f$map\2\201
+$i$f$map\5\124
+$i$f$map\5\18
+$i$f$map\5\86
+$i$f$map\6\174
+$i$f$map\6\90
+$i$f$map\7\138
+$i$f$map\9\178
+$i$f$none\4\139
+$info
+$initial
+$lane
+$listener
+$localAddresses
+$missingPermissions
+$now
+$ready
+$receiver
+$registered
+$requestStarted
+$result
+$stable
+$started
+$this
+$this$all\1
+$this$all\2
+$this$all\3
+$this$all\6
+$this$all\8
+$this$any\1
+$this$any\13
+$this$any\15
+$this$any\3
+$this$any\5
+$this$any\6
+$this$any\8
+$this$associateByTo\3
+,$this$close_u24lambda_u2410_u24lambda_u249\2
++$this$close_u24lambda_u243_u24lambda_u242\2
++$this$close_u24lambda_u245_u24lambda_u244\3
++$this$close_u24lambda_u245_u24lambda_u244\5
+$this$close_u24lambda_u246\4
++$this$close_u24lambda_u247_u24lambda_u246\8
+B$this$endpoints_u24lambda_u2423_u24lambda_u2419_u24lambda_u2418\23
+$this$filterTo\10
+$this$filterTo\11
+$this$filterTo\12
+$this$filterTo\16
+$this$filterTo\17
+$this$filterTo\2
+$this$filterTo\26
+$this$filterTo\3
+$this$filterTo\4
+$this$filterTo\5
+$this$filterTo\9
+$this$filter\1
+$this$filter\10
+$this$filter\11
+$this$filter\15
+$this$filter\16
+$this$filter\2
+$this$filter\25
+$this$filter\3
+$this$filter\4
+$this$filter\8
+$this$filter\9
+$this$firstOrNull\11
+$this$firstOrNull\13
+$this$firstOrNull\16
+$this$firstOrNull\2
+$this$firstOrNull\20
+$this$firstOrNull\4
+$this$firstOrNull\6
+$this$flatMapTo\14
+$this$flatMapTo\26
+$this$flatMap\13
+$this$flatMap\25
+$this$forEach\1
+$this$forEach\13
+$this$forEach\2
+$this$forEach\20
+$this$forEach\21
+$this$forEach\3
+$this$forEach\4
+$this$forEach\5
+$this$forEach\6
+$this$forEach\9
+,$this$invitationReceiverIds_u24lambda_u245\1
+3$this$invokeSuspend_u24lambda_u243_u24lambda_u241\8
+$this$join_u24lambda_u244\6
+$this$lastOrNull\13
+$this$lastOrNull\28
+$this$launch
+$this$mapNotNullTo\19
+$this$mapNotNullTo\20
+$this$mapNotNullTo\3
+$this$mapNotNullTo\5
+$this$mapNotNullTo\8
+$this$mapNotNull\18
+$this$mapNotNull\19
+$this$mapNotNull\2
+$this$mapNotNull\4
+$this$mapNotNull\7
+$this$mapTo\10
+$this$mapTo\11
+$this$mapTo\12
+$this$mapTo\13
+$this$mapTo\14
+$this$mapTo\16
+$this$mapTo\2
+$this$mapTo\3
+$this$mapTo\6
+$this$mapTo\7
+$this$mapTo\8
+$this$mapValuesTo\2
+$this$mapValues\1
+$this$map\1
+$this$map\10
+$this$map\11
+$this$map\12
+$this$map\13
+$this$map\15
+$this$map\2
+$this$map\5
+$this$map\6
+$this$map\7
+$this$map\9
+$this$none\4
+7$this$onServiceUpdated_u24lambda_u243_u24lambda_u242\10
+($this$onServiceUpdated_u24lambda_u246\14
+$this$start_u24lambda_u241\1
+$this$takeLastLines
+$this$withTimeout
+$unavailable
+$value
+%012X
+/()Lio/github/iamr0s/carplay/network/MdnsRecord;
+()Ljava/lang/String;
+()Ljava/net/InetAddress;
+()Ljava/net/MulticastSocket;
+()Ljava/net/NetworkInterface;
+()Ljava/util/List;
+*()Lkotlinx/coroutines/CompletableDeferred;
+()[B
+(B)Ljava/lang/CharSequence;
+%(IZLjava/util/List;Ljava/util/List;)V
+(J)V
+(JI)
+(JLjava/util/Map$Entry;)Z
+(Landroid/content/Context;)V
+(Landroid/content/Context;Landroid/net/Network;Ljava/lang/String;IILkotlin/jvm/functions/Function0;Lkotlin/jvm/functions/Function2;)V
+(Landroid/content/Context;Landroid/net/Network;Ljava/lang/String;ILkotlin/jvm/functions/Function0;Ljava/util/concurrent/ConcurrentHashMap;Lkotlinx/coroutines/channels/Channel;)V
+(Landroid/content/Context;Landroid/net/Network;Ljava/net/InetAddress;Ljava/lang/String;Ljava/util/List;ILkotlin/jvm/functions/Function0;)V
+(Landroid/net/Network;Lio/github/iamr0s/carplay/network/ReceiverEndpoint;Ljava/util/List;Lkotlin/coroutines/Continuation;)Ljava/lang/Object;
+_(Landroid/net/Network;Ljava/net/InetAddress;Lkotlin/coroutines/Continuation;)Ljava/lang/Object;
+I(Landroid/net/Network;Lkotlin/coroutines/Continuation;)Ljava/lang/Object;
+(Lio/github/iamr0s/carplay/network/CarDiscovery;Ljava/lang/String;Lio/github/iamr0s/carplay/network/ReceiverEndpoint;)Lkotlin/Unit;
+Y(Lio/github/iamr0s/carplay/network/CarNetwork;Ljava/lang/String;)Ljava/lang/CharSequence;
+n(Lio/github/iamr0s/carplay/network/LegacyCarDiscovery$Lane;Lkotlin/coroutines/Continuation;)Ljava/lang/Object;
+1(Lio/github/iamr0s/carplay/network/MdnsRecord;J)V
+L(Lio/github/iamr0s/carplay/network/ModernCarDiscovery;Ljava/lang/Runnable;)V
+f(Lio/github/iamr0s/carplay/protocol/WirelessConfig;Lkotlin/coroutines/Continuation;)Ljava/lang/Object;
+'(Ljava/lang/String;)Ljava/lang/Boolean;
+(Ljava/lang/String;)Z
+-(Ljava/lang/String;IJ[BLjava/lang/String;IZ)V
+(Ljava/lang/String;IZ)V
+(Ljava/net/InetAddress;ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;ZLjava/util/List;)V
+N(Ljava/net/MulticastSocket;Ljava/net/InetAddress;Ljava/net/NetworkInterface;)V
+K(Ljava/net/ServerSocket;Lkotlin/coroutines/Continuation;)Ljava/lang/Object;
+"(Ljava/util/List;)Ljava/util/List;
+<(Ljava/util/List;Ljava/lang/String;)Ljava/lang/CharSequence;
+/(Ljava/util/Map$Entry;)Ljava/lang/CharSequence;
+4(Lkotlin/coroutines/Continuation;)Ljava/lang/Object;
+(Lkotlinx/coroutines/channels/Channel;Lio/github/iamr0s/carplay/protocol/WirelessConfig;Lkotlin/coroutines/Continuation;)Ljava/lang/Object;
+([B)
+*>;)
+, data=
+, expires=
+, flush=
+, group=
+, iface=
+, port=
+, questions=
+, records=
+, response=
+, target=
+, ttl=
+, type=
+, unicast=
+._carplay-ctrl._tcp.local.
+.local.
+/ctrl-int/1/connect
+0123456789abcdefABCDEF:.
+200 OK
+320.17
+404 Not Found
+@7bbc1d7254613ffaa026de47d975f73968361ef3e5d7b818ce0a83a33039c6b8
+$; callback may omit port/TXT/network
+; closing stale listener
+.; continuing other requested-Network addresses
+; invitation-policy=not-forced
+; live address update
+; local-address not forced
+; other family may continue
+); pair proofs/signatures remain mandatory
+; raw=
+; request retained
+<; retaining same TCP socket for authentication/media control
+$; selection awaits network-bound TCP
+G; source=kernel-route-on-requested-Network; no default/hotspot fallback
+; stopping publication
+0; trying next address only before authentication
+G; using live LinkProperties, not initial snapshot; no TCP attempted yet
+<anonymous>
+<clinit>
+<get-entries>(...)
+<get-keys>(...)
+<get-value>(...)
+<get-values>(...)
+<init>
+<set-?>
+<unused var>
+c=== Root system Wi-Fi logs begin; fixed read-only logcat; allow existing KernelSU authorization ===
+"=== Root system Wi-Fi logs end ===
+>;)V
+>;>;
+>;>;)
+>;>;)V
+>;>;>;
+>;>;>;)
+>;I)
+>;J)
+>;J)V
+>;ZI)[B
+AIRPLAY
+AirPlay-Receiver-Device-ID
+CONTROL
+#Car network address snapshot iface=
+CarDiscovery.kt
+CarNetwork.kt
+CarPlay Android
+CarPlay Android 
+ CarPlay control invitation peer=
+CarPlay control listeners=
+Channel$default
+Companion
+CompletableDeferred$default
+KControl invitation listener stopped during cleanup/address removal; reason=
+'Control listener address removed local=
+(Control listener address watcher stopped
+%Control listener bind failed address=
+-Control listener current-address bound local=
+CoroutineScope
+D8$$SyntheticClass
+,Discovery awaiting address-family readiness 
+Discovery backend=
+2Discovery endpoint-ready=true invitation-received=
+"Discovery waiting modern-endpoint=
+Ed25519-hex
+Entry
+Entry(record=
+Failed requirement.
+HTTP/1.1 
+INSTANCE
+IPv4
+IPv6
+?IPv6 link-local endpoint requires the car Wi-Fi interface index
+Invalid DNS name pointer
+Invalid mDNS packet size=
+L$10
+LILLIL
+LIZLL
+LJLL
+LLCL
+LLCLIL
+LLII
+LLIJLLIZ
+LLIL
+LLIZ
+LLIZLLIL
+LLLI
+LLLIJLLIZIL
+LLLIL
+LLLILLJ
+LLLIZIL
+LLLJIL
+LLLL
+LLLLILLJIL
+LLLLL
+LLLLLIL
+LLLLLILLIL
+LLLLZIIL
+LLLLZIL
+LLLZI
+LLLZIIL
+3Landroid/app/ActivityManager$RunningAppProcessInfo;
+Landroid/app/ActivityManager;
+Landroid/content/Context;
+$Landroid/content/pm/ApplicationInfo;
+"Landroid/location/LocationManager;
+1Landroid/net/ConnectivityManager$NetworkCallback;
+!Landroid/net/ConnectivityManager;
+Landroid/net/LinkAddress;
+Landroid/net/LinkProperties;
+Landroid/net/Network;
+!Landroid/net/NetworkCapabilities;
+$Landroid/net/NetworkRequest$Builder;
+Landroid/net/NetworkRequest;
+Landroid/net/NetworkSpecifier;
+.Landroid/net/nsd/NsdManager$DiscoveryListener;
+1Landroid/net/nsd/NsdManager$RegistrationListener;
+0Landroid/net/nsd/NsdManager$ServiceInfoCallback;
+Landroid/net/nsd/NsdManager;
+ Landroid/net/nsd/NsdServiceInfo;
+,Landroid/net/wifi/WifiManager$MulticastLock;
+Landroid/net/wifi/WifiManager;
+/Landroid/net/wifi/WifiNetworkSpecifier$Builder;
+'Landroid/net/wifi/WifiNetworkSpecifier;
+Landroid/os/Build$VERSION;
+Landroid/os/SystemClock;
+Lane
+Lane(socket=
+/Lcom/android/tools/r8/annotations/LambdaMethod;
+5Lcom/android/tools/r8/annotations/SynthesizedClassV2;
+"Ldalvik/annotation/EnclosingClass;
+#Ldalvik/annotation/EnclosingMethod;
+Ldalvik/annotation/InnerClass;
+!Ldalvik/annotation/MemberClasses;
+Ldalvik/annotation/Signature;
+(Ldalvik/annotation/SourceDebugExtension;
+LegacyCarDiscovery.kt
+&Lio/github/iamr0s/carplay/Diagnostics;
+.Lio/github/iamr0s/carplay/NativeHookLogReader;
+'Lio/github/iamr0s/carplay/SystemAssist;
+ILio/github/iamr0s/carplay/network/CarDiscovery$$ExternalSyntheticLambda0;
+ILio/github/iamr0s/carplay/network/CarDiscovery$$ExternalSyntheticLambda1;
+:Lio/github/iamr0s/carplay/network/CarDiscovery$endpoint$2;
+7Lio/github/iamr0s/carplay/network/CarDiscovery$start$1;
+7Lio/github/iamr0s/carplay/network/CarDiscovery$start$3;
+ILio/github/iamr0s/carplay/network/CarDiscovery$startInvitationListener$1;
+/Lio/github/iamr0s/carplay/network/CarDiscovery;
+1Lio/github/iamr0s/carplay/network/CarDiscoveryKt;
+GLio/github/iamr0s/carplay/network/CarNetwork$$ExternalSyntheticLambda0;
+GLio/github/iamr0s/carplay/network/CarNetwork$$ExternalSyntheticLambda1;
+4Lio/github/iamr0s/carplay/network/CarNetwork$join$1;
+4Lio/github/iamr0s/carplay/network/CarNetwork$join$5;
+NLio/github/iamr0s/carplay/network/CarNetwork$join$6$$ExternalSyntheticLambda0;
+4Lio/github/iamr0s/carplay/network/CarNetwork$join$6;
+=Lio/github/iamr0s/carplay/network/CarNetwork$join$listener$1;
+<Lio/github/iamr0s/carplay/network/CarNetwork$localAddress$1;
+>Lio/github/iamr0s/carplay/network/CarNetwork$localAddresses$1;
+>Lio/github/iamr0s/carplay/network/CarNetwork$localAddresses$2;
+-Lio/github/iamr0s/carplay/network/CarNetwork;
+/Lio/github/iamr0s/carplay/network/CarNetworkKt;
+:Lio/github/iamr0s/carplay/network/LegacyCarDiscovery$Lane;
+FLio/github/iamr0s/carplay/network/LegacyCarDiscovery$refreshSockets$3;
+?Lio/github/iamr0s/carplay/network/LegacyCarDiscovery$start$2$7;
+=Lio/github/iamr0s/carplay/network/LegacyCarDiscovery$start$2;
+5Lio/github/iamr0s/carplay/network/LegacyCarDiscovery;
+FLio/github/iamr0s/carplay/network/MdnsCache$$ExternalSyntheticLambda0;
+FLio/github/iamr0s/carplay/network/MdnsCache$$ExternalSyntheticLambda1;
+2Lio/github/iamr0s/carplay/network/MdnsCache$Entry;
+,Lio/github/iamr0s/carplay/network/MdnsCache;
+.Lio/github/iamr0s/carplay/network/MdnsMessage;
+/Lio/github/iamr0s/carplay/network/MdnsQuestion;
+-Lio/github/iamr0s/carplay/network/MdnsRecord;
++Lio/github/iamr0s/carplay/network/MdnsWire;
+OLio/github/iamr0s/carplay/network/ModernCarDiscovery$$ExternalSyntheticLambda0;
+BLio/github/iamr0s/carplay/network/ModernCarDiscovery$executor$1$1;
+=Lio/github/iamr0s/carplay/network/ModernCarDiscovery$start$1;
+=Lio/github/iamr0s/carplay/network/ModernCarDiscovery$start$2;
+=Lio/github/iamr0s/carplay/network/ModernCarDiscovery$start$3;
+yLio/github/iamr0s/carplay/network/ModernCarDiscovery$start$browser$1$onServiceFound$resolver$1$$ExternalSyntheticLambda0;
+_Lio/github/iamr0s/carplay/network/ModernCarDiscovery$start$browser$1$onServiceFound$resolver$1;
+ELio/github/iamr0s/carplay/network/ModernCarDiscovery$start$browser$1;
+JLio/github/iamr0s/carplay/network/ModernCarDiscovery$start$registration$1;
+5Lio/github/iamr0s/carplay/network/ModernCarDiscovery;
+5Lio/github/iamr0s/carplay/network/NetworkAddressesKt;
+7Lio/github/iamr0s/carplay/network/ReceiverConnectionKt;
+3Lio/github/iamr0s/carplay/network/ReceiverEndpoint;
+2Lio/github/iamr0s/carplay/protocol/WirelessConfig;
+Ljava/io/ByteArrayOutputStream;
+Ljava/io/Closeable;
+Ljava/io/DataOutputStream;
+Ljava/io/IOException;
+Ljava/io/InputStream;
+Ljava/io/OutputStream;
+Ljava/lang/Boolean;
+Ljava/lang/Byte;
+Ljava/lang/CharSequence;
+Ljava/lang/Character;
+Ljava/lang/Class;
+Ljava/lang/Exception;
+$Ljava/lang/IllegalArgumentException;
+!Ljava/lang/IllegalStateException;
+Ljava/lang/Integer;
+Ljava/lang/Iterable;
+Ljava/lang/Long;
+Ljava/lang/Math;
+Ljava/lang/Number;
+Ljava/lang/Object;
+Ljava/lang/Runnable;
+Ljava/lang/SecurityException;
+Ljava/lang/String;
+Ljava/lang/StringBuilder;
+Ljava/lang/System;
+Ljava/lang/Throwable;
+Ljava/net/DatagramPacket;
+Ljava/net/DatagramSocket;
+Ljava/net/Inet4Address;
+Ljava/net/Inet6Address;
+Ljava/net/InetAddress;
+Ljava/net/InetSocketAddress;
+Ljava/net/MulticastSocket;
+Ljava/net/NetworkInterface;
+Ljava/net/ServerSocket;
+Ljava/net/Socket;
+Ljava/net/SocketAddress;
+!Ljava/net/SocketTimeoutException;
+Ljava/nio/charset/Charset;
+Ljava/util/ArrayList;
+Ljava/util/Arrays;
+Ljava/util/Collection;
+Ljava/util/HashSet;
+Ljava/util/Iterator;
+Ljava/util/LinkedHashMap;
+Ljava/util/LinkedHashMap<
+Ljava/util/LinkedHashSet;
+Ljava/util/List;
+Ljava/util/List<
+Ljava/util/ListIterator;
+Ljava/util/Locale;
+Ljava/util/Map$Entry;
+Ljava/util/Map;
+Ljava/util/Map<
+Ljava/util/Set;
+Ljava/util/Set<
+Ljava/util/UUID;
+,Ljava/util/concurrent/CancellationException;
+(Ljava/util/concurrent/ConcurrentHashMap;
+(Ljava/util/concurrent/ConcurrentHashMap<
++Ljava/util/concurrent/CopyOnWriteArrayList;
++Ljava/util/concurrent/CopyOnWriteArrayList<
+Ljava/util/concurrent/Executor;
+Lkotlin/ExceptionsKt;
+Lkotlin/Function0;
+Lkotlin/Function2;
+Lkotlin/Metadata;
+Lkotlin/Pair;
+Lkotlin/Pair<
+Lkotlin/Result$Companion;
+Lkotlin/Result;
+Lkotlin/ResultKt;
+Lkotlin/TuplesKt;
+Lkotlin/Unit;
+Lkotlin/collections/ArrayDeque;
+Lkotlin/collections/ArraysKt;
+"Lkotlin/collections/CollectionsKt;
+ Lkotlin/collections/IntIterator;
+"Lkotlin/collections/LinkedHashMap;
+Lkotlin/collections/MapsKt;
+Lkotlin/collections/SetsKt;
+ Lkotlin/coroutines/Continuation;
+ Lkotlin/coroutines/Continuation<
+$Lkotlin/coroutines/CoroutineContext;
++Lkotlin/coroutines/intrinsics/IntrinsicsKt;
+1Lkotlin/coroutines/jvm/internal/ContinuationImpl;
+.Lkotlin/coroutines/jvm/internal/DebugMetadata;
++Lkotlin/coroutines/jvm/internal/SpillingKt;
+.Lkotlin/coroutines/jvm/internal/SuspendLambda;
+Lkotlin/io/CloseableKt;
+ Lkotlin/jvm/functions/Function0;
+ Lkotlin/jvm/functions/Function0<
+ Lkotlin/jvm/functions/Function1;
+ Lkotlin/jvm/functions/Function2;
+ Lkotlin/jvm/functions/Function2<
+.Lkotlin/jvm/internal/DefaultConstructorMarker;
+ Lkotlin/jvm/internal/Intrinsics;
+$Lkotlin/jvm/internal/Ref$BooleanRef;
+ Lkotlin/jvm/internal/Ref$IntRef;
+#Lkotlin/jvm/internal/Ref$ObjectRef;
+Lkotlin/ranges/IntRange;
+Lkotlin/ranges/RangesKt;
+Lkotlin/sequences/Sequence;
+Lkotlin/sequences/Sequence<
+Lkotlin/sequences/SequencesKt;
+Lkotlin/text/CharsKt;
+Lkotlin/text/Charsets;
+Lkotlin/text/Regex;
+Lkotlin/text/StringsKt;
+Lkotlinx/coroutines/BuildersKt;
+(Lkotlinx/coroutines/CompletableDeferred;
+(Lkotlinx/coroutines/CompletableDeferred<
+*Lkotlinx/coroutines/CompletableDeferredKt;
+#Lkotlinx/coroutines/CompletableJob;
+(Lkotlinx/coroutines/CoroutineDispatcher;
+#Lkotlinx/coroutines/CoroutineScope;
+%Lkotlinx/coroutines/CoroutineScopeKt;
+#Lkotlinx/coroutines/CoroutineStart;
+Lkotlinx/coroutines/DelayKt;
+ Lkotlinx/coroutines/Dispatchers;
+Lkotlinx/coroutines/Job;
+Lkotlinx/coroutines/JobKt;
+!Lkotlinx/coroutines/SupervisorKt;
+1Lkotlinx/coroutines/TimeoutCancellationException;
+Lkotlinx/coroutines/TimeoutKt;
+,Lkotlinx/coroutines/channels/BufferOverflow;
+%Lkotlinx/coroutines/channels/Channel;
+%Lkotlinx/coroutines/channels/Channel<
+'Lkotlinx/coroutines/channels/ChannelKt;
++Lkotlinx/coroutines/channels/ChannelResult;
+6Lkotlinx/coroutines/channels/SendChannel$DefaultImpls;
+)Lkotlinx/coroutines/channels/SendChannel;
+MDNS LEGACY network=
+MdnsMessage(id=
+MdnsQuestion(name=
+MdnsRecord(name=
+MdnsWire.kt
+ModernCarDiscovery.kt
+NSD control unregistered
+NSD discovery failed code=
+NSD discovery stopped
+!NSD invalid receiver port ignored
+5NSD no valid receiver unicast address; current-local=
+&NSD phone control registered callback=
+3NSD receiver discovery started on requested Network
+NSD receiver resolved family=
+NSD receiver service lost
+%NSD resolve registration failed code=
+NSD service cap reached
+NSD service updated name=
+NSD stop failed code=
+NSD unregister failed code=
+NSD 
+ code=
+NetworkAddresses.kt
+ROOT
+ROUTE attempt=
+ROUTE candidate failed remote=
+ROUTE candidates=
+ROUTE connected remote=
+&Receiver bootstrap key classification=
+*Receiver candidates from iAP2 start hosts=
+LReceiver matched control invitation and Bonjour with current local addresses
+ReceiverConnection.kt
+Required value was null.
+SDK_INT
+$SENSITIVE Wi-Fi actual request ssid=
+SMAP
+CarDiscovery.kt
+Kotlin
+*S Kotlin
++ 1 CarDiscovery.kt
+io/github/iamr0s/carplay/network/CarDiscovery
++ 2 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
++ 3 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,230:1
+1563#2:231
+1634#2,3:232
+774#2:235
+865#2,2:236
+1869#2:238
+1870#2:240
+1#3:239
+*S KotlinDebug
++ 1 CarDiscovery.kt
+io/github/iamr0s/carplay/network/CarDiscovery
+42#1:231
+42#1:232,3
+74#1:235
+74#1:236,2
+180#1:238
+180#1:240
+SMAP
+CarDiscovery.kt
+Kotlin
+*S Kotlin
++ 1 CarDiscovery.kt
+io/github/iamr0s/carplay/network/CarDiscovery$endpoint$2
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
++ 3 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
+1#1,230:1
+1#2:231
+1#2:242
+1617#3,9:232
+1869#3:241
+1870#3:243
+1626#3:244
+1563#3:245
+1634#3,3:246
+1563#3:249
+1634#3,3:250
+295#3,2:253
+295#3,2:255
+*S KotlinDebug
++ 1 CarDiscovery.kt
+io/github/iamr0s/carplay/network/CarDiscovery$endpoint$2
+134#1:242
+134#1:232,9
+134#1:241
+134#1:243
+134#1:244
+141#1:245
+141#1:246,3
+149#1:249
+149#1:250,3
+150#1:253,2
+162#1:255,2
+SMAP
+CarDiscovery.kt
+Kotlin
+*S Kotlin
++ 1 CarDiscovery.kt
+io/github/iamr0s/carplay/network/CarDiscovery$startInvitationListener$1
++ 2 _Sequences.kt
+kotlin/sequences/SequencesKt___SequencesKt
++ 3 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,230:1
+183#2,2:231
+1#3:233
+*S KotlinDebug
++ 1 CarDiscovery.kt
+io/github/iamr0s/carplay/network/CarDiscovery$startInvitationListener$1
+109#1:231,2
+SMAP
+CarDiscovery.kt
+Kotlin
+*S Kotlin
++ 1 CarDiscovery.kt
+io/github/iamr0s/carplay/network/CarDiscoveryKt
++ 2 _Strings.kt
+kotlin/text/StringsKt___StringsKt
++ 3 fake.kt
+kotlin/jvm/internal/FakeKt
++ 4 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
+1#1,230:1
+1069#2,2:231
+1069#2,2:234
+1069#2,2:243
+1069#2,2:247
+1069#2,2:254
+1#3:233
+1563#4:236
+1634#4,3:237
+1761#4,3:240
+1740#4,2:245
+1742#4:249
+1563#4:250
+1634#4,3:251
+*S KotlinDebug
++ 1 CarDiscovery.kt
+io/github/iamr0s/carplay/network/CarDiscoveryKt
+187#1:231,2
+193#1:234,2
+213#1:243,2
+219#1:247,2
+226#1:254,2
+201#1:236
+201#1:237,3
+203#1:240,3
+219#1:245,2
+219#1:249
+220#1:250
+220#1:251,3
+SMAP
+CarNetwork.kt
+Kotlin
+*S Kotlin
++ 1 CarNetwork.kt
+io/github/iamr0s/carplay/network/CarNetwork
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
++ 3 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
+1#1,145:1
+1#2:146
+774#3:147
+865#3,2:148
+1563#3:150
+1634#3,3:151
+*S KotlinDebug
++ 1 CarNetwork.kt
+io/github/iamr0s/carplay/network/CarNetwork
+45#1:147
+45#1:148,2
+135#1:150
+135#1:151,3
+SMAP
+CarNetwork.kt
+Kotlin
+*S Kotlin
++ 1 CarNetwork.kt
+io/github/iamr0s/carplay/network/CarNetwork$join$6
++ 2 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
+1#1,145:1
+1869#2,2:146
+*S KotlinDebug
++ 1 CarNetwork.kt
+io/github/iamr0s/carplay/network/CarNetwork$join$6
+111#1:146,2
+SMAP
+CarNetwork.kt
+Kotlin
+*S Kotlin
++ 1 CarNetwork.kt
+io/github/iamr0s/carplay/network/CarNetwork$join$listener$1
++ 2 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
++ 3 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,145:1
+1761#2,3:146
+1563#2:150
+1634#2,3:151
+774#2:154
+865#2,2:155
+1563#2:157
+1634#2,3:158
+1563#2:161
+1634#2,3:162
+1#3:149
+*S KotlinDebug
++ 1 CarNetwork.kt
+io/github/iamr0s/carplay/network/CarNetwork$join$listener$1
+87#1:146,3
+90#1:150
+90#1:151,3
+90#1:154
+90#1:155,2
+91#1:157
+91#1:158,3
+92#1:161
+92#1:162,3
+SMAP
+CarNetwork.kt
+Kotlin
+*S Kotlin
++ 1 CarNetwork.kt
+io/github/iamr0s/carplay/network/CarNetworkKt
++ 2 _Sequences.kt
+kotlin/sequences/SequencesKt___SequencesKt
+1#1,145:1
+1321#2,2:146
+*S KotlinDebug
++ 1 CarNetwork.kt
+io/github/iamr0s/carplay/network/CarNetworkKt
+142#1:146,2
+SMAP
+LegacyCarDiscovery.kt
+Kotlin
+*S Kotlin
++ 1 LegacyCarDiscovery.kt
+io/github/iamr0s/carplay/network/LegacyCarDiscovery
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
++ 3 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
++ 4 Maps.kt
+kotlin/collections/MapsKt__MapsKt
+1#1,211:1
+1#2:212
+1563#3:213
+1634#3,3:214
+774#3:217
+865#3,2:218
+1761#3,2:220
+1740#3,3:222
+1763#3:225
+295#3:226
+2746#3,3:227
+296#3:230
+1761#3,3:231
+1563#3:234
+1634#3,3:235
+1761#3,3:238
+1761#3,3:241
+1252#3,2:246
+1563#3:248
+1634#3,3:249
+1255#3:252
+1563#3:253
+1634#3,3:254
+1563#3:257
+1634#3,3:258
+1869#3,2:261
+1869#3,2:263
+1869#3,2:265
+1869#3,2:267
+463#4:244
+413#4:245
+*S KotlinDebug
++ 1 LegacyCarDiscovery.kt
+io/github/iamr0s/carplay/network/LegacyCarDiscovery
+86#1:213
+86#1:214,3
+88#1:217
+88#1:218,2
+113#1:220,2
+116#1:222,3
+113#1:225
+137#1:226
+139#1:227,3
+137#1:230
+151#1:231,3
+155#1:234
+155#1:235,3
+157#1:238,3
+159#1:241,3
+174#1:246,2
+174#1:248
+174#1:249,3
+174#1:252
+178#1:253
+178#1:254,3
+189#1:257
+189#1:258,3
+195#1:261,2
+198#1:263,2
+204#1:265,2
+207#1:267,2
+174#1:244
+174#1:245
+SMAP
+LegacyCarDiscovery.kt
+Kotlin
+*S Kotlin
++ 1 LegacyCarDiscovery.kt
+io/github/iamr0s/carplay/network/LegacyCarDiscovery$start$2
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,211:1
+1#2:212
+SMAP
+MdnsWire.kt
+Kotlin
+*S Kotlin
++ 1 MdnsWire.kt
+io/github/iamr0s/carplay/network/MdnsCache
++ 2 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
++ 3 Maps.kt
+kotlin/collections/MapsKt__MapsKt
++ 4 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,176:1
+774#2:177
+865#2,2:178
+774#2:180
+865#2,2:181
+1563#2:183
+1634#2,3:184
+1869#2,2:194
+1563#2:197
+1634#2,3:198
+774#2:201
+865#2,2:202
+1617#2,9:204
+1869#2:213
+1870#2:215
+1626#2:216
+1374#2:217
+1460#2,2:218
+774#2:220
+865#2,2:221
+1617#2,9:223
+1869#2:232
+1870#2:234
+1626#2:235
+1374#2:236
+1460#2,5:237
+1462#2,3:242
+1563#2:245
+1634#2,3:246
+774#2:249
+865#2,2:250
+1617#2,9:252
+1869#2:261
+543#2,6:262
+774#2:268
+865#2,2:269
+1617#2,9:271
+1869#2:280
+1870#2:282
+1626#2:283
+774#2:284
+865#2,2:285
+543#2,6:287
+1870#2:294
+1626#2:295
+536#3:187
+521#3,6:188
+1#4:196
+1#4:214
+1#4:233
+1#4:281
+1#4:293
+*S KotlinDebug
++ 1 MdnsWire.kt
+io/github/iamr0s/carplay/network/MdnsCache
+137#1:177
+137#1:178,2
+138#1:180
+138#1:181,2
+138#1:183
+138#1:184,3
+140#1:194,2
+152#1:197
+152#1:198,3
+153#1:201
+153#1:202,2
+153#1:204,9
+153#1:213
+153#1:215
+153#1:216
+154#1:217
+154#1:218,2
+156#1:220
+156#1:221,2
+156#1:223,9
+156#1:232
+156#1:234
+156#1:235
+156#1:236
+156#1:237,5
+154#1:242,3
+163#1:245
+163#1:246,3
+164#1:249
+164#1:250,2
+164#1:252,9
+164#1:261
+166#1:262,6
+167#1:268
+167#1:269,2
+167#1:271,9
+167#1:280
+167#1:282
+167#1:283
+169#1:284
+169#1:285,2
+171#1:287,6
+164#1:294
+164#1:295
+139#1:187
+139#1:188,6
+153#1:214
+156#1:233
+167#1:281
+164#1:293
+SMAP
+MdnsWire.kt
+Kotlin
+*S Kotlin
++ 1 MdnsWire.kt
+io/github/iamr0s/carplay/network/MdnsWire
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
++ 3 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
+1#1,176:1
+1#2:177
+774#3:178
+865#3,2:179
+1563#3:181
+1634#3,3:182
+*S KotlinDebug
++ 1 MdnsWire.kt
+io/github/iamr0s/carplay/network/MdnsWire
+124#1:178
+124#1:179,2
+124#1:181
+124#1:182,3
+SMAP
+ModernCarDiscovery.kt
+Kotlin
+*S Kotlin
++ 1 ModernCarDiscovery.kt
+io/github/iamr0s/carplay/network/ModernCarDiscovery
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
++ 3 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
+1#1,93:1
+1#2:94
+1869#3,2:95
+1869#3,2:97
+*S KotlinDebug
++ 1 ModernCarDiscovery.kt
+io/github/iamr0s/carplay/network/ModernCarDiscovery
+88#1:95,2
+89#1:97,2
+SMAP
+ModernCarDiscovery.kt
+Kotlin
+*S Kotlin
++ 1 ModernCarDiscovery.kt
+io/github/iamr0s/carplay/network/ModernCarDiscovery$start$browser$1$onServiceFound$resolver$1
++ 2 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
++ 3 fake.kt
+kotlin/jvm/internal/FakeKt
+1#1,93:1
+1563#2:94
+1634#2,3:95
+1617#2,9:98
+1869#2:107
+1870#2:110
+1626#2:111
+774#2:112
+865#2,2:113
+1563#2:115
+1634#2,3:116
+1#3:108
+1#3:109
+*S KotlinDebug
++ 1 ModernCarDiscovery.kt
+io/github/iamr0s/carplay/network/ModernCarDiscovery$start$browser$1$onServiceFound$resolver$1
+60#1:94
+60#1:95,3
+61#1:98,9
+61#1:107
+61#1:110
+61#1:111
+63#1:112
+63#1:113,2
+65#1:115
+65#1:116,3
+61#1:109
+SMAP
+NetworkAddresses.kt
+Kotlin
+*S Kotlin
++ 1 NetworkAddresses.kt
+io/github/iamr0s/carplay/network/NetworkAddressesKt
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
++ 3 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
+1#1,28:1
+1#2:29
+774#3:30
+865#3,2:31
+295#3,2:33
+295#3,2:35
+774#3:37
+865#3,2:38
+295#3,2:40
+295#3,2:42
+774#3:44
+865#3,2:45
+*S KotlinDebug
++ 1 NetworkAddresses.kt
+io/github/iamr0s/carplay/network/NetworkAddressesKt
+15#1:30
+15#1:31,2
+16#1:33,2
+17#1:35,2
+18#1:37
+18#1:38,2
+20#1:40,2
+21#1:42,2
+26#1:44
+26#1:45,2
+SMAP
+ReceiverConnection.kt
+Kotlin
+*S Kotlin
++ 1 ReceiverConnection.kt
+io/github/iamr0s/carplay/network/ReceiverConnectionKt
++ 2 fake.kt
+kotlin/jvm/internal/FakeKt
++ 3 _Collections.kt
+kotlin/collections/CollectionsKt___CollectionsKt
++ 4 CoroutineScope.kt
+kotlinx/coroutines/CoroutineScopeKt
+1#1,43:1
+1#2:44
+1563#3:45
+1634#3,3:46
+1563#3:51
+1634#3,3:52
+375#4:49
+375#4:50
+*S KotlinDebug
++ 1 ReceiverConnection.kt
+io/github/iamr0s/carplay/network/ReceiverConnectionKt
+18#1:45
+18#1:46,3
+31#1:51
+31#1:52,3
+20#1:49
+30#1:50
+SYSTEM-WIFI 
+SupervisorJob$default
+&System Wi-Fi log read exceeded 15000ms
+!System Wi-Fi log read unavailable
+US-ASCII
+UTF_8
+Unsupported DNS header
+Unsupported Wi-Fi security
+2Unsupported iAP2 receiver key text format: length=
+VIZLL
+VLIJLLIZ
+VLIJLLIZIL
+VLILI
+VLILL
+VLILLL
+VLILLLLLZL
+VLILLLLLZLIL
+VLIZ
+VLIZIL
+VLLI
+VLLIL
+VLLJL
+VLLL
+VLLLI
+VLLLIILL
+VLLLILLL
+VLLLL
+VLLLLLIL
+VLLLLLILIL
+Wi-Fi NetworkRequest=
+Wi-Fi available capabilities=
+Wi-Fi capabilities elapsed=
+Wi-Fi environment enabled=
+Wi-Fi full LinkProperties=
+Wi-Fi link iface=
+Wi-Fi onAvailable elapsed=
+Wi-Fi onLost handle=
+Wi-Fi onUnavailable elapsed=
+Wi-Fi permission snapshot=
+,Wi-Fi request missing declared permissions: 
+#Wi-Fi request permission preflight=
+Wi-Fi request security=
+KWi-Fi request submitted; awaiting system authorization/network availability
+ Wi-Fi 
+ Wi-Fi 
+ZLCZIL
+ZLLIL
+ZLLZ
+K[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}
+0[Lio/github/iamr0s/carplay/network/MdnsQuestion;
+.[Lio/github/iamr0s/carplay/network/MdnsRecord;
+[Ljava/lang/Integer;
+[Ljava/lang/Object;
+[Ljava/lang/String;
+_airplay._tcp.
+_airplay._tcp.local.
+_carplay-ctrl._tcp.
+_carplay-ctrl._tcp.local.
+_init_$lambda$0
+absent
+accept
+accepted
+access$emit
+access$getAddressProvider$p
+access$getAddressReady$p
+access$getAddresses$p
+access$getAdvertised$p
+access$getCandidates$p
+access$getClosed$p
+access$getCollision$p
+access$getConnectivity$p
+access$getExecutor$p
+access$getHost$p
+access$getInitialRepeat$p
+access$getInstance$p
+access$getInterfaceIndex$p
+access$getInvitation$p
+access$getLastPublish$p
+access$getLock$p
+access$getNsd$p
+access$getPort$p
+access$getResolvers$p
+access$getScope$p
+access$getServices$p
+access$getSockets$p
+access$getTransportId$p
+access$getWifi$p
+access$join$elapsed
+access$log
+access$publish
+access$query
+access$receive
+access$refreshListeners
+access$refreshSockets
+access$sendAll
+access$setAccepted$p
+access$setAddresses$p
+access$setInitialRepeat$p
+access$setInterfaceIndex$p
+access$setMulticast$p
+access$setProbing$p
+access$takeLastLines
+accessFlags
+acquire
+addAll
+addLast
+addSuppressed
+addTransportType
+address
+addressNetwork
+addressProvider
+addressReady
+address\9
+addresses
+advertised
+)android.permission.ACCESS_COARSE_LOCATION
+'android.permission.ACCESS_FINE_LOCATION
+'android.permission.ACCESS_LOCAL_NETWORK
+'android.permission.ACCESS_NETWORK_STATE
+$android.permission.ACCESS_WIFI_STATE
+'android.permission.CHANGE_NETWORK_STATE
+$android.permission.CHANGE_WIFI_STATE
+&android.permission.NEARBY_WIFI_DEVICES
+apiLevel
+append
+areEqual
+attemptedBindings
+available
+await
+backend
+began
+begin\4
+bind
+bindSocket
+bit\4
+body
+bonjour
+bootstrapKey
+bootstrapKeyIsUuid
+bootstrapPairingKey
+box-impl
+browser
+build
+build(...)
+byteValue
+bytes
+cache
+/call to 'resume' before 'invoke' with coroutine
+callback
+cancel$default
+cancelled
+candidate
+candidates
+capabilities
+carplay-
+carplay-discovery
+carplay-xiaomi-carlife
+charAt
+character
+character\3
+checkNotNull
+checkNotNullExpressionValue
+checkNotNullParameter
+checkRadix
+checkSelfPermission
+chunked
+clear
+close
+close$default
+closeFinally
+closed
+closed packets=
+cls\3
+cls\4
+code
+collectionSizeOrDefault
+collision
+command
+complete
+completeExceptionally
+component1
+component2
+component3
+component4
+component5
+component6
+component7
+config
+configs
+conflict\1
+connect
+connectReceiver
+connectivity
+constructor-impl
+contains
+contains$default
+containsKey
+context
+control 
+control query answered peer=
+controlPort
+controlRecords
+controlRecords$default
+copy
+copy$default
+copyOf
+copyOfRange
+count
+create
+createFailure
+createMulticastLock
+createSetBuilder
+current
+currentAddresses
+currentLocal
+cursor
+data
+data\4
+delay
+destination\10
+destination\11
+destination\12
+destination\13
+destination\14
+destination\16
+destination\17
+destination\19
+destination\2
+destination\20
+destination\26
+destination\3
+destination\4
+destination\5
+destination\6
+destination\7
+destination\8
+destination\9
+deviceid
+digitToIntOrNull
+discoverServices
+discovery
+distinct
+drop
+elapsedRealtime
+element
+element\1
+element\10
+element\11
+element\12
+element\13
+element\14
+element\15
+element\16
+element\17
+element\2
+element\20
+element\21
+element\22
+element\26
+element\28
+element\3
+element\4
+element\5
+element\6
+element\7
+element\8
+element\9
+emit
+emptyList
+emptyMap
+emptySet
+enabled
+end\4
+endpoint
+endpoints
+ensureActive
+entries
+entrySet
+equals
+error
+escaped
+exceptionOrNull-impl
+execute
+executor
+executor$lambda$0
+expanded
+expires
+failure
+failures
+families
+family
+features
+fields
+fields\1
+filter
+first
+firstOrNull
+flags
+flush
+format
+format(...)
+getAddress
+getAddress(...)
+getAddresses
+getApplicationContext
+getApplicationInfo
+getAttributes
+getBootstrapKeyIsUuid
+getByAddress
+getByAddress(...)
+getByName
+getBytes
+getBytes(...)
+getCOROUTINE_SUSPENDED
+getChannel
+getContext
+getData
+getData(...)
+getExpires
+getFeatures
+getFlush
+getGroup
+getHost
+getHostAddress
+getHostAddresses
+getHostAddresses(...)
+getHosts
+getIO
+getId
+getIface
+getIndex
+getInetAddress
+getInputStream
+getInterfaceIndex
+getInterfaceName
+getKey
+getLength
+getLinkAddresses
+getLinkAddresses(...)
+getLinkProperties
+getLocalAddress
+getLocalPort
+getLocalSocketAddress
+getLost
+getMessage
+getMyMemoryState
+getName
+getNetwork
+getNetworkCapabilities
+getNetworkHandle
+getOffset
+getOrNull
+getOrNull-impl
+getOutputStream
+getPairingId
+getPassword
+getPort
+getPrefixLength
+getPublicKey
+getQuestions
+getReceiverId
+getReceiverPublicKey
+getRecord
+getRecords
+getRemoteSocketAddress
+getResponse
+getRoutes
+getScopeId
+getSecurity
+getServiceName
+getServiceName(...)
+getServiceType
+getSocket
+getSourceVersion
+getSsid
+getSystemService
+getTarget
+getTtl
+getType
+getUnicast
+getValue
+getWifiState
+goodbye
+group
+hasNext
+hasPrevious
+hashCode
+header\1
+holder
+homekitFeature
+host
+host\12
+hosts
+hosts\12
++iAP2 and Bonjour pairing public keys differ
+iAP2 endpoint rejected value=
+iface
+importance
+index
+info
+initial
+initialRepeat
+input\1
+instance
+instance\12
+instance\15
+instances
+intValue
+interfaceIndex
+invitation
+invitationReceiverIds
+invited
+invoke
+invokeSuspend
+invokeSuspend$lambda$0
+-io.github.iamr0s.carplay.network.CarDiscovery
+8io.github.iamr0s.carplay.network.CarDiscovery$endpoint$2
+5io.github.iamr0s.carplay.network.CarDiscovery$start$3
+Gio.github.iamr0s.carplay.network.CarDiscovery$startInvitationListener$1
++io.github.iamr0s.carplay.network.CarNetwork
+2io.github.iamr0s.carplay.network.CarNetwork$join$5
+2io.github.iamr0s.carplay.network.CarNetwork$join$6
+<io.github.iamr0s.carplay.network.CarNetwork$localAddresses$2
+Dio.github.iamr0s.carplay.network.LegacyCarDiscovery$refreshSockets$3
+;io.github.iamr0s.carplay.network.LegacyCarDiscovery$start$2
+=io.github.iamr0s.carplay.network.LegacyCarDiscovery$start$2$7
+3io.github.iamr0s.carplay.network.ModernCarDiscovery
+@io.github.iamr0s.carplay.network.ModernCarDiscovery$executor$1$1
+;io.github.iamr0s.carplay.network.ModernCarDiscovery$start$2
+;io.github.iamr0s.carplay.network.ModernCarDiscovery$start$3
+;io/github/iamr0s/carplay/network/CarNetwork$join$listener$1
+Cio/github/iamr0s/carplay/network/ModernCarDiscovery$start$browser$1
+]io/github/iamr0s/carplay/network/ModernCarDiscovery$start$browser$1$onServiceFound$resolver$1
+Hio/github/iamr0s/carplay/network/ModernCarDiscovery$start$registration$1
+isActive
+isAnyLocalAddress
+isBlank
+isClosed
+isCompleted
+isDigit
+isEmpty
+isFailure-impl
+isHeld
+isLinkLocalAddress
+isLocationEnabled
+isLoopbackAddress
+isMulticastAddress
+isWifiEnabled
+it\1
+it\10
+it\11
+it\12
+it\13
+it\14
+it\15
+it\16
+it\17
+it\18
+it\2
+it\21
+it\22
+it\23
+it\27
+it\29
+it\3
+it\30
+it\4
+it\5
+it\6
+it\7
+it\8
+it\9
+item\10
+item\11
+item\12
+item\13
+item\14
+item\16
+item\2
+item\3
+item\6
+item\7
+item\8
+iterator
+iterator\13
+iterator\28
+join
+join$elapsed
+join$lambda$0
+join$lambda$3
+joinGroup
+joinToString$default
+key$lambda$0
+keySet
+keys
+kind
+kotlin.jvm.PlatformType
+label
+labels
+lane
+lastLog
+lastPublish
+launch$default
+legacy\1
+length
+length\4
+lineSequence
+lines
+link\2
+listIterator
+listOf
+list\14
+list\26
+listener
+local
+localAddress
+localAddress$default
+localAddresses
+locals
+lock
+longValue
+lost
+mDNS 
+ mDNS 
+ IPv4/IPv6 
+mDNS 
+maintenance failed
+malformed
+malformed packet ignored count=
+mapCapacity
+mask\1
+mask\4
+matches
+message
+method
+minus
+missingPermissions
+ms handle=
+?ms request-timeout=90000ms; exact cause not supplied by Android
+multicast
+name
+name conflict 
+nanoTime
+network
+network-bound-mDNS
+next
+nextInt
+normalizeReceiverId
+now\1
+:null cannot be cast to non-null type java.net.Inet6Address
+nullOutSpilledVariable
+numbers\1
+numericAddress
+ok\1
+onAvailable
+onCapabilitiesChanged
+onCarLink
+onDiscoveryStarted
+onDiscoveryStopped
+onLinkPropertiesChanged
+onLost
+onRegistrationFailed
+onServiceFound
+'onServiceInfoCallbackRegistrationFailed
+!onServiceInfoCallbackUnregistered
+onServiceLost
+onServiceRegistered
+onServiceUnregistered
+onServiceUpdated
+onServiceUpdated$attr
+onServiceUpdated$lambda$1
+onStartDiscoveryFailed
+onStopDiscoveryFailed
+onUnavailable
+onUnregistrationFailed
+!opaque-UUID-not-cryptographic-key
+other
+own\1
+owner\3
+owner\4
+p0\1
+p0\2
+p0\4
+p0\9
+packet
+packet$default
+packets
+pairingId
+parse
+parse$dnsName
+parse$u16
+parseInt
+parsed
+parts
+peer
+peer\19
+permission
+permissionNames
+phase
+plus
+pointer
+port
+port\4
+previous
+probe begin instance=
+probing
+properties
+proto
+prune
+prune$lambda$6
+ptr\12
+publicKey
+publish
+published
+putIfAbsent
+query
+questions
+quoted
+random
+randomUUID
+read
+readError
+readWifi
+ready
+receive
+receive failed group=
+receiver expired/goodbye name=
+receiver resolved name=
+receiverCandidates
+receiverId\1
+receiverId\19
+record
+records
+records\1
+refreshListeners
+refreshSockets
+registerService
+registerServiceInfoCallback
+registered
+registration
+registrations
+release
+remaining
+remote=
+remote\3
+remove
+removeAll
+removeCapability
+removeFirst
+removePrefix
+replace$default
+reply\1
+request
+requestNetwork
+requestStarted
+requiredPermissions
+resolver
+resolvers
+response
+result
+retainAll
+sameFamily
+scope
+scopeCarAddress
+scoped
+secret
+seen
+selectCarLocalAddress
+selectCarLocalAddress$default
+send
+send failed target=
+sendAll
+server
+servers
+services
+setAttribute
+setExpires
+setNetwork
+setNetworkInterface
+setNetworkSpecifier
+setPort
+setReferenceCounted
+setReuseAddress
+setServiceName
+setServiceType
+setSoTimeout
+setSsid
+setTcpNoDelay
+setTimeToLive
+setWpa2Passphrase
+setWpa3Passphrase
+signature
+size
+socket
+socket ready family=
+socket unavailable family=
+socket\1
+sockets
+sourceVersion
+specifier
+split$default
+srcvers
+srcvers=320.17
+srv\12
+start
+start$lambda$2
+startInvitationListener
+started
+started families=
+stopServiceDiscovery
+substringAfter
+substringAfter$default
+substringAfterLast$default
+substringBefore$default
+suffix
+system-NSD
+tail\1
+take
+takeLastLines
+target
+targetSdkVersion
+target\4
+text\1
+text\7
+this
+this$0
+throwOnFailure
+timeout
+toByteArray
+toByteArray(...)
+toList
+toLongOrNull
+toLowerCase
+toLowerCase(...)
+toMap
+toSet
+toString
+toString(...)
+toUpperCase
+toUpperCase(...)
+transportId
+trim
+trimEnd
+tryReceive-PtdJZtk
+trySend-JP2dKIU
+ttl\4
+txt\12
+type
+type\3
+type\4
+unavailable
+unicast
+unregisterNetworkCallback
+unregisterService
+unregisterServiceInfoCallback
+until
+update
+usable
+value
+valueOf
+values
+versionHash
+waitingSignature
+wifi
+withContext
+withTimeout
+word\4
+word\6
+words\1
+write
+writeByte
+writeInt
+writeName
+writeShort
+e~~D8{"backend":"dex","compilation-mode":"debug","has-checksums":true,"min-api":29,"version":"9.1.31"}
+~~~{"Lio/github/iamr0s/carplay/network/CarDiscovery$$ExternalSyntheticLambda0;":"-1330c844a","Lio/github/iamr0s/carplay/network/CarDiscovery$$ExternalSyntheticLambda1;":"-703b9e2","Lio/github/iamr0s/carplay/network/CarDiscovery$endpoint$2;":"f0086590","Lio/github/iamr0s/carplay/network/CarDiscovery$start$1;":"2c7cae7","Lio/github/iamr0s/carplay/network/CarDiscovery$start$3;":"4bec872c","Lio/github/iamr0s/carplay/network/CarDiscovery$startInvitationListener$1;":"7e67f1a7","Lio/github/iamr0s/carplay/network/CarDiscovery;":"a827c886","Lio/github/iamr0s/carplay/network/CarDiscoveryKt;":"deecc90","Lio/github/iamr0s/carplay/network/CarNetwork$$ExternalSyntheticLambda0;":"-31c6dbbc8","Lio/github/iamr0s/carplay/network/CarNetwork$$ExternalSyntheticLambda1;":"-3e0af3d10","Lio/github/iamr0s/carplay/network/CarNetwork$join$1;":"dbae58e7","Lio/github/iamr0s/carplay/network/CarNetwork$join$5;":"448db17f","Lio/github/iamr0s/carplay/network/CarNetwork$join$6$$ExternalSyntheticLambda0;":"2c52190","Lio/github/iamr0s/carplay/network/CarNetwork$join$6;":"a06cb82","Lio/github/iamr0s/carplay/network/CarNetwork$join$listener$1;":"f2241e8c","Lio/github/iamr0s/carplay/network/CarNetwork$localAddress$1;":"8aecd98a","Lio/github/iamr0s/carplay/network/CarNetwork$localAddresses$1;":"a7cf5ff8","Lio/github/iamr0s/carplay/network/CarNetwork$localAddresses$2;":"bac159ef","Lio/github/iamr0s/carplay/network/CarNetwork;":"f83bf017","Lio/github/iamr0s/carplay/network/CarNetworkKt;":"2ea4ef7b","Lio/github/iamr0s/carplay/network/LegacyCarDiscovery$Lane;":"61cd7946","Lio/github/iamr0s/carplay/network/LegacyCarDiscovery$refreshSockets$3;":"e3cd7ae7","Lio/github/iamr0s/carplay/network/LegacyCarDiscovery$start$2$7;":"5a2bad66","Lio/github/iamr0s/carplay/network/LegacyCarDiscovery$start$2;":"4d3d3f3f","Lio/github/iamr0s/carplay/network/LegacyCarDiscovery;":"77318c6f","Lio/github/iamr0s/carplay/network/MdnsCache$$ExternalSyntheticLambda0;":"-280a09114","Lio/github/iamr0s/carplay/network/MdnsCache$$ExternalSyntheticLambda1;":"-4e671661","Lio/github/iamr0s/carplay/network/MdnsCache$Entry;":"5337e3c2","Lio/github/iamr0s/carplay/network/MdnsCache;":"495092e9","Lio/github/iamr0s/carplay/network/MdnsMessage;":"d5f67aa6","Lio/github/iamr0s/carplay/network/MdnsQuestion;":"714b23e2","Lio/github/iamr0s/carplay/network/MdnsRecord;":"bfa59e72","Lio/github/iamr0s/carplay/network/MdnsWire;":"7109709e","Lio/github/iamr0s/carplay/network/ModernCarDiscovery$$ExternalSyntheticLambda0;":"-f561f3c3","Lio/github/iamr0s/carplay/network/ModernCarDiscovery$executor$1$1;":"89d5c4ba","Lio/github/iamr0s/carplay/network/ModernCarDiscovery$start$1;":"e0820d33","Lio/github/iamr0s/carplay/network/ModernCarDiscovery$start$2;":"b274d86f","Lio/github/iamr0s/carplay/network/ModernCarDiscovery$start$3;":"8ed81033","Lio/github/iamr0s/carplay/network/ModernCarDiscovery$start$browser$1$onServiceFound$resolver$1$$ExternalSyntheticLambda0;":"-18e166e5b","Lio/github/iamr0s/carplay/network/ModernCarDiscovery$start$browser$1$onServiceFound$resolver$1;":"821cd030","Lio/github/iamr0s/carplay/network/ModernCarDiscovery$start$browser$1;":"17ad92df","Lio/github/iamr0s/carplay/network/ModernCarDiscovery$start$registration$1;":"fe9d62b5","Lio/github/iamr0s/carplay/network/ModernCarDiscovery;":"ed28eb7","Lio/github/iamr0s/carplay/network/NetworkAddressesKt;":"21d2bc10","Lio/github/iamr0s/carplay/network/ReceiverConnectionKt;":"91e9d709","Lio/github/iamr0s/carplay/network/ReceiverEndpoint;":"7159de98"}
+ Wi-Fi 
+ Wi-Fi 
+ Network 
+ Network 
+ Wi-Fi 
+ Wi-Fi 
+ ROUTE attempt 
+ IP 

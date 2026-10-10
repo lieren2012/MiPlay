@@ -1,0 +1,32 @@
+{
+  "vehicle_name": "25 Buick LaCrosse",
+  "market": "China",
+  "head_unit_software": "",
+  "carplay_version": "",
+  "usb_port": "CarPlay USB port; maximum output reported as 50W",
+  "display": {
+    "width": null,
+    "height": null,
+    "measured": false,
+    "notes": "CarPlay negotiated resolution is not known"
+  },
+  "max_fps": 60,
+  "capabilities": {
+    "touch": null,
+    "knob": null,
+    "steering_wheel": null,
+    "microphone": null,
+    "call_audio": null,
+    "navigation_audio": null
+  },
+  "power": {
+    "port_voltage": "",
+    "current_limit": "",
+    "ignition_behavior": "",
+    "reported_max_output_w": 50,
+    "pd_capability_verified": false
+  },
+  "notes": [
+    "50W is a reported maximum, not yet the voltage/current available to a USB device."
+  ]
+}
