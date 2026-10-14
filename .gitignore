@@ -20,3 +20,6 @@ android/iccoa-sink-0.1.0.apk
 android/build/
 android/debug.keystore
 android/*.apk.idsig
+android/reference-build/
+android/reference-debug.keystore
+reference/*.apk

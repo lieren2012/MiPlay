@@ -1,7 +1,7 @@
 {
-  "versionName": "0.2.3",
-  "versionCode": 6,
-  "name": "MiPlay 0.2.3",
+  "versionName": "MiPlay-0.3.0",
+  "versionCode": 10030,
+  "name": "MiPlay 0.3.0",
   "pageUrl": "https://github.com/lieren2012/MiPlay",
-  "apkUrl": "https://github.com/lieren2012/MiPlay/raw/refs/heads/main/android/MiPlay-0.2.3.apk"
+  "apkUrl": "https://github.com/lieren2012/MiPlay/raw/refs/heads/main/android/MiPlay-0.3.0.apk"
 }
