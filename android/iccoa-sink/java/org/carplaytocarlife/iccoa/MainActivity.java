@@ -29,6 +29,7 @@ public final class MainActivity extends Activity {
     private TextView logView;
     private ScrollView scroll;
     private SurfaceView surface;
+    private CarWithSourceAdapter carWithSource;
     private final Handler handler = new Handler(Looper.getMainLooper());
     private int lastLogSize;
 
@@ -64,6 +65,22 @@ public final class MainActivity extends Activity {
         logView = findViewById(R.id.log);
         scroll = findViewById(R.id.scroll);
         surface = findViewById(R.id.surface);
+        carWithSource = new CarWithSourceAdapter(this, new CarWithSourceAdapter.Listener() {
+            @Override
+            public void onState(String state) {
+                Logs.add("CarWith: " + state);
+            }
+
+            @Override
+            public void onAudio(byte[] pcm, int source, int sampleRate, int channels, int format) {
+                Logs.add("CarWith audio: " + sampleRate + "Hz/" + channels + "ch/" + pcm.length + "B");
+            }
+
+            @Override
+            public void onAudioState(int source, int state) {
+                Logs.add("CarWith audio state: " + source + "/" + state);
+            }
+        });
         projectionManager = (android.media.projection.MediaProjectionManager)
                 getSystemService(MEDIA_PROJECTION_SERVICE);
         Button start = findViewById(R.id.start);
@@ -95,12 +112,14 @@ public final class MainActivity extends Activity {
 
         start.setOnClickListener(view -> {
             requestRuntimePermissions();
+            carWithSource.bind();
             Logs.add("start requested");
             askForScreenCapture();
         });
         touch.setOnClickListener(view -> TouchInjector.requestPermission(this));
         stop.setOnClickListener(view -> {
             Logs.add("stop requested");
+            carWithSource.close();
             SinkService.stop(this);
         });
         clear.setOnClickListener(view -> Logs.clear());
@@ -110,6 +129,9 @@ public final class MainActivity extends Activity {
     @Override
     protected void onDestroy() {
         handler.removeCallbacks(refresh);
+        if (carWithSource != null) {
+            carWithSource.close();
+        }
         super.onDestroy();
     }
 

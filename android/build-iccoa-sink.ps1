@@ -7,7 +7,7 @@ $platform = if ($env:MIPLAY_ANDROID_JAR) { $env:MIPLAY_ANDROID_JAR } else { "$ro
 $bouncycastle = if ($env:MIPLAY_BOUNCYCASTLE) { $env:MIPLAY_BOUNCYCASTLE } else { "$root\tools\libs\bcprov-jdk18on-1.78.1.jar" }
 $src = "$root\android\iccoa-sink"
 $out = "$root\android\build"
-$apkName = 'MiPlay-0.1.1.apk'
+$apkName = 'MiPlay-0.2.0.apk'
 
 $env:JAVA_HOME = $jdk
 $env:PATH = "$jdk\bin;$buildToo;$env:PATH"
@@ -27,7 +27,7 @@ Write-Host '[2/7] aapt2 link'
     -R "$out\res.zip" --auto-add-overlay `
     --java "$out\gen" `
     --min-sdk-version 24 --target-sdk-version 34 `
-    --version-code 2 --version-name 0.1.1
+    --version-code 3 --version-name 0.2.0
 if ($LASTEXITCODE -ne 0) { throw 'aapt2 link failed' }
 
 Write-Host '[3/7] javac'

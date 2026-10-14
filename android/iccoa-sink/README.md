@@ -1,8 +1,13 @@
-# MiPlay —— ICCOA Carlink 车机端（接收端）APK
+# MiPlay —— Android bridge prototype
 
 ## 这是什么
 
-跑在 **Android 设备**上的 App，扮演 **ICCOA Carlink 的车机端（接收端）**：
+这是 MiPlay 的 Android 原型模块，当前包含两条正在拆分的边界：
+
+- `CarWithSourceAdapter`：按用户提供的 `base.apk(2).1` 行为接入小米 CarWith/CarLife；
+- ICCOA/CarPlay 实验链路：用于独立验证媒体、蓝牙和会话输出。
+
+ICCOA 实验链路仍然提供以下能力：
 
 - 起一个 Wi-Fi Display 风格的 RTSP 服务（`tcp/7236`），按 M1–M7 与手机协商；
 - 上报车机能力参数（`wfd_*` 标准参数 + `iccoa_*` / `osc_*` 扩展，见 `crates/bridge-iccoa/src/spec.rs`）；
@@ -10,7 +15,8 @@
 - 尽力实现 UIBC 触控回传（格式未与真机核对，失败只记日志不影响视频）；
 - UI 显示状态、本机地址与完整日志；同时用 NSD 注册 `_wfd._tcp` / `_carlink._tcp` 广告。
 
-**它不做什么**：不向车机输出 CarPlay。CarPlay 输出要求设备对车机冒充 iPhone
+**当前限制**：CarWith/CarLife 的 Surface 视频和 PCM 音频还没有完整接到 CarPlay
+输出，真车也没有验证。CarPlay 输出要求设备对车机冒充 iPhone
 （Apple USB 身份 `05AC:12A8` + iAP2 + NCM + AirPlay），需要改写 USB gadget 描述符，
 普通未 root 的手机无法做到；参考 APK 是靠 Xposed/Dhizuku + 原生 hook 才实现的。
 
@@ -23,7 +29,7 @@ powershell -ExecutionPolicy Bypass -File android\build-iccoa-sink.ps1
 用便携工具链（无 Gradle、无 Android Studio）：`tools\android\jdk-17.0.20.1+1`、
 `tools\android\android-14`（build-tools）、`tools\android\android-36\android.jar`。
 流程：`aapt2 compile` → `aapt2 link` → `javac` → `d8` → 塞 `classes.dex` → `zipalign` → `apksigner`。
-产物：`android\MiPlay-0.1.1.apk`。
+产物：`android\MiPlay-0.2.0.apk`。
 
 ## 验证状态
 

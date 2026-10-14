@@ -1,11 +1,17 @@
 # MiPlay
 
-MiPlay is an Android ICCOA Carlink and CarPlay bridge prototype based on the
-MIT-licensed `iccoa-carplay-sink` project. The first MiPlay build keeps the
-upstream protocol test surface and produces a reproducible `MiPlay-0.1.1.apk`.
+MiPlay is an open-source Android bridge upgrade project based on the behavior of
+the supplied `base.apk(2).1` (`com.baidu.carlife.xiaomi`, `7-330802c`). Its
+primary path is CarWith/CarLife input on a Xiaomi phone and CarPlay/AirPlay
+output to a vehicle head unit that exposes wired CarPlay.
 
-The current Android module is an ICCOA Carlink sink. Real vehicle compatibility
-and the CarWith audio path still require device testing.
+The reference APK is the behavioral baseline, not a binary dependency. The
+static-analysis findings and the clean-room implementation boundary are in
+[`docs/reference-apk-330802c.md`](docs/reference-apk-330802c.md).
+
+`iccoa-carplay-sink` is only a public protocol and architecture reference for
+the CarPlay/iAP2/AirPlay side. It is not the source of the supplied APK and
+MiPlay is not a repackaged copy of that project.
 
 ## Build
 
@@ -19,15 +25,16 @@ The script uses the repository-local toolchain under `tools\` or the
 
 ---
 
-## Upstream project
+## Open-source protocol reference
 
-The development base is:
+The project used as a principle and protocol reference is:
 
 https://github.com/113324561/iccoa-carplay-sink
 
-The upstream repository and this project use a clean-room protocol approach.
-The supplied third-party APK is kept as a behavioral reference and is not
-repacked into the build.
+It is used to understand the CarPlay/iAP2/AirPlay session boundary and media
+channel design. The supplied APK remains the primary behavior reference for the
+CarWith/CarLife side. Neither the APK nor its decompiled output is repacked into
+the build.
 
 这是一个干净室、分阶段实施的 CarPlay/CarLife 互操作项目。
 
@@ -48,13 +55,13 @@ Android 手机：厂商自带 ICCOA Carlink 发送端
 
 最终目标是桥接视频、音频、麦克风、触控、旋钮、方控和会话状态，同时不修改手机系统、车机固件或车辆 CAN。
 
-## 手机端 APK（当前实际在推进的路线）
+## 手机端 APK（当前开发路线）
 
-`android/iccoa-sink` 是一个不依赖 Gradle 的 Android 工程：手机自己扮演 Apple 发送端，
-用 App 层 API 发布 CarPlay 蓝牙身份 + AirPlay 会话，把本机屏幕编码后推给只支持 CarPlay 的车机。
+`android/iccoa-sink` 是当前保留的 CarPlay 输出实验模块。MiPlay 的功能版本还需要接入
+参考 APK 对应的 CarWith/CarLife source adapter，不能把这个实验模块单独称为完整升级版。
 
 - 构建：`powershell -ExecutionPolicy Bypass -File android\build-iccoa-sink.ps1`
-- 产物：`android/iccoa-sink-0.1.0.apk`
+- 产物：`android/MiPlay-0.2.0.apk`
 - 可复现构建：同一份源码重复构建得到**同一个** APK（脚本把所有 zip 条目时间戳固定），并打印 SHA-256
 - 详情、真机步骤、日志回传清单与**未验证项**：`docs/carplay-sender.md`
 - 真车自查清单 + 日志检查器：`docs/runbook.md`、`scripts/check-run-log.py`
@@ -64,11 +71,12 @@ Android 手机：厂商自带 ICCOA Carlink 发送端
 - 文档一致性审计（文档里的报文 ID / 服务名 / 端口 / 文件路径在代码里有没有出处）：`scripts/audit-docs.py`
 - 从参考 APK 抽出的 iAP2 报文表（无线引导、Wi-Fi 下发、MFi 挑战）：`docs/carplay-iap2-bootstrap.md`
 - 从参考 APK 抽出的 AirPlay 投屏会话事实（顺序、`/setup` 字段、`/auth-setup` 密钥交换、流类型与加密、模式同意、请求头）：`docs/carplay-airplay-session.md`
-- 参考 APK 的逆向结论：`docs/apk-analysis-carwith-carplay.md`
+- 当前主参考 APK 的行为基线：`docs/reference-apk-330802c.md`
+- 历史 APK 分析记录：`docs/apk-analysis-carwith-carplay.md`
 
 ## 当前状态
 
-当前仓库完成的是**阶段 1 的笔记本软件原型**：
+当前仓库完成的是**阶段 1 的协议和媒体管线原型**：
 
 - Rust 状态机、媒体零重封装路径、音频和输入路由。
 - 手机侧已按 ICCOA Carlink 车机端重建边界（`crates/bridge-iccoa`），见 `docs/iccoa-adapter.md`。
@@ -77,7 +85,7 @@ Android 手机：厂商自带 ICCOA Carlink 发送端
 - Linux USB Device/OTG 预检接口。
 - 阶段 0～4 的检查表和硬件判定文档。
 
-当前代码**没有实现真实 CarPlay 或 ICCOA Carlink 协议**，也**没有完成真车验证**。仿真通过只说明桥接状态和媒体管线可以跑通，不代表君越会识别开发板。
+当前代码尚未把参考 APK 的 CarWith/CarLife source adapter 接入发布 APK，也没有完成真实 CarPlay 或 ICCOA Carlink 的真车验证。仿真通过只说明桥接状态和媒体管线可以跑通，不代表任意车机会识别 MiPlay。
 
 ## 快速验证
 
