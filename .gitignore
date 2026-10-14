@@ -15,4 +15,4 @@ __pycache__/
 /_analysis/
 android/build/
 android/debug.keystore
-android/iccoa-sink-0.1.0.apk.idsig
+android/*.apk.idsig

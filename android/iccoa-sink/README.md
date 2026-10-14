@@ -1,4 +1,4 @@
-# iccoa-sink —— ICCOA Carlink 车机端（接收端）APK
+# MiPlay —— ICCOA Carlink 车机端（接收端）APK
 
 ## 这是什么
 
@@ -23,7 +23,7 @@ powershell -ExecutionPolicy Bypass -File android\build-iccoa-sink.ps1
 用便携工具链（无 Gradle、无 Android Studio）：`tools\android\jdk-17.0.20.1+1`、
 `tools\android\android-14`（build-tools）、`tools\android\android-36\android.jar`。
 流程：`aapt2 compile` → `aapt2 link` → `javac` → `d8` → 塞 `classes.dex` → `zipalign` → `apksigner`。
-产物：`android\iccoa-sink-0.1.0.apk`。
+产物：`android\MiPlay-0.1.1.apk`。
 
 ## 验证状态
 

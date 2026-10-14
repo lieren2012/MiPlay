@@ -1,4 +1,33 @@
-# CarPlay 转 ICCOA Carlink 便携桥接器
+# MiPlay
+
+MiPlay is an Android ICCOA Carlink and CarPlay bridge prototype based on the
+MIT-licensed `iccoa-carplay-sink` project. The first MiPlay build keeps the
+upstream protocol test surface and produces a reproducible `MiPlay-0.1.1.apk`.
+
+The current Android module is an ICCOA Carlink sink. Real vehicle compatibility
+and the CarWith audio path still require device testing.
+
+## Build
+
+```powershell
+powershell -ExecutionPolicy Bypass -File android\build-iccoa-sink.ps1
+```
+
+The script uses the repository-local toolchain under `tools\` or the
+`MIPLAY_JDK`, `MIPLAY_BUILD_TOOLS`, `MIPLAY_ANDROID_JAR`, and
+`MIPLAY_BOUNCYCASTLE` environment variables.
+
+---
+
+## Upstream project
+
+The development base is:
+
+https://github.com/113324561/iccoa-carplay-sink
+
+The upstream repository and this project use a clean-room protocol approach.
+The supplied third-party APK is kept as a behavioral reference and is not
+repacked into the build.
 
 这是一个干净室、分阶段实施的 CarPlay/CarLife 互操作项目。
 

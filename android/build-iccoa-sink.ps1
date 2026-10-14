@@ -1,13 +1,13 @@
 # Builds the ICCOA sink APK with aapt2 + javac + d8 + apksigner (no Gradle).
 $ErrorActionPreference = 'Stop'
-$root     = 'C:\carplaytocarlife'
-$jdk      = "$root\tools\android\jdk-17.0.20.1+1"
-$buildToo = "$root\tools\android\android-14"
-$platform = "$root\tools\android\android-36\android.jar"
-$bouncycastle = "$root\tools\libs\bcprov-jdk18on-1.78.1.jar"
-$src      = "$root\android\iccoa-sink"
-$out      = "$root\android\build"
-$apkName  = 'iccoa-sink-0.1.0.apk'
+$root = Split-Path -Parent $PSScriptRoot
+$jdk = if ($env:MIPLAY_JDK) { $env:MIPLAY_JDK } else { "$root\tools\android\jdk-17.0.20.1+1" }
+$buildToo = if ($env:MIPLAY_BUILD_TOOLS) { $env:MIPLAY_BUILD_TOOLS } else { "$root\tools\android\android-15" }
+$platform = if ($env:MIPLAY_ANDROID_JAR) { $env:MIPLAY_ANDROID_JAR } else { "$root\tools\android\android-35\android.jar" }
+$bouncycastle = if ($env:MIPLAY_BOUNCYCASTLE) { $env:MIPLAY_BOUNCYCASTLE } else { "$root\tools\libs\bcprov-jdk18on-1.78.1.jar" }
+$src = "$root\android\iccoa-sink"
+$out = "$root\android\build"
+$apkName = 'MiPlay-0.1.1.apk'
 
 $env:JAVA_HOME = $jdk
 $env:PATH = "$jdk\bin;$buildToo;$env:PATH"
@@ -27,7 +27,7 @@ Write-Host '[2/7] aapt2 link'
     -R "$out\res.zip" --auto-add-overlay `
     --java "$out\gen" `
     --min-sdk-version 24 --target-sdk-version 34 `
-    --version-code 1 --version-name 0.1.0
+    --version-code 2 --version-name 0.1.1
 if ($LASTEXITCODE -ne 0) { throw 'aapt2 link failed' }
 
 Write-Host '[3/7] javac'
