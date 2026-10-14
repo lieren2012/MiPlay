@@ -18,7 +18,7 @@ import java.util.concurrent.Executors;
 /** Checks the public MiPlay GitHub release without blocking the UI thread. */
 public final class UpdateChecker {
     private static final String UPDATE_MANIFEST =
-            "https://raw.githubusercontent.com/lieren2012/MiPlay/main/update.json";
+            "https://raw.githubusercontent.com/lieren2012/MiPlay/refs/heads/main/update.json";
 
     public interface Callback {
         void onResult(ReleaseInfo release, String error);
