@@ -2,6 +2,7 @@ package org.carplaytocarlife.iccoa;
 
 import android.content.Context;
 import android.content.pm.PackageInfo;
+import android.util.Base64;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -18,7 +19,7 @@ import java.util.concurrent.Executors;
 /** Checks the public MiPlay GitHub release without blocking the UI thread. */
 public final class UpdateChecker {
     private static final String UPDATE_MANIFEST =
-            "https://raw.githubusercontent.com/lieren2012/MiPlay/refs/heads/main/update.json";
+            "https://api.github.com/repos/lieren2012/MiPlay/contents/update.json?ref=main";
 
     public interface Callback {
         void onResult(ReleaseInfo release, String error);
@@ -72,12 +73,18 @@ public final class UpdateChecker {
         connection.setReadTimeout(8000);
         connection.setRequestProperty("Accept", "application/vnd.github+json");
         connection.setRequestProperty("User-Agent", "MiPlay/" + currentVersion);
+        connection.setRequestProperty("Cache-Control", "no-cache");
         try {
             int code = connection.getResponseCode();
             if (code < 200 || code >= 300) {
                 throw new IllegalStateException("GitHub HTTP " + code);
             }
-            String json = readAll(connection.getInputStream());
+            JSONObject file = new JSONObject(readAll(connection.getInputStream()));
+            String encoded = file.optString("content", "").replaceAll("\\s", "");
+            if (encoded.length() == 0) {
+                throw new IllegalStateException("update manifest has no content");
+            }
+            String json = new String(Base64.decode(encoded, Base64.DEFAULT), StandardCharsets.UTF_8);
             JSONObject object = new JSONObject(json);
             String tag = object.optString("versionName", "");
             if (tag.length() == 0 || !isNewer(currentVersion, tag)) {
