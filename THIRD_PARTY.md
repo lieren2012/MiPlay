@@ -1,7 +1,12 @@
 # Third-party and clean-room notes
 
-The supplied `base.apk(2).1` is a behavioral reference only. It is not checked
-into this repository, and its decompiled output is not used as source code.
+The latest supplied `base.apk(2).1` (SHA-256
+`E152D830B099A3986DE27432781968CDEAD4EA62CCB30FDA520C433DB9D76686`)
+is the runtime base of the current Android APK, not just a behavioral reference.
+The original APK and decoded output are external build inputs and are not
+committed. The build script applies a documented smali patch and repackages
+the runtime. This repository publishes MiPlay's changes; it does not claim
+ownership of or an open-source license for the supplied third-party runtime.
 
 `113324561/iccoa-carplay-sink` is the public MIT-licensed protocol and
 architecture reference for the CarPlay/iAP2/AirPlay side. MiPlay uses its

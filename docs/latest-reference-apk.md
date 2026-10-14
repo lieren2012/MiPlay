@@ -40,13 +40,43 @@ powershell -ExecutionPolicy Bypass -File android\build-latest-reference-miplay.p
   -ReferenceApkPath 'F:\path\to\base.apk(2).1'
 ```
 
-The output is `android/MiPlay-0.4.0.apk`. The build preserves the original
+The output is `android/MiPlay-0.4.1.apk`. The build preserves the original
 package and launcher, changes only the release version and the documented
 session-log reset patch, then signs the result with the repository debug key.
 
+The original supplied APK is signed by a different certificate. Android cannot
+update that installed package with MiPlay because the original private signing
+key is not available. Uninstall the original `CarWith & Carplay Bridge` /
+`com.baidu.carlife.xiaomi` package first, then install MiPlay. Later MiPlay
+builds use the same repository key and can update one another. Uninstalling
+removes the app's settings. MiPlay 0.3.0 and 0.3.1 share the current signing key.
+
 The verified build artifact is 3,967,189 bytes with SHA-256
-`600325B885F77CCB12CB37DE492AFF581995FC17DC720A2441E9153EA18E8F3A`.
+`F4E9EB7FF772DFEBCAA932EC5E22365DEBA590D6E5FCB321B300A30FD437E110`.
 Repeated builds from the same reference hash produced the same artifact hash.
+
+The MiPlay signing certificate SHA-256 is
+`e31e27e2a934e8c89396af8b6cf7a7719005892f2b783fabc530eba042f55597`.
+The release download is
+`https://github.com/lieren2012/MiPlay/releases/download/v0.4.1/MiPlay-0.4.1.apk`.
+
+## Installation packaging fix (0.4.1)
+
+The 0.4.0 timestamp normalization rebuilt all ZIP entries with compression.
+This compressed `resources.arsc`, which Android 11+ rejects for target SDK 30+
+with `INSTALL_FAILED_INVALID_APK` (-2). It also compressed native libraries
+despite the manifest's `extractNativeLibs="false"`, preventing direct loading.
+The downloaded 0.4.0 matched the local file byte for byte; changing download
+hosts or uninstalling an existing package does not repair this packaging bug.
+
+0.4.1 changes only ZIP header timestamps, preserving apktool's compression
+methods and contents. It then aligns stored native libraries to 16 KB and
+resources to four bytes before signing. `android/apk-zip.ps1` checks the actual
+ZIP methods and local data offsets after signing; it rejects the old 0.4.0
+and accepts 0.4.1. All four native libraries match the reference byte for byte.
+The launcher remains `dev.carwith.bridge.MainActivity`, with one `classes.dex`
+and no historical UI overlay. No phone installation or car connection has been
+verified on development hardware.
 
 The audio diagnostics still truthfully report whether PCM bytes were received
 and forwarded. A successful audio negotiation is not treated as proof that the
