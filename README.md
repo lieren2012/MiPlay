@@ -23,9 +23,10 @@ powershell -ExecutionPolicy Bypass -File android\build-latest-reference-miplay.p
   -ReferenceApkPath 'F:\path\to\base.apk(2).1'
 ```
 
-The script keeps the supplied APK's original dex, native libraries, launcher
-and UI, applies the session-log reset patch, and signs the result as
-`android/MiPlay-0.4.1.apk`. The original APK is an external build input and is
+The script keeps the supplied APK's runtime, native libraries, launcher
+and UI, applies the session-log reset patch, binds its certificate pin to the
+MiPlay signing key, and signs the result as `android/MiPlay-0.4.2.apk`.
+The original APK is an external build input and is
 not committed to this public repository.
 
 ---
@@ -66,14 +67,16 @@ Android 手机：厂商自带 ICCOA Carlink 发送端
 生成的产品 APK。
 
 - 构建：`powershell -ExecutionPolicy Bypass -File android\build-latest-reference-miplay.ps1 -ReferenceApkPath <base.apk>`
-- 产物：[MiPlay-0.4.1.apk](https://github.com/lieren2012/MiPlay/releases/download/v0.4.1/MiPlay-0.4.1.apk)（3,967,189 字节，SHA-256 为
-  `F4E9EB7FF772DFEBCAA932EC5E22365DEBA590D6E5FCB321B300A30FD437E110`）
+- 产物：[MiPlay-0.4.2.apk](https://github.com/lieren2012/MiPlay/releases/download/v0.4.2/MiPlay-0.4.2.apk)（3,967,189 字节，SHA-256 为
+  `0BFD7B8046C6717B0A580823CF233C20435D0FB8122C1763D79E58AC0E1A1311`）
 - 发布清单：`update.json` 指向当前公开 APK；最新参考底层暂未加入旧 overlay 的自动更新弹窗
 - 安装：如果手机已安装原始 `CarWith & Carplay Bridge`，必须先卸载原包再安装
   MiPlay（卸载会清除应用设置）；两个 APK 包名相同但签名不同，无法直接覆盖升级。
-  MiPlay 0.3.0/0.3.1 与新版本签名一致，可以覆盖升级。
+  MiPlay 0.3.0/0.3.1/0.4.1 与新版本签名一致，可以覆盖升级。
 - 0.4.0 已废弃：旧打包脚本错误地压缩了资源表和原生库，导致 Android 安装错误；
   0.4.1 保持原有压缩方式，并检查资源表与 16 KB 原生库对齐。
+- 0.4.2 将原版内置的证书指纹绑定到 MiPlay 实际签名，修复重签名后连接入口
+  被自身完整性检查拒绝的问题；发布前读取最终 APK 的 DEX 与签名证书核对。
 - 可复现构建：同一份源码重复构建得到**同一个** APK（脚本把所有 zip 条目时间戳固定），并打印 SHA-256
 - 详情、真机步骤、日志回传清单与**未验证项**：`docs/carplay-sender.md`
 - 真车自查清单 + 日志检查器：`docs/runbook.md`、`scripts/check-run-log.py`
@@ -97,7 +100,7 @@ Android 手机：厂商自带 ICCOA Carlink 发送端
 - Linux USB Device/OTG 预检接口。
 - 阶段 0～4 的检查表和硬件判定文档。
 
-`MiPlay-0.4.1.apk` 保留最新参考 APK 的原始首页、设置、日志、CarWith/CarLife 运行底层和 `CarlifeConnectService`，包含新会话日志清理和打包格式修复。安装包结构、签名、对齐和下载一致性检查不能代替真机安装；真实车机连接、视频音频闭环仍需在目标手机和车机上验证。
+`MiPlay-0.4.2.apk` 保留最新参考 APK 的原始首页、设置、日志、CarWith/CarLife 运行底层和 `CarlifeConnectService`，包含新会话日志清理、打包格式修复和签名指纹适配。安装包结构、签名、对齐和下载一致性检查不能代替真机安装；真实车机连接、视频音频闭环仍需在目标手机和车机上验证。
 
 ## 快速验证
 

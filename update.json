@@ -1,10 +1,10 @@
 {
-  "versionName": "MiPlay-0.4.1",
-  "versionCode": 10041,
-  "name": "MiPlay 0.4.1",
-  "pageUrl": "https://github.com/lieren2012/MiPlay/releases/tag/v0.4.1",
-  "apkUrl": "https://github.com/lieren2012/MiPlay/releases/download/v0.4.1/MiPlay-0.4.1.apk",
+  "versionName": "MiPlay-0.4.2",
+  "versionCode": 10042,
+  "name": "MiPlay 0.4.2",
+  "pageUrl": "https://github.com/lieren2012/MiPlay/releases/tag/v0.4.2",
+  "apkUrl": "https://github.com/lieren2012/MiPlay/releases/download/v0.4.2/MiPlay-0.4.2.apk",
   "apkSize": 3967189,
-  "apkSha256": "F4E9EB7FF772DFEBCAA932EC5E22365DEBA590D6E5FCB321B300A30FD437E110",
+  "apkSha256": "0BFD7B8046C6717B0A580823CF233C20435D0FB8122C1763D79E58AC0E1A1311",
   "signingCertificateSha256": "e31e27e2a934e8c89396af8b6cf7a7719005892f2b783fabc530eba042f55597"
 }

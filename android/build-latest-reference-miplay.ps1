@@ -10,7 +10,7 @@ $buildTools = if ($env:MIPLAY_BUILD_TOOLS) { $env:MIPLAY_BUILD_TOOLS } else { "$
 $apktool = "$root\tools\apktool\apktool-2.10.0.jar"
 $work = "$root\android\latest-reference-build"
 $decoded = "$work\decoded"
-$output = "$root\android\MiPlay-0.4.1.apk"
+$output = "$root\android\MiPlay-0.4.2.apk"
 . "$PSScriptRoot\apk-zip.ps1"
 
 if (-not (Test-Path -LiteralPath $ReferenceApkPath)) { throw "Reference APK not found: $ReferenceApkPath" }
@@ -29,14 +29,37 @@ if ($LASTEXITCODE -ne 0) { throw "apktool decode failed: $LASTEXITCODE" }
 
 $manifestPath = "$decoded\AndroidManifest.xml"
 $manifest = Get-Content -LiteralPath $manifestPath -Raw
-$manifest = $manifest -replace 'android:versionCode="10007"', 'android:versionCode="10041"'
-$manifest = $manifest -replace 'android:versionName="7-330802c"', 'android:versionName="MiPlay-0.4.1"'
+$manifest = $manifest -replace 'android:versionCode="10007"', 'android:versionCode="10042"'
+$manifest = $manifest -replace 'android:versionName="7-330802c"', 'android:versionName="MiPlay-0.4.2"'
 Set-Content -LiteralPath $manifestPath -Value $manifest -Encoding utf8
 $apktoolYmlPath = "$decoded\apktool.yml"
 $apktoolYml = Get-Content -LiteralPath $apktoolYmlPath -Raw
-$apktoolYml = $apktoolYml -replace 'versionCode: 10007', 'versionCode: 10041'
-$apktoolYml = $apktoolYml -replace 'versionName: 7-330802c', 'versionName: MiPlay-0.4.1'
+$apktoolYml = $apktoolYml -replace 'versionCode: 10007', 'versionCode: 10042'
+$apktoolYml = $apktoolYml -replace 'versionName: 7-330802c', 'versionName: MiPlay-0.4.2'
 Set-Content -LiteralPath $apktoolYmlPath -Value $apktoolYml -Encoding utf8
+
+# Bind the reference's existing integrity checks to the certificate that signs MiPlay.
+$keystore = "$root\android\reference-debug.keystore"
+if (-not (Test-Path $keystore)) {
+    & "$jdk\bin\keytool.exe" -genkeypair -v -keystore $keystore -alias androiddebugkey `
+        -storepass android -keypass android -keyalg RSA -keysize 2048 -validity 10000 `
+        -dname 'CN=MiPlay Reference Debug,O=MiPlay,C=CN' | Out-Null
+    if ($LASTEXITCODE -ne 0) { throw "keytool key generation failed: $LASTEXITCODE" }
+}
+$certificatePath = "$work\signing-certificate.der"
+& "$jdk\bin\keytool.exe" -exportcert -keystore $keystore -alias androiddebugkey `
+    -storepass android -file $certificatePath
+if ($LASTEXITCODE -ne 0) { throw "keytool certificate export failed: $LASTEXITCODE" }
+$certificateHash = (Get-FileHash -Algorithm SHA256 $certificatePath).Hash.ToLowerInvariant()
+$encodedPin = -join ($certificateHash.ToCharArray() | ForEach-Object { '{0:x2}' -f ([int]$_ -bxor 0x5a) })
+$appPath = "$decoded\smali\dev\carwith\bridge\BridgeApp.smali"
+$app = Get-Content -LiteralPath $appPath -Raw
+$originalPin = '6263696e3e3c69386e6a683e6c6f6a3f6a3f396d386f3e6b3f693b62393c39396b6b626b386e696d623f6b38623e3c686f6d3f3b6b686c3e6e6d6e396c626f3b'
+if ([regex]::Matches($app, [regex]::Escape($originalPin)).Count -ne 1) {
+    throw 'Expected exactly one reference signing pin in BridgeApp'
+}
+$app = $app.Replace($originalPin, $encodedPin)
+[IO.File]::WriteAllText($appPath, $app, [Text.UTF8Encoding]::new($false))
 
 # The reference app owns the real UI and transport. Reset its recent-log state
 # when a new session starts so diagnostics never mix two sessions.
@@ -64,12 +87,6 @@ if ($LASTEXITCODE -ne 0) { throw "apktool build failed: $LASTEXITCODE" }
 Set-ApkZipTimestamps "$work\rebuilt.apk"
 & "$buildTools\zipalign.exe" -f -P 16 4 "$work\rebuilt.apk" "$work\aligned.apk"
 if ($LASTEXITCODE -ne 0) { throw "zipalign failed: $LASTEXITCODE" }
-$keystore = "$root\android\reference-debug.keystore"
-if (-not (Test-Path $keystore)) {
-    & "$jdk\bin\keytool.exe" -genkeypair -v -keystore $keystore -alias androiddebugkey `
-        -storepass android -keypass android -keyalg RSA -keysize 2048 -validity 10000 `
-        -dname 'CN=MiPlay Reference Debug,O=MiPlay,C=CN' | Out-Null
-}
 & "$buildTools\apksigner.bat" sign --ks $keystore --ks-pass pass:android --key-pass pass:android `
     --out $output "$work\aligned.apk"
 if ($LASTEXITCODE -ne 0) { throw "apksigner sign failed: $LASTEXITCODE" }
@@ -78,6 +95,11 @@ if ($LASTEXITCODE -ne 0) { throw "apksigner verify failed: $LASTEXITCODE" }
 Test-ApkInstallLayout $output
 & "$buildTools\zipalign.exe" -c -P 16 4 $output
 if ($LASTEXITCODE -ne 0) { throw "Signed APK alignment verification failed: $LASTEXITCODE" }
+$verificationClasspath = "$apktool;$buildTools\lib\apksigner.jar"
+& "$jdk\bin\javac.exe" -cp $verificationClasspath -d $work "$PSScriptRoot\VerifyRuntimeSigningPin.java"
+if ($LASTEXITCODE -ne 0) { throw "Runtime pin verifier compilation failed: $LASTEXITCODE" }
+& "$jdk\bin\java.exe" -cp "$work;$verificationClasspath" VerifyRuntimeSigningPin $output
+if ($LASTEXITCODE -ne 0) { throw "Runtime signing pin verification failed: $LASTEXITCODE" }
 Write-Host "Reference SHA-256: $referenceHash"
 Write-Host "APK: $output"
 Write-Host "APK SHA-256: $((Get-FileHash -Algorithm SHA256 $output).Hash)"
