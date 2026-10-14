@@ -21,6 +21,7 @@ import android.view.Gravity;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.ScrollView;
@@ -35,9 +36,12 @@ import java.lang.reflect.Method;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.nio.charset.StandardCharsets;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Date;
 import java.util.List;
+import java.util.Locale;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -48,16 +52,29 @@ public final class MiPlayActivity extends Activity {
     private static final int TEXT = Color.rgb(18, 24, 42);
     private static final int MUTED = Color.rgb(94, 103, 126);
     private static final int BLUE = Color.rgb(48, 70, 128);
+    private static final int SELECTED_NAV = Color.rgb(226, 215, 255);
     private static final String UPDATE_API =
             "https://api.github.com/repos/lieren2012/MiPlay/contents/update.json?ref=main";
 
     private final Handler handler = new Handler(Looper.getMainLooper());
+    private final List<String> logLines = new ArrayList<>();
+    private final List<TextView> navItems = new ArrayList<>();
     private TextView clock;
     private TextView connectionState;
+    private TextView homeConnectionTitle;
     private TextView carName;
     private TextView actionLog;
+    private TextView logsView;
+    private ScrollView logScroll;
+    private TextView settingsVersion;
+    private TextView settingsCar;
+    private TextView settingsPermission;
+    private TextView updateStatus;
+    private Button updateDownload;
     private String selectedMac = "";
     private String selectedName = "";
+    private String pendingDownloadUrl = "";
+    private int currentPage = 0;
 
     private int dp(float value) {
         return (int) (value * getResources().getDisplayMetrics().density + 0.5f);
@@ -108,7 +125,15 @@ public final class MiPlayActivity extends Activity {
         getWindow().setNavigationBarColor(BG);
         getWindow().getDecorView().setSystemUiVisibility(View.SYSTEM_UI_FLAG_LIGHT_STATUS_BAR);
         setContentView(buildPage());
+        updateClock();
+        addLog("MiPlay 已启动，已载入用户提供 APK 的 CarWith/CarLife 底层");
         handler.postDelayed(this::checkUpdate, 1200);
+    }
+
+    @Override
+    protected void onDestroy() {
+        handler.removeCallbacksAndMessages(null);
+        super.onDestroy();
     }
 
     private View buildPage() {
@@ -137,6 +162,30 @@ public final class MiPlayActivity extends Activity {
         top.addView(connectionState, new LinearLayout.LayoutParams(dp(112), dp(48)));
         root.addView(top);
 
+        FrameLayout pageHost = new FrameLayout(this);
+        View homePage = buildHomePage();
+        View settingsPage = buildSettingsPage();
+        View logPage = buildLogPage();
+        pageHost.addView(homePage, new FrameLayout.LayoutParams(-1, -1));
+        FrameLayout.LayoutParams settingsParams = new FrameLayout.LayoutParams(-1, -1);
+        settingsPage.setVisibility(View.GONE);
+        pageHost.addView(settingsPage, settingsParams);
+        FrameLayout.LayoutParams logParams = new FrameLayout.LayoutParams(-1, -1);
+        logPage.setVisibility(View.GONE);
+        pageHost.addView(logPage, logParams);
+        root.addView(pageHost, new LinearLayout.LayoutParams(-1, 0, 1));
+
+        LinearLayout nav = new LinearLayout(this);
+        nav.setGravity(Gravity.CENTER);
+        nav.setPadding(dp(20), dp(8), dp(20), dp(10));
+        addNav(nav, "⌂\n首页", true, v -> showPage(0));
+        addNav(nav, "☷\n设置", false, v -> showPage(1));
+        addNav(nav, "▤\n日志", false, v -> showPage(2));
+        root.addView(nav, new LinearLayout.LayoutParams(-1, dp(78)));
+        return root;
+    }
+
+    private View buildHomePage() {
         ScrollView scroll = new ScrollView(this);
         scroll.setClipToPadding(false);
         scroll.setPadding(dp(24), dp(8), dp(24), dp(12));
@@ -156,9 +205,9 @@ public final class MiPlayActivity extends Activity {
         View divider = new View(this);
         divider.setBackgroundColor(Color.rgb(225, 229, 238));
         welcome.addView(divider, new LinearLayout.LayoutParams(-1, 1));
-        TextView stateTitle = text("尚未连接", 28, TEXT, true);
-        stateTitle.setPadding(0, dp(22), 0, dp(2));
-        welcome.addView(stateTitle, new LinearLayout.LayoutParams(-1, dp(52)));
+        homeConnectionTitle = text("尚未连接", 28, TEXT, true);
+        homeConnectionTitle.setPadding(0, dp(22), 0, dp(2));
+        welcome.addView(homeConnectionTitle, new LinearLayout.LayoutParams(-1, dp(52)));
         carName = text("选择已配对车机后开始", 17, MUTED, false);
         welcome.addView(carName, new LinearLayout.LayoutParams(-1, dp(42)));
         LinearLayout actions = new LinearLayout(this);
@@ -186,20 +235,100 @@ public final class MiPlayActivity extends Activity {
         overview.addView(stats, new LinearLayout.LayoutParams(-1, dp(90)));
         overview.addView(text("分辨率等待车机公告", 16, MUTED, false), new LinearLayout.LayoutParams(-1, dp(38)));
         content.addView(overview, new LinearLayout.LayoutParams(-1, -2));
-        actionLog = text("准备就绪", 14, MUTED, false);
+        actionLog = text("最近状态：等待操作", 14, MUTED, false);
         actionLog.setPadding(dp(4), dp(18), dp(4), dp(8));
         content.addView(actionLog);
         scroll.addView(content, new ScrollView.LayoutParams(-1, -2));
-        root.addView(scroll, new LinearLayout.LayoutParams(-1, 0, 1));
+        return scroll;
+    }
 
-        LinearLayout nav = new LinearLayout(this);
-        nav.setGravity(Gravity.CENTER);
-        nav.setPadding(dp(20), dp(8), dp(20), dp(10));
-        addNav(nav, "⌂\n首页", true, v -> scroll.smoothScrollTo(0, 0));
-        addNav(nav, "☷\n设置", false, v -> showSettings());
-        addNav(nav, "▤\n日志", false, v -> showLog());
-        root.addView(nav, new LinearLayout.LayoutParams(-1, dp(78)));
-        return root;
+    private View buildSettingsPage() {
+        ScrollView scroll = new ScrollView(this);
+        scroll.setClipToPadding(false);
+        scroll.setPadding(dp(24), dp(8), dp(24), dp(24));
+        LinearLayout content = new LinearLayout(this);
+        content.setOrientation(LinearLayout.VERTICAL);
+        TextView title = text("设置", 30, TEXT, true);
+        title.setPadding(0, dp(18), 0, dp(4));
+        content.addView(title);
+        content.addView(text("连接参数与版本信息", 17, MUTED, false), new LinearLayout.LayoutParams(-1, dp(42)));
+
+        LinearLayout appCard = card();
+        appCard.addView(text("应用信息", 21, TEXT, true), new LinearLayout.LayoutParams(-1, dp(42)));
+        settingsVersion = text("当前版本：" + versionName(), 16, MUTED, false);
+        appCard.addView(settingsVersion, new LinearLayout.LayoutParams(-1, dp(40)));
+        appCard.addView(text("包名：com.baidu.carlife.xiaomi", 16, MUTED, false), new LinearLayout.LayoutParams(-1, dp(40)));
+        content.addView(appCard, new LinearLayout.LayoutParams(-1, -2));
+
+        Space gap1 = new Space(this);
+        content.addView(gap1, new LinearLayout.LayoutParams(1, dp(16)));
+        LinearLayout connectionCard = card();
+        connectionCard.addView(text("连接设置", 21, TEXT, true), new LinearLayout.LayoutParams(-1, dp(42)));
+        connectionCard.addView(text("参考底层：用户提供的 CarWith / CarLife APK", 16, MUTED, false), new LinearLayout.LayoutParams(-1, dp(40)));
+        connectionCard.addView(text("连接服务：CarlifeConnectService", 16, MUTED, false), new LinearLayout.LayoutParams(-1, dp(40)));
+        settingsCar = text("车机：未选择", 16, MUTED, false);
+        connectionCard.addView(settingsCar, new LinearLayout.LayoutParams(-1, dp(42)));
+        Button choose = button("选择已配对车机", false);
+        choose.setOnClickListener(v -> chooseCar());
+        connectionCard.addView(choose, new LinearLayout.LayoutParams(-1, dp(56)));
+        content.addView(connectionCard, new LinearLayout.LayoutParams(-1, -2));
+
+        Space gap2 = new Space(this);
+        content.addView(gap2, new LinearLayout.LayoutParams(1, dp(16)));
+        LinearLayout permissionCard = card();
+        permissionCard.addView(text("权限状态", 21, TEXT, true), new LinearLayout.LayoutParams(-1, dp(42)));
+        settingsPermission = text("附近设备：选择车机时检查", 16, MUTED, false);
+        permissionCard.addView(settingsPermission, new LinearLayout.LayoutParams(-1, dp(42)));
+        content.addView(permissionCard, new LinearLayout.LayoutParams(-1, -2));
+
+        Space gap3 = new Space(this);
+        content.addView(gap3, new LinearLayout.LayoutParams(1, dp(16)));
+        LinearLayout updateCard = card();
+        updateCard.addView(text("版本更新", 21, TEXT, true), new LinearLayout.LayoutParams(-1, dp(42)));
+        updateStatus = text("尚未检查更新", 16, MUTED, false);
+        updateStatus.setPadding(0, 0, 0, dp(8));
+        updateCard.addView(updateStatus, new LinearLayout.LayoutParams(-1, dp(42)));
+        Button check = button("检查更新", true);
+        check.setOnClickListener(v -> checkUpdate());
+        updateCard.addView(check, new LinearLayout.LayoutParams(-1, dp(56)));
+        updateDownload = button("下载新版本", false);
+        updateDownload.setVisibility(View.GONE);
+        updateDownload.setOnClickListener(v -> openPendingDownload());
+        updateCard.addView(updateDownload, new LinearLayout.LayoutParams(-1, dp(56)));
+        content.addView(updateCard, new LinearLayout.LayoutParams(-1, -2));
+
+        scroll.addView(content, new ScrollView.LayoutParams(-1, -2));
+        return scroll;
+    }
+
+    private View buildLogPage() {
+        LinearLayout page = new LinearLayout(this);
+        page.setOrientation(LinearLayout.VERTICAL);
+        page.setPadding(dp(24), dp(8), dp(24), dp(12));
+
+        TextView title = text("日志", 30, TEXT, true);
+        title.setPadding(0, dp(18), 0, dp(4));
+        page.addView(title, new LinearLayout.LayoutParams(-1, dp(48)));
+        LinearLayout toolbar = new LinearLayout(this);
+        toolbar.setGravity(Gravity.CENTER_VERTICAL);
+        toolbar.addView(text("实时连接事件", 17, MUTED, false), new LinearLayout.LayoutParams(0, dp(48), 1));
+        Button clear = button("清空日志", false);
+        clear.setTextSize(14);
+        clear.setOnClickListener(v -> clearLogs());
+        toolbar.addView(clear, new LinearLayout.LayoutParams(dp(120), dp(48)));
+        page.addView(toolbar, new LinearLayout.LayoutParams(-1, dp(58)));
+
+        logScroll = new ScrollView(this);
+        logScroll.setFillViewport(true);
+        logScroll.setBackground(background(CARD, 22));
+        logsView = text("暂无日志", 14, TEXT, false);
+        logsView.setGravity(Gravity.TOP | Gravity.START);
+        logsView.setTypeface(Typeface.MONOSPACE);
+        logsView.setPadding(dp(18), dp(18), dp(18), dp(18));
+        logScroll.addView(logsView, new ScrollView.LayoutParams(-1, -2));
+        page.addView(logScroll, new LinearLayout.LayoutParams(-1, 0, 1));
+        refreshLogs();
+        return page;
     }
 
     private void addStat(LinearLayout row, String value, String label) {
@@ -214,17 +343,72 @@ public final class MiPlayActivity extends Activity {
         TextView item = text(label, 15, TEXT, true);
         item.setGravity(Gravity.CENTER);
         item.setPadding(0, dp(6), 0, 0);
-        if (selected) item.setBackground(background(Color.rgb(226, 215, 255), 24));
+        item.setBackground(selected ? background(SELECTED_NAV, 24) : null);
         item.setOnClickListener(listener);
+        navItems.add(item);
         nav.addView(item, new LinearLayout.LayoutParams(0, dp(60), 1));
+    }
+
+    private void showPage(int page) {
+        currentPage = page;
+        ViewGroup navParent = (ViewGroup) navItems.get(0).getParent();
+        ViewGroup root = (ViewGroup) navParent.getParent();
+        ViewGroup host = (ViewGroup) root.getChildAt(1);
+        host.getChildAt(0).setVisibility(page == 0 ? View.VISIBLE : View.GONE);
+        host.getChildAt(1).setVisibility(page == 1 ? View.VISIBLE : View.GONE);
+        host.getChildAt(2).setVisibility(page == 2 ? View.VISIBLE : View.GONE);
+        for (int i = 0; i < navItems.size(); i++) {
+            navItems.get(i).setBackground(i == page ? background(SELECTED_NAV, 24) : null);
+        }
+        if (page == 2 && logScroll != null) {
+            logScroll.post(() -> logScroll.fullScroll(View.FOCUS_DOWN));
+        }
     }
 
     private void updateClock() {
         if (clock != null) {
-            java.text.SimpleDateFormat format = new java.text.SimpleDateFormat("HH:mm", java.util.Locale.getDefault());
-            clock.setText(format.format(new java.util.Date()));
+            SimpleDateFormat format = new SimpleDateFormat("HH:mm", Locale.getDefault());
+            clock.setText(format.format(new Date()));
         }
         handler.postDelayed(this::updateClock, 1000);
+    }
+
+    private String versionName() {
+        try {
+            PackageInfo info = getPackageManager().getPackageInfo(getPackageName(), 0);
+            return info.versionName;
+        } catch (Exception error) {
+            return "unknown";
+        }
+    }
+
+    private void addLog(String message) {
+        if (Looper.myLooper() != Looper.getMainLooper()) {
+            runOnUiThread(() -> addLog(message));
+            return;
+        }
+        String stamp = new SimpleDateFormat("HH:mm:ss", Locale.getDefault()).format(new Date());
+        logLines.add(stamp + "  " + message);
+        refreshLogs();
+        if (actionLog != null) actionLog.setText("最近状态：" + message);
+        if (logScroll != null) logScroll.post(() -> logScroll.fullScroll(View.FOCUS_DOWN));
+    }
+
+    private void refreshLogs() {
+        if (logsView == null) return;
+        if (logLines.isEmpty()) {
+            logsView.setText("暂无日志");
+            return;
+        }
+        StringBuilder builder = new StringBuilder();
+        for (String line : logLines) builder.append(line).append('\n');
+        logsView.setText(builder.toString());
+    }
+
+    private void clearLogs() {
+        logLines.clear();
+        refreshLogs();
+        if (actionLog != null) actionLog.setText("最近状态：日志已清空");
     }
 
     private void chooseCar() {
@@ -232,26 +416,37 @@ public final class MiPlayActivity extends Activity {
             BluetoothAdapter adapter = BluetoothAdapter.getDefaultAdapter();
             if (adapter == null) throw new IllegalStateException("Bluetooth unavailable");
             List<BluetoothDevice> devices = new ArrayList<>(adapter.getBondedDevices());
-            Collections.sort(devices, (a, b) -> a.getName().compareToIgnoreCase(b.getName()));
+            Collections.sort(devices, (a, b) -> safeDeviceName(a).compareToIgnoreCase(safeDeviceName(b)));
             if (devices.isEmpty()) {
+                addLog("没有读取到已配对车机");
                 Toast.makeText(this, "没有已配对的车机", Toast.LENGTH_SHORT).show();
                 return;
             }
             String[] labels = new String[devices.size()];
-            for (int i = 0; i < devices.size(); i++) labels[i] = devices.get(i).getName();
+            for (int i = 0; i < devices.size(); i++) labels[i] = safeDeviceName(devices.get(i));
             new AlertDialog.Builder(this).setTitle("选择车机").setItems(labels, (d, which) -> {
                 BluetoothDevice device = devices.get(which);
-                selectedName = device.getName();
+                selectedName = safeDeviceName(device);
                 selectedMac = device.getAddress();
                 carName.setText(selectedName + " · " + selectedMac);
-                actionLog.setText("已选择车机，等待开始连接");
+                if (settingsCar != null) settingsCar.setText("车机：" + selectedName + " · " + selectedMac);
+                if (settingsPermission != null) settingsPermission.setText("附近设备：已读取已配对设备");
+                addLog("已选择车机：" + selectedName + "，MAC：" + selectedMac);
             }).show();
         } catch (Throwable error) {
+            addLog("读取车机失败：" + error.getClass().getSimpleName());
+            if (settingsPermission != null) settingsPermission.setText("附近设备：读取失败，请检查权限");
             Toast.makeText(this, "无法读取蓝牙设备，请授予附近设备权限", Toast.LENGTH_LONG).show();
         }
     }
 
+    private String safeDeviceName(BluetoothDevice device) {
+        String name = device.getName();
+        return name == null || name.length() == 0 ? "未命名车机" : name;
+    }
+
     private void startReferenceConnection() {
+        if (selectedName.length() == 0) addLog("尚未选择车机，仍尝试调用参考连接服务");
         try {
             Class<?> service = Class.forName("com.baidu.carlife.service.CarlifeConnectService");
             Field tokenField = service.getDeclaredField("i");
@@ -270,41 +465,29 @@ public final class MiPlayActivity extends Activity {
                     .putExtra("is_box", false);
             if (Build.VERSION.SDK_INT >= 26) startForegroundService(intent); else startService(intent);
             connectionState.setText("连接中");
-            actionLog.setText("已调用参考 APK 的 CarLife 连接服务");
+            if (homeConnectionTitle != null) homeConnectionTitle.setText("正在连接");
+            addLog("已调用参考 APK 的 CarLife 连接服务");
         } catch (Throwable error) {
             connectionState.setText("连接失败");
-            actionLog.setText("连接入口失败：" + error.getClass().getSimpleName());
+            if (homeConnectionTitle != null) homeConnectionTitle.setText("连接失败");
+            addLog("连接入口失败：" + error.getClass().getSimpleName());
         }
     }
 
-    private void showSettings() {
-        String version = "unknown";
-        try {
-            PackageInfo info = getPackageManager().getPackageInfo(getPackageName(), 0);
-            version = info.versionName;
-        } catch (Exception ignored) { }
-        new AlertDialog.Builder(this).setTitle("MiPlay 设置")
-                .setMessage("版本：" + version + "\n参考底层：CarWith / CarLife\n车机：" + (selectedName.length() == 0 ? "未选择" : selectedName))
-                .setPositiveButton("检查更新", (d, w) -> checkUpdate())
-                .setNegativeButton("关闭", null).show();
-    }
-
-    private void showLog() {
-        new AlertDialog.Builder(this).setTitle("运行日志")
-                .setMessage(actionLog == null ? "暂无日志" : actionLog.getText())
-                .setPositiveButton("关闭", null).show();
-    }
-
     private void checkUpdate() {
+        if (updateStatus != null) updateStatus.setText("正在检查更新…");
+        addLog("开始检查公开更新清单");
         new Thread(() -> {
+            HttpURLConnection connection = null;
             try {
-                HttpURLConnection connection = (HttpURLConnection) new URL(UPDATE_API).openConnection();
+                connection = (HttpURLConnection) new URL(UPDATE_API).openConnection();
                 connection.setConnectTimeout(8000);
                 connection.setReadTimeout(8000);
                 connection.setRequestProperty("Accept", "application/vnd.github+json");
                 StringBuilder builder = new StringBuilder();
                 try (BufferedReader reader = new BufferedReader(new InputStreamReader(connection.getInputStream(), StandardCharsets.UTF_8))) {
-                    String line; while ((line = reader.readLine()) != null) builder.append(line);
+                    String line;
+                    while ((line = reader.readLine()) != null) builder.append(line);
                 }
                 String response = builder.toString();
                 Matcher contentMatcher = Pattern.compile("\\\"content\\\"\\s*:\\s*\\\"([^\\\"]+)\\\"").matcher(response);
@@ -312,21 +495,41 @@ public final class MiPlayActivity extends Activity {
                     response = new String(Base64.decode(contentMatcher.group(1), Base64.DEFAULT), StandardCharsets.UTF_8);
                 }
                 Matcher matcher = Pattern.compile("\\\"versionName\\\"\\s*:\\s*\\\"([^\\\"]+)\\\"").matcher(response);
-                if (!matcher.find()) return;
+                if (!matcher.find()) throw new IllegalStateException("versionName missing");
                 String latest = matcher.group(1);
-                String current = getPackageManager().getPackageInfo(getPackageName(), 0).versionName;
+                String current = versionName();
                 String downloadUrl = "https://github.com/lieren2012/MiPlay";
                 Matcher linkMatcher = Pattern.compile("\\\"apkUrl\\\"\\s*:\\s*\\\"([^\\\"]+)\\\"").matcher(response);
                 if (linkMatcher.find()) downloadUrl = linkMatcher.group(1);
                 final String targetUrl = downloadUrl;
                 if (isNewer(current, latest)) {
-                    runOnUiThread(() -> new AlertDialog.Builder(this).setTitle("发现新版本 " + latest)
-                            .setMessage("检测到新的 MiPlay APK，是否打开下载地址？")
-                            .setPositiveButton("下载", (d, w) -> startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(targetUrl))))
-                            .setNegativeButton("稍后", null).show());
+                    runOnUiThread(() -> {
+                        pendingDownloadUrl = targetUrl;
+                        if (updateStatus != null) updateStatus.setText("发现新版本：" + latest);
+                        if (updateDownload != null) updateDownload.setVisibility(View.VISIBLE);
+                        addLog("发现新版本：" + latest);
+                    });
+                } else {
+                    runOnUiThread(() -> {
+                        if (updateStatus != null) updateStatus.setText("已是最新版本：" + current);
+                        addLog("更新检查完成，当前已是最新版本");
+                    });
                 }
-            } catch (Throwable ignored) { }
+            } catch (Throwable error) {
+                runOnUiThread(() -> {
+                    if (updateStatus != null) updateStatus.setText("检查失败，请稍后重试");
+                    addLog("更新检查失败：" + error.getClass().getSimpleName());
+                });
+            } finally {
+                if (connection != null) connection.disconnect();
+            }
         }).start();
+    }
+
+    private void openPendingDownload() {
+        if (pendingDownloadUrl.length() == 0) return;
+        addLog("打开新版本下载地址");
+        startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(pendingDownloadUrl)));
     }
 
     private boolean isNewer(String oldVersion, String newVersion) {

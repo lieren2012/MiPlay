@@ -13,7 +13,7 @@ $work = "$root\android\reference-build"
 $decoded = "$work\decoded"
 $classes = "$work\classes"
 $dex = "$work\dex"
-$output = "$root\android\MiPlay-0.3.0.apk"
+$output = "$root\android\MiPlay-0.3.1.apk"
 
 if (-not (Test-Path -LiteralPath $ReferenceApkPath)) { throw "Reference APK not found: $ReferenceApkPath" }
 if (-not (Test-Path -LiteralPath $apktool)) { throw "Missing apktool: $apktool" }
@@ -25,7 +25,7 @@ $env:PATH = "$jdk\bin;$buildTools;$env:PATH"
 
 $manifestPath = "$decoded\AndroidManifest.xml"
 $manifest = Get-Content -LiteralPath $manifestPath -Raw
-$manifest = $manifest -replace 'package="com\.baidu\.carlife\.xiaomi"', 'package="com.baidu.carlife.xiaomi" android:versionCode="10030" android:versionName="MiPlay-0.3.0"'
+$manifest = $manifest -replace 'package="com\.baidu\.carlife\.xiaomi"', 'package="com.baidu.carlife.xiaomi" android:versionCode="10031" android:versionName="MiPlay-0.3.1"'
 $manifest = $manifest -replace 'android:label="@string/app_name"', 'android:label="MiPlay"'
 $activityPattern = '(?s)\s*<activity android:exported="true" android:name="dev\.carwith\.bridge\.MainActivity".*?</activity>'
 $activityReplacement = @'
