@@ -13,6 +13,9 @@ __pycache__/
 *.pyc
 /tools/
 /_analysis/
+apkx1/
+ipx666-clean-test.mp4
+android/iccoa-sink-0.1.0.apk
 android/build/
 android/debug.keystore
 android/*.apk.idsig
