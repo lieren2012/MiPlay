@@ -3,6 +3,8 @@ package org.carplaytocarlife.iccoa;
 import android.Manifest;
 import android.app.Activity;
 import android.content.pm.PackageManager;
+import android.content.Intent;
+import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
@@ -87,6 +89,7 @@ public final class MainActivity extends Activity {
         Button touch = findViewById(R.id.touch);
         Button stop = findViewById(R.id.stop);
         Button clear = findViewById(R.id.clear);
+        Button update = findViewById(R.id.update);
 
         surface.getHolder().addCallback(new SurfaceHolder.Callback() {
             @Override
@@ -123,6 +126,8 @@ public final class MainActivity extends Activity {
             SinkService.stop(this);
         });
         clear.setOnClickListener(view -> Logs.clear());
+        update.setOnClickListener(view -> checkForUpdate(update, true));
+        handler.postDelayed(() -> checkForUpdate(update, false), 800);
         handler.post(refresh);
     }
 
@@ -215,6 +220,40 @@ public final class MainActivity extends Activity {
     private void addIfMissing(java.util.List<String> wanted, String permission) {
         if (checkSelfPermission(permission) != PackageManager.PERMISSION_GRANTED) {
             wanted.add(permission);
+        }
+    }
+
+    private void checkForUpdate(Button update, boolean manual) {
+        update.setEnabled(false);
+        update.setText("Checking...");
+        if (manual) {
+            Logs.add("checking GitHub updates");
+        }
+        UpdateChecker.check(this, (release, error) -> {
+            update.setEnabled(true);
+            if (error != null) {
+                update.setText("Retry update");
+                Logs.add("update check failed: " + error);
+                return;
+            }
+            if (release == null) {
+                update.setText("Up to date");
+                if (manual) {
+                    Logs.add("MiPlay is up to date");
+                }
+                return;
+            }
+            update.setText("Update " + release.tag);
+            Logs.add("new APK: " + release.name);
+            update.setOnClickListener(view -> openUpdate(release.downloadUrl()));
+        });
+    }
+
+    private void openUpdate(String url) {
+        try {
+            startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(url)));
+        } catch (Throwable error) {
+            Logs.add("cannot open update page: " + error.getClass().getSimpleName());
         }
     }
 }

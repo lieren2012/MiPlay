@@ -17,6 +17,8 @@
             android:layout_height="wrap_content" android:layout_weight="1" android:text="Clear log" />
         <Button android:id="@+id/touch" android:layout_width="0dp"
             android:layout_height="wrap_content" android:layout_weight="1" android:text="Input" />
+        <Button android:id="@+id/update" android:layout_width="0dp"
+            android:layout_height="wrap_content" android:layout_weight="1" android:text="Check update" />
     </LinearLayout>
 
     <SurfaceView android:id="@+id/surface" android:layout_width="match_parent"

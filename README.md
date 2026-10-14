@@ -61,7 +61,8 @@ Android 手机：厂商自带 ICCOA Carlink 发送端
 参考 APK 对应的 CarWith/CarLife source adapter，不能把这个实验模块单独称为完整升级版。
 
 - 构建：`powershell -ExecutionPolicy Bypass -File android\build-iccoa-sink.ps1`
-- 产物：`android/MiPlay-0.2.0.apk`
+- 产物：`android/MiPlay-0.2.1.apk`
+- 更新检测：启动后读取公开的 `update.json`，发现新版本后提示并打开 APK 下载地址
 - 可复现构建：同一份源码重复构建得到**同一个** APK（脚本把所有 zip 条目时间戳固定），并打印 SHA-256
 - 详情、真机步骤、日志回传清单与**未验证项**：`docs/carplay-sender.md`
 - 真车自查清单 + 日志检查器：`docs/runbook.md`、`scripts/check-run-log.py`
