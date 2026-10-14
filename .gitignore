@@ -21,5 +21,6 @@ android/build/
 android/debug.keystore
 android/*.apk.idsig
 android/reference-build/
+android/latest-reference-build/
 android/reference-debug.keystore
 reference/*.apk

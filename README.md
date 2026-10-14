@@ -1,30 +1,32 @@
 # MiPlay
 
-MiPlay is an open-source upgrade of the supplied `base.apk(2).1`. The reference
-APK remains the runtime base: package `com.baidu.carlife.xiaomi`, original
-CarWith/CarLife services, AIDL contracts and protocol implementation are kept;
-MiPlay adds the new home screen, connection entry and update detection on top.
+MiPlay is an open-source upgrade of the latest supplied `base.apk(2).1`. The
+latest reference APK remains the runtime base: its original Compose UI,
+CarWith/CarLife services, diagnostics log, session state and transport
+implementation are kept. MiPlay applies only small, source-documented fixes on
+top of that runtime.
 
-The reference APK is the runtime baseline. The overlay build and implementation
-boundary are in
-[`docs/reference-apk-330802c.md`](docs/reference-apk-330802c.md).
+The latest reference APK is the runtime baseline. Its implementation boundary
+and verified evidence are in
+[`docs/latest-reference-apk.md`](docs/latest-reference-apk.md).
 
-The build details are in [`docs/reference-overlay.md`](docs/reference-overlay.md).
+The older overlay experiment remains documented for history, but it is not the
+current product build route.
 
 `iccoa-carplay-sink` is only a public protocol and architecture reference for
 the CarPlay/iAP2/AirPlay side. It is not the source of the supplied APK.
 
-## Build from the reference APK
+## Build from the latest reference APK
 
 ```powershell
-powershell -ExecutionPolicy Bypass -File android\build-reference-miplay.ps1 `
+powershell -ExecutionPolicy Bypass -File android\build-latest-reference-miplay.ps1 `
   -ReferenceApkPath 'F:\path\to\base.apk(2).1'
 ```
 
-The script keeps the supplied APK's original dex and native libraries, adds a
-second dex for the MiPlay UI, changes the launcher to the new UI, and signs the
-result as `android/MiPlay-0.3.1.apk`. The original APK is an external build
-input and is not committed to this public repository.
+The script keeps the supplied APK's original dex, native libraries, launcher
+and UI, applies the session-log reset patch, and signs the result as
+`android/MiPlay-0.4.0.apk`. The original APK is an external build input and is
+not committed to this public repository.
 
 ---
 
@@ -63,9 +65,9 @@ Android 手机：厂商自带 ICCOA Carlink 发送端
 `android/iccoa-sink` 是保留的 CarPlay 输出实验模块；它不是本次基于参考 APK
 生成的产品 APK。
 
-- 构建：`powershell -ExecutionPolicy Bypass -File android\build-reference-miplay.ps1 -ReferenceApkPath <base.apk>`
-- 产物：`android/MiPlay-0.3.1.apk`
-- 更新检测：启动后读取公开的 `update.json`，发现新版本后提示并打开 APK 下载地址
+- 构建：`powershell -ExecutionPolicy Bypass -File android\build-latest-reference-miplay.ps1 -ReferenceApkPath <base.apk>`
+- 产物：`android/MiPlay-0.4.0.apk`
+- 发布清单：`update.json` 指向当前公开 APK；最新参考底层暂未加入旧 overlay 的自动更新弹窗
 - 可复现构建：同一份源码重复构建得到**同一个** APK（脚本把所有 zip 条目时间戳固定），并打印 SHA-256
 - 详情、真机步骤、日志回传清单与**未验证项**：`docs/carplay-sender.md`
 - 真车自查清单 + 日志检查器：`docs/runbook.md`、`scripts/check-run-log.py`
@@ -89,7 +91,7 @@ Android 手机：厂商自带 ICCOA Carlink 发送端
 - Linux USB Device/OTG 预检接口。
 - 阶段 0～4 的检查表和硬件判定文档。
 
-`MiPlay-0.3.1.apk` 已保留参考 APK 的 CarWith/CarLife 运行底层，并将首页、设置、日志页面和“开始连接”接到原 `CarlifeConnectService`。真实车机连接、视频音频闭环仍需在目标手机和车机上验证。
+`MiPlay-0.4.0.apk` 保留最新参考 APK 的原始首页、设置、日志、CarWith/CarLife 运行底层和 `CarlifeConnectService`，只修复了新会话日志清理。真实车机连接、视频音频闭环仍需在目标手机和车机上验证。
 
 ## 快速验证
 
